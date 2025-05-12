@@ -39,6 +39,9 @@ You can specify a different output directory using the `--output-dir` option.
 
 - Python 3.13 or higher
 - Dependencies listed in pyproject.toml
+- Tesseract [available here](https://github.com/tesseract-ocr/tesseract/releases/tag/5.5.0)
+  - required for the scanned pdfs to convert to text
+    - if you install in non-standard location, place new path in config for Scraper
 
 ### Setup
 
