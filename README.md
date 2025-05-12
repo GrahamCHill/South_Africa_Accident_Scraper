@@ -165,4 +165,9 @@ pytest Tests/ --cov=Scraper --cov=main
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is proprietary and is licensed under a closed/commercial license. All rights reserved.
+
+**License Terms:**
+- This software is the property of The Shard South Africa.
+- No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software without explicit written permission from The Shard South Africa.
+- For licensing inquiries, please contact The Shard South Africa.
