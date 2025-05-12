@@ -20,6 +20,9 @@ The scraped data is standardized and exported to CSV files with the following he
 - RunningTotal
 - Source
 
+Note: If you get two years with different data and the source in the source column, they are likely
+from two different pages/pdfs/etc. The logic to the correct that does not exist yet.
+
 ## Usage
 
 ### Command Line Interface
@@ -55,7 +58,8 @@ print(f"Data exported to {csv_path}")
 ```
 
 ## Requirements
-
+- Tesseract [available here](https://github.com/tesseract-ocr/tesseract) (Installed to default location and added to 
+path on Windows)
 - Python 3.13 or higher
 - Dependencies:
   - requests>=2.28.0
@@ -66,6 +70,11 @@ print(f"Data exported to {csv_path}")
   - argparse>=1.4.0
   - pytest>=8.3.5
   - base-scraper>=1.0.2
+  - Pillow>=9.0.0
+  - PyMuPDF>=1.22.0
+  - pytesseract>=0.3.13
+
+
 
 ## License
 

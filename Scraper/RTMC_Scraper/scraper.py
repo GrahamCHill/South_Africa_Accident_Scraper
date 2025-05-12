@@ -5,8 +5,7 @@ import random
 import os
 from typing import List, Dict, Optional
 from ..base_scraper import BaseScraper, AccidentRecord
-from . import downloader
-from . import pdf_reader
+from .pdf_logic import download_pdfs, process_pdf_files
 
 
 class RTMCScraper(BaseScraper):
@@ -33,8 +32,8 @@ class RTMCScraper(BaseScraper):
         5. Stores the paths to the downloaded PDFs in the downloaded_pdfs list
         """
         try:
-            # Use the downloader module to download PDFs
-            self.downloaded_pdfs = downloader.download_pdfs(self.pdf_url, self.pdf_dir)
+            # Use the pdf_logic module to download PDFs
+            self.downloaded_pdfs = download_pdfs(self.pdf_url, self.pdf_dir)
 
             if self.downloaded_pdfs:
                 # Store the raw data as the list of downloaded PDF paths
@@ -42,8 +41,8 @@ class RTMCScraper(BaseScraper):
                 print(f"[RTMC] Successfully downloaded {len(self.downloaded_pdfs)} PDF files")
             else:
                 # Fall back to simulated data for testing
-                print(f"[RTMC] No PDFs downloaded, falling back to simulated data")
-                self.raw_data = "simulated_data"
+                print(f"[RTMC] No PDFs downloaded, check if URL is correct!")
+                print(f"No viable data found at source URL: {self.pdf_url}")
 
         except Exception as e:
             print(f"[RTMC] Error fetching data from {self.pdf_url}: {e}")
@@ -72,17 +71,14 @@ class RTMCScraper(BaseScraper):
                 # We have downloaded PDFs
                 print(f"[RTMC] Parsing {len(self.raw_data)} PDF files")
 
-                # Use the pdf_reader module to process the PDF files
-                self.records = pdf_reader.process_pdf_files(self.raw_data, self.source_name)
+                # Use the pdf_logic module to process the PDF files
+                self.records = process_pdf_files(self.raw_data, self.source_name)
 
-                # If we couldn't extract any records, fall back to simulated data
                 if not self.records:
-                    print(f"[RTMC] Could not extract any accident records from PDFs, falling back to simulated data")
-                    self._generate_simulated_data()
+                    print(f"[RTMC] Could not extract any accident records from PDFs")
             else:
                 # Using simulated data
                 print(f"[RTMC] No PDF files to parse, using simulated data")
-                self._generate_simulated_data()
 
             print(f"[RTMC] Successfully parsed {len(self.records)} records")
         except Exception as e:
