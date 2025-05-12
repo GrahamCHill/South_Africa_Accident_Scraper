@@ -15,8 +15,10 @@ class RTMCScraper(BaseScraper):
     def __init__(self):
         super().__init__("RTMC")
         self.base_url = "https://www.rtmc.co.za/index.php/statistics/traffic-reports"
-        self.pdf_url = "https://www.rtmc.co.za/images/rtmc/docs/traffic_reports/fqyr/"
-        self.pdf_dir = "pdf_downloads"
+        self.pdf_url = "https://www.rtmc.co.za/images/rtmc/docs/traffic_reports/fqyr"
+        # Use an absolute path for the PDF downloads directory
+        script_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        self.pdf_dir = os.path.join(script_dir, "pdf_downloads")
         self.downloaded_pdfs = []
         self.raw_data = None
 

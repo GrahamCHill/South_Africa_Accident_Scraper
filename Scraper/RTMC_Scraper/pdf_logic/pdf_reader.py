@@ -95,8 +95,18 @@ def pdf_to_text_ocr(pdf_path: str, dpi: int = 150, save_output: bool = True) -> 
 
         # Open the PDF file
         pdf_document = fitz.open(pdf_path)
-        for page_number in range(len(pdf_document)):
-            print(f"[RTMC] OCR processing page {page_number + 1}/{len(pdf_document)}...")
+        total_pages = len(pdf_document)
+        progress_bar_width = 50  # Width of the progress bar
+
+        print(f"[RTMC] Starting OCR processing for {os.path.basename(pdf_path)} ({total_pages} pages)")
+
+        for page_number in range(total_pages):
+            # Show OCR progress
+            progress = int(100 * page_number / total_pages)
+            filled_length = int(progress_bar_width * page_number // total_pages)
+            bar = '█' * filled_length + '░' * (progress_bar_width - filled_length)
+            print(f"\r[RTMC] OCR Progress: |{bar}| {progress}% (Page {page_number + 1}/{total_pages})", end="")
+
             # Render page as an image
             page = pdf_document[page_number]
             pix = page.get_pixmap(dpi=dpi)
@@ -106,6 +116,11 @@ def pdf_to_text_ocr(pdf_path: str, dpi: int = 150, save_output: bool = True) -> 
             ocr_text = pytesseract.image_to_string(image)
             text += f"--- Page {page_number + 1} ---\n"
             text += ocr_text + "\n"
+
+        # Show final OCR progress
+        bar = '█' * progress_bar_width
+        print(f"\r[RTMC] OCR Progress: |{bar}| 100% (Page {total_pages}/{total_pages})", end="")
+        print()  # New line after the progress bar
 
         pdf_document.close()
         print(f"[RTMC] OCR processing completed for {pdf_path}")
@@ -280,28 +295,98 @@ def process_pdf_files(pdf_files: List[str], source_name: str) -> List[AccidentRe
         A list of AccidentRecord objects
     """
     records = []
+    total_pdfs = len(pdf_files)
+    processed_pdfs = 0
+    failed_pdfs = 0
+    progress_bar_width = 50  # Width of the progress bar
 
-    for pdf_path in pdf_files:
-        print(f"[RTMC] Processing PDF: {pdf_path}")
+    print(f"[RTMC] Starting to process {total_pdfs} PDF files")
 
-        # Extract year from PDF
-        year = extract_year_from_pdf(pdf_path)
-        if not year:
-            print(f"[RTMC] Could not extract year from {pdf_path}, skipping")
-            continue
+    for i, pdf_path in enumerate(pdf_files, 1):
+        # Show overall processing progress
+        progress = int(100 * (i-1) / total_pdfs)
+        filled_length = int(progress_bar_width * (i-1) // total_pdfs)
+        bar = '█' * filled_length + '░' * (progress_bar_width - filled_length)
+        print(f"\r[RTMC] PDF Processing Progress: |{bar}| {progress}% ({i-1}/{total_pdfs} files)", end="")
+        print()  # New line after the progress bar
 
-        # Extract tables from PDF
-        tables = extract_tables_from_pdf(pdf_path)
-        if not tables:
-            print(f"[RTMC] No tables found in {pdf_path}, skipping")
-            continue
+        try:
+            print(f"[RTMC] Processing PDF {i}/{total_pdfs}: {os.path.basename(pdf_path)}")
 
-        # Extract accident data from tables
-        pdf_records = extract_accident_data_from_tables(tables, year, source_name)
-        if pdf_records:
-            records.extend(pdf_records)
-            print(f"[RTMC] Extracted {len(pdf_records)} records from {pdf_path}")
-        else:
-            print(f"[RTMC] No accident data found in {pdf_path}")
+            # Extract year from PDF
+            year = None
+            try:
+                year = extract_year_from_pdf(pdf_path)
+                if not year:
+                    # Try to extract year from filename as fallback
+                    filename = os.path.basename(pdf_path)
+                    year_match = re.search(r'20\d{2}', filename)
+                    if year_match:
+                        year = int(year_match.group(0))
+                    else:
+                        # Use current year as last resort
+                        import datetime
+                        year = datetime.datetime.now().year
+                        print(f"[RTMC] Using current year ({year}) as fallback for {pdf_path}")
+            except Exception as e:
+                print(f"[RTMC] Error extracting year from {pdf_path}: {e}")
+                # Use current year as fallback
+                import datetime
+                year = datetime.datetime.now().year
+                print(f"[RTMC] Using current year ({year}) as fallback for {pdf_path}")
 
+            # Extract tables from PDF
+            tables = []
+            try:
+                tables = extract_tables_from_pdf(pdf_path)
+                if not tables:
+                    print(f"[RTMC] No tables found in {pdf_path}, will try direct OCR")
+                    # Try direct OCR as a last resort
+                    text = pdf_to_text_ocr(pdf_path)
+                    if text:
+                        # Try to extract data directly from text
+                        # This is a simple implementation that looks for patterns like "Province: X, Accidents: Y"
+                        provinces = ["Eastern Cape", "Free State", "Gauteng", "KwaZulu-Natal", 
+                                    "Limpopo", "Mpumalanga", "North West", "Northern Cape", "Western Cape"]
+                        for province in provinces:
+                            # Look for the province name followed by a number
+                            pattern = f"{province}[\\s\\S]{{1,50}}?(\\d+)"
+                            match = re.search(pattern, text, re.IGNORECASE)
+                            if match:
+                                try:
+                                    accident_count = int(match.group(1))
+                                    record = AccidentRecord(province, accident_count, year, source_name)
+                                    records.append(record)
+                                    print(f"[RTMC] Extracted record for {province} from text: {accident_count} accidents")
+                                except (ValueError, IndexError):
+                                    pass
+            except Exception as e:
+                print(f"[RTMC] Error extracting tables from {pdf_path}: {e}")
+
+            # Extract accident data from tables
+            if tables:
+                try:
+                    pdf_records = extract_accident_data_from_tables(tables, year, source_name)
+                    if pdf_records:
+                        records.extend(pdf_records)
+                        print(f"[RTMC] Extracted {len(pdf_records)} records from {pdf_path}")
+                    else:
+                        print(f"[RTMC] No accident data found in tables from {pdf_path}")
+                except Exception as e:
+                    print(f"[RTMC] Error extracting accident data from tables in {pdf_path}: {e}")
+
+            processed_pdfs += 1
+            print(f"[RTMC] Progress: {processed_pdfs}/{total_pdfs} PDFs processed")
+
+        except Exception as e:
+            print(f"[RTMC] Unexpected error processing {pdf_path}: {e}")
+            failed_pdfs += 1
+
+    # Show final processing progress
+    progress_bar_width = 50  # Width of the progress bar
+    bar = '█' * progress_bar_width
+    print(f"\r[RTMC] PDF Processing Progress: |{bar}| 100% ({total_pdfs}/{total_pdfs} files)", end="")
+    print()  # New line after the progress bar
+
+    print(f"[RTMC] PDF processing completed: {processed_pdfs} processed, {failed_pdfs} failed, {len(records)} total records extracted")
     return records
