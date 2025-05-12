@@ -1,6 +1,21 @@
 [project]
 name = "improved-accident-scraper"
 version = "0.1.0"
-description = "Add your description here"
+description = "A scraper for South African accident data from various sources"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "requests>=2.28.0",
+    "beautifulsoup4>=4.11.0",
+    "pandas>=1.5.0",
+    "lxml>=4.9.0",
+    "tabula-py>=2.5.0",
+    "argparse>=1.4.0",
+    "pytest>=8.3.5",
+    "base-scraper>=1.0.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+]
