@@ -189,6 +189,11 @@ def download_pdfs(pdf_url: str, pdf_dir: str) -> List[str]:
             filename = os.path.basename(pdf_link)
             local_path = os.path.join(pdf_dir, filename)
 
+            # Check if corresponding .txt file exists (indicating OCR has been done)
+            txt_path = os.path.splitext(local_path)[0] + "_ocr.txt"
+            # We don't skip downloads just because a .txt file exists
+            # We only skip if the PDF file itself exists and is valid
+
             # Check if file already exists and is valid
             if os.path.exists(local_path):
                 try:

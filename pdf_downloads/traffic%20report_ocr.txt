@@ -1,0 +1,5081 @@
+--- Page 1 ---
+—
+‘AUG 204
+Ran: ALES Solu
+
+Roa affic
+
+Management Corporation
+
+Road Traffic Report
+31 March 2011
+
+GP sransport_ get out there
+@ } Bepenene
+
+REPUBLIC OF SOUTH AFRICA
+
+
+--- Page 2 ---
+PREAMBLE
+
+Data Sources
+
+The Road Traffic Management Corporation (the Corporation) gathers
+data from the South African Police Services, Provincial Traffic
+Authorities, and Metropolitan Municipalities through Accident Report
+Forms and the Quick Response forms which are obtained from police
+stations where road accidents have been reported. Upon receipt of
+these ‘Accident Report Forms’ the Metropolitan Municipalities,
+Provincial Traffic Authorities and Corporation then captures the data
+contained in the forms. The Accident Report forms captures data for all
+crash types. The Quick Response forms, which are mainly used to
+record fatal crashes, are captured only by the Corporation.
+
+Other data sources are as follows; Natis for registered vehicles and
+Statistics South Africa for human population data.
+
+The Corporation also undertakes Road Traffic Offence Surveys on an
+annual basis. The following are the objectives of these surveys:
+
+e To determine the general level of lawlessness on our roads;
+
+e To assist Corporation to determine the impact of intervention
+strategies to promote road safety in the country.
+
+e To monitor and evaluate the capacities of the Corporation and
+traffic authorities to implement efficient and effective road safety
+
+interventions.
+
+e To assist the Traffic authorities to determine whether the road
+users know and understand their rights and obligations to
+
+promote road safety in the country.
+i
+
+--- Page 3 ---
+e To determine the fitness of drivers ef and vehicles
+
+e To determine the management capacity of the Corporation to
+interpret the results and develop road safety policies and
+
+strategies to reduce carnage on the road network.
+
+Targets used for the survey
+
+The target for the evaluation of the success of the level of compliance
+by the road users are the following:
+
+e Exceeding the speed limit: Maximum 5% defective rate (i.e. not more than
+5% offenders)
+
+e Exceeding the legal breath alcohol limit: Maximum of 0.4% defective rate
+at any time of the day of night (i.e. not more than 1 offender in 250 drivers
+tested found over the legal limit)
+
+e Overtaking on a barrier line: Maximum of 1% barrier line offences (1
+offence for every 100 convoys observed)
+
+e Vehicles disobeying traffic signals: Maximum of 1% of red phases with an
+offence
+
+e Wearing of seat belts: Maximum 15% offence rate
+
+e The use of child restraints: Maximum 15% offence rate
+
+e Driving licence present and valid: Maximum 1% offence rate
+
+e The validity of the vehicle licence discs and correlation between the
+registration disc and number plate: Maximum 1% offence rate
+
+e Professional Driving Permit (PrDP) present and valid: Maximum 1%
+offence rate
+
+e Worn vehicle tyres: Maximum 1% defective rate
+
+e Vehicle lights defective: Maximum 1% defective rate
+
+e The use of cellular phones while driving a vehicle: Maximum 1% offence
+rate
+
+e Pedestrians disobeying traffic signals: Maximum of 1% of red phases with
+an offence
+
+Note: See annexure K for survey sample sizes
+
+--- Page 4 ---
+Limitations
+
+The Corporation further receives the CAS Analysis Report from the
+South African Police Services. This particular report assists with data
+validation of the data already received from the various Police Stations
+regarding fatal crashes only.
+
+In the reporting and capturing of road crash data it sometimes happens
+that crashes are duplicated. The checking, cross-checking and
+verification of data is a lengthy and time consuming manual process,
+which amongst others involves the comparison of the initial data
+received from individual police stations at the time of the crash with
+that received from individual police stations at the time the crash with
+that received from the central SAPS data base. The process also
+involves the identification and elimination of duplicated reports; as well
+as follow-ups on the un-confirmed crash data.
+
+In most cases the data on the Quick Response Forms are mainly
+fatalities that are reported are those recorded at the crash scene.
+
+A reduction has been observed for variables for the period under
+
+review:
+a) Fatal Crashes (0.94%) from 10 948 to 10 845
+b) Fatalities (0.86%) from 13 923 to 13 802
+c) Un-roadworthy vehicles (7.01%) from 438 701 to 407 930
+
+d) Number of fatal crashes per 10,000 motorised vehicles (3.46%)
+
+from 12.80 to 12.36
+iii
+
+--- Page 5 ---
+e) Number of fatalities per 10,000 motorised vehicles (3.38%) from
+16.27 to 15.72
+
+f) Number of fatalities per 100,000 Human Population (2.20%) from
+28.13 to 27.51
+
+Improve Data Quality
+e Expansion of data sources
+e Development of the new Crash Data Management System (CDIMS)
+
+e Improve data collection and capturing
+
+The following changes were observed in the SA averages for the different offences
+used to calculate the overall offence index from the offence survey:
+
+e The urban speed offence index decreased from 6.3 to 5.6.
+
+e The rural speed offence index decreased from 7.9 to 5.6.
+
+e The night time alcohol offence index decreased from 2.4 to 2.3.
+
+e The unobserved seatbelt offence index for drivers decreased from 1.5 to 0.8.
+e The day time traffic signal offence index decreased from 24.7 to 12.3.
+e The day time barrier line offence index decreased from 16.1 to 10.3.
+e The driver's license offence index decreased from 1.5 0.8.
+
+e The PDRP offence index decreased from 2.0 to 0.8.
+
+e The worn tyres offence index decreased from 6.8 to 5.6.
+
+e The front bright light offence index decreased from 1.1 to 1.0.
+
+e The tail light offence index decreased from 0.6 to 0.5.
+
+The overall offence index has decreased from 5.6 to 4.2.
+
+--- Page 6 ---
+Correlation between number of vehicles in crashes and traffic offence indices
+
+Number of vehicles in Fatal Crashes
+
+Comparison between Number of Vehicles in Crashes and Traffic Offence Indices
+
+Year GA KZ we EC FS mp | NW u NC] RSA
+2009-10 | 2153| 2216] 1085| 1069| 762| 1277] 940] 1181| 265| 10948
+2010-11 | 2008] 2247/ 1026| 1307; 799| 1179/ 9831| 1165] 283| 10845
+
+change | -145 31 59] 238 37] 98]  -109 ae)| enter Sn tos
+Yechange | -6.73| 140] -5.44| 2226| 486| -7.67| -1160| 135| 679| -0.94
+
+Combined Offence Index
+
+Year GA Kz we EC FS mp | NW u NC] RSA
+
+2009 5.8 IEE 5 59 5 6.2 51 S| wana [ae
+
+2010 33 | 59 4.6 5 41 3.6 3.6 as | 43 | 42
+
+Change 04 [| 09 | 09 | 26 | 45 | 09 0 “14
+| % Change | -75.8% | -1.7% | -8.7% | -18.0% | -22.0% | -72.2% | -41.7% | -18.8% | 0.0% | -33.3%
+
+The table above shows that there is a correlation in the change in the number of fatal
+crashes and the change in the overall combined offence index. With exception of
+KwaZulu Natal, Eastern Cape, Free State and Northern Cape, other provinces have
+shown a correlation.
+
+On a National level, the fatal crashes decreased by 0.94% and the offence index
+decreased by 33.3%.
+
+On a provincial basis the biggest decrease were recorded for:
+
+e Gauteng : Fatal crashes decreased by 6.73% and offence index with 75.8%
+
+e Mpumalanga : Fatal crashes decreased 7.67% and offence index with 72.2%
+
+e North West : Fatal crashes decreased 11.60% and offence index with 41.7%
+
+
+--- Page 7 ---
+The down-ward trend of the variables above may be ATTRIBUTED to
+the following programmes undertaken by RTMC for the period under
+
+review:
+e Number of vehicles stopped and screened = 7 734 766
+e Number of notices issued = 2 976 868
+e Number of vehicles discontinued / suspended / impounded
+
+e Number of people arrested for all road traffic offences including driving whilst
+under the influence, dangerous driving, fraudulent public passenger transport
+
+documentation and other serious offences
+
+Road Safety Education projects:
+
+Scholar Patrol programme in all nine provinces : 2520 schools participated
+Road Safety Schools Debates : 618 schools participated
+Participatory Educational Techniques : 169 schools participated
+
+There were other projects that were run such as:-
+
+Brandhouse RTMC Number One Taxi Driver Campaign : 1380 taxi drivers
+participated in the competition.
+
+Professional Drivers Championships (Driver of the year — DOTY): 111
+professional drivers participated in the championship.
+
+Road Traffic Law Enforcement
+
+Effective and efficient co-ordination of road traffic law enforcement across the
+three tiers of government as per the National Rolling Enforcement Plan.
+
+Identification of and greater focus on critical offences as per the Offence
+
+vi
+
+--- Page 8 ---
+Survey results
+
+Target of stopping and checking million vehicles per month, nation-wide.
+Inclusion of special enforcement blitzes
+
+Greater media awareness of traffic law enforcement activities and
+
+interventions
+
+Note: The report should be read with the above mentioned issues in mind. It
+should also be noted that with the new approach of reporting according to the
+30 days international standard the figures of fatalities in South Africa may
+increase dramatically as compared to the previous years.
+
+vii
+
+--- Page 9 ---
+Index
+
+Section
+
+Topic
+
+Executive Summary
+
+Measuring Progress towards Achieving Target to
+Reduce Fatalities by 50% by 2015
+
+14
+
+Vehicle Population
+
+21
+2.2
+2.3
+2.341
+2.3.2
+2.3.3
+
+Num
+Hum:
+Num
+
+ber of Registered Vehicles
+an Population and Mobility
+ber of Un-roadworthy and Un-licensed vehicles
+
+General
+
+Num
+Num
+
+Driver Population
+
+3.1
+3.2
+3.2.1
+3.2.2
+3.3
+3.3.1
+
+Lean
+
+ber of Un-Roadworthy Vehicles
+ber of Un-Licences Vehicles
+
+ner Driving Licences
+
+Driving Licences Issued and Expired
+
+Num
+Num
+
+ber of driving Licence Issued
+ber of driving Licence Cards expired
+
+Professional Driving Permits (PrDP’s) Issued and
+
+Num
+
+ber of professional driving permits Issued
+
+Fatal Road Traffic Crashes and Fatalities
+
+41
+4.2
+4.3
+44
+4.5
+4.6
+
+Num!
+Num
+Num
+
+ber of Fatal Crashes
+ber of Fatalities
+ber of Fatalities per Road User Group
+
+Severity of Fatal Crashes
+
+Cras!
+Fata
+
+h and Fatality Rates and Trends per 10,000
+ities per 100,000 Human Population
+
+Fatality Age Groups, Gender, Day-of-Week & Time-of-Day
+Fatalities per Age Group and Gender
+
+5.1
+5.2
+5.3
+
+Cras!
+Num
+
+hes per day of week
+ber of crashes per time of day
+
+2
+
+Page
+
+1
+11
+14
+18
+18
+20
+22
+
+25
+25
+26
+26
+27
+
+28
+
+29
+29
+31
+35
+38
+40
+42
+
+43
+43
+45
+46
+
+--- Page 10 ---
+10
+
+11
+
+12
+
+Vehicles Involved in Fatal Crashes
+6.1 Vehicles per Type in Fatal Crashes
+6.2 Road User Group Fatalities per Type of Vehicle
+
+Contributory Factors
+
+7. Human Factors
+7.2 Vehicle Factors
+7.3 Road Factors
+
+Major Accidents Investigated
+8.1 Number of Major Crashes
+
+Summary : Some graphs reflecting Rates and Trends
+
+9.1 Three (3)- Year Rolling 12 Months Number of Fatal
+Crashes and fatalities
+9.2 Number of fatal Crashes and fatalities per 10.000
+
+Registered vehicles over a period of 3 Years
+
+Road Traffic Offence Survey Results: 2009
+10.1 Introduction
+
+Recommendation
+
+Traffic Engineering and Infrastructure Safety Audit
+
+47
+47
+51
+
+55
+55
+
+56
+57
+
+58
+
+58
+
+60
+60
+
+61
+
+63
+
+63
+
+67
+
+68
+
+--- Page 11 ---
+Annexures
+
+A
+B
+B-1
+B-2
+B-3
+C-1
+C-2
+C-3
+
+F-4
+F-2
+
+Ht
+H-2
+H-3
+H-4
+
+Vehicle Population per Province
+
+Un-Roadworthy and Un-Licenced Vehicles
+Number of vehicle that are unroadworthy
+Number of unlicenced vehicles
+
+Number of vehicles unlicenced and unroadworthy
+Number of Learner and Driving Licences issued
+Number of Driving Licences issued
+
+No of Professional driving permits(PrDPs) Issued
+
+Monthly number of Fatal Crashes per Province 2007 —
+2011
+
+Monthly number of Fatalities per Province 2007 — 2011
+Number of Road User Group Fatalities per Province
+No of fatalities per road user group
+
+Vehicles in Fatal Crashes
+
+Driver fatalities per Type of Vehicle
+
+Passenger fatalities per type of vehicle
+
+Pedestrian fatalities per type of vehicle
+
+All fatalities per type of vehicle
+
+Definitions of offences
+
+Strategy for sample size determination
+
+71
+72
+72
+73
+74
+75
+76
+77
+78
+
+79
+80
+81
+82
+84
+85
+86
+87
+88
+91
+
+--- Page 12 ---
+Executive Summary
+
+1.1
+
+Vehicle Population
+
+The number of registered vehicles increased by 266 032 (2,75%) from
+9 678 9890n 31 March 2010 to 9 945 021 vehicles on 31 March 2011.
+
+On a percentage basis the biggest change was for buses which
+increased by 4,23% to 47 799, followed by motorcars which increased
+by 3,72% to 203 398 and heavy trailers which increased by 3,23% to
+
+| 151 740.
+
+The total number of vehicles that are either un-roadworthy, un-licenced
+or both decreased by 15,454 (1,95%) from 791,729 vehicles at the end
+of 31 March 2010 to 776,275 vehicles at the end of 31 March 2011
+
+The number of vehicles that are un-roadworthy (but licenced)
+decreased by 30,771 (7,01%) from 438,701 vehicles at the end of 31
+March 2010 to 407,930 vehicles at the end of 31 March 2011.
+
+The number of un-licenced vehicles increased by 8,052 (2,56%) from
+315,076 vehicles at the end of 31 March 2010 to 323,128 vehicles at
+the end of 31 March 2011.
+
+The general overall mobility in terms of the number of persons per road
+vehicle (vehicles that can reasonably transport passengers —
+motorcars, minibuses, buses, motorcycles and LDV’s “bakkies’),
+improved from a national average of 6,18 persons per vehicle at the
+end of March 2008 to 6,14 persons per vehicle at the end of. March
+2009. From the end of March 2010 to March 2011 the improvement
+was only 1,48%, from 6,12 to 6,03 persons per vehicle.
+
+1.2
+
+Driver Population
+
+1.2.1
+
+The number of learner driving licences issued increased by 49,030
+(3,77%) from 1,300,771 at the end of 31 March 2010 to 1,349,801 at
+the end of 31 March 2011.
+
+
+--- Page 13 ---
+1.2.2
+
+The number of driving licences issued increased by 435,240 (4,88%)
+from 8,915,649 at the end of 31 March 2010 to 9,350,889 at the end of
+
+| 31 March 2011.
+
+1.2.3
+
+At the end of 31 March 2011 there were a total of 1,987,802 expired
+driving licence cards recorded on the National Traffic Information
+System (NaTIS). This figure represents 21,26% of all driving licences
+issued.
+
+1.2.4
+
+The number of Professional Driving Permits (PrDP’s) issued increased
+by 31,588 (3, 92%) from 806,461 at the end of 31 March 2010 to
+838,049 at the end of 31 March 2011
+
+1.3
+
+Fatal Road Crashes and Fatalities
+
+1.3.1
+
+Over the 12-month period from 1 April 2010 to 31 March 2011 the
+number of fatal crashes decreased by 103 (0,94%) from 10,948
+crashes over the same period the previous year to 10,845 in 2011
+
+1.3.2
+
+Over the 12-month period from 1 April 2010 to 31 March 2011 the
+number of fatalities decreased by 120 (0,86%) from 13,923 fatalities
+over the same period the previous year to 13,802.
+
+1.3.3
+
+The driver fatalities decreased by 200 (4,79%) to 3,983; passenger
+fatalities increased by 170 (3,39%) to 5,205 and pedestrian fatalities
+decreased by 102 (2,17%) to 4,614 over the 12-month period from 1
+March 2010 to 31 March 2011.
+
+1.3.4
+
+During 2009-2010 and 2010-2011 driver fatalities were (30,05% and
+28,88%), passengers (36,07% and 37,71%) and pedestrians (33,88%
+and 33,43% of all fatalities.
+
+1.3.5
+
+The severity of fatal crashes increased by 0,00 (1,08%) from 1,27
+
+
+--- Page 14 ---
+during 2009-10 to 1,27 during 2010-11.
+
+1.3.6
+
+The number of fatal crashes per 10,000 registered motorised vehicles
+decreased by 0,44 (3,46%) from 12,80 during 2009-10 to 12,36 during
+2010-11.
+
+1.3.7
+
+The number of fatal crashes per 10,000 registered motorised vehicles
+decreased by 0,44 (3,46%) from 12,80 during 2009-10 to 12,36 during
+2010-11.
+
+1.3.8
+
+The number of fatalities per 100,000 human population decreased by
+0,62 (2,20%) from 28,13 during 2009-10 to 27,51 during 2010-11.
+
+1.3.9
+
+During 2010-11 in the order of 76,36% fatalities were male and 23,64%
+females.
+
+1.3.10
+
+The number of all types of vehicles involved in fatal crashes increased
+by 197 (1,37%) from 14,372 in 2009-10 to 14,568 in 2010-11.
+
+1.4
+
+Results of the 2009 Road Traffic Offence Survey
+
+1.4.1
+
+The independent Road Traffic Offence Survey for 2010 showed a
+decrease in the overall Road Traffic Offence Index from 5,6 in 2009 to
+4,2 in 2010.
+
+
+--- Page 15 ---
+1.1 Measuring Progress towards Achieving Target to Reduce Fatalities by 50%
+by 2015
+
+Based on the 2006 Millennium Development Goals, one of the goals of the 2015
+Road Traffic Safety Management Plan is to reduce by half the rate of accident
+atalities arising from road and other transport by 2015. In the development of the
+2015 Plan it was agreed that the number of fatalities for the year 2007 would be
+used as the benchmark on which the 50% reduction would be based. Using this
+benchmark and the 50% target reduction, the maximum allowable number of
+road fatalities per quarter per province up to the end of 2015 was calculated as
+continuous reduced target figures over the 8 year period. These set targets for
+he indicated quarters for each province and the RSA total, are shown in the
+table below, shown as “Target” figures or maximum allowable number of
+atalities.
+
+Achievement of 2015 Plan Goal to Reduce Road Fatalities by 50% by 2015
+Rolling 12 month Number of Road Fatalities per Province
+
+Month |__ Item GA _| KZ | WC | EC | FS | MP | NW Li NC | RSA
+[Target 2824 ©2133 1420 «141 967 1534 ~107a 118d 327) 12875)
+
+Mar "10 [Actual 2426 2795 1307], 1517] 1098 «1651/1204 «1554 ~——«370f ~—«13:923)
+Difference -308{66i] 113] 107]——« 31 118124372] 43 4 048]
+
+i% Diff =14-10| SL 796 7.59 13-58) a 11.73, 31.43, 13.23, 8.14
+
+|Target 2774 = 209 1 3 1 385 951 150 105: 1 161 321] 12 646,
+
+Jun '10 Actual 2248 2752] 1 34s 1763 1154) 14 589] 1 152) 1511) 411 13 929)
+[Difference 2 MS ec I, | 8 EE) 349) 9 1282
+% Diff 18.98) 31.31 Sa 27.35] 21.48] 5.48] 8.80] 30.10] 10.14]
+\Target 2725 2 058) 1371 1 360] 933 1480) =~1040) «71 -141] 319] 12 422)
+
+Sept 10 Actual 2274 2709 ~«7332~«1 786 1167) 1603) 1172 155: 411 14 005)
+Difference Sk cl MI: Cc EC 124 132) «412 96 «1 583)
+i% Diff | 664 ati 278 31.36) zn 8.35 12.67] 36.13 30.40) ‘12.7:
+\Target 2677, 2022) 1 346] 1336 917) 1454 1022) 112 310} 12 201)
+
+Dec '10 [Actual 2 181) 2788 «1 323] 1784 #1169 1591] 1159 = 1528) 446 13 967|
+Difference -496 76 23] 448) 253) 137 137 407| 136 1 766)
+% Diff “18.53 37.87 171 33.57] «27.88 us 13.43, 36.35 44.0: 14.47]
+\Target 2625 = 1 98: 1 320 131 89: 1 421 1002) 1089 30¢ 11 968)
+
+Mar '11 jActual 2318 2741 1 258) 1827 «1 774 1594 109: 1 522| 374 13 802)
+Difference -307| 7
+
+‘Si 62) 51 1 16! 91 42 74 1834
+\% Diff |e 38.20 471] 39.40] 19.52] 17.80 9.10, 38.49] 23.69 ~—«.3
+
+Also shown in the table above are the “Actual” figures, which reflect the real
+number of road fatalities recorded per province for the respective quarters as
+indicated. Both the Target and Actual figures represent the 12-month rolling total
+fatality figures per province and the RSA on a national basis.
+
+8
+
+--- Page 16 ---
+The difference; as well as the percentage difference figures in the table shows
+the difference between the set Target and Actual number of road fatalities. A
+difference of “0” indicates that the set target of reducing the number of fatalities
+was met. Differences smaller than “0” (<0) shows achievements better than what
+is expected or required and differences larger than’0” (>0) shows that the
+required targets were not achieved and reflects inadequate performance towards
+reaching the desired goal per quarter and ultimately the 2015 goal.
+
+The % difference in meeting the set targets per province is also reflected in the
+figure below.
+
+Achievement 2015 Plan Goals
+Reduce road fatalities by 50% by 2015
+
+50
+wo
+
+30 +
+
+GA KZ WC EC FS MP NW LI NC RSA
+[i Mar 10 [7] Jun 10 fi Septto [Dec 10 i Mar ‘14
+
+The information in the table and graph above shows that better performing
+provinces (Differences less than’0”) well on track towards achieving the goal of
+reducing road fatalities by 50% by the year 2015, amongst others are:
+
+¢ Gauteng : which is also continuously improving its performance from
+-14,10% in March 2010 to -11,70% in March 2011;
+
+e Western Cape : shows an improvement performance from -7.96% in
+March 2010 to -4.71% in March 2011.
+
+The provinces that are not performing as required, (Differences larger than “0”)
+are the following:
+
+--- Page 17 ---
+e KwaZulu-Natal : overall the worst performing province, with even a
+continuous increase in the quarterly number of road fatalities that
+exceed the set quarterly targets for the province — ranging from
++31,00% in March 2010; +31,31% in June 2010 and +31,63% in
+September 2010, 37,87% in December 2010 and lastly +38.20% in
+March 2011.
+
+The following provinces also were the biggest contributor to the RSA,
+on a national basis not achieving its set target towards the end of the
+review period:
+
+e Eastern Cape: made no contribution towards achieving the 2015 goals.
+Over the review period the performance of this province worsened
+from +7,59% in March 2010 to +39,40% in March 2011.
+
+e Limpopo: made no contribution towards achieving the 2015 goals.
+Over the review period the performance of this province worsened
+from +31,43% in March 2010 to +38,49% in March 2011.
+
+Western Cape were operating close to the border-line with figures ranging
+from -7,96% to -4.10% in March 2011 moving in a non-contributory
+direction.
+
+National - RSA : over the review period the national figures range from
++8,14% in March 2010 to +15,32% in March 2011.The country’s
+performance towards the reduction of fatalities by 50% for the assessed
+period is deteriorating. The worst performing provinces listed above,
+contributed to this non-achieving trend, with the biggest negative influence
+from KwaZulu-Natal, Eastern Cape, Limpopo and Northern Cape.
+
+10
+
+--- Page 18 ---
+~
+
+2. Vehicle Population
+
+241 Number of Registered Vehicles
+
+The number of registered vehicles increased by 266 032 (2,75%) from 9 678
+9890n 31 March 2010 to 9 945 021 vehicles on 31 March 2011. Detail per
+type of vehicle is given in Table 2 below.
+
+Number | Number % % of of |
+registered | registered Change Group Total
+March 2010|March 2011 Mar 2011 | Mar 2011
+[Motorcars 5 472 090, 63.58] 57.07|
+[Minibuses 282 79: 3.21 2.87]
+[Buses 45 858 0.54) 0.48)
+Motorcycles 367 162) 331 27 3.74 3.33
+ILDV's - Bakkies 1965 316 22.69
+(Trucks 321 729
+Pther& Unknown 231 084)
+‘otal Motorised
+‘aravans
+|Heavy Trailers 146 991]
+ight Trailers
+
+Other & Unknown
+
+The information above shows that on a percentage basis the biggest change
+was for buses which increased by 4,23% to 47 799, followed by motorcars
+which increased by 3,72% to 203 398 and heavy trailers which increased by
+3,23% to 151 740.
+
+The monthly percentage change over the past year for specific types of
+vehicles; as well as motorised and towed vehicles, are shown in the figures
+below.
+
+11
+
+--- Page 19 ---
+% Annual Change in Motorised Vehicles
+March 2010 to March 2011
+2 Motoreyctes
+Buses
+
+Trucks
+LOV's - Bakkies
+
+Motorcars
+
+Apr Jun "Aug Oct Dec Feb Minibuses
+Month
+
+% Annual Growth in Vehicles
+March 2010 to March 2011
+
+Motorised Vehicles
+
+All Vehicles
+
+Towed Vehicles
+
+Month
+
+The total motor vehicle population per Province for March 2010 and March
+2011 respectively, is given in Table 3 and reflected in the figure below.
+
+Table 3 : Number of
+Registered Vehicles
+per Province
+
+|Gauteng
+[KwaZulu-Natal 1317 363
+
+lestern Cape 1579 Ez 16.19,
+[Eastern Cape 666 304} 6.89,
+Free State 543 472] 5.51
+Mpumalanga 617 533 a
+North West 545 864] 29 am 5.19
+
+Limpopo
+[Northern Cape
+
+12
+
+--- Page 20 ---
+% Annual Growth in Vehicle Population
+March 2010 to March 2011
+
+Tr mT)
+
+Zz WC EC FS MP NW. LI
+
+% Annual Growth in Vehicle Population
+
+obRR ON
+
+[Mar 2008 2009 [J] Mar 2009-2010 RY Mar 2010-2011
+
+Over the past year from March 2010 to March 2011 the biggest percentage
+growth in total vehicles was recorded in Limpopo with a growth of 5,02%,
+followed by Mpumalanga with a growth of 4,59%.
+
+The percentage vehicles registered per province on 31 March 2011 is
+reflected in the graph below.
+
+13
+
+--- Page 21 ---
+2.2
+
+% Nehicles Registered per Province
+
+Northern Cape (2.;
+
+Limpopo (5.02%)
+North West (5.19%)
+
+Mpumalanga (6.49%)
+
+Gauteng (38.86%)
+Free State (5.56%)
+
+Eastern Cape (6.89%)
+
+Western Cape (16.19%)
+
+KwaZulu-Natal (13.56%)
+
+The information in the graph above shows that 38.86% of all vehicles are
+registered in Gauteng; 16,19% in Western Cape and 13,56% in KwaZulu-
+Natal.
+
+More detailed information on the number of vehicles per type registered per
+Province for March 2010 and March 2011 is given in the Table under
+Annexure A.
+
+Human Population and Mobility
+
+The estimated human population on 31 March of each year from 2008 to
+2011 is given in Table 4 below. (These figures are estimates from the mid-
+year estimates released annually by StatsSA).
+
+Month Province
+
+GA _| Kz [| we [ EC FS MP_ | NW Ll NC _| RSA
+March 2008 96, 999486. za 35% 3.3 5.39 1.1
+
+March 2009| 10.26 10.08 5.14 6.62.9 3.58 3.42] 5.3] 1.12]
+March 2010| 10.59] 10.7 5.4 670 2.9: 3.62 3.47 «5.4 1
+March 2011| 70.6811. 55 6729S. G4t CSO].
+
+Based on the information on human and vehicle populations, the average
+number of persons per vehicle per Province (excluding trucks, towed vehicles
+and “other” and “unknown” vehicles) at the end of March 2008, 2009, 2010
+and 2011 is shown in Table 5 and reflected in the graph below.
+
+14
+
+--- Page 22 ---
+Table 5 : Average Number of Persons per Vehicle
+(excluding trucks, other, unknown and towed vehicles)
+Month GA KZ_| WC | EC FS MP | NW Ll
+March 2008 3199.4 363) (12.98 7.7 8.08 8.27 15.22)
+March 2009 3.32] 914 -3.82]—«12.25, 7.38] 7.80, ~—« 15] 14.32)
+March 2010 3.33] 9.49 3.97] 17-89 7.2]— 7.41] B08] _—«*13«12
+March 2011 3295 397 7] 7] BSA 12.33}
+
+Av. No. of Persons per Vehicle
+(exluding trucks, other and trailers)
+
+=
+==
+=
+
+Gat
+GA KZ WC EC
+[Elmar 2008] Mar 2009 [TT] Mar 2010 Mar 2011
+
+The % annual change or improvement in human mobility per province is
+reflected in Table 6 below.
+
+6 : % Improvemer
+
+GA| KZ | wc | Ec | Fs | MP | NW] Li [ NC | RSA
+March 2008-2009] -4.05] 0.41] = 563 4.27, 3.45 138 5.87] _0:
+
+March 2009-2010 [023 3.85 -3.8% 295 2.13, 5.02 1.47] 8.41] -0.6)
+March 2010-2011 | 3.03} -0.83} 0.08 2.14 0.97) 3.96 6.54 6.01 1.0
+
+% \mprovement in Mobility of Persons
+
+“GA KZ WC EC FS MP NW LI NC RSA
+[-)Mar 2008-2009 [J Mar 2009-2010 [I] Mar 2010-2011
+
+The information in tables 5 and 6 and graph above shows that on a national
+basis the general overall mobility in terms of the number of persons per road
+vehicle (vehicles that can reasonably transport passengers — motorcars,
+
+15
+
+--- Page 23 ---
+minibuses, buses, motorcycles and LDV's “bakkies”), improved from a
+national average of 6,18 persons per vehicle at the end of March 2008 to
+6,14 persons per vehicle at the end of March 2009. From the end of March
+2010 to March 2011 the improvement was only 1,48%, from 6,12 to 6,03
+persons per vehicle.
+
+Although they do show some improvement, the “least mobile” Provinces
+remain Limpopo with 12,33 persons per vehicle; followed by the Eastern
+Cape with 11,63 persons per vehicle at the end of March 2011. The “most
+mobile” Provinces are Gauteng and the Western Cape with an average of
+3,22 and 3,97 persons per vehicle respectively at the end of March 2011.
+Two (2) out of the nine (9) provinces experienced a decline in mobility; Kwa-
+Zulu Natal with a decrease of 0,83%, North West with 6.54%.
+
+The provinces with the best improvements in this regard during 2010/11 are:
+
+e Limpopo : 6,01% improvement from 13,12 to 12,33 persons per
+vehicle;
+
+e Mpumalanga : 3,96% improvement from 7,41 to 7,11; and
+
+e Gauteng : 3,03% improvement from 11,89 to 11,63 persons per
+vehicle.
+
+The average number of persons per “heavy” road passenger transport
+vehicle (buses and minibuses) is shown in Table 7 and reflected in the graph
+below.
+
+Table 7 : Average Number of Persons per "Heavy" Passenger Transport Vehicle “|
+
+(buses and minibuses)
+
+Month GA KZ wc Ec [ Fs MP NW
+March 2008 7 20428 211 i |
+March 2009 B20 125] a 20 159 158)
+March 2010 Ee i 2a 2,
+March 2011 84] 211 139 270] 20: 143] 173)
+
+16
+
+--- Page 24 ---
+Av. No. of Persons per "Heavy" Vehicle
+(buses and minibuses)
+
+|
+we EC FS MP NW LI N
+[i Mar 2008 [Mar 2009 [] Mar 2010 Mar 2011
+
+A KZ
+
+—
+
+The % annual change or improvement in the number of persons per “heavy”
+road transport vehicle per province is reflected in Table 8 below.
+
+Table 8 : % Improvement in Average Number of Persons per “Heavy” Passenger
+Transport Vehicle (buses and minibuses) _
+Month Province Total
+GA | KZ | wc | EC | FS | MP [NW] LI [| NC | RSA
+March 2008-2009 -4.25| 0.44 -7.27/ 452) 161] 224 -2.30| 269 251) -0.2
+March 2009-2010| -1.96-4.13]-839 0.49064 —-2.28| -3.27| 474 08 -1.79
+March 2010-2011] 7.08] 0.09 -2.87]/ 0.49 0.70 36 599 321) OA 0.19
+
+The information in tables 7 and 8 and graph above show that, after a
+previous year-on-year improvement, the national overall mobility and quality
+of public road transport in terms of the number of persons per “heavy”
+passenger road transport vehicle from March 2010 to March 2011 increased
+by 0,19% from about 152 persons per vehicle in 2010 to 151 persons per
+vehicle in 2011.
+
+On a Provincial percentage basis the biggest improvement was in the
+Mpumalanga where the average number of persons per vehicle changed by
+3,66% from about 149 persons per vehicle in March 2010 to 143 persons per
+vehicle at the end of March 2011. In Limpopo the improvement was 3,21%
+from 227 to 220.
+
+The biggest decrease in the quality of public passenger transport services
+was recorded in the North West with a decrease of 5,99% from 163 to 173
+
+17
+
+--- Page 25 ---
+2.3
+
+persons per “heavy” public transport vehicle; followed by Western Cape with
+a decrease of 2,87% form 135 to 139.
+
+The average number of “heavy” road passenger transport vehicle (buses and
+minibuses) per 10,000 human population per Province is shown in Table 9
+and reflected in the graph below.
+
+Table 9 : Average Number of Public Transport Vehicles |
+(buses and minibuses) per 10,000 Human Population
+Month GA_| KZ | WC] EC FS MP | NW| LI NC | RSA
+March 2008 126| 4g EZ 34 47] 64 65 4] 43]
+March 2009 Tai 4 8 37 4g Cs 44]
+March 2010 or Lc, | 4 67S] 4
+March 2011 120) 47] 72 37] 49] 70) 5 45 44
+
+No. of Buses & Minibuses / 10,000 Pop
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+[Eimer 2008 mar 2009 [] Mar 2010 Mar 2011
+
+Un-Roadworthy and Un-Licenced Vehicles
+2.3.1 General
+
+Un-roadworthy vehicles is defined as those of which the owners failed to
+submit the vehicles for compulsory annual roadworthy tests (including buses,
+minibus taxis and freight transport vehicles) or on change of ownership. Un-
+licenced vehicles are those of which the owners failed to renew the vehicle
+licences within the time frame allowed.
+
+On a national basis the total number of vehicles that are either un-roadworthy,
+un-licenced or both decreased by 15,454 (1,95%) from 791,729 vehicles on
+31 March 2010 to 776,275 vehicles on 31 March 2011. Detail in this regard
+per type of vehicle is provided in Table 10 and the percentage (%) change
+from 2010 to 2011 reflected in the graph below.
+
+18
+
+--- Page 26 ---
+Table 10 : Number of Un-Roadworthy,
+Un-Licenced Vehicles or Both
+Vehicle Type __ [March 2010[March 2014] Change | % Change
+(Motorcars 373 849} 399 67. 25 824) 6.914
+Minibuses 49919 49735] “181 0.34
+Buses 5 856 5749] “114 1.9
+[Motorcycles 98 875] 57 291) -41 584) -42.06
+ILDV's - Bakkies 122 794) 128 142, 5 348) 4.36)
+|Trucks 54 35 48 836, -5 514) -10.19)
+(Caravans 6 309, 6 58( 271 4.3
+[Heavy Trailers 21 097) 18 584 -2516 11.93}
+Light Trailers 41 104] 43.115) 2011 48g
+Unknown 17 58) 18577] 997] 567
+
+‘% Change in Number of Vehicles
+Un-Roadworthy OR Un-Licenced OR Both
+
+All Vehicles
+Light Trailers
+Heavy Trailers
+
+Caravans |
+Trucks
+
+LDV's-Bakkies |
+Motorcycles
+
+Buses |
+Minibuses
+Motorcars
+
+50-40-30 20-10 i) 10
+
+With an exception of heavy trailers, trucks, motorcycles, buses and
+minibuses, increases were recorded for most types of vehicles in this regard.
+The biggest increase was recorded for motorcars, and the biggest decrease
+was recorded for motorcycles.
+
+Detail on the number of vehicles that are either un-roadworthy, un-licenced or
+both per Province is provided in Table 11 and the percentage (%) change
+from 2010 to 2011 reflected in the graph below.
+
+Table 11 : Number of Vehicles that is Un-Roadworthy OR Un-Licenced OR Both
+
+Year GA KZ wc EC FS MP NW ul
+March 2010 324 394 = 114.878} 92 84 52364 49016 54761] 49051] 40272]
+March 2014 322.669, 110350} 890. 54073] 47 474 8875 43.287 40217
+
+Change 72] 4528-3760 1721] 154 ~—«Gi|—CS TOC
+% Change sf 394] O32] G] CB] tT] 0.1
+
+19
+
+--- Page 27 ---
+% Change in Number of Vehicles
+Un-Roadworthy OR Un-Licenced OR Both
+
+bk one
+
+The information in the table and graph above shows that with an exception
+of Eastern Cape and Mpumalanga, all other provinces recorded a
+decrease in this regard. On a provincial percentage basis the biggest
+increase was recorded in Eastern Cape whereby the number on vehicles
+in this regard increased by 1,721 (3,29%), followed by Mpumalanga with
+1,81%.
+
+2.3.2 Number of Un-Roadworthy Vehicles
+
+The number of vehicles that are un-roadworthy (but licenced) decreased
+by 30,771 (7,01%) from 438,701 vehicles on 31 March 2010 to 407,930
+vehicles on 31 March 2011. Detail in this regard is given in Table 12 and
+the percentage of un-roadworthy vehicles per type of vehicle, as a
+percentage of the number registered, is reflected in the graph below.
+
+20
+
+--- Page 28 ---
+Table 12 : Number of Un-Roadworthy Vehicles
+Vehicle Type March 2010/March 2011] Change | % Change
+[Motorcars 172 292} 191 50: 1921 11.49
+Minibuses 35311 3307! 2298) 65
+Buses 466] 4199] ~46. 993)
+Motorcycles 78 339) 33 979 PIES 56.6
+ILDV's - Bakkies 58519 62.642) 412 7.05
+(Trucks 42971 37 083 5 89. “13.79
+Caravans 3319) 3321] 7 0.04
+[Heavy Trailers 17 234 15076] 2216) “12.86
+Light Trailers 14 959] 15 599) 647] 43
+|Unknown 11104 11577] a7. 42
+
+% of Un-Roadworthy Vehicles
+
+All Vehicles
+
+Unknown
+
+Light Trailers
+
+Heavy Trailers
+Caravans il
+
+Other Motorised Mar 2011
+
+Trucks
+
+LDV's-Bakkies jar 2010
+
+Motorcycles
+
+Buses
+Minibuses
+Motorcars
+
+The information in the table and graph above shows that with exception of
+motorcars, LDV’s-Bakkie, caravans, light trailer and known all vehicle types
+experienced a decrease in this regard. The biggest increase was recorded for
+motorcars which increased by 19,213 (11,15%) from 172,292 at the end of
+March 2010 to 191,505 un-roadworthy at the end of March 2011. Followed by
+LDV’s-Bakkies with an increase of 7,05%.
+
+Detail on the number of vehicles that are un-roadworthy per Province is
+provided in Table 13 and the percentage (%) change from 2010 to 2011
+reflected in the graph below.
+
+Table 13 : Number of Un-Roadworthy Vehicles
+
+Year GA KZ we | EC FS MP | NW ul
+March 2010 765004 «4714 ~—« 4567324851] 2862-320 27794 24 699)
+March 2011 174077, 6041444426 = 23507] 26573] 30861] 22.214 «19:86
+
+Change “sa 430247134) ——-2 049 242 5579-1831
+% Change 5.94 6p 27. 5.44 71 73 20.078.
+
+21
+
+--- Page 29 ---
+‘% Change in Number of Vehicles
+that are Un-Roadworthy per Province
+
+The information in the table and graph above show that all provinces recorded a
+decrease in the number of un-roadworthy vehicles. On a percentage basis the
+biggest decrease was recorded in North West where the number of un-
+roadworthy vehicles decreased by 5,578 (20,07%) from 27,792 in 2010 to 22,214
+at the end of March 2011. Other large increases in this regard are: Northern
+Cape with a decrease of 14,55% followed by Limpopo with a decrease of 8,44%.
+
+The percentage of un-roadworthy vehicles per Province, expressed as a
+percentage of the total number of vehicles registered per province, is shown in
+the graph below.
+
+% of Un-Roadworthy Vehicles
+
+oft NO ho
+
+[Ej mer 2010 [i Mar 2011
+
+2.3.3. Number of Un-Licenced Vehicles
+On a national basis the number of un-licenced vehicles increased by 8,052
+
+(2,56%) from 315,076 vehicles on 31 March 2010 to 323,128 vehicles on 31
+March 2011. Detail per type of vehicle in this regard is given in Table 14 and
+
+22
+
+--- Page 30 ---
+the percentage of un-licenced vehicles per type of vehicle, as a percentage of
+the number registered, is reflected in the graph below.
+
+Table 14 : Number of Un-Licenced Vehicles
+\Vehicle Type March 2010|March 2011] Change | % Change
+[Motorcars 180 704) 184 - 3.552} 1.97|
+Minibuses 11244 12 251 1017 9.05)
+[Buses 91 1171 26 28.57|
+[Motorcycles 18 172] 20 08: 1914 10.52)
+ILDV's - Bakkies 57 95: 58 204] 251) 0.43
+[Trucks 9 08% 8978) 11 1.21)
+(Caravans 2802 2.986) 184) 6.57]
+[Heavy Trailers 3.224) 284d 38] “11.85
+Light Trailers 25 094) 26 089) 995} 3.97|
+Unk: 6 262) 4)
+
+All Vehicles
+Unknown |
+
+Light Trailers
+Heavy Trailers
+Caravans
+
+Other Motorised |
+Trucks
+
+LDV's - Bakkies
+Motorcycles
+Buses
+Minibuses
+Motorcars |
+
+The information in the table and graph above show that with exception of
+trucks and heavy trailers an increase in the number of un-licenced vehicles
+were recorded for all other vehicle types. On a percentage basis the biggest
+increase were recorded for the following types of vehicles:
+
+e Buses: from 910 to 1,170 (28,57%)
+e Motorcycles : from 18,172 to 20,083 (10,52%)
+
+Detail on the number of vehicles that are un-licenced per Province is provided
+
+in Table 15 and the percentage (%) change from 2010 to 2011 reflected in the
+graph below.
+
+23
+
+--- Page 31 ---
+Table 15 : Number of Un-Licenced Vehicles
+
+Year GA KZ WC EC FS MP NW LI NC RSA
+March 2010 126 59 43077) 42 444) 24145 17945 19061) 18966] 16 564] 6 279}
+March 2011 132 44 42337] 39780} 26701) 17944] 214031 18484l 17659] 6 407]
+
+Change 5 824 -740| -2 664) 2 556) 4) 2342) 482) 1095) 128)
+% Change 461 174 6.28 10.59 -0.03 = 12.29) -2.54| 6.61 2.04
+
+% Change in Number of Vehicles
+that are Un-Licenced per Province
+
+GA Kz WC EC FS MP NW LI NC RSA
+
+The information in the table and graph above show that the biggest increase in
+the number of un-licenced vehicles were recorded in Mpumalanga (12,29%),
+followed by Eastern Cape with 10,59%.
+
+The percentage of un-licenced vehicles per type of vehicle, as a percentage of
+the number registered per Province, is reflected in the graph below.
+
+% of Un-Licenced Vehicles
+
+“GA KZ WC EC FS MP NW LI NC RSA
+
+[Ear 2010 [i Mar 2011
+
+24
+
+--- Page 32 ---
+Detailed information on the number of un-roadworthy and un-licenced
+vehicles per type of vehicle per Province is provided in the tables under
+Annexure B.
+
+3. Driver Population
+
+3.1 Learner Driving Licences
+
+The number of learner driving licences issued increased by 49,030 (3,77%)
+from 1,300,771 on 31 March 2010 to 1,349,8010n 31 March 2011. Detail on
+the number of learner driving licences issued per category is given in Table
+16 and graphically reflected in the figure below.
+
+Table 16 : Number of Learner Licences Issued
+
+Category | March2010 | March 2011 | Change | _% Change
+1 55 901] 54 490] 1411 -2.52]
+2 342 171 44 089) 12.89
+6 352)
+
+No. of Learner Driving Licences Issued
+1000000
+
+Catt ~ Cat2
+
+[Mer 2010 Mar 2011
+
+Provincial information in this regard is given in Table 17 and the percentage
+change per Province over the 12-month period is reflected in the graph below.
+
+= Table 17 : Number of Learners Licences Issued per Province
+Year GA KZ we | —C FS MP] NW u_|
+March 2010| 415818] 191573] 160 ee 77 694. 93 052) 63 848) 107 702)
+March 2011 | 423995 203 400, 203 687] 119 264 81 119) 103062} 76080) 109 oad
+
+Change B17 11827] 14037 7664-3425 10010 -7 76 «2281
+% Change 7.97] 6.17] LZ MO:
+
+25
+
+--- Page 33 ---
+% Change in Learner Licences Issued
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+3.2 Driving Licences Issued and Expired
+
+3.2.1 Number of Driving Licences Issued
+
+The number of driving licences issued increased by 435,240 (4,88%) from
+8,915,649 on 31 March 2010 to 9,350,889 on 31 March 2011. Detail on the
+number of driving licences issued per category is given in Table 18 and
+
+graphically reflected in the figure below.
+
+Table 18 : Number of Driving Licences Issued
+
+Category | March 2010 | March 2011| Change % Change
+Al 416 442) ~ 425 040] 85 2.06
+A 122 423) 123 044 62) 0.51
+B 1665914 ~—«*1:832 B60] 166 946 10.02}
+[eB 15 144 16 099] 953] 6.29
+C1 759096 1 836 842 245 879 15.45}
+—C1 3 621 10: 3 625 203) 4 098 0.11]
+Cc 878 251 887 691 9 440 1.07]
+~1 292) -0.21|
+
+Gi Mer 2010 Mar 2011
+
+26
+
+--- Page 34 ---
+The number and percentage (%) driving licences issued per category at the
+end of March 2011 is reflected in Table 19 below.
+
+Table 19 : Number and % of Driving Licences Issued per Category
+Category Description Number %
+Ai Motorcycle < 125 cub.cm 425 040) 4.59
+A Motoreycle > 125 cub.om 123 044 7.32]
+B Motor vehicle < 3,500 kg 1832 860) 79.6
+EB Articulated motor vehicle <16,000 kg 76 084 0.17]
+Ci Motor vehicle 3,500 - 16,000 kg 7836 649] 19.64
+ECT Aliculated vehicle 3,500 - 16.000 kg 3625 204 38.77
+ig Motorvehicle > 16,000 kg 887 691] 9.49
+EC Articulated vehicle > 16,000 kg 6047
+
+Provincial information in this regard is given in Table 20 and the percentage
+
+change with regard to all licences issued per Province is reflected in the
+graph below.
+
+Table 20 : Number of Driving Licences Issued per Province _
+Year GA KZ wc EC FS MP NW
+March 2010 | 3 121 871] 1 429 195] 1470471] 657 447] 494 474) 647 367| 469 452)
+
+March 2011 | 3303 569 1 492 116] 1535 430] 685 102] 517 See 688 785] 457 45 596.271
+Change 181698 = 62921] 64 959 27.655] 16894 47.418 17.994 45 083]
+% Change 5.82 4.40) 44 42 3.4757 8.18]
+
+% Change in Driving Licences Issued
+
+GA KZ WC EC FS MP NW LI NC RSA_
+
+3.2.2 Number of Driving Licence Cards Expired
+
+The information in Table 21 below shows that on 31 March 2011 there were a
+total of 1,987,802 expired driving licence cards recorded on the National
+
+27
+
+--- Page 35 ---
+Traffic Information System (NaTIS). This figure represents 21,26% of all
+driving licences issued. This information is also reflected in the graph below.
+
+March 2011 Table 21 : Number of Driving Licence Cards Issued and Expired per Province
+Category GA KZ wc EC FS MP I NW u NC RSA
+On system | 3303 569 1 492 116] 1535 430) 685 102] 511 368) 588 785 457 456 596 271 9
+Not expired | 2 630 240} 1 159 742] 1 243 952) 488 404] 398 236 463 030] 363 013} 469 883]
+
+Expired 673 329) 332 374 291 478) 196 698] 113 132) 125 755 94 443) 126 388)
+% Expired 20.38] at 18.99 28.7] 22.44 21.39 20.68] 21.20)
+
+% Expired Driving Licence Cards
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+3.3. Professional Driving Permits Issued and Expired
+3.3.1. Number of Professional Driving Permits Issued
+
+The number of Professional Driving Permits (PrDP’s) issued increased by
+31,588 (3, 92%) from 806,461 on 31 March 2010 to 838,049 on 31 March
+2011. Detail on the number of PrDPs issued per category is given in Table 22
+and graphically reflected in the figure below.
+
+Table 22 : Number of PrDP's Issued
+
+Category | March 2010 | March 2011 | Change | % Change
+G 1 4 T1255 =a -0.27]
+P 2 24: 1 482) -761 -33.93)
+PG 757 ont 802 392 45 200) 5.9
+DG 168) 126 -42) -25.00)
+DPG 35 22 794 -12 874 -36.09)
+
+28
+
+--- Page 36 ---
+4.
+
+Provincial information in this regard is given in Tab!
+change with regard to all
+in the graph below.
+
+1000000 -
+
+No. of PrDPs Issued
+
+(Mar 2010 Mar 2011
+
+categories of
+
+e 23 and the percentage
+
+PrDPs issued per Province is reflected
+
+% Change in PrDPs Issued
+
+GA KZ WC EC
+
+FS MP NW LI
+
+Fatal Road Traffic Crashes and Fatalities
+
+4.1 Number of Fatal Crashes
+
+Table 23 : Number aia
+Year GA KZ l =
+[ March 2070 | 220851| 136 860,111 113, «63 138] 53 ma 634 49.824 79.424) 20 42
+March 2011 [229794142052] 118 185{ 65 708| 52909] 76512) 4666q 65052) 2057
+Change 8 943 5 192] 7072 «2571 280 4878-316] <6 228 146,
+% Change 4.05 3.79) om 4.07| 0.53) 6.81] 6.34 7.84) 0.71)
+
+Over the 12-month period from 1 April 2010 to 31 March 2011 the
+number of fatal crashes decreased by 103 (0,94%) from 10,948 crashes
+over the same period the previous year to 10,845 in 2011. Provincial
+detail in this regard is given in Table 25 below.
+
+_ Table 25 : Number of Fatal Crashes per Province over 12 Month Period
+
+29
+
+--- Page 37 ---
+Year GA KZ | WC EC FS MP NW. Li NC
+2009-10 2153) 2216] 1085] 1 069) 762| 1 277| 940} 1181 265
+2010-11 2008 2247| 1026 1307 799 1179) 831] 1 165] 283)
+change -145) 31 -59} 238} 37/ -98) -109| -16 18)
+
+% change} -6.73) 1.41 -5.44) 22.26) 4.86) -7.67| -11.60}  -1.35) 6.79]
+
+With the exception of KwaZulu-Natal, Eastern Cape, Free State and
+Northern Cape, decreases in the number of fatal crashes were recorded
+in all other Provinces. On a provincial percentage basis the biggest
+increases over the 12-month period from 1 April 2010 to 31 March 2011
+were recorded as follows:
+
+* Eastern Cape : an increase of 238 (22,26%) from 1,069 to 1,307,
+* Northern Cape : an increase of 18 (6,79%) from 265 to 283; and
+» Free State :an increase of 37 (4,86%) from 762 to 799;
+
+In North West the number of fatal crashes decreased by 109 (11,60%)
+from 940 during 2009-2010 to 831 during 2010-2011. In Mpumalanga the
+number of fatal crashes decreased by 98 (7,67%) from 1,277 to 1,179.
+
+The table and figure below shows the different averages of fatal crashes
+per province, per month and per day. The information shows that during
+2010/2011 on average more than 1200 rashes occurred per province,
+more than 900 crashes occurred per month and 30 per day.
+
+Table 26: Averages of Fatal Crashes
+Total Number of | Average of ‘Average of ‘Average of
+Year Fatal Crashes Crashes per Crashes per Crashes per
+per year Province month day
+2009-10 10948 1216.44 912.33 29.99
+2010-14 10845 1205.00 903.75 29.71
+
+30
+
+--- Page 38 ---
+1400
+1200
+
+1000
+800 — -
+
+2009/10
+600 —
+
+il 2010/11
+
+400 es =
+
+|
+
+| 200 — 7
+
+rap
+| 04 ——— ———
+
+Average of Crashes Average of Crashes Average of Crashes
+per Province per month per day
+
+The monthly number of fatal crashes over the two comparative 2 year
+periods is graphically reflected in the figure below.
+
+Table 27: Monthly Number of Fatal Crashes |
+
+Month | 2009-10 | 2010-11 Change] % change|
+Apr 956 834 ~122)--12.76
+May 970 916) ~64| 5.57]
+Jun 903 887| ~16| “1.7
+Jul 982] 976 E| -0.61
+Aug 956 942 =14| -1.46|
+Sep 896 995] 99 11.05]
+Oct 892] 976| Ez 9.42]
+Nov 948] 882] -66] ~6.96|
+Dec 1094 1078] -16| -1.46
+Jan 785 | “3: -4.08
+Feb 754] 771 1 2.25
+Mar
+
+No. of Fatal Crashes per Month
+
+1100
+
+1000
+
+900
+800
+700
+600
+
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+2009-10 J 2010-11
+
+31
+
+--- Page 39 ---
+4.2
+
+The number of fatal crashes per month per province is given in the table
+attached under Annexure D.
+
+Number of Fatalities
+
+Over the 12-month period from 1 April 2010 to 31 March 2011 the
+number of fatalities decreased by 120 (0,86%) from 13,923 fatalities over
+the same period the previous year to 13,802. Provincial detail in this
+regard is given in Table 28 below.
+
+Table 28 : Number of Fatalities per Province over 12 Month Period
+Year GA KZ wc EC FS MP NW ui NC | RS.
+2009-10 e 426 2795) 1307] 1517] 1 098} 1651 1204 1554 a
+2010-11 2 318 2741 ft 258| 1 827} 1074 1 594} 1093) 1 522) 37 13
+70 zz
+
+change “54 310,24 30) 120|
+Ychange| -44q 199-37] 2043 -2ABl 3.47] _—-9.2G]_—-D.0 TA 20:86
+
+With the exception of Eastern Cape all other Provinces recorded
+decrease in fatalities. On a provincial percentage basis the biggest
+decrease were recorded as follows:
+
+= North West : decrease of 111 (9,23%( from 1,204 to 1,093
+= Gauteng : decrease of 108 (4,46%); and
+= Western Cape: decrease of 49 (3,75%)
+
+In the Eastern Cape the number of fatalities increased by 310 (20,43%)
+from 1,517 to 1,827.
+
+The national monthly number of fatalities over the 12-month period is
+graphically reflected in the figure below.
+
+32
+
+--- Page 40 ---
+No. of Fatalities per Month
+
+1400 |
+1200
+
+[ J
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+(2 2009-10 2010-11
+
+[ Table 29: Monthly Number of Fatalities
+Month 2009-10 | 2010-11 Changel % change|
+Apr 1 165] 109 -66] -5.66)
+May 14 208] 117: -29 -2.43}
+Jun 1079 1 174] 102) 9.48)
+Jul [1227 1322 7.73
+Aug 1235 1213) -1.75
+Sep 1279] 7 282] 0.25
+Oct 1 132] 7177] 3.97
+Nov 1 133 7083 ~4.44|
+Dec 1 398} 1 365 -2.33|
+971 871 ~10.24]
+1015 982] ~3.22|
+-3.01
+
+1 3a 1 056]
+
+The percentage change in the number of fatal crashes and fatalities over
+the 12-month period from 1 April 2010 to 31 March for 2011 in
+comparison with 2009/10 per province is reflected in the graph below.
+
+33
+
+--- Page 41 ---
+% Change in Crashes & Fatalities
+
+25
+20 —
+153
+10 =
+5
+
+si af 2 coe
+
+10}
+15 |
+
+GA KZ WC EC FS MP NW LI NC RSA
+Province
+
+HiiCrashes [Mj Fatalities
+
+The number of fatalities per month per province is given in the table
+attached under Annexure E.
+
+The table and figure below shows the different averages of fatalities per
+province, per month and per day. The information shows that during
+2009/2010 on average more than 1500 fatalities were recorded per
+province, more than 1000 fatalities per month and 38 per day
+
+Table 30: Average of Fatalities |
+Total Number ] Average of Average of Average of
+Year of Fatalities | Fatalities per | Fatalities per | Fatalities per
+per year Province month day
+2009-10 13923 1547.00 1160.25 38.15
+2010-11 13802 1533.56 1150.17 37.84
+
+1600.00
+1400.00
+1200.00
+1000.00 -
+800.00
+600.00
+400.00
+200.00
+
+0.00
+
+2009/10
+2010/11
+
+ra
+
+Average of Average of Average of
+Fatalities per _Fatalitiesper _ Fatalities per
+Province month day
+
+34
+
+--- Page 42 ---
+4.3
+
+Number of Fatalities per Road User Group
+
+The information in Table 31 below shows that driver fatalities decreased
+by 200 (4,79%) to 3,983; passenger fatalities increased by 170 (3,39%)
+to 5,205 and pedestrian fatalities decreased by 102 (2,17%) to 4,614 over
+the 12-month period from 1 March 2010 to 31 March 2011.
+
+roup | 2010-11 | Change | % Change
+Drivers 4 184) 3 983] -200] 4.79}
+assengers 3 029] 5208 7 334
+
+The percentage fatalities per road user group for the two comparative
+years are reflected in the figure below. During 2009-2010 and 2010-2011
+driver fatalities were (30,05% and 28,88%), passengers (36,07% and
+37,71%) and pedestrians (33,88% and 33,43% of all fatalities. Congrats
+
+The percentage change in all fatalities per Province is shown in the figure
+below.
+
+
+--- Page 43 ---
+The number of fatalities per road user group per Province for the two
+respective 12-month periods is shown in Table 32 below.
+
+User Group
+
+Drivers
+2009-10 |Passengers
+Pedestrians
+
+[Drivers
+IPassengers
+[Pedestrians
+
+2010-11
+
+Drivers
+Change Passengers
+Pedestrians
+
+Drivers
+[Passengers
+Pedestrians
+
+The percentage (%) changes in fatalities per specific road user group
+from 2009-2010 to 2010-2011 per province are also reflected in the
+figures below.
+
+The information in the graph above shows that the biggest increase in the
+number of driver fatalities was recorded in Eastern Cape with 12,08%.
+The biggest decrease in driver fatalities was recorded in the Western
+Cape (11,42%).
+
+36
+
+--- Page 44 ---
+% Change in Passenger Fatal;
+
+The information in the graph above shows that the biggest increase in the
+number of passenger fatalities was recorded in the Eastern Cape with an
+increase of 19,88%, followed by Northern Cape with an increase of
+10,17%. The biggest decrease was recorded in North West with 7,52%.
+
+The information in the graph above shows that, on a percentage basis,
+the biggest increase in the number of pedestrian fatalities was recorded
+in the Eastern Cape with an increase of 28,27% followed by Free State
+with 23.20%. A decreases of 18,16% was recorded in the North West.
+
+The combined percentages of road user group fatalities (drivers,
+passengers and pedestrians) per Province for 2010-2011 is also reflected
+in the graph below.
+
+37
+
+--- Page 45 ---
+4.4
+
+The information in the graph above shows that in Gauteng, KwaZulu-
+Natal and the Western Cape the main fatality groups were pedestrians —
+on average 40,37% of all fatalities. In the other 6 provinces the main
+fatality groups were passengers — on average 44,36% of all fatalities. (In
+these 6 provinces the average pedestrian fatalities were 25,24% of all
+fatalities).
+
+More detail on the number of fatalities per road user group per month per
+province for 2009-2010 and 2010-2011 is given in the table attached
+under Annexure F.
+
+Severity of Fatal Crashes
+The severity of fatal crashes increased by 0,00 (1,08%) from 1,27 during
+
+2009-10 to 1,27 during 2010-11. The individual provincial severity rates
+are shown in Table 33 below.
+
+Table 33 : Severity of Crashes per Province (Avg no. of fatalities/crash)
+
+Year GA KZ_ | WC EC FS MP_| NW ul NC | RSA
+2009-10 1.13) 1.26 1.20 1.42| 1.44 1.29) 1.28} 1.32] 1.40] 1.27|
+2010-11 1.15) 1.22) 1.23} 1.40} 1.34] 1.35] 1.32 1.31] 1.3. 1.27|
+change 0.03] -0.04f 0.02) _-0.02) -0.10! 0.06 0.03} -0.01} -0.07} 0.00)
+
+% change 2.44] -3.29f 1.78 -1.50} -6.71| 4.56} 2.67) -0.71] -4.96) 0.08)
+
+The information in the table above shows that the severity rate in
+Mpumalanga increased by 0,06 (4,56%) from 1,29 to 1,35; followed by
+he North West with an increase of 2,67%. The rate in Free State
+decreased by 6,71% followed by Northern Cape 4,96%. The provincial
+rates for the two comparative years in this regard are also reflected in the
+figure below.
+
+38
+
+--- Page 46 ---
+Crash Severity (Persons killed/crash)
+1.5
+
+“GA KZ WC EC FS MP NW LINC RSA
+Province
+
+(12009-10 fi 2010-11
+
+The severity rate per month is given in Table 34 and also reflected in the
+figure below.
+
+Table 34: Monthly Crash Severity
+Month | 2009-10 | 2010-11 | Change] % change|
+Apr 1.219 1.318 0.099] 8.14]
+May 1.245] 1.287| 0.041 3.3
+Jun 1.187| 1.323] 0.136] 11.45
+Jul 1.249 1.354] 0.105 8.40
+‘Aug 1.294 1.288] -0.004 -0.29
+Sep 1.427| 1.288] -0.139] “9.73
+Oct 7,269] 1.206 -0.063 -4.97]
+Nov 1.195] 1.227] 0.032 2.71
+Dec 1.278 1.267, -0.077] -0.88|
+van [1.23 1.157] -0.08 6.43
+Feb iat 1.274 -0.07 -5.35
+Mch 1.340] 1.264 -0.079 -5.68]
+Total [1.272] 1.273 0,004 0.08]
+
+Severity of Crashes per Month
+
+‘Apr May Jun’ Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+[Gl2009-10 2010-11
+
+The figure above shows that the three months with exceptionally high
+severity rates were April 2010, June 2010 and July 2010 with rates of
+
+39
+
+--- Page 47 ---
+4.5
+
+1,318, 1,323 and 1,354 respectively. The biggest rate increase was
+recorded in June with an increase of 11,45%, July with 8,40 June with an
+increase of ,814%. (These high rates could be attributed to a large
+number of high occupancy vehicles, buses and minibuses, involved in
+fatal crashes).
+
+Crash and Fatality Rates and Trends per 10,000 Vehicles
+
+The number of fatal crashes per 10,000 registered motorised vehicles
+decreased by 0,44 (3,46%) from 12,80 during 2009-10 to 12,36 during
+2010-11. Provincial detail in this regard is given in Table 35 and
+graphically reflected in the figure below.
+
+Table 35 : No. of Fatal Crashes per 10,000 Motorised Vehicles per Province
+Year [| GA | KZ | WC | EC | FS | MP | NW] LI | NC
+2009-10 | 6.53| 18.52) 7.63] 18.08] 16.65] 24.38) 20.04 28.32) 14.56
+2010-11 | 5.88] 18.38 7.17[ 24.43[ 17.16] 21.45[ 18.63] 26.49 15.1
+change | -0.65 -0.14[ -0.52] 3.38 0.51] -2.93[ -1.40|_ -1.85 0.59]
+% change -10.00| 0.75 -6.80| 18.53, 3.07] -12.00 -7.00| _-6.46| 4.04
+
+No. of Crashes per 10,000 Vehicles
+30
+25
+20
+154
+10 +
+
+5
+
+GA KZ WC EC FS MP NW LI NC RSA
+Province
+
+(2009-10 2010-11
+
+With the exception of Gauteng and Western Cape all other Provinces
+recorded an increase in this regard. On a Provincial percentage basis
+the biggest increases were recorded as follows:
+
+= Eastern Cape : increase of 3,35 (18,53%) from 12,08 to 21,43;
+= Northern Cape : increase of 0,59 (4,04%) from 14,56 to a rate of 15,15.
+
+The number of fatal crashes per 10,000 registered motorised vehicles per
+
+40
+
+--- Page 48 ---
+month for the two respective years 2009-10 and 2010-11 are shown in
+the figure below.
+
+Monthly Crashes per 10,000 Vehicles
+
+13
+128
+re |
+ra]
+122
+2
+
+‘Apr "May Jun” Jul” Aug” Sop Oct Nov Dec Jan Fab “Mch
+Month
+
+Tim2000-10 2010-11
+
+The number of fatalities per 10,000 registered motorised vehicles
+decreased by 0,55 (3,38%) from 16,27 during 2009-10 to 15,72 during
+2010-11. Provincial detail in this regard is given in Table 36 and
+graphically reflected in the figure below.
+
+Table 36 : No. of Fatalities per 10,000 Motorised Vehicles per Province
+
+Year GA KZ | wc EC FS MP | NW ul
+2009-10 7.36, 23.36 9.1 25.65) 24.00} 31.52) 25.67) 37.27|
+2010-11 6.79} 22.42) 8.72] 29.95} 23.08] 29.00} 24.51] 34.61
+change 0.57} -0.94 -0.47) 4.30] -0.92| -2.53) -1.16)  -2.65]
+'% change -7.80| 4.01) -5.14 16.75} -3.85]  -8.01]  -4.51]  -7.12]
+
+No. of Fatalities per 10,000 Vehicles
+40
+
+Province
+
+(2009-10 fu 2010-11
+
+With the exception of Eastern Cape, all other Provinces recorded an
+increase in the number of fatalities per 10,000 vehicles. On a Provincial
+percentage basis the biggest decreases were recorded as follows:
+
+41
+
+--- Page 49 ---
+4.6
+
+= Mpumalanga : decrease of 2,53 (8,01%) from 31,52 to a rate of 29,00;
+= Gauteng : decrease of 0,57 (7,80%) from 7,36 to a rate of 6,79; and
+Limpopo : decrease of 3,23 (1,12%) from 37,27 to a rate of 34,61.
+
+The number of fatalities per 10,000 registered motorised vehicles per
+month for the two 12-month periods is shown in the figure below.
+
+Monthly Fatalities per 10,000 Vehicles
+16.6
+16.4
+16.2
+
+16 |
+15.8
+15.6
+15.4
+
+‘Apr’ May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+‘Month
+
+(Hl2009-10 2010-11
+
+Number of Fatalities per 100,000 Human Population
+
+The number of fatalities per 100,000 human population decreased by
+0,62 (2,20%) from 28,13 during 2009-10 to 27,51 during 2010-11.
+Provincial detail in this regard is given in Table 37 and graphically
+reflected in the figure below.
+
+Table 37 : No. of Fatalities per 100,000 Human Population per Province
+Year GA KZ wc EC FS | MP NW ul
+2009-10 22.64 26.64] a 22.73 = 45.75, 35.66, 29.37
+
+2010-11 20.55, 25.57} 24.08 27.00] 38.1 44.02] 34.37] 27.8
+change =2.09  -1.07] 057] 42 0.05 -1.731 1.29) —-1.41
+
+% change 9.22) -4.0( -2.0' 18.82 0.14 = -3.75 -3.61] -5.0
+4 El
+
+Fatalities per 100,000 Human Pop
+
+50
+40 |
+
+30
+
+20
+
+FS MP NW LI NC RSA’
+Province
+
+(2009-10 fj2010-11
+
+42
+
+--- Page 50 ---
+With the exception of Eastern Cape and Northern Cape, all other
+Provinces recorded decreases in this regard. On a Provincial percentage
+basis the biggest increases were recorded as follows:
+
+" Eastern Cape :an increase of 4,28 (18,82%) from 22,73 to a rate
+of 27,00;
+
+* Northern Cape: an increase of 1,44 (4, 40%) from 32,62 to a rate
+of 34,06.
+
+Fatalities per Age Group, Gender, Day-of-Week & Time-of-Day
+
+5.1 Fatalities per Age Group and Gender
+
+The percentage of fatalities per age group and gender for the year
+2010-2011 (only for the cases where this information is available)
+are given in Table 38 and reflected in the graph below.
+
+Table 38 : % Road User Fatalities per Age and Gender Groups
+Age Driver Passenger | Pedestrian Total |
+group |Female] Male |Female] Male |Female] Male [Female] Male
+0-4 | 0.00; 0.00] a 3.34 2.96 4.37] 1.60, 2.71
+5-9 0.00] 0.00] 4.26 2.3 3.60, 6.00] 1.67] 2.86
+10-14 | 0.00 0.17] 1.97] 2.23] 1.391 3.26 1.20} 1.97]
+15-19 0.00, 2.36 3.22] 5.41] 1.39 3.33 1.67] 3.8
+20-24 0.81] 9.18 5.27] 9.07] 1.86 8.02] 283 8.7
+25-29 0.88) 14.60, 5.50) 12.1 1.74, 9.72) 2.90] 12.04
+30-34 1.03 13.7; 3.70] 8.3 1.51] 10.57] 2.19 10.6
+35-39 1.32] 11.8! 3.38} 7.32] 1.33, 8.09) 2.10] 8.91
+40-44 1.32] 11.28] 2.5! 4.62, 1.51] 5.81] 1.86 6.96)
+45-49 0.44 8.92) 2.3 2.63, 1.51] 4.57) 1.52} 5.11]
+50-54 0.37, 8.31] 1.81] 1.83) 0.9 4.37, 1.11] 4.57
+55-59 0.22, 5.68 1.97] 1.75] 0.7 2.67] 1.05] 3.21
+60-64 0.37, 3.50} 0.63 0.88 0.9: 3.07] 0.67] 2.37]
+65-69 0.18] _0.87/ 0.71) 0.56 0.52) 1.30} 0.48)
+70-74 0.07] 0.87) 0.39 0.32] 0.46 0.85] 0.32)
+75-79 0.00) 0.01 0.41) 0.26] 0.28 _0.37|
+0.07
+
+43
+
+--- Page 51 ---
+% of All Fatalities per Age Group
+
+14
+
+5-9 15-19 25-29 35-39 45-49 55-59
+
+[EiFemate [Male
+
+The above information shows that 76,36% fatalities during 2010-11
+were male and 23,64% females. About 92,95% of all drivers killed
+in crashes were male and 7,05% female. 76,79% of all pedestrians
+killed in crashes were male and 23,21% female.
+
+The percentage of fatalities per road user group is also reflected in
+the graphs below.
+
+% of Driver Fatalities per Age Group
+
+[Female [Male
+
+% of Passenger Fatalities per Age Grp
+
+[Female Mele
+
+44
+
+--- Page 52 ---
+% of Pedestrian Fatalities per Age Grp
+
+[Female gate
+
+5.2 Crashes per Day of Week
+
+The percentage of fatal crashes per day of the week per province
+during 2010-2011 is given in Table 39 and graphically reflected in
+the figure below.
+
+Table 39: Percentage of Fatal Crashes p
+Province Tue | Wed | Thu | Fi
+
+jauteng 8.60} 10.51 9.3;
+So. 9.47] 9.54. 11.97]
+estern Cape 10.23, 9.34! 10.87]
+
+10.27 11.41] 8.56) 17.4
+6.40, 8.00) 13.60]
+9.37) 10.50; 9.37]
+8.50 10.28] aq
+9.00; 7.95 9.7
+7.84
+
+[Eastern Cape
+Free State
+(Mpumalanga S|
+North West
+Limpopo
+Northern Cape
+
+otal
+
+45
+
+--- Page 53 ---
+The information above shows that almost (24,72%) of the weekly
+crashes happen on a Saturday, and 60,13% of all fatal crashes
+happened over weekends from Friday to Sunday compared to last
+year with 59,55%. The graph above reflects the comparison of day-
+of-week crashes between 2009 -10 and 2010-11.
+
+5.3 Number of Crashes per Time of Day
+
+The percentage of fatal crashes per time of day during 2009-10 and
+2010-11 is reflected in the graph below.
+
+The above information shows the following percentage of crashes for the
+
+respective hours of the day during 2010-2011:
+
+e From 06:00 to 12:00 :
+e From 12:00 to 18:00 :
+e From 18:00 to 24:00 :
+e From 24:00 to 06:00:
+
+20,38%;
+27,89%;
+38,19%;
+13.54%
+
+About 38,19% of the daily crashes happened between 18:00 in the evening and
+midnight (24:00). About 60,87% of the daily crashes happened generally during
+hours of darkness, between 18:00 in the evening and 06:00 the next morning.
+
+46
+
+--- Page 54 ---
+6.
+
+6.1
+
+Vehicles involved in Fatal Crashes
+
+Vehicles per Type in Fatal Crashes
+
+The information in Table 40 below shows that :
+
+in
+
+The number of all types of vehicles involved in fatal crashes increased
+by 197 (1,37%) from 14,372 in 2009-10 to 14,568 in 2010-11; and
+The number of motorised vehicles involved in fatal crashes increased
+by 220 (1,56%) from 14,119 in 2009-10 to 14,339 in 2010-11; and
+The number of bicycles involved in fatal crashes decreased by 30
+(12,03%) from 252 to 222.
+
+Table 40: Number of Vehicles involved in Fatal Crashes
+Vehicle Type 2009-10 | 2010-11 | Change | % Change
+[Motorcars 6 872 6 649) -223) -3.25]
+Minibuses 1 225] 1 003] -222/ -18.09
+Minibus Taxis 602 4085 ~197 -32.79
+Buses 302] 292) -100| +25.52)
+Motorcycles 314] 309 -5) -1.50)
+LDV's - Bakkies 2814 2 803 -12] -0.44
+[Trucks - rigid 197| 305] 108] 54.87|
+[Trucks - articulated 534] 1 226 692| 129.44]
+\Other and unknown 1 169 1 348) 178) 15.24]
+|Total Motorised 14 119) 14 339] 220) |
+Bicycle 252] 222 -30] ~12.03
+Animal drawn [| 7| 7
+{Total 1s 14 372| 14 568] 197| 1.37
+The number of all minibuses involved in fatal crashes per province is given
+Table 41 and the change reflected in the graph below.
+Table 41 : Number of Minibuses Involved in Fatal Crashes per Province ]
+Year GA KZ WC Ec FS MP | NW ul NC | RSA
+
+2009-10 255 562] 154] 228] ~— 108] += 213, ~=—137] ~—=«St 11] 182
+
+2010-11 160,381] —«104]~—=«28|_~=Si8]~=S47| ~—«st00; ~—st7q) 1 8
+
+Change 74-18-46] 10-22] 05] =r} td 4
+
+% Change| -29.22] -32.33| -30.64| 4.26] -20.34] -30.74] -26.84[ 8.47] 33.0
+
+47
+
+--- Page 55 ---
+% Change in No of Minibus Crashes
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+The information above shows that the number of all minibuses involved in
+fatal crashes decreased by 419 (22,93%) from 1,827 in 2009-10 to 1,408
+in 2010-11. With the exception of Limpopo and Northern Cape, all other
+provinces recorded a decrease in this regard. On a percentage basis the
+biggest increase was recorded in Northern Cape where the number of
+minibuses increased by 4 (33,03%) from 11 to 15 in 2010. Followed by
+Limpopo with an increase of 8,41%.
+
+The number of buses involved in fatal crashes per province is given in
+Table 42 and the change reflected in the graph below.
+
+Table 42 : Number of Buses Involved in Fatal Crashes per Province __
+FS
+
+Year GA KZ WC EC MP [| NW ul NC
+2009-10 31 78 25 57 = 2a 25
+2010-11 23 67 a a 73) 61 36
+Change 14 74 =17] 72 8 A TI 7 E
+% Change] -26.75| -14.3063.11| -29.07] 363.84 = -77.60, aa 4.98 -25.52]
+
+100
+
+% Change in No of Bus Crashes
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+The information above shows that the number of buses involved in fatal
+crashes decreased by 100 (25,52%) from 392 in 2009-10 to 292 in 2010-
+11. With the exception of Western Cape, Eastern Cape, Free State and
+
+48
+
+--- Page 56 ---
+Limpopo, all other provinces show a decrease in this regard. On a
+percentage basis the biggest increase was recorded in the Free state with
+an increase of 363,88% followed by Western Cape where the number of
+buses increased by 16 (63,11%) from 25 in 2009-10 to 41 in 2010-11.
+
+The number of LDVs (bakkies) involved in fatal crashes per province is
+
+given in Tabl
+
+le 43 and the change reflected in the graph below.
+
+Table 43 : Number of LDVs Involved in Fatal Crashes per Province
+
+Year GA | KZ wc EC ES MP NW ul NC_ | RSA
+2009-10 284 562| 223) 333} 17: 455) 255] 393} 129) 2 814]
+2010-11 242) 623} 246) 304 175| 476) 268) 358} 110} 2 803}
+Change -43} 61 23 -28) -5| 21 13) -36] -19) -12)
+
+(% Change] -15.02] 10.86, 10.23) -8.53] -2.54 4.72] 4.931 -8.89 -14.64)  -0.41]
+
+% Change in No of LDV Crashes
+
+“GA KZ WC EC FS MP NW LI NC RSA
+
+The information above shows that the number of LDVs involved in fatal
+crashes decreased by 12 (0,41%) from 2,814 in 2009-10 to 2,803 in 2010-
+11. Four provinces show an increase, while decreases were recorded in
+five provinces. On a percentage basis the biggest increase was recorded
+in the Kwa-Zulu Natal with an increase of 61 (10,86%) where the number
+of LDVs increased from 565 in 2009-10 to 623 in 2010-11.
+
+The number of articulated trucks involved in fata
+
+given in Table 44 and the % change reflected in the graph below.
+
+crashes per province is
+
+Table 44: Number of All Trucks Involved in Fata
+
+| Crashes per Province
+
+Year | GA | KZ | WC | EC | FS | MP nWeTE Lt [NC [RSA
+2009-10 64] 14: 8 93) 47 184) 4 65 13) 732
+2010-11 142| 459, 132] 134 134 27( 104) 737] 1 1 531)
+Change 81 316] 52] 4 87] EI 59 7 4 800|
+
+% Change} 134. 06 220.5: 64.74) 44.18) 784.37] 46.90) 130.80, 110.14] 42.54) Te
+
+49
+
+
+--- Page 57 ---
+% Change in No of All Truck Crashes
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+The information above shows that the number of All trucks involved in fatal
+crashes increased by 800 (109,34%) from 732 in 2008-09 to 1,531 in
+2010-11. All provinces recorded an increase in this regard. On a
+percentage basis the biggest increase was recorded in Kwa-Zulu Natal
+with an increase of 316 (220,53%) where the number of All trucks
+increased from 143 in 2009-10 to 459 in 2010-11.
+
+The number of vehicles involved in fatal crashes per 10,000 registered
+vehicles per type of vehicle, is shown in Table 45 and graphically reflected
+in the figure below. The general rate decreased by 0,92% from 17,16 to
+17,00.
+
+Table 45: Number of Vehicles in Fatal Crashes / 10,000
+____Registered 4
+
+Vehicle Type ul 2009-10 | 2010-11 | Change | % Change
+[Motorcars 13.18} 12.51 -0.67| -5.10|
+Minibuses 65.58] 49.95] -15.64] -23.84
+Buses 96.24] 67.15] -29.0 -30.23]
+Motorcycles 9.93) 9.18 “Ora -7.47|
+LDV's - Bakkies 15.20] 14.65] -0.54] -3.57
+[Trucks 23.77| 47.95] 24.18] 101.76
+ial vehicles TAe, 17.00] 0-16] -0.93|
+
+All vehicles
+Trucks
+
+LDV's - Bakkies
+Motorcycles |
+Buses
+Minibuses |
+Motorcars
+
+50
+
+--- Page 58 ---
+6.2
+
+The information above shows that, with the exception of trucks, decreases
+were recorded for all other types of vehicles. The rate in this regard for
+trucks increased by 24 (101,76%) from 23,77 to 47,95 trucks in fatal
+crashes per 10,000 registered.
+
+More detailed information on the number of vehicles involved in fatal
+crashes per Province is given in the tables under Annexure G.
+Road User Group Fatalities per Type of Vehicle
+
+The number of fatalities per type of vehicle during 2009-10 and 2010-11
+are given in Table 46 below.
+
+Table 46: Number of Fatalities per Type of Vehicle
+
+Vehicle Type 2009-10 2010-11 Change | % Change
+[Motorcars 6 729) 6 485] 245) -3.63|
+[Minibuses 1 188) 1311 123] 10.39|
+Minibus Taxis 565] 484) -81 ~14.40)
+[Buses = 286) 58) 16.89)
+[Motorcycles 311 314] 3| 1.12
+ILDV's - Bakkies 2 740} 2 706 +33) -1.22|
+[Trucks - rigid 206 197| -9 -4.46|
+[Trucks - articulated | 477 665] 187| 39.25]
+|Other and unknown 0.25)
+
+a
+-14,87|
+
+Amongst others, the information in the table above shows that, with the
+exception of minibuses, motorcycles and articulated trucks, fatalities for all
+the other types of vehicles decreased. The recorded increases are briefly
+summarised as follows:
+
+*  Trucks-articulated : fatalities increased by 187 (39,25%) from 477
+to 665; and
+* Minibuses : fatalities increased by 123 (10,39%) from 1188 to 1311.
+
+51
+
+--- Page 59 ---
+Some decreases were recorded as follows:
+
+= Buses : decrease of 58 (16,89%) from 343 to 285
+= Bicycle : decrease of 38 (14,87%) from 254 to 216; and
+= Minibus Taxis : decrease of 81 (14,40%) from 565 to 484
+
+The number of driver, passenger and pedestrian fatalities per type of
+vehicle are respectively given in Tables 47, 48 and 49 below.
+
+Table 47: Number of Driver Fatalities per Vehicle Type
+Vehicle Type 2009-10 2010-11 Change | % Change
+
+Motorcars 2 344) 2.099, -246 +10.48)
+Minibuses 241 247| 2.59)
+[Buses 20| 27| 7| 35.70)
+lotorcycles 276 261 -1 -5.66)
+LDV's - Bakkies 80. 790| -1 ~1.54)
+[Trucks vad 233 74] 46.24
+9 0}
+
+Table 48: Number of Passenger Fatalities per Vehicle Type
+
+Vehicle Type 2009-10 | 2010-11 Change | % Change
+[Motorcars 2 381 2371 9 -0.38)
+Minibuses 978] 1015] 37] 3.81]
+Buses 212) 150 -62 29.44)
+[Motorcycles EE | 27 q 49.58
+|LDV's - Bakkies 1 104] 1 222] 118] 10.73
+|Trucks 36.41
+|Other and unknown 115} 9.28)
+
+Table 49: Number of Pedestrian Fatalities per Vehicle Type
+
+Vehicle Type | 2009-10 | 2010-11 | Change | %Change
+Motorcars 2 005] 2015] 1 0.50)
+Minibuses 533) 532| < -0.28)
+[Buses 112) 109} 3 +2.29)
+[Motorcycles i 26, 10] 62.18
+|LDV's - Bakkies 83. 694) 13! ~16.72
+[Trucks 304| 329 8.07|
+|Other and unknown 8
+
+
+--- Page 60 ---
+The number of passenger fatalities in minibus related fatal crashes
+(minibuses plus minibus taxis) per Province is given in Table 50 and the
+percentage change reflected in the graph below.
+
+Table 50 : Number of All Minibus Passenger Fatalities per Province
+
+Year GA KZ_| wc | EC FS MP | NW
+2009-10 119{ 267] 7] —144f 102] 8g
+2010-11 882271110] 132] 109]__—s7 44]
+Change -27| —_ -40| 37, -12) 7 B3| 44)
+
+% Change | -23.67| -15.12) 50.42] -8.32]_7.03[_ 91.57] -50.16
+
+The information above shows that the number of all minibus passenger
+fatalities increased by 37 (3,81%) from 978 in 2009-10 to 1015 in 2010-11.
+Four provinces recorded decreases and five provinces show increases in
+this regard. The biggest increase was recorded in the Northern Cape
+where the number of passenger fatalities increased by 7 (93,14%) from 7
+
+to 14 in 2010-11. The biggest decrease of 50,16% was recorded in North
+West.
+
+The number of passenger fatalities in bus related fatal crashes is given in
+Table 51 and the % change reflected in the graph below.
+
+Table 51 : Number of Bus Passenger Fatal er Province
+Year GA KZ_ | WC | EC FS MP wo ui NC
+2009-10 13) 43] 1 37] Cc! 1 13)
+2010-11 21 13) 17) 4 q 25) q 22)
+Change q =a 4 4 Cr) ~19
+% Change | 69.43 -70.74 B19f 213 67.45] -100.00) 71.79]
+
+53
+
+--- Page 61 ---
+The information above shows that the number of bus passenger fatalities
+decreased by 62 (29,44%) from 212 in 2009-10 to 150 in 2010-11. Four
+provinces recorded increases in this regard. The biggest increase was
+recorded in Limpopo where the number of bus passenger fatalities
+increased by 9 (71,79%) from 13 in 2009-10 to 22 in 2010-11. In North
+west the number of bus passenger fatalities decreased by 100%.
+
+The number of passenger fatalities in LDV (bakkie) related fatal crashes
+are given in Table 52 and the % change reflected in the graph below.
+
+_ Table 52 : Numb:
+
+Year | GA | KZ
+2009-10 6i 217
+
+2010-11 Bg 221
+Change 1 4
+f Change| 22.5! 1.61
+
+The information above shows that the number of LDV (bakkie) passenger
+fatalities increased by 118 (10,73%) from 1,104 in 2009-10 to 1,222 in
+
+54
+
+--- Page 62 ---
+2010-11. With the exception of North West and Limpopo where a
+decrease was recorded, all other provinces recorded increase in this
+regard. On a provincial percentage basis, the biggest increase was
+recorded in Eastern Cape where the number of LDV passenger fatalities
+increased by 66 (44,12%) from 149 in 2009-10 to 214 in 2010-11. In North
+West and Limpopo the number of LDV passenger fatalities decreased by
+8,38 and 8,25 respectively.
+
+More detailed information on the number of fatalities per type of vehicle
+involved in fatal crashes per Province is given in the tables under
+Annexure H.
+
+7. Contributory Factors
+
+TA
+
+Human Factors in Fatal Crashes
+
+The table and figure below shows that pedestrian jay-walking and speed
+are the human factors that contribute the most towards the occurrence of
+fatal crashes. Speeding contributed 40.11% compared to 36,77% for the
+previous year, followed by Pedestrian: jay walking with 30.71% during
+2010/2011.
+
+Table 53: Percentage Contribution per Human Factor: 2009/10 and 2010/11
+
+Human Factors 2009/10: % of Group]2010/11: % of Group
+Speed too high for circumstances 36.77| 40.11)
+Pedestrian: Jay walking 33.39} 30.71
+Hit-and-run 8.58) 8.96)
+|Overtook when unlawful / unsafe 7.08) 7.14)
+|Turn in front of oncoming traffic 3.67 2.68)
+Disregard: red traffic light / stop sign / yield sign 3.10) 2.66)
+Followed too closely 2.42) 1.98)
+Intoxicated Driver 1.88} 1.66)
+intoxicated Pedestrian 0.63) 0.61
+Intoxicated Cyclist 0.06} 0.02)
+Fatigue / Driver fell asleep Tr 120 724]
+lllegal / Un-Safe U-turn 0.73) 0.80}
+[Other and Unknown 1.02 1.22)
+llllegal / Un-Safe Reversing 0.52] 0.21
+
+55
+
+--- Page 63 ---
+% Contribution to Crashes : Human
+
+Megat / Un-Safe Reversing
+Other and Unknown
+egal / Un-Safe U-turn
+Fatigue / Driver fell asleep
+Intoxicated Cyclist. 02
+Intoxicated Pedestrian
+Intoxicated Driver
+Followed too closely
+Disregard: red traffic light / stop sign / yield sign _
+Turn in front of oncoming traffic
+Overtook when unlawful / unsafe
+Hit-and-run
+Pedestrian: Jay walking
+Speed too high for circumstances
+
+50
+
+7.2 Vehicle Factors in Fatal Crashes
+
+Tyre burst was the highest compared to other factors with a contribution of
+54.07%, compared to 45,85% for the previous year followed by brakes
+faulty with the contribution of 14.98%. The information below shows that
+there are more vehicles on the roads that are not roadworthy and are
+allowed to drive on South African roads despite the high numbers of
+crashes and fatalities.
+
+Table 54: Percentage Contribution per Vehicle Factor: 2009/10 and 2010/11
+
+Vehicle Factors 2009/10: % of Group | 2010/11: % of Group
+Tyres: Burst prior to crash 45,85, 54.07|
+Brakes: Faulty 23,75) 14.98)
+\Steering: Faulty 21,43] 1.30]
+Overloading: Cargo / Passengers 4,14 7.82]
+ehicle Lights: Faulty, not switched on, blinding, etc 2,33} 1.9!
+IBicycle: No rear reflectors 2,49 5.54)
+Bicycle: No head lamp. 5,15] 6.19)
+fehicle Tyres: Smooth 25: 2.93]
+|Other and Unknown 3,76) 4.89
+(Chevrons: Dirty / No reflective stripes 0,59} 0.33
+
+56
+
+--- Page 64 ---
+7.3
+
+% Contribution to Crashes : Vehicles
+
+Chevrons: Dirty / No reflective stripes
+Other and Unknown, 3
+Vehicle Tyres: Smooth
+Bicycle: No head lamp
+Bicycle: No rear reflectors
+Vehicle Lights: Faulty, not switched on, blinding, ete
+Overloading: Cargo / Passengers
+Steering: Faulty Z|
+Brakes: Faulty “|
+
+Tyres: Burst prior to crash
+
+Road Factors in Fatal Crashes
+
+The information below shows that poor condition of road surface
+contributed 28,14% to fatal crashes compared to 23,03% last year, and
+
+sharp bend contributed 22,89%.
+
+Table 54: Percentage Contribution per Road Factor: 2009/10 and2010/11
+
+Road & Environment Factors __ | 2009710: % of Group | 2010/11: % of Group
+Poor condition of road surface 23,03) 28.14)
+Sharp bend 34,14 22.89)
+Poor visibility (Rain, mist, dust, smoke, dawn, 18,99} 13.70}
+[Road surface slippery / wet 14,14] 9.01
+Animals: Stray 7 Wild 7.3 8.44)
+Poor street lighting 6,46] 4.69)
+IBlind rise / Comer 3,01 3.19]
+[Road works 3,23} 3.56)
+[Traffic light / Road sign 7 Road marking defective 1,09] 2.06
+Narrow road lane 1,01 1.13}
+|Other and Unknown 3,01) 3.19}
+
+57
+
+--- Page 65 ---
+8.
+
+% Contribution to Crashes : Roads
+
+Major Accidents Investigated
+
+8.1
+
+Number of major crashes
+
+The information below shows that there were! one hundred and eight teen
+(118) major crashes that were investigated by the Corporation. The major
+crashes we refer to the once that meet the following criteria:
+
+a. Accidents in which five (5) or more persons are killed;
+
+b. Fatal accidents in which four (4) or more vehicles are involved;;
+
+c. Fatal accidents in which vehicles carrying hazardous substances are
+involved; or
+
+d. Any high profile accident that the Corporation feels necessary to
+investigate.
+
+July, September and December 2010 had the most crashes accounting to
+39 followed by April with 12 and June with 11.
+
+58
+
+--- Page 66 ---
+Table 55: Number and Percentage Contribution of Major Crashes per
+month: 2010/11
+
+Month ES
+Number of
+Crashes 12 4 11 13 8 13
+
+%
+
+Contribution | 10% | 3% | 9% | 11% | 7% | 11% | 8% | 8% | 11% | 6% | 8% | 8% | 100%
+per month
+
+@Apr @ May Jun wJul @Aug B@Sep BOct BNov BDec BJan BFeb & Mar
+
+59
+
+--- Page 67 ---
+9. Summary: Some graphs reflecting Crash Rates and Trends
+
+Three (3)-Year Rolling 12-month Number of Fatal Crashes and
+
+Number of Crashes & Fatalities
+3 Year Rolling 12 Month - RSA
+
+Month
+
+—=- Crashes -= Fatalities
+
+Number of Crashes & Fatalities
+3 Year Rolling 12 Mnth - KwaZulu-Natal
+3000 5
+
+2800 |—___—
+
+2600
+
+2400 +
+
+(2200 a
+
+2000 ~ —
+1800
+
+NOE RTD) SATAN DPSS Ae TATE E)
+
+Month
+
+—= Crashes -=- Fatalities
+
+Number of Crashes & Fatalities
+3 Year Rolling 12 Month - Eastern Cape
+
+2000
+1800
+1600
+1400
+1200
+1000
+800
+
+Month
+
+= Crashes -=- Fatalities
+
+Number of Crashes & Fatalities
+3 Year Rolling 12 Month - Mpumalanga
+2000
+
+1800 = oe
+aaa
+
+1600 +
+
+1400 +
+ae
+bei oe oar aay Caer Dani aay Voor Ger
+
+DOG DS Oa Si
+Month
+
+-=- Crashes -=- Fatalities
+
+60
+
+Number of Crashes & Fatalities
+3 Year Rolling 12 Month - Gauteng
+
+°
+Month
+
+—=- Crashes -=- Fatalities
+
+Number of Crashes & Fatalities
+
+3 Year Rolling 12 Month - Western Cape
+1800
+1600
+1400
+1200
+1000
+
+ATU RORT ONS PTA ISAT IO Dot A> ASD)
+Jee ROS 9G)
+Month
+
+-=Crashes -=- Fatalities
+
+Number of Crashes & Fatalities
+3 Year Rolling 12 Month - Free State
+
+Month
+
+—* Crashes -=- Fatalities
+
+Number of Crashes & Fatalities
+3 Year Rolling 12 Month - North West
+
+1300
+1200
+4100
+
+Month
+
+-*-Crashes -*- Fatalities
+
+--- Page 68 ---
+Number of Crashes & Fatalities
+
+3 Year Rolling 12 Month - Limpopo Number of Crashes & Fatalities
+1600 3 Year Rolling 12 Mnth - Northern Cape
+1500
+1400 peti
+1300 400 >
+1200 |— - = 350
+1100 = ss 300 +
+id Saieay GARI aay), wd Capel Ge MRT TONG) 250
+
+J ° ‘Fe J ° J ° F 200
+
+Month:
+—= Crashes -=- Fatalities Month
+
+—= Crashes -=- Fatalities
+
+9.2 Number of Fatal Crashes and Fatalities per 10,000 Registered Vehicles
+over a period of 3 years
+
+Crashes & Fatalities / 10,000 Vehicles
+Past 3 Years - RSA Crashes & Fatalities / 10,000 Vehicles
+
+Past 3 Years - Gauteng
+10
+9
+8
+7
+6
+5 +
+Month APSA nT E CAN ANS DY TA TASERID)
+OOS Died ORME -O. > G
+-=-Crashes = Fatalities Month
+
+—=Crashes =~ Fatalities
+
+Crashes & Fatalities / 10,000 Vehicles
+Crashes & Fatalities / 10,000 Vehicles Past 3 Years - Western Cape
+Past 3 Years - KwaZulu-Natal
+26 5
+24
+22 |
+
+20
+Diesen ee
+16
+(Sieg. KOURT OD Mea Month
+OW) ee ek Ocoee Oy eet
+Month
+
+-= Crashes -»- Fatalities
+-=- Crashes -=- Fatalities
+
+61
+
+--- Page 69 ---
+Crashes & Fatalities / 10,000 Vehicles
+
+Past 3 Years - Eastern Cape
+
+Month
+
+-=- Crashes -= Fatalities
+
+Crashes & Fatalities / 10,000 Vehicles
+Past 3 Years - Mpumalanga
+
+ASA ODFAJSAODFAJAODE
+MJSNJIMMJSNIMMISNIM
+Month,
+
+= Crashes —=- Fatalities
+
+Crashes & Fatalities / 10,000 Vehicles
+Past 3 Years - Limpopo
+
+40
+38 4
+36
+
+A'S AOD F'A'SR'O DF ASA ODE
+MJSNIMMSSNIMM SSN UM
+Month
+
+&
+
+BSSs
+
+= Crashes -=- Fatalities
+
+62
+
+Crashes & Fatalities / 10,000 Vehicles
+Past 3 Years - Free State
+
+ATA ODFAJSAODFAJSAODE
+MJSNJIMMJSNIMMJSNUM
+Month,
+
+—= Crashes -=- Fatalities
+
+Crashes & Fatalities / 10,000 Vehicles
+Past 3 Years - North West
+
+28
+26
+24
+22
+20
+18
+
+ASA ODFAJAODEA SAO
+u M
+
+DF
+JSNJIMMJSNJIMMISNJIM
+Month
+
+—+ Crashes -=- Fatalities
+
+Crashes & Fatalities / 10,000 Vehicles
+Past 3 Years - Northern Cape
+
+ae
+
+26
+24
+22
+20
+8
+16
+4
+2
+10
+
+RTRODFASAODE AD AOD EF
+MJSNJMMJISNIMMJSNUM
+Month
+
+—= Crashes -=- Fatalities
+
+--- Page 70 ---
+10. Results of the 2010 Road Traffic Offence Survey
+
+10.1 Introduction
+
+Annually, the Corporation conducts an independent traffic offence survey to determine
+the level of lawlessness on our roads with regards to selected critical road traffic
+offences that mostly contribute to the occurrence of road crashes in the country.
+
+The survey focused on the following offences:
+
+e Speed-urban and rural (light, heavy vehicles and taxis);
+
+e Traffic signal offences;
+
+e Overtaking across barrier line;
+
+e Alcohol levels;
+
+e Driving licences present and valid;
+
+e Wearing of seatbelts;
+
+e Vehicle fitness;
+
+e Correlation between vehicle registration plate and license disk;
+e Pedestrian compliance; and
+
+e Presence of traffic officers, pedestrians, cyclists and animals on the roads.
+
+The RTMC conducts an independent annual traffic offence survey and the information
+obtained from the survey is mainly used for the following purposes:
+
+e To determine the level of legal compliance/non compliance amongst road users
+on a year-on-year basis;
+
+e To measure the effect and impact of road safety intervention strategies such as
+communication, law enforcement programmes, amongst others;
+
+¢ To inform and recommend intelligent transport systems;
+
+e To inform and recommend automated law enforcement technologies and
+
+e To complement existing traffic safety information as well as to identify factors that
+contribute to road traffic crashes.
+
+By comparing these rates on an annual basis, the long-term progress with regard to
+traffic discipline, law compliance, quality and safety in road traffic can be measured,
+monitored and evaluated.
+
+63
+
+--- Page 71 ---
+A brief summary of the main offence indices for 2010 on a national level, in comparison
+
+with those of 2009, is given in the table below:
+
+Summary of 2009-2010 Offence Indices
+
+Offence type | Description 2009 2010 Change % Change
+Speed Urban areas alll | 6.30 5.6 -0.7 -11.1%
+offences vehicle types
+Rural areas all vehicle | 7.9 56 -2.3 -29.1%
+types
+Alcohol Day-time all vehicle | 1.26 0.68 “1.1 “87.3%
+| offences types
+Night-time all vehicle | 2.40 2.34 -0.1 4.2%
+types
+Seatbelt Drivers 3.9 45 06 15.4%
+offences Passengers fronteat | 4.5 5.0 05 11.1%
+Traffic signal | Day-time all vehicle | 24.6 12.3 -12.3 -50%
+offences types
+Night-time all vehicle | 19.6 11.8 78 -39.8%
+types
+No driving | All vehicles 1.5 0.8 -0.7 -46.7%
+license
+No PrPD Minibus 2.0 0.8 1.2 -60%
+taxis,buses, trucks
+Tyre offences | Worn and damaged | 6.9 5.6 -1.3 -18.8%
+tyres
+Head-lights 41.4 1.0 -0.1 9.1%
+Tail-lights 0.6 0.5 -0.1 -16.7%
+Vehicle — light
+offences: Brake-lights 23 42 19 82.6%
+Number plate | No plate and disk | 0.2 0.3 0.1 -50%
+correlation
+Combined Index 5.6 42 1.4 -25%
+
+The information in
+
+he table above shows that, on a national level, the overall offence
+index has decreased by 25% from an index of 5.6 in 2009 to an index of 4.2 in 2010.
+
+An increase of 15.4%, 11.1% and 82.6% was observed for seatbelt drivers, front
+passengers and brake lights from 2009 to 2010 respectively. Although a decrease has
+
+64
+
+
+--- Page 72 ---
+been in observed other offences ,it needs to be emphasized that these indices are still
+very high and very far from reaching the desired maximum offence rate of 5%.
+The findings of these annual offence surveys assist prioritization of law enforcement
+
+interventions. For instance the 2010 offence survey established that the most important
+offences to focus on, as identified in the study, are amongst seatbelt drivers, front
+
+passengers and brake lights.
+
+Provincial Road Traffic Offence Indices
+
+The combined indexes are shown below. The indexes represent the levels of
+lawlessness (or traffic offence levels) on South African roads.
+
+Combined offence indexes
+
+2009 5.8 6.0 5.0 5.9 5.0 6.2 5.1 5.7 E 5.6
+2010 3.3 5.9 46 5.0 4.1 3.6 3.6 48 = 4.2
+
+@ 2002
+
+@ 2003
+
+@ 2005
+
+@ 2006
+
+@ 2007
+
+2008
+
+2009
+
+GA KZ wc E&C FS MP NW UL NC SA M2010
+
+All other provinces show a decrease between their 2009 and 2010 offence indices,
+except for the Northern Cape, which remained constant on 4.3. Mpumalanga shows the
+highest offence index for 2009. Northern Cape shows the lowest offence index for 2009.
+
+65
+
+
+--- Page 73 ---
+The following changes were observed in the SA averages for the different offences
+used to calculate the overall offence index:
+
+e The urban speed offence index decreased from 6.3 to 5.6.
+
+e The rural speed offence index decreased from 7.9 to 5.6.
+
+e The night time alcohol offence index decreased from 2.4 to 2.3.
+
+e The unobserved seatbelt offence index for drivers decreased from 1.5 to 0.8.
+
+e The unobserved seatbelt offence index for front passengers increased from 4.5
+to 5.0.
+
+e The day time traffic signal offence index decreased from 24.7 to 12.3.
+
+e The day time barrier line offence index decreased from 16.1 to 10.3.
+
+e The driver's license offence index decreased from 1.5 0.8.
+
+e The PDRP offence index decreased from 2.0 to 0.8.
+
+e The worn tyres offence index decreased from 6.8 to 5.6.
+
+e The front bright light offence index decreased from 1.1 to 1.0.
+
+e The tail light offence index decreased from 0.6 to 0.5.
+
+e The brake light offence index increased from 2.3 to 4.2.
+
+The overall offence index has decreased from 5.6 to 4.2.
+
+Information on the comparison between fatal crashes and road traffic offences for the
+
+years 209 and 2010 is given in the table below and the % change is reflected in the
+graph below.
+
+Comparison between Fatal Crashes and Traffic Offence Indices
+Number of Fatal Crashes
+
+GA 4 we EC FS MP. NW u NC RSA
+2009 2440 2994 1448 1471 849 2155
+2010 2153 2216 1085 1069 762 1277
+
+1173 1500 342 14372
+
+940 1181 265 10948
+
+Change | -287 778 363 -402 -87 2-233, 319 77 -3424
+%Change_| -11.76% -26% -25.1% -27% | _-10.24% | -40.7% -19,9%
+
+--878
+
+-21.3% | -22.5% | -23.8%
+Combined Offence Index
+EC FS MP NW ul NC RSA
+5.9 5 6.2 5.1 5.7. 43 5.6
+5 4.1 3.6 3.6 4.8 4.3 4.2
+
+Change =2: . -0. -0.9 0.9 -2.6 “1.5 0.9 0 14
+% Change -43.1% “1.7% -8.0% ~15.3% -18.0% -41.9% -29.4% 15.8% 0.0% -25.0%
+
+66
+
+--- Page 74 ---
+The information above shows that there is strong correlation in the change in the
+number of fatal crashes and the change in the overall combined offence index. For
+example:
+
+National level : offence index decreased by 25.0% and fatal crashes decreased
+by 23.8%
+
+Gauteng : offence index decreased by 43.1% and fatal crashes decreased by
+11.76%
+
+KwaZulu-Natal : offence index decreased by 1.7% and fatal crashes decreased
+by 26%
+
+Western Cape : offence index decreased by 8.0% and fatal crashes decreased
+by 25.1%
+
+Eastern Cape : offence index decreased by 15.3% and fatal crashes decreased
+by 27%
+
+Free State : offence index decreased by 18.0% and fatal crashes decreased by
+10.24%
+
+Mpumalanga : offence index decreased by 41.9% and fatal crashes decreased
+by 40.7%
+
+North West : offence index decreased by 29.4% and fatal crashes decreased by
+19.9%
+
+Limpopo : offence index decreased by 15.8% and fatal crashes decreased by
+21.3%;
+
+11. RECOMMENDATIONS
+
+The most important offences to focus on, as identified in the study, are:
+
+e Driving under the influence of Alcohol: Very high levels of drunk driving were
+encountered in some provinces, especially during the night, with a national
+night time offence index of 2.3. Alcohol control should be stepped up and the
+penalties should be severe.
+
+e Barrier line offences. The huge contribution of this offence to the dangerous
+situation on our roads should be recognised, with a national day time offence
+index of 10.3.
+
+e Smooth and damaged tyres. Serious problems with tyres of vehicles,
+including trucks and taxis were found on the road, with a national worn tyre
+
+67
+
+--- Page 75 ---
+index of 5.6. Reasons for serious deterioration of tyres and for the apparent
+neglect of tyres by a large proportion of vehicle owners, professional drivers
+and the freight and passenger transport industries should be investigated.
+
+e Speeding. High levels of speeding offences were observed. The national
+rural speed index for 2010 remains very high on 5.6. Speed discipline must
+be restored on South African roads and community leaders on all levels
+should set an example.
+
+The Corporation’s Road Traffic Injuries and Research Network (RTIRN) has been
+established.
+
+The main objectives of the network are:
+
+To set priorities for road traffic injury research.
+
+To develop capacity for road traffic injury research
+
+To promote investments
+
+To facilitate communication between partners involved in road traffic injury
+research
+
+To conduct strategic research on road traffic injuries
+
+To disseminate and promote the application and utilization of research result.
+
+12. Traffic Engineering and Infrastructure Safety Audit
+
+The Corporation has launched an international road assessment programme (IRAP).
+
+The program’s main objective is to promote road safety through the improved road
+
+infrastructure. The road network in which the project will be conducted is still to be
+
+finalized in consultation with stakeholders. The project will help the country to reduce
+
+fatal crashes that are caused due to road infrastructure. Such crashes are head-on,
+
+brutal side-impacts at intersections, hitting roadside hazards, which kill vehicle
+
+occupants. Pedestrians and bicyclists are killed when crossing road and when moving
+
+along the road. These types of crashes could be reduced if road infrastructure is
+
+addressed, as it is the main contributor. As the Corporation, we were able to solicit the
+
+support of some of the key stakeholders.
+
+68
+
+--- Page 76 ---
+The Corporation has also completed the road safety audit manual, which will help the
+road authorities to identify hazardous locations and develop intervention and also use it
+
+when planning new road infrastructure project.
+
+69
+
+--- Page 77 ---
+Ae-TOatmmooanDD
+
+Annexures
+
+Vehicle Population per Province
+
+Un-Roadworthy and Un-Licenced Vehicles
+
+Number of Learner and Driving Licences and PrDPs
+Number of Fatal Crashes per Province
+
+Number of Fatalities per Province
+
+Number of Road User Group Fatalities per Province
+Vehicles in Fatal Crashes
+
+Fatalities per Type of Vehicle
+
+Development of traffic offence indicators
+
+Definitions of offences
+
+70
+
+94
+
+95
+
+98
+101
+102
+103
+105
+107
+111
+117
+
+--- Page 78 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — Year 2010/11
+
+(Other & Unkwn 36,760
+
+33,37:
+
+27,173)
+
+‘Caravans 40.932)
+
+5.758 8.050) 9.818
+
+7.693 5.164
+
+Heavy Trailers 50.06
+
+25.484]
+
+17.512)
+
+10.604 13.470 14.879
+
+10,003 6.499
+
+Light Trailers 280,061]
+
+70,75)
+
+114.67
+
+46.612] 56,337] 50,948)
+
+49,607] 31,714
+
+Unknown
+
+2,627|
+
+1,604]
+
+2,360)
+
+1,24) 2,101]
+
+5
+
+2,172)
+
+2,726 = 1,384
+
+Annexure A
+Number of Registered Vehicles
+Province Total
+GA KZ wc Ec FS MP. NW Ll NC RSA
+Motorised Veh's|
+Motorcars 2,284,303] 760,682| 977.690] 350,819 255,759 287.121] 258.379 204,364 92,882] 5,472,090)
+Minibuses 110,229 43.741] 35.200] 20,884 12,110, 19,795 18,091 18,886] 3,853)
+Buses 15,23: 6.941 499 3.808 2,034 4.5277 «3,15 3,963 ‘1,19
+Motorcycles 143,574] 33.788 75,704) 24,609 23,580, 23.269 20,876 12,72 sort
+ILDV's - Bakkies 632,643 283,836 272,987] 163.668 111,164) 153,889 130,143] 155,620 61,16
+[Trucks 121,759, 34,384 24,324 19.270] 25,358 18.017] 19,696
+
+Province
+
+KZ
+
+we |
+
+EC | FS | MP
+
+NW
+
+Motorised Veh's|
+
+jOther & Unkwn
+
+3476 002) 1
+
+Motorcars 2-392 680] 782 547] 1003 000| 365571] 263606, 304791] 246 239] 220 084
+Minibuses 111521] 45784-34681] 21 192) 12234 20442 16974 19 107
+Buses 16331] 6674509 3 8e7] 213A 492i 3 22q] 4 28e)
+jotorcycles 131694 31660, 74043 «23099 20122 1876 14909 936
+|LDV's - Bakkies 660 036 e275 541] 168 431] 114 003] 162 183, 125 oa 164 7H
+Trucks 125 056| 34720 23747] 19669 26868 17 15
+38 684) 33 950 @ 39363) 26535] 26 137
+
+[Caravans
+
+(Unknown
+
+2787
+
+161
+
+2:32;
+
+41 484] 8407 16447] 657] 6 95
+Heavy Trailers 5226 25725, 12559 9 884 14259 1588 9 95;
+Light Trailers 292 51 7243i|_ 117743 48028 57404 53.309 46 65:
+
+Number of Registered Vehicl
+
+[Caravans
+
+KZ we | EC | FS
+
+a Motorised Vehicles
+Motorcars 474 2.87] 259 427 3.07]
+Minibuses 4.17] 4.67) -1.47| 145 ‘1.0:
+Buses 7.21) 73.8 2.08 2.07] 4.8%
+Motorcycles “8.27 659 219 6.14 S|
+ILDV's - Bakkies 433 26a 0 x4 29] 25
+[Trucks 0.98 -2.3 2.03
+(Other & Unkwn
+
+|Heavy Trailers
+
+ight Trailers
+
+71
+
+Annexure B-1
+
+--- Page 79 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Number of Vehicles that are Un-Roadworthy
+
+Number of Un-Roadworthy Vehicles
+[March 2010, [ GA [| kz [ wc [ EC | FS | MP | NW
+Motorised Vehicles
+[Motorcars 80667 26087 _~—«aGTY «CT Fey ES 8247]
+inibuses EZ: Ly 2364 ‘137: 228 2334
+[Buses Tor 89 394 Ea Tail ai 289]
+[Motorcycles 34 38 EEE RZ EL: EZ |
+ILDV’s - Bakkies C727 RT: Te 3.349]
+Trucks LE Ta 328i] —«298]—=—C« AT ~—=«9BT|~—~=« BOG)
+[Other & Unkwn 199 179% 64 cy 11641232)
+faravans 1204 36 35. 16 24 39 30 204] E
+[Heavy Trailers 638i] 289% 105: [Ez 7663] 1 103 754) a
+[Light Trailers say 2024 1964 78: cy a 774) By
+|Unknown 224] Ta 7 ay Hi TH 9g 42) 2
+GA KZ wc NW ul NC RSA
+=a ok ans Motorised Vehi: ia i S {
+Motorcars TS] 27 18y —- 24324 ~——*10 be 106 1162: i EL 183194:
+inibuses 72] ‘576 259 210; 2 cm 797 2044) I
+[Buses 1522 624) Eg 364 a 25 EZ
+[Motorcycles 16529 348 398 1324) 290 T 967) (1296)
+|LDV's - Bakkies 2408 10954 =< at CGE so 3317] «3 ead 6
+Trucks 1274 597 264 254 374 2a] 260d 3a7] 7 08:
+[Other & Unkwn 206 1674 68. Ei 137 178 95 23
+aravans 122 34 37 13: 2 40: 267) 20! 7
+Heavy Trailers 512 232 110i Cc) 1734 367 708 Ey
+[Light Trailers 569. 203 2.056] 82 T 63 12 Tor] EZ i
+[Unknown 19% 10: 5 7 7 E ad 2
+NW u NC RSA
+Motorcars: 617216] «286
+Minibuses “52S
+[Buses “107. 081] EE E
+lotorcycles 714] 72.8738
+ILDV’s - Bakkies 091 214 17,
+[Trucks “aoe 1064-50
+[Other & Unkwn 38] _(1287|___—«12
+yavans 24 62 599-157 87] 2-12 0.0 31
+leavy Trailers ~1964__-19.77 6a 26. zi 7 ar 27 61-116:
+[Light Trailers 482 0694 4a 87. EX: ED i: LEZ
+[Unknown “1327-1634 24.2 127i 7 52 30. 257
+
+2
+
+--- Page 80 ---
+Road Traffic Management Corporation
+
+Road Traffic Report - Year 2010/11
+
+Annexure B-2
+
+Number of Un-Licensed Vehicles
+
+Number of Un-Licenced Vehicles
+
+[March 2010[ GA | Kz [ wc | Ec | FS [ MP | NW Li | NC | RSA
+Motorised Vehicles
+
+Motorcars 78,704 23,91 25,450 12,847 9524 9,751 9,651 7.809 3,061] 18
+Minibuses 4880 1,76 1,16 86 44 Gr | 64 40
+Buses 27 20 E 105| a Et Bi Z|
+IMotorcycles 709) 1.797 «404 ~—«.39i|~—«, ted 887] 92 52
+LOVs - Bakkies 16,650 8.967] 6,245.83] ACO ted 1.56.
+[Trucks 3,284 1,666 74. 733, 501 74 57 659 1
+
+ther & Unkwn 78 82 4 32 79 a7 80. 38 13
+[Caravans 1.104 24] 37 16 194 261 22 151 8
+
+Heavy Trailers 122i] 77q tq 201 234 234 201 121
+
+Light Trailers 10.457 2.82] 3.5961 73]_—=«d.A9]~—=«dGT]__—*1,091 a)
+[Unknown 14 704 11 7 E 11 164) 7 7
+
+GA KZ wc Ec FS MP. NW ul
+
+[Motorcars aire 23224 2374d—403]_—«960Y_~—«st 17 ~—=C a= aT 4
+(Minibuses Ez Re 1114 42i| 65 800, 764) é
+Buses 355] 17] 214 4 104 7 EEI cE
+jotorcycles ez] 195 407g (1454 a 1144 965, 83 365__ 2008:
+[LDV's - Bakkies 18939 8855 Ee 644 3.20 4669 3985 al 149 i
+[Trucks 31741614 65: 794] 429 795 558 7 2 8978
+(Other & Unkwn 861.007 45 37. 81 52 7 i 2
+(Caravans 122 241 36 18. 23 ar 22: 164 8
+
+Heavy Trailers 92 537 to ar 20029 187 1a 8
+
+Light Trailers 11234291 aay 1767,——«167]_~—=«1 695] =< 1 Ze 6
+
+inknown 1 8 E E 16
+
+GA KZ
+
+aro :
+
+[Motorcars 384-289
+
+\Minibuses Bai] __-2.04
+
+Buses 31.06 13.66]
+
+lotorcycles 16.5 8.94
+
+|LDV's - Bakkies 15: 1.24
+
+[Trucks 32 “3.14
+
+[Other & Unkwn 10.51] 22.51
+
+Caravans 10.6 0.44] 45; 89. 23. 6.54 224 fz 24
+
+[Heavy Trailers 2469-30 1244 38.31] 14.5) a 697201 39
+
+Light Trailers 74 3.2; 499 1044 34d 13.3 0.0 3095.51
+[Unknown 4234 18.00, 1274 17.14]. 21.4 87-2324 100.0
+
+73
+
+--- Page 81 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure B-3
+Number of Vehicles that are Un-Roadworthy, Un-Licenced or Both
+
+Number of Vehicles : Un-Roadworthy OR Un-Licenced OR Both
+
+GA Kz | wc EC FS wp [| NWT ou
+ie Motorised Vehicles 3
+
+[Motorcars 16550] 5366 49999] ~—« 2414] ~—« 2060] ~—«O GGT ~—«19052) 14408]
+Minibuses 2170; 848 aay 347 790: 308. S321] 2994]
+Buses 795i 118: 314) a z w® 364 45
+[Motorcycles 42 55% EEC: ME aed 678 «9 00 Lz EE
+LDV's - Bakkies 43007 2128412784 10501] = 777]~—=Ci ASC 870.
+[Trucks 18821 945 425] 388: 406 492 353 375
+[Other & Unkwn zen] 275 «tA 84 2m __‘ter|___2ti4 1284
+[Caravans 2.366] 63g 747] 344 44 68 554 379 169
+Heavy Trailers 7e3q 3 86: 123 LE Ly 7329] 90% 50:
+Light Trailers 16.29 500] 569i 247328 268: 282] at 92
+lUnknown 38 2 78 1 174) 23 28. Th 3
+
+Number of Vehicles : Un-Roadworthy OR Un-Licenced OR Both
+[March 2011 | GA KZ we 7 EC FS MP NW ul NC RSA
+
+Motorised Vehicles 5 Z
+[Motorcars Tee 5421 S08GT_—«STA—« GE ~~«CATA]~~«*90H] it ea
+Minibuses 2225 EE EE Ez = 302307. 309
+
+uses 2004) Bs] ES oe z EE 348 wi
+jolorcycles 2B 5 845 29% LE LE 300208
+[LDV's - Bakkies 449 24309 1263] ‘1161 Tosy 1032 iy
+
+[Trucks 16 760] 8 169) 3474 3571 3 66 4814 3184) 3 57(
+[Other & Unkwn
+
+Caravans
+[Heavy Trailers
+Light Trailers
+
+[Unknown
+
+Number of Vehicles : Un-Roadworthy OR Un-Licenced O!
+
+GA Kz [we EC
+: = in Motori
+[Motorcars cc
+inibuses -2.90] as
+Buses 26.8 -10.70
+Motorcycles Er
+LDV's - Bakkies 43. 1.2
+[Trucks
+
+[Other & Unkwn
+
+(Caravans
+Heavy Trailers
+Light Trailers
+
+Unknown
+
+74
+
+--- Page 82 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure C-1
+Number of Learner Licences Issued
+
+March Number of Learners Licences Issued per Province
+Category! GA KZ wc EC FS MP NW ul NC RSA
+7 20535 4407] ‘15 81 ses 317 2764 255A 3I7 «1 a7 OL
+
+2 102191} 44 637]
+3 293 094 142 52!
+
+95 681] 38 94 18500} 11206] 15 025] 8 234) 775)
+78147/ 68793] 56 02( 79077) 66 26: 98 151]
+
+Number of Learners Licences Issued pei
+
+2011
+Category GA KZ WC EC | FS MP NW u NC RSA
+4 19 93 4703} 15 60: 3 675 3.024) 272 2 222) 1319 1 292)
+2 116630, 53204) 104249 43064-21421] «13259 «16 53 9747] 8 154)
+3 287 435] 145 493[ 83833, 72515] «56674! «870831 57 326] 98917) 19775
+‘% Change Number of Learners Licences Issued per Province
+Category GA KZ wc EC FS MP NW u NC RSA
+1 2.94) 6.72) 71.33) -4.72) 47: 1.77, 13.14) 0.15 -12.14]
+
+8.99 10.59} 15.79) 18.3) 10.07]
+7.28 10.12}
+
+Learner Licences :
+
+Category 1 : Motorcycle
+Category 2 : Light Motor Vehicle
+Category 3 : Heavy Motor Vehicle
+
+75
+
+--- Page 83 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure C-2
+Number of Driving Licences Issued
+
+March Number of Driving Licences Issued per Province
+Category| GA KZ wc EC FS MP NW ul NC
+At 15424954972 «8853-31309 ~—-2498i} 20857} 20084! 12939 8521
+A 4477. 12967 2585i| 91249274 GBC 724]—«S B9A_—«2 ADT]
+B 565233] 29806 336905 136651] 91837 75832 84260 44 75d 32 36
+EB 2943 4490 264 746 385 803) «1 7m 1234
+C1 $34979 270940, 100070] 67 144 «84759 146 036] 110 a 244 305]
+ECT 1315729 578 pa 758 412) 306 955 176 621] 161 124 153446) 106031
+c 268 159 138.805] 106085] 60481] 70239 83 721| 52482] 75 set
+EC 235807 70717]/ ~—«<51970| 45034 36178 52 121| 39998) 62471
+e574 p
+“March | ber of Drivir =nces Issued per Province
+2014
+Category] GA EC FS MP NW ui NC
+Ai 158 82: 55664 91 830]—-31754 25 157/21 16a, 18729 13 203)
+A 45:23 13054 263379169245] 87 —« 736]__—«3. 91a)
+B 638.956 31835374949 148094 99040] 83388 85359 49 94
+EB 3.225} 4609 2 625] 80. a 1031] 1562) 7 287
+Ct 626 731[ 311 054116 16481 004 3.628177 48113204 281 627
+
+EC1 132313 577 88764126 307 635 176 685 161 342] 143266 106676 64 44
+Cc 271318] 140824 10740061 339714 85 233 50 604] 23 03:
+
+EC 70 66 52 254,37 906]
+‘% Change.
+
+per Province
+
+Category] GA | Kz we] EC MP NW u NC
+Al 2.97] 7.24 3.73) 1.44] 0.70 1.47] -6.75) 2.04)
+A 1.04] 0.67] 1.88 0. 44 -0.3: 0.13] =] 0. 51]
+B 13.04) 6.81] 11.29 8.3 7.8 9.98 1.2: 11 Sf
+EB 958 251 66 TT B31] 26.39 a a3
+ct 17.15} 14.81 = 20.6%
+ECt 0.56] 0.06] 0.76 0.22
+c TH 1.24) Ty
+EC 06
+
+Driving licences :
+
+A | Motorcycle > 125 cub.cm | A1 | Motorcycle < 125 cub.cm B Motor vehicle < 3,5000 kg
+C | Motorvehicle > 16,000 kg | C’ Motor vehicle 3,500 - 16,000 kg | EB | Articulated motor vehicle <16,000 kg
+EC | Articulated vehicle > 16,000 kg EC1 | Articulated vehicle 3,500 — 16,000 kg
+
+76
+
+--- Page 84 ---
+Road Traffic Management Corporation Road Traffic Report - Year 2010/11
+
+Annexure C-3
+Number of Professional Driving Permits (PrDPs) Issued
+
+March 2010 Number of Professional Driving Permits (PrDP's) Issued per Province |
+Category | GA KZ wc EC FS MP NW ul NC
+G CE EE GE 9691138 522,117] 435)
+P 261 247) 886] 239] 210 157| 65] 121
+
+210 374 122736 102001] S8714 5023e 68 177] 48334, 76.973, 19.550)
+
+39] 1 4 16 24 10] 4
+3:36 1759 9
+
+8266 11551 2 138 8
+
+79 422
+
+P's) Issued per Pi
+
+March 2011 sional Driving Per rovi
+Category | GA KZ we EC FS MP NW a NC RSA
+G Ter4 2309 «2 13 800] 946] 7 155) 490117 4a
+P 23 1719] 508 134 134] 143] 45] 715) Er
+PG 220151133666 113201] 6363q 49986 73423, 45225) 83414 19601
+DG 34 4 21 E| 76| 1 21 17 1
+DPG 74 S95q 2329113 ~—«1 827] ~~—«1 778) 882} 1:00: 38
+% Change Number of Professional Driving Permits (PrDP’s) Issued per Province
+Category | GA KZ we | EC FS MP NW a RSA
+G 214-0565 mad 23 «149 ~~
+P -Bai[ 5187-42-66 43.84 36.19 —-8.92]_—-30.77] ~~—A. 17)
+PG 46 891] +1098 —~83: St A: MS OZ
+DG -10. 26 -40.00]  -59.62] 50.0 Ooo -45.83] 110.00, 10.00, 66.6
+DPG “9.329 -48.42——-62.37|_—-60.21 392-161 2y -1233 «2.91
+
+Professional Driving Permits (PrDPs)
+G: Goods
+
+P : Passengers
+
+D : Dangerous goods
+
+77
+
+--- Page 85 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure D
+Monthly Number of Fatal Crashes per Province: 2007 - 2011
+
+78
+
+--- Page 86 ---
+Road Traffic Management Corporation Road Traffic Report - Year 2010/11
+
+Annexure E
+Monthly Number of Fatalities per Province : 2007 - 2011
+
+Year Month | GA FS MP | NW ul NC
+Jan 215 139 103,102, 80f_—S118] ~—=s8]_~—stoo|~—Cét
+Feb 233|_ 185] 11] St] 115] ~—|—SC] Cl
+Mar 316267] 162] 125) ]_—Ci14’| SC] S|
+Apr 202 218] 124149] 126150] —i07|~—=«t 45] =i
+May 252| 245141! i4i| soot) sta)
+2007 Jun 205, 2151351331 75]_—t79] =] ~—st2g] =i
+Jul 325 197] 126121] 125,158] 112) 124) 1
+Aug 284 149126] 161|——0f—22et =i] ~S—Stta)~——so
+Sep 293] 257] 15915693] 152] 10a] sta] 4
+Oct 22a 200, 136129] ~—7|_— 140/103] toe] 4d)
+Nov 218 140,145] 124 ~—« 412) ~—:103] 108] 102) 271
+Dec 326-272] 168] 190]_—93|_—=i78|_—stia}~—st4al Cag
+Jan 161156102] 120|_~—=—BO|_—S=CiG]_—=SC7Q]_~~—«100)-~S=«
+Feb 237| 173, 125,~—S—8i| |S ALS] =i
+Mar 231| 223) 134140, 67/1601 1161 12a al
+Apr 225 17215! gy 67] 13105, toa]
+May 274 201 1161557 94] 9 105] 10|
+2008 Jun 190| 26 118 147 9166, 110,_~—«d123; 37
+Jul 27 301 ioi[ 117 83| 168] 98101 3.
+Aug 278] 229133] —«125,~—=—sa23]_—1921 ~~ 104! 10:
+Sep 234,231] 110 138) 7 131]
+Oct 18a|_ 2431 106121] 8G|_—=252]_— 110] ~—S—i]Si
+Nov se toe] 10g] 107] 83] [2
+Dec 232| 24971247146, 107|_—«160/ ~—«107|_~—=Sst75]—
+Jan 208] 173{ 127] 122) 7|_—104]~—Sia] SC]
+Feb 153,15 7 of 50S ASS]
+Mar 168, 35411 10 i: EL: 7
+Apr 237,246, 80,11 8 140,147] _—t3a} at
+May 236 300|_ 1281 ~—«62 7915 ge 1242.
+2009 Jun 155 226 112] —o]S|_~—SCt4G| ~—St4l staal
+Jul 223, 234 124115] =~] 147] staal 1
+Aug 192) 28. ea 170, —<8)_~—«t47|_—it2ai__t2ali
+Sep 209 261 10g 199 ~—o9 16574131 3
+Oct 204790] 2 134| 107] 161] 82] tae]
+Nov 254 197] 114 132,——B7|_—«130]_~—«st4a]_—=Ci| Si
+Dec 248 237/125 200| ~~ 106|~—«164|_~—=S=i7| ~~ t62} =i
+2010 Jan 136 213] 97, 1091_~—«104|_—*10. Ex er
+Feb 181/235 ~—«105]~—SsO]Ss«C Ey 70127 72|
+Mar 154176 140] 121] «13: 9] 128,114 2
+Apr 100,274) 98 195106 —«*117 6 121 2
+May 21188175154] 77]_—122]~—«sto7]_—sttd]
+Jun 136266 89 180, 98] 144 8130),
+Jul 228 267] 11|_~—«174~——oS] 158] 121] 151 24
+Aug 178252] 98] 74 8—C13i|_—s tial stag] ~—_—al
+Sep 243 22 gq 1591102] tea 0s} 147]——2
+Oct 226] A 93153) 127]_ a7] 114
+Nov 20a, 24| 75 140,147], tt]
+Dec 186 248144168123] 166,100,151 79)
+2011|__ Jan 150] 170] 88] 111] 77] 4t—S78]~—=s3]—=o
+Feb ae 17] 93] 137] 58] 107] 7|_—s02)~—=Ci
+Mar 223] 236, ofS] 77] t07]~—S74|_—'t43i_—=st
+
+79
+
+--- Page 87 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure F-1
+
+Year Number of Fatalities per Road User Group
+Month | UserGroup | GA [ Kz [ WC | EC | FS | MP | NW | LI] NC
+Apr _ [Drivers (ts: Ts) 343 4
+2009 |Passengers 4g 7 14) 46, 4 43] 40] 54] 1
+Pedestrians 12 Tt 3a, 1 32 3 41
+Bai .
+May _ [Drivers 8 5 4 1 3 5444 30 1
+2009 [Passengers 6a 129) 40] 2: 3 54 3 48|
+Pedestrians 8 1 4 1 1 5422) ag]
+E
+Jun [Drivers 55107] 1 21 4g 3447] 1
+2009 [Passengers 25, 55] 334 476:
+[Pedestrians 7 63S 11] 46 243
+14 i
+Jul [Drivers 7 6 3 32 52| 3741
+2009 [Passengers 44| 6 49) 3 42] So 75
+Pedestrians 101 tos] 304. 1 4 37,34
+Aug [Drivers 5 e719 3. 3 462i, 4 1
+2009 [Passengers 56] 2 101 3 x ny
+edestrians 7 721 4 37] 14 4336]
+Sept [Drivers 80 5 32] 51 3 61 1 4 1
+2009 [Passengers 4 129 4 116 43] 84 26 54] 1
+Pedestrians 8: 8 2 3 2 20 2 3 2
+6 0
+Oct [Drivers 57S 35 6 364 1
+2009 [Passengers 5 46, 10] 7 5. 63] 14] 73 7
+Pedestrians 91 94 4. 1 1 3: 31 2 1
+Nov [Drivers 5451 3 4 2: 5 3 1
+2009 [Passengers Ey ts 4q 37 aot 80S
+Pedestrians 7 8 4 4 2 24 4 1
+Dec [Drivers 7q 3 2 3 3 543 54] 1
+2009 [Passengers 68 5S: 547 346 3
+Pedestrians 1 1 4 7 2 3 2g 4
+Jan [Drivers 44 sal] 3 3 32 1
+2010 [Passengers 34 91 2! 46 4 4 28] 5:
+Pedestrians 57 6al 3 2 302 2
+Feb [Drivers 6: 80 3 4 3 37 19] 3 1
+2010 [Passengers 3 66 32] 3 24 34 26] 63] 5
+Pedestrians 8 8 344 1 31 cy eS
+Mar [Drivers 5 4 47 At 4 24 44
+2010 [Passengers 15 Ei 51 47 84 37 63, 4) 4
+Pedestrians 8. 9 4: 34 1 Ev 2
+Year [Drivers 759725, 44 375 377|_583|__—372|_——44 13.
+Total [Passengers 553921] 407] 693] 526 _—636|_—«459|~—c_—Cs
+Pedestrians | 1114 1149 496 44 195| 433) 37344: 6
+
+80
+
+--- Page 88 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure F-2
+
+Year Number of Fatalities per Road User Group
+Month | UserGroup [ GA | Kz | WC | EC | FS | MP | NW | LI NC]
+Apr [Drivers EE 60 34 3 2 4] 29] 4q
+2010 |Passengers 15{__ 120] 1g ti7|— |i 1 47]
+‘edestrians 4a] 94 4 4 20 3 26| 34 1
+May [Drivers 55) 39 2728 20,40 30 34 2
+2010 [Passengers 49 so 107] ——sal_—S 37 4 1
+Pedestrians 117] 99] 4 38) 1645) 1 3 q
+Jun [Drivers 4. 7 2 5 3745] 2 1
+2010 [Passengers 3 83 356{ 110) 46, 54 44 64] 3
+Pedestrians 6i|___105) 3 1 1 45 1 43) i)
+Jul [Drivers 6 6G 40 4 2: 68 41 45) 7
+2010 [Passengers 7391 285] 71 4a 53) 1
+Pedestrians 8 toa) 4: 4 34 19 31 5 7
+Aug [Drivers 62 75 2q 47 6 4 3 1
+2010 [Passengers 29 7g 40 77H 40 77 12)
+Pedestrians 88 9 3 50} 20 37} 2i 38 5]
+Sept [Drivers 406] SS: 3. 4 2 3 37|
+2010 [Passengers 4 55| 37| 65 52] 108] 39 7 1
+Pedestrians 8 119 247 33,31
+Oct [Drivers 7 59 2734) 4330) 31
+2010 [Passengers 34 84] 35 7q 38] 45] 3g] 3.
+Pedestrians 119 9: 3; 4 2 3g. 4
+Nov [Drivers 8 5 2 5 3 6: 2. 3
+2010 |Passengers 49] 4 2. 40] 2 66] 29 4 14
+edestrians 7: 1 2 47| 1 1 3 2:
+Dec [Drivers 5 51 2. 4 472 4 2
+2010 [Passengers 46| 97 i 6 6 90) 4 4 4i
+Pedestrians 85100) 4 7 2 293: 5 1
+Jan [Drivers 4 < 1 31 12) 31 2 14
+2011 [Passengers 72| 21 sf 34 37] 34 44
+edestrians 6 65 3 37| 1 1 24)
+Feb [Drivers 8 2 2 2: 2: 1 3 oj
+2011 [Passengers 93 63, 17 41 1 il 24) 51 q
+Pedestrians S7_—=B 4 6 2 342 14 1
+Mar Drivers 4 68 31 2 2 46 17| 25| 1
+2011 [Passengers 7 85 16 74 4327 85 0
+edestrians 9 834 4 171 i 2
+Year [Drivers 76 65 36g] 42 343] 532] 36 40 12
+Total [Passengers 567] 922] 43 e3i| agi] 677|_—425|—66a|__t87/
+Pedestrians 985{ 116i] 456575 —-240|_—386|_—«3 05] ~—«4 61
+
+81
+
+--- Page 89 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure G
+Vehicles Involved in Fatal Crashes
+
+2009-10 Estimated Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA KZ wc EC FS MP | NW ul NC | RSA
+Motorcars TH 123472 65845: 94] S83 70i]—=stSA_—«G 87
+Minibuses 252] 129 «13: 22d 9f OTT 8a Ez ay 4 22
+Minibus Taxis jy 437 1 4 E ag 78 A «602
+[Buses 31] 7a 25} 57] 149 24) 25] aI
+[Motorcycles 101] 47| i 16] 1 36 2] 7 4
+LDV's - Bakkies 264 564 22. 33; 17 455 255 ~~ 303 SC«
+[Trucks 19 4 E| 42] 7 2 42) = "i
+[Trucks - articulated 4a 144 3 94 E 164] 17] 24 EI 534
+\Other and unknown. 24]] 341 133) 6 39 146 64 tal yf 1169)
+Total Motorised 2385 2973 1408) 1451 ea 2119 1130477] 3a] 1417
+Bicycle 54 2] 3 24 7| 34 4 22 a5 2
+(Animal drawn q Om
+rota 244g 2 aa 14aq tari] B42 | Ti73y7 500] 34q 14372)
+2010-11 Estimated Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA | kz [wc] EC | FS | MP [ NW LI | NC | RSA
+Motorcars Te) 146] 73 Ls |
+Minibuses 18 e410. 213) 8 « 14a GC: |
+Minibus Taxis 2 q q EI 39] 62
+Buses 2 67| a 4 | Gy) EI 36)
+Motorcycles 7 4q 6g 22] 1 44 2 76
+LDV's - Bakkies 24 x eC 26 359
+[Trucks 54 4d 7 37] 82]
+(Trucks - articulated a 4 129 —~—«T3 a) 5 270 67 EE
+\Other and unknown 180) 47 192] 3 we m 158)
+(Total Motorised 2029 «38151515 «7 a 1949 <1 177)~«1474
+Bicycle a 4 = 7 7 3 2 2a}
+Animal drawn aa 4 = i
+[Total 2070-3557) 1544 ~«7 sa a 198 «1210 «149: | 14
+% Change Estimated Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA | KZ | wc] eC | FS | MP | NW] LI fi
+Motorcars 1619 1867 0.24 1299-1509 B69 —-3.05] -75.84
+Minibuses 28.39 -32.67] -22.6—-4.70_ -17, : 32.49 -21.86 34.64)
+Minibus Taxis 100.00 -32.29 91.27) 21.00 -58.77] 102.48 35.71] 20.17
+Buses 26.75 14.30 63.41] -29.07] 363.89 57.99 -77.60] 44.4
+Motorcycles -23.71 2.03 0.98 36. 13) -2269 13.89 15.01] 128.72)
+ILDV's - Bakkies “1504 10.8 10.24 859-2547 499 88-14-04
+Trucks 172.39 1516.00 -93.72| -100.00 78.42, 0.00 3270 97.54)
+[Trucks - articulated | 117.04 196.54 312.32) 47.37} 1102.63] 46.90, 290.20 132.30
+Other and unknown | -26-1i] 36.49 44.37) 3200-121] 36.19 09.77 273
+[Total Motorised “499 18.22) 75 670.059 -B.0 any -0.
+Bicycle -22.72 92.82) -29.32 -45.01 7.55 -34.29  -2.5:
+[Animal drawn Doq 0.00.0 0.01 00d 0.00.0
+‘otal “15.14 18.80) aa a a 3am) -0.47]
+
+Annexure G-1
+Vehicles Involved in Fatal Crashes
+
+82
+
+--- Page 90 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+2009-10 Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA KZ wc EC FS MP | NW ul NC RSA
+Motorcars Tay 725272 ~—« ay 947] 585707] ~—Cteal_=SSC« BD]
+Minibuses 255] 56 —t5i] 2 10% 24 137] ‘16 T~«1 827
+Buses Ey 7a 5 37] 144 24) 25) RE
+Motorcycles 101 47| 6g 1 ] 36] 24 7|
+ILDV's - Bakkies 284 36] —«22 33 i a: a |
+[Trucks 6 14) EI 9. 47] 184] 48] 65)
+
+|Other and unknown 244) 349139 65 3 146] 64] 124]
+{Total Motorised 230 297 1 40q 1450) a7 1130) 11477]
+
+2010-11 Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA KZ Wc EC FS MP | NW LI NC RSA
+Motorcars Se Es eS 73)
+Minibuses 180) 36] 10427] sta] 100'—«sT7 15)
+IBuses 2 67| 44 44 19 6 E| 36
+[Motorcycles 77 48) 6 24 1 41] 25] 19
+ILDV's - Bakkies 242] 62x] 24g 30417] Ae] 268]
+[Trucks 142 45913) 134] 134° -270]——«104) 137|
+[Other and unknown i ES 3g ssf (10! 15
+‘otal Motorised 202351] 1515 1548] Baqi 941477 4474
+% Change Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA KZ wc | EC FS MP | NW i ui
+Motorcars “16.16 18.65] «0.28 «12.99 -15.09 -8.60) _-3.05) -15.84
+Minibuses -29.22 -32.33| -30.64 ——-4.25| -20.34 -30.74 -26.64 8.47
+Buses 26.75 14.30] 63.17[ -29.07] 363.88 -57.99 -77.60 44.4
+Motorcycles 23.71] 2.027098 36.13, -2269 13.881 15.01} 128,72)
+LDV’s - Bakkies -15.02] 10.86 10.29 —-8.53.——-2.54l 472A B.C
+Trucks 134.06 22053] 64.74 44.18 184.37] 46.90 130.80, 170.74
+
+Other and unknown -25.11 36. 49) 44.37 32.00] 1.21 -36.15, 69.77] 27.33
+
+[Total Motorised a9q 182759 G7A 0.0 8.08 aif -0.4q 17.8 E
+
+83
+
+--- Page 91 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+AnnexureH-1
+Driver Fatalities per Type of Vehicle
+
+2009-10 Number of DRIVER Fatalities per Type, of Vehicle
+Vehicle Type GA | KZ | wc] EC FS MP ui NC
+[Motorcars 462) 41 232 195] 227 300) 25(
+Minibuses 35] 16 1 24 24 4 | |
+inibus Taxis | 43] Hl
+[Buses E in
+Motorcycles 95) aq 5 1
+ILDV's - Bakkies 92] 122] 5
+
+[Trucks E of
+[Trucks - articulated
+[Other and unknown _
+
+[ay
+Bicycle
+(Animal drawn
+
+Vehicle Type
+[Motorcars 469
+[Minibuses 54] 14] 1 27 24] 2
+Minibus Taxis { Le EI 7 a
+[Buses 0 4
+[Motorcycles 87| 30 Ez F 1 39 7
+ILDV's - Bakkies 76 411] Sl | 70.
+rucks El
+[Trucks - articulated
+
+Bicycle
+
+L [ __Numb ype of ve
+Vehicle Type KZ WC | Li NC
+
+Motorcars i 169) -27.47| om B ay -17; 19.55) -15.5
+Minibuses 54.80 -34.52] 15.04 12.19 86.48) -42.57| 222:
+Minibus Taxis 0.00, -15.84] 0.00 0.01 oat 25.41 6.66 0.00)
+
+uses 0.00 -15.84] 26.54 0.00 -22.95 0.00 0.0 E
+Motorcycles 8.17] -33.97, -3.19 44.64 -15.01] map 25.41] 7774
+|LDV's - Bakkies 8: = co x A SK CE
+[Trucks E 0. at 88.3 0.0 20.53 0.00) -100.00)_-50.77]
+[Trucks - articulated -25.83| 130.12] 953. as 9.61] 409.94 34.85 17.89 -20.00)
+
+Other and unknown E -100.00| -57.82] -100.00 -100.00) 272: 95.5:
+
+> a eens | tis.
+Bicycle E 33.30[ -40.88) -42. a 2.74 -40.33
+
+Animal drawn 0.00 0.00 . 0.001 0.00
+
+84
+
+--- Page 92 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure H-2
+Passenger Fatalities per Type of Vehicle
+
+2009-10 ss Number of EASSENGER Fatalities per Type of Vehicle _
+
+Vehicle Type GA [Kz [we | EC | FS | MP | NW ul NC
+Motorcars 33334 22g iT 279 28721] 81)
+Minibuses 115] 6] ey 4 E 89 56 "I
+Minibus Taxis 206 19 4 : 2] 3] aq
+[Buses 13 43] 7 37| 9 78 1 1
+[Motorcycles 2 4 E|
+ILDV's - Bakkies 68217] 66 149, 118
+[Trucks E| 19] 14
+[Trucks - articulated
+(Other and unknown
+
+Bicycle
+(Animal drawn _
+
+0 Eee Soe ities
+
+MP.
+
+Motorcars 34 =< a ra 27
+Minibuses a 24 mq 130107]
+Minibus Taxis gq 20 q El 2) 7| 39
+Buses 24 13 17] 45] 2 22)
+Motorcycles 12)
+
+DV's - Bakkies EE) za 81] 214
+[Trucks
+[Trucks - articulated
+
+Vehicle Type ~ NW
+[Motorcars 10.30
+
+Minibuses 67] 61.4: 15.17] 86.23] -33.73]
+Minibus Taxis 0.0 TH ~100.09-31.73 76.39 39077-7891 -4.80)
+Buses 69. a “70.76 61.94 21.37, 0.00] -67.48] -100.00_71.74
+Motorcycles 653. of 0.00] -2.80 -100.09) sas 22.6: = 10.44]
+LDV's - Bakkies 2259 161] 22.77 44.12) 31.33, 8.3
+
+[Trucks 700.84] 0.00 83.89 —0.00]_—‘10.14 wait -66.2
+
+[Trucks - articulated 00] 172.45) 256.39 2.40, 0.00 -19.28) 574.77]
+
+(Other and unknown . -9.18 142.99 0.00 63.59 82.75)
+
+Bicycle | ; 0.00 r
+Animal drawn . CO: a
+
+85
+
+--- Page 93 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure H-3
+Pedestrian Fatalities per Type of Vehicle
+
+2009-10 Number of PEDESTRIAN Fatalities per Type of Vehicle
+Vehicle Type GA [| Kz | Wc | EC | FS | MP | NW|oLI | NC
+Motorcars 61] 421 208,174) E 137|_—*19: 151
+Minibuses 103} 36 44 66, 18) 26,
+Minibus Taxis E| 149 E | EI
+Buses 79] 24) 12] 17 q 24
+[Motorcycles E| q 7 E|
+LDV's - Bakkies 123) 182 84)
+[Trucks 12 EI 22]
+[Trucks - articulated 31] Z| a
+\Other and unknown
+Bicycle
+Animal drawn
+
+10-14 aE
+
+Vehicle Type GA
+Motorcars 524
+[Minibuses
+Minibus Taxis of
+Buses 13) 24 12) 14
+Motorcycles 2 cl 4 EI
+LDV's - Bakkies 114 | 64)
+[Trucks 7 1
+[Trucks - articulated
+
+Bicycle
+imal drawn
+
+a of PI
+Vehicle Type WC
+
+[Motorcars 11.50] ~
+Minibuses “859 -7.97| + -29.69] -13.04 6.51
+Minibus Taxis -100.00] -24.49 -63.43[ 0.00] -100.00] 0.00 106.7% 0.41
+Buses 2979 13.37 447] 18.64 22.09 7H ~100.00, 22. I
+Motorcycles 45.1 0.00 0.00] -100.00[ 106.76 100.95 0.00
+ILDV's - Bakkies “I ea =10.25 16.26 -25.03 -20.09-24.95[ -20.09
+[Trucks i — =100.00} 0.00, -54.05 -13.88 128.31]
+[Trucks - articulated i 58.45] 54.49 26. A177] 65.41] 50.71]
+(Other and unknown I 30.1 15.67] -37.07] 0.47]
+
+1 A
+
+Bicycle
+Animal drawn
+
+al
+
+86
+
+--- Page 94 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Annexure H-4
+All Fatalities per Type of Vehicle
+
+2009-10 Number of TOTAL Fatalities per Type of Vehicle.
+
+Vehicle Type GA | kz | wc | Ec | FS [| MP] NW] LI [ NC
+[Motorcars 1406 116 G67] Ci Es EZ
+[Minibuses 25: ic a: ED 158 87] EE
+[Minibus Taxis E| 39% 16 4 i) BI 49 Es] 7
+[Buses 34 7 22] 5g 4 106 23 26 E|
+Motorcycles 98 4g 64 17 17 29 23) 7| E|
+ILDV's - Bakkies 283522) 200) 34 ~~C 35 259 408) 440)
+[Trucks 19 7 44 q 5 : 29 4 14)
+[Trucks - articulated 4 129 27] 94 Gq 139 | 2 E|
+|Other and unknown 241] 32; 1 64) 4) 14 6 13
+Bicycle EE 24 3 2. 3 47] 2 1
+Animal drawn
+
+__2010- i es perType of Vehicle
+Vehicle Type MP | NW] LI [ NC
+[Motorcars 69 551 64,165]
+Minibuses 7 ie 135] 2
+Minibus Taxis Z| 31 80}
+Buses | Et
+|Motoreyeles 37] zh z
+LDV's - Bakkies Ec: A: 7
+[Trucks 1 54
+[Trucks - articulated = ut 24
+|Other and unknown 20: 33: 104 8 4i 7 401 141 4
+Bicycle 3 2 1 7 31] 2 2.
+nimal drawn 2
+
+a Se _Number of TOTAL Fatalities per Type of Vehicle _ i
+Vehicle Type GA | KZ | wc | EC FS MP | NW [ LI NC
+
+Motorcars 47 -29i| 111i 29.29 1899-46839 -709__—-7.0
+Minibuses B79 -40.70 3299 93 15.64 36.1 -15.354 54.30 154.9.
+Minibus Taxis ay =11.53} os 34.00 -80.25 633.78 -35.58 —-1.29 -100.01
+Buses 10.28 -40.74 61.84 9.84 203.34 -47.60 -100.0 6268) 7A
+Motorcycles 327] 188-749-5479 248A 25.15) om 69.22 -46.2
+LDV's - Bakkies 34g 71 44x 14.47] 5.97 451]_—-7-7 103 ~—«S.G
+
+rucks 9229 958.8) -93.07| -100.00 1424 0.09) 65 cr 25.54 44.9.
+[Trucks - articulated 42: =| 159.03 16.63 403.2 -15.49 107.74 -1477] 0.0
+(Other and unknown | -15.59 489 -999 30.07] 5.94 -38.05 46.65 1258 94.0:
+Bicycle 219 39.99 -43.50 -42 78.48 2.74 -40.359 0.03) -100.0
+
+nimal drawn 0.09 2.04 0.09 0.04 004 0.04 004 000 0.0
+
+87
+
+--- Page 95 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+ANNEXURE J
+
+DEFINITION OF OFFENCES
+
+For survey purposes, the different offences were defined as follows:
+a. Speed offences
+
+For the calculation of the indicators and indexes the offence rates excluding the tolerance
+were used. The speed limits for all vehicles are the same in the 60 km/h zones. In the
+higher speed zones, goods vehicles weighing more than 3 500 kg are restricted to 80
+km/h; while buses and minibus taxis are restricted to 100 km/h in zones with a higher
+general speed limit.
+
+b. Alcohol levels
+
+In respect of drivers of light motor vehicles, the legal limit of 0.24 mgjlitre of breath were
+applied. Professional drivers as defined (i.e. drivers needing a Professional Driver Permit)
+were tested on a level of 0.1 mg/l.
+
+c. Seatbelts and Child Restraints
+
+The survey recorded the wearing of seatbelts by drivers and passengers of Light Motor
+Vehicles only. The observations of the drivers and front passengers were made at traffic
+signals in urban areas, without the occupants being aware that they wearing of seatbelts
+were being checked (unobserved). The wearing of seatbelts by back passengers, and the
+use of child restraints were recorded during the roadblock surveys (observed).
+
+a. Traffic signals
+
+Where vehicles passed the stop line after the signal controlling their movement turned red,
+it was recorded as an offence. However, where vehicles turned right in the face of the red
+light after waiting for oncoming traffic during the green or amber phases, the movement
+was not recorded as an offence if the front wheels were already over the stop line when
+
+the light turned red.
+
+b. Barrier lines
+
+88
+
+--- Page 96 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+In the survey of barrier line offences, an offence was recorded when any wheel or wheels
+of a vehicle crossed the barrier line. Only convoys of vehicles were recorded, thus only
+recording data where the driver of the vehicle was following another vehicle, and where
+there was an opportunity to commit an offence.
+
+c. Driver documentation
+
+It was recorded as an offence when a driver could not produce a valid driver's licence for
+the relevant vehicle type. Learners’ licences, temporary licences and valid international
+licences were recorded separately. PrDPs appear as an inscription on the card licence.
+The presence of the PrDP inscriptions on the licences of the drivers of the relevant
+vehicles (goods vehicles with GVM exceeding 3,500 kg, public transport vehicles) was
+recorded. If a permit was present but expired, it was recorded as a separate category of
+offence.
+
+d. Vehicle documentation
+
+Agreement between the registration number on the number plate and the licence disk was
+checked. In some cases the letters on the licence disk were illegible and this was recorded
+separately. The correlation between the number plate and license disk was also checked.
+
+e. Vehicle fitness
+
+Tyres and lights were covered in this part of the survey. Tyres were recorded as illegal if
+the treads on a part of more than +5cm x 5 cm, or a strip of more than +10cm x 1.5 cm,
+was worn to less than 1 mm in depth. Tread depth meters were used for the purpose of
+the survey. As far as damage to tyres was concerned, small dents that would clearly not
+influence the strength of the tyre were ignored. Any damage (tears, cuts, holes) that the
+surveyors felt uncomfortable about was recorded as an offence. A subjective element
+could not be avoided.
+
+Six categories of lights were tested: indicators front and back, head lights dim, head lights
+bright, tail lights and brake lights. The number working was recorded. An offence was
+recorded when any of those lights did not function.
+
+f. Pedestrian Compliance with Traffic Signals
+Pedestrian compliance with traffic signals was observed in urban areas at traffic signals
+(robots) where pedestrian signals were present. The number of pedestrians arriving on the
+
+red man, vs. the number of pedestrians crossing the red man was recorded.
+
+89
+
+--- Page 97 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+g. Use of cell phones while driving
+Drivers of vehicles talking on cell phones were observed at traffic signals (robots) in urban
+
+areas. If the driver of a vehicle was using a cell phone while passing through, or stopping
+at a traffic signal, it was recorded as an offence.
+
+90
+
+--- Page 98 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+ANNEXURE K:
+STRATEGY FOR SAMPLE SIZE DETERMINATION
+
+The determination of sample sizes for a survey is often a complicated issue and various factors
+need to be taken into account. These factors include:
+¢ The nature of the relevant parameter to be estimated, which could be the mean, a
+proportion, etc
+¢ The statistical properties of the associated estimators of the parameters
+¢ The amount of previous knowledge available.
+* Specifications for the survey in terms of accuracy, confidence level, etc.
+
+In addition to the above, in planning phases of the previous surveys some decisions on sampling
+strategy had to be taken, like where to sample, which environmental / traffic conditions need to be
+taken into account. etc. With all these factors in mind. certain recommended sample sizes were
+proposed and implemented in the surveys.
+
+At the end of the 2003 survey the standard errors of estimation were evaluated using a simulation
+process. This process quantified the observed standard errors relative to standard errors of other
+usually smaller sample sizes.
+
+Based on the experience and knowledge gained during the previous survey (2002 to date), it was
+possible to introduce some refinements in the sampling strategy.
+
+The results of the evaluation of the initial sampling strategy are shown in the tables in the rest of
+this chapter.
+
+In the evaluation of the sampling strategy the actual results of previous surveys were taken into
+account. By using the more detailed information from the previous surveys, it was possible to make
+more accurate estimates of the “required” sample sizes. However, the “required” sample sizes
+were not always practical, considering the realities out on the road. One example of such a
+situation is where the theoretical “required” sample size for light motor vehicles is much smaller
+than the samples that were normally taken in the past. Taking the practical situation into account, it
+turns out that smaller samples for light motor vehicles will not really be less expensive because the
+survey teams will still have to stay out on the road waiting for the other scarcer vehicle types to
+appear (taxis, trucks and especially buses). On the other hand, the required sample sizes that are
+based on an ideal combination of confidence interval and maximum error will be unpractical (read
+“too expensive’) in the case of some of the scarcer vehicle categories on certain roads and during
+certain times of the day (e.g. buses on rural roads during night time). In such cases it is necessary
+to lower the standards - in some cases it will be necessary to use much less stringent requirements
+than those implied by the “required” sample size.
+
+The proposals on the “practical” sample sizes on the next couple of pages have been prepared,
+taking the relevant issues (statistical requirements, realities on the road and typical cost structures)
+into account. In most cases the original standards that were set by the Corporation are met and
+even exceeded with these “practical” sample sizes. There are however some of the “practical”
+sample sizes where the standards have been lowered substantially — in most cases this is related
+to the scarcer vehicle types, especially during times of the day when very low volumes of these
+vehicles are expected.
+
+A new strategy to determine sample sizes for barrier line offences was introduced during the 2008
+survey. The number of convoys of vehicles were recorded, with the convoys where barrier lines
+were crossed being recorded as an offence.
+
+The proposal on the “practical” sample sizes to be used during future surveys are shown in the rest
+of this section.
+
+91
+
+--- Page 99 ---
+Road Traffic Management Corporation
+
+Speed
+
+Light motor vehicles
+Urban roads: 60 kph, day (Table 6. 1-1)
+
+Road Traffic Report — Year 2010/11
+
+Number ~ |
+Cont. | gg, | Historic | Required | Suggested | Varied | Practical | tained | 9,
+fact HOF proportion | number | number error | number during Complete
+2010
+surve'
+GA_| 1.96 | 0.05 | 0.452 381 1476 1500 1,680 112%
+KZ 1.96 | 0.05 | 0.156 202 1430 1500 1,600 107%
+WC _| 1.96 | 0.05 | 0.286 314 1268 1500 1,749 117%
+EC_| 1.96 | 0.05 | 0.294 319 1455 1500 1,669 111%
+FS 1.96 | 0.05 | 0.461 382 1254 1500 1,760 117%
+MP_| 1.96 | 0.05 | 0.533 382 825 1500 1.520 101%
+NW | 1.96 | 0.05 | 534 Ee REY 1500 1,500 | 100% |
+Ll 1.96 | 0.05 | 0.519 384 1246 1500 1,600 107%
+NC __| 1.96 | 0.05 | 0.172 219 1254 1500 1,520 101%
+SA 2965 11440 13500 14,598 | 108%
+Urban roads: 60 kph, night
+Number ‘|
+Conf. Error Historic Required | Suggested | Varied | Practical rears %
+fact proportion | number | number error | number 2010 Complete
+surve
+GA
+KZ
+wc
+EC
+FS
+MP_| 1.96 | 0.05 | 0.324 337 352 600 800 133%
+NW _| 1.96 | 0.05 1oae2 380 523 600 __| 640 107%
+LI 1.96 | 0.05 | 0.49 384 388 600 640 107%
+NC_| 1.96 | 0.05 | 0.282 317 458 600 810 135%
+SA 2924 6328 7200 8,100 113%
+
+92
+
+--- Page 100 ---
+Road Traffic Management Corporation
+
+Rural roads: 120 kph, day
+
+Road Traffic Report — Year 2010/11
+
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical ial %
+fact proportion | number | number error | number 2010 Complete
+survey
+GA_| 1.96 | 0.05 | 0.318 333 1001 1500 1,600 107%
+KZ 1.96 | 0.05 | 0.215 259 1190 1500 1,600 107%
+WC _| 1.96 | 0.05 | 0.264 299 | 761 1500 | 1,553 | 104%
+EC | 1.96 | 0.05 | 0.234 275 1083 1500 1,520 101%
+FS_| 7.96 | 0.05 | 0.342 346 572 1500 | 2,080 __ | 139%
+MP_| 1.96 | 0.05 | 0.324 337 352 1500 1,660 111%
+NW | 7.96 | 0.05 [0.448 | 380 523 _| 1500 1,537 102%
+ub 1.96 | 0.05 | 0.49 | 384 388 1500 1.600 107%
+NC 1.96 | 0.05 | 0.282 311 458 1500 1,919 128%
+SA 2924 6328 13500 15,069 | 112%
+Rural roads: 120 kph, night
+T Number
+Conf. Error Historic Required | Suggested | Varied | Practical er %
+fact proportion | number | number error | number 2010 Complete
+survey
+GA 96 | 0.05 | 0.231 273 1336 1200 1,280 107%
+0.05 | 0.191 237 638 1200 1,298 108%
+0.05 | 0.203 249 =| 966 1200 1,520 127%
+0.05 | 0.069 99 523 600 825 138%
+FS__| 1.96 | 0.05 | 0.159 205 ‘| 794 600 | 7,599 | 267%
+MP_| 1.96 | 0.05 | 0.131 175 221 600 640 107%
+NW_| 1.96 | 0.05 | 0.254 291 540 __| 600 640 107%
+Lt 1.96 | 0.05 | 0.205 250 604 600 783 131%
+NC_| 1.96 | 0.05 | 0.249 | 287 301 600 647 108%
+SA 2066 5923 7200 9,232 128%
+
+93
+
+
+--- Page 101 ---
+Road Traffic Management Corporation
+
+Minibus-Taxis
+Urban roads: 60 kph, day
+
+Road Traffic Report — Year 2010/11
+
+KZ
+
+Conf.
+
+Fact Error
+
+Historic
+proportion
+
+number | number
+
+Required | Suggested | Varied
+
+error
+
+Practical
+number
+
+Number
+obtained
+during
+2010
+
+%
+Complete
+
+1.96 | 0.05
+
+0.1
+
+138 138
+
+0.05
+
+400
+
+417
+
+104%
+
+surve
+GA_| 1.96 | 0.05 | 0.39 366 366 0.05 | 400 486 122%
+
+334
+
+WC_| 1.96 | 0.05 | 0.34 345 345 0.05 400 485 121%
+EC | 1.96 | 0.05 | 0.26 296 296 0.05 400 405 101%
+ES 1.96 | 0.05 | 0.25 288 288 0.05 400 414 104%
+MP_| 1.96 | 0.05 | 0.3 323 323 0.05 400 442 111%
+NW | 7.96 | 0.05 | 0.43 [377 377 0.05 | 400 | 407 102%
+ub 1.96 | 0.05 | 0.39 366 366 0.05 400__—'| 441 110%
+NC_| 1.96 | 0.05 | 0.78 227 227 0.00 400 414 104% |
+LSA 2726 2726 3600 3,911 109%
+Urban roads: 60 kph, night
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical aie %
+fact proportion | number | number error | number 2010 Complete
+
+0.05 288 72
+we | 7.96 | 0.05 | 0.23 272 68 387 258%
+EC | 1.96 | 0.05 | 0.14 185 185 157 105%
+FS_| 1.96 | 0.05 | 0.39 366 23 170 113%
+MP_| 7.96 | 0.05 | 0.3 323 81 164 109%
+NW [7.96 | 0.05 | 0.65 350 ‘| 39 167 111%
+Uf [ 1.96 | 0.05 | 0.54 382 42 . | 155 103%
+NC_ [7.96 | 0.05 | 0.18 227 14 0.2 | 150 182 121%
+SA er is 1350 1,733 | 128%
+
+94
+
+--- Page 102 ---
+Road Traffic Management Corporation Road Traffic Report - Year 2010/11
+
+Rural roads: 120 kph (effective speed limit: 100 kph), day
+
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical ie %
+fact proportion | number | number error | number 2010 Complete
+surve'
+GA 1.96 | 0.05 | 0.55 380 380 0.05 | 400 405 101%
+KZ 1.96 | 0.05 | 0.58 374 374 0.05 __| 400 419 105%
+WC _| 1.96 | 0.05 | 0.75 288 288 0.05 | 400 408 102%
+EC | 1.96 | 0.05 | 0.48 384 170 0.075 | 200 301 151%
+[FS | 1.96 | 0.05 88 345 [153 0.075 | 200 213 107%
+(MP _| 1.96 | 0.05 | 0.48 384 170 0.075 | 200 204 102%
+NW | 1.96 | 0.05 | 0.67 340 340 0.05 200 208 104%
+LI 1.96 | 0.05 | 0.54 382 382 0.05 200 385 193%
+NC_| 1.96 | 0.05 | 0.57 [377 94 01 | 200 244 122%
+SA 3254 2351 2400 2,787 116%
+Rural roads: 120 kph (effective speed limit: 100 kph), night
+iz Number
+Conf. BOF Historic Required | Suggested | Varied | Practical po se %
+fact proportion | number | number error | number 2010 Complete
+0.66
+WC _| 7.96 | 0.05 | 0.58 [374 [94 0.7 | 100 139
+EC | 1.96 | 0.05 | 0.25 288 72 0.1 100 198 198%
+FS 1.96 | 0.05 | 0.14 { 185 82 0.075 | 100 189 189%
+MP_| 1.96 | 0.05 | 0.33 340 21 (a Eo) 114 114%
+NW _| 1.96 | 0.05 | 0.54 382 95 0.1 100 246 246%
+LI 1.96 | 0.05 | 0.45 380 95 0.1 100 160 160%
+NC _| 1.96 0.08. 0.57 377 24 0.2 | 100 106 106%
+SA 3040 685 900 1,498 166%
+
+95
+
+--- Page 103 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Bus
+Urban roads: 60 kph, day
+Number
+Conf. Ejfor Historic Required | Suggested | Varied | Practical opieined %
+fact proportion | number | number error | number 201 on Complete
+survey
+GA 1.96 | 0.05 | 0.16 207 52 0.1 60 62 103%
+KZ 1.96 | 0.05 | 0.17 150 67 0.075 | 60 65 108%
+WC_| 1.96 | 0.05 | 0.46 382 42 0.15 60 75 125%
+EC | 1.96 | 0.05 | 0.21 255 64 0.1 60 Ti 118%
+FS 1.96 | 0.05 | 0.32 334. [64 0.1 60 82 137%
+MP_| 1.96 | 0.05 | 0.27 303 34 0.15 60 62 103%
+NW | 1.96 | 0.05 | 0.16 207 52 0.1 60 97 162%
+Ly 1.96 | 0.05 | 0.11 150 67 0.075 | 60 70 117%
+NC _| 1.96 | 0.05 | 0.048 70 31 0.075 | 60 73 122%
+SA 2058 493 540 657 122%
+Rural roads: 120 kph (effective speed limit: 100 kph), day
+Number
+Conf. Enon Historic Required | Suggested | Varied | Practical vrata %
+fact proportion | number | number error | number 2010 Complete
+KZ 1.96 | 0.05 | 0.24 280 70 0.1 50 66 132%
+WC _| 1.96 | 0.05 | 0.18 227 57 01 [50 52 104%
+EC | 1.96 | 0.05 | 0.31 329 21 0.2 25 58 232%
+FS 1.96 | 0.05 | 0.62 362 14 0.25 25 185 740%
+MP_| 1.96 | 0.05 | 0.46 382 42 0.15 25 56 224%
+NW _| 1.96 | 0.05 | 0.18 aa 227 25 0.15 | 25 64 256%
+LI 1.96 | 0.05 | 0.65 350 87 0.1 25 106 424%
+NC_| 1.96 | 0.05 | 0.5 384 15 0.25 25 92 368%
+SA 2837 405 300 752 251%
+
+96
+
+--- Page 104 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Trucks
+Urban roads: 60 kph, day
+Number
+Conf. Eror Historic Required | Suggested | Varied | Practical grielied %
+fact proportion | number | number error | number 201 on Complete
+survey
+GA_| 1.96 0.51 384 384 400 422 106%
+KZ 1.96 0.39 366 162 400 406 102%
+WC _| 1.96 | 0.05 | 0.47 383 383 400 409 102%
+EC | 1.96 | 0.05 | 0.49 384 171 400 419 105%
+FS 1.96 | 0.05 | 0.43 377 en| 167 400 437 109%
+MP_| 1.96 | 0.05 | 0.49 384 171 400 411 103%
+NW _| 1.96 | 0.05 | 0.53 Soon C170 400 413 103%
+Ll 1.96 _| 0.05 | 0.52 384 170 400 410 103%
+NC_| 7.96 | 0.05 | 0.39 366 162 400 2% 107%
+SA 3411 1940 3600 3,753 104%
+Urban roads: 60 kph, night
+Number
+Conf. —_— Historic Required | Suggested | Varied | Practical Sede | %
+fact proportion | number | number error | number 2010 Complete
+GA_| 1.96 120%
+KZ 1.96 219 219%
+WC | 1.96 h 111 111%
+EC | 1.96 | 0.05 96 0.1 100 109 109%
+FS 1.96 | 0.05 | 0.35 | 350 39 0.15 100 329 329%
+MP_| 1.96 | 0.05 | 0.46 382 95 0.1 100 141 141% |
+NW _| 1.96 | 0.05 | 0.55 380 95 0.1 100 171 171%
+Li 1.96 | 0.05 | 0.5 384 96 0.1 100 168 168%
+NC _| 1.96 | 0.05 | 0.38 362 40 Ealfors 100 18 113%
+SA 3376 693 900 1,481 165%
+
+97
+
+--- Page 105 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — Year 2010/11
+
+Rural roads: 120 kph (effective speed limit: 80 kph), day
+
+Number |
+Conf. Bror Historic Required | Suggested | Varied | Practical a %
+fact proportion | number | number error | number 2010 Complete
+surve
+GA_| 1.96 | 0.05 | 0.55 380 380 0.05 400 441 110%
+KZ 1.96 | 0.05 | 0.43 377 377 0.05 400 438 110%
+WC | 1.96 [0.05 | 0.66 345 345 0.05 | 400 456 | 114% |
+EC_| 1.96 | 0.05 | 0.54 382 170 0.075 | 400 455 114%
+FS 1.96 | 0.05 | 0.73 303 303 0.05 | 400 673 168%
+MP_| 1.96 | 0.05 | 0.5 384 171 0.075 | 400 455 114%
+NW _| 1.96 | 0.05 | 0.59 372 372 0.05 _| 400 459 115%
+LI 1.96 | 0.05 | 0.6 369 369 0.05 400___—'| 474 119%
+NC | 1.96 | 0.05 | 0.84 207 207 0.05 400 440 110%
+SA i 3119 2694 3600 4,291 119% _|
+Rural roads: 120 kph (effective speed limit: 80 kph), night
+Number
+Conf. fs Historic Required | Suggested | Varied | Practical obtained %
+fact 17°" | proportion | number | number error | number during Complete
+PFOP: a 2010 es
+EC | 1.96 | 0.075 | 0.34 153 153 0.075 _| 400 401 100%
+FS 169 380 0.05 | 400 657 164%
+MP [764 92 01 | 400 400 100%
+NW. 169 169 0.075 | 400 | 400 100%
+Ll 162 162 0.075 | 400 440 110%
+NC | 1.96 | 0.075 | 0.72 138 138 0.075 | 400 406 102%
+SA 1449 1999 3600 4,042 112%
+
+98
+
+--- Page 106 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Vehicle condition (Tyres, Lights), documents (Driver Licence, PrDP) and Seatbelts
+Light motor vehicle
+
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical ed %
+fact proportion | number | number error | number 2010 Complete
+survey
+GA_| 1.96 | 0.05 | 0.14 185 185 0.05 400 469 117%
+KZ 1.96 | 0.05 | 0.2 246 246 0.05 400 413 103%
+WC _| 1.96 | 0.05 | 0.19 236 236 0.05 | 400 440 110%
+EC 1.96 | 0.05 | 0.17 217 217 0.05 400 405 101%
+FS 1.96 | 0.05 | 0.15 196 196 0.05 | 400 428 al 107%
+MP_| 1.96 | 0.05 | 0.09 126 126 0.05 400 406 102%
+NW | 1.96 [0.05 | 0.15 196 | 196 0.05 | 400 415 104%
+a] 1.96 | 0.05 | 0.16 207 207 0.05 400 | 425 106%
+NC _| 1.96 | 0.05 | 0.18 227 227 0.05 | 400 409 102% :
+SA iz 836 1836 3600 3810 106%
+Minibus taxi
+Number
+Conf. fe Historic Required | Suggested | Varied | Practical opiained %
+fact — proportion | number | number error | number during Complete
+2010
+KZ 1.96 | 0.05 | 0.24 280 280 0.05 300 306 102%
+WC _| 1.96 | 0.05 | 0.29 316 316 0.05 326 109%
+EC | 1.96 | 0.05 | 0.23 272 272 0.05 300 100%
+FS 1.96 | 0.05 | 0.27 303 al 303 0.05 | 300 303 101%
+MP_| 1.96 | 0.05 | 0.2 246 246 0.05 | 300 302 101%
+NW _| 1.96 | 0.05 | 0.28 310 310 0.05 | 300 316__—| 105%
+uf 1.96 | 0.05 | 0.27 303 303 0.05 __| 300 303 101%
+NC | 1.96 | 0.05 | 0.27 303 303 0.05 _| 300 305 102% |
+SA sa 2605 2605 2700 2761 102%
+
+99
+
+--- Page 107 ---
+Road Traffic Management Corporation
+
+Bus
+
+Road Traffic Report — Year 2010/11
+
+Conf.
+fact
+
+Historic
+proportion
+
+Required
+number
+
+Suggested
+number
+
+Varied
+error
+
+Practical
+number
+
+Number
+obtained
+
+during
+2010
+survey
+
+%
+Complete
+
+GA_| 1.96 | 0.05 | 0.19 236 | 59 120%
+KZ 1.96 | 0.05 | 0.22 264 66 101%
+we _| 7.96 | 0.05 [0.12 162___—| 72 116%
+EC 1.96 | 0.05 | 0.18 227 57 0.1 100 103 103%
+FS 1.96 | 0.05 | 0.2 246 [109 0.075 | 100 107 107%
+MP_| 1.96 | 0.05 | 0.03 45 45 0.05 100 100 100%
+NW | 7.96 | 0.05 | 0.13 174 [43~ 07 | 100 107 101%
+LI 1.96 | 0.05 | 0.3 323 143 0.075 | 100 102 102%
+NC_| 1.96 | 0.05 | 0.18 227 57 0.7 | 100 127 (eee
+SA 1904 651 900 977 109%
+Truck
+Number
+Conf. Ever Historic Required | Suggested | Varied | Practical in %
+fact proportion | number | number error | number 2010 Complete
+
+survey
+
+GA_| 1.96 | 0.05
+
+KZ__| 1.96 | 0.05
+
+WC _| 1.96 | 0.05 i
+
+EC_| 1.96 | 0.05 | 0.27 303 303 0.05 | 350 352 101%
+
+FS__| 1.96 | 0.05 | 0.3 323 323 0.05 | 350 372 106%
+
+MP_| 1.96 | 0.05 | 0.22 264 264 0.05 | 350 357 102%
+
+NW _| 1.96 | 0.05 | 0.38 | 362 362 0.05 | 350 370 106%
+
+ul 1.96 | 0.05 | 0.27 303 303 0.05 __| 350 350 100%
+
+NC_ | 1.96 | 0.05 | 0.37 358 358 0. 081380 360 103% al
+SA 2879 2879 3150 3271 104%
+
+100
+
+
+--- Page 108 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — Year 2010/11
+
+Alcohol
+Day time: Light motor vehicle
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical ee %
+fact proportion | number | number error | number 2010 Complete
+survey
+GA_| 1.96 _| 0.05 | 0.0112 17 17 0.05 100 217 217%
+KZ 1.96 | 0.05 | 0.0035 5 5 0.05 100 139 139%
+WC_| 1.96 | 0.05 | 0.0098 15 15 0.05 100 172 172%
+EC | 1.96 | 0.05 | 0.0074 11 11 0.05 100 128 128%
+FS 1.96 | 0.05 | 0.0072 11 11 0.05 100 159 159%
+MP_| 1.96 | 0.05 | 0.0117 17 17 0.05 100 104 104%
+NW_| 1.96 | 0.05 | 0.0026 4 4 0.05 100 212 212% Bl
+Li 1.96 | 0.05 | 0.0072 11 11 0.05 100 102 102%
+NC_| 1.96 | 0.05 [0.0074 | 77 11 0.05 | 100 8 100%
+SA 102 102 900 1333 148%
+Day time: Minibus taxi
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical a %
+fact proportion | number | number error | number 2010 Complete
+
+0.0221
+
+33
+
+KZ__| 1.96 | 0.05 | 0.0284 42 42 94 157%
+WC_| 1.96 | 0.05 | 0.0074 11 11 154 257%
+EC_| 1.96 | 0.05 | 0.0214 32 32 0.05 | 60 100 167%
+FS 1.96 | 0.05 | 0.0245 37 37 0.05 | 60 128 213%
+MP_| 1.96 | 0.05 | 0.0227 34 34 0.05 | 60 66 110%
+NW_| 1.96 | 0.05 0.0051 | 8 8 0.05 | 60 116 193%
+LI 1.96 | 0.05 | 0.024 36 36 0.05__| 60 71 118%
+NC _| 1.96 | 0.05 | 0.0759 108 108 0.05 | 60 100 167%
+SA 341 341 540 954 177%
+
+101
+
+--- Page 109 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Day time: Bus
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical nena %
+fact proportion | number | number error | number OTOL Complete
+
+GA_| 1.96 | 0.05 | 0.0836 118 92%
+KZ 1.96 | 0.05 | 0.038 56 60%
+WC_| 1.96 | 0.05 | 0.038 56 56 [60 64 107%
+EC | 1.96 | 0.05 | 0.038 56 56 0.05 | 60 59 98%
+FS 1.96 | 0.05 | 0.625 360 90 0.1 60 67 112%
+MP_| 1.96 | 0.05 | 0.038 56 25 0.075 | 60 42 70% 4
+NW _| 1.96 | 0.05 | 0.038 | 56 25 0.075 | 60 45 75%
+Li 1.96 | 0.05 | 0.038 56 25 0.075 | 60 50 83%
+NC_| 1.96 | 0.05 | 0.0455 67 | 30 0.075 | 60 52 87%
+SA 887 361 540 470 87%
+Day time: Truck
+Number
+Conf. Enor Historic Required | Suggested | Varied | Practical peo %
+fact proportion | number | number error | number 2010 Complete
+survey
+
+1.96 | 0.05 | 0.0176 | 27 27 0.05 271 352%
+KZ_|1.96 | 0.05 | 0.0078 | 12 12 0.05 130 217%
+WC | 7.96 | 0.05 | 0.0769 | 26 26 0.05 136____| 227%
+EC_| 7.96 | 0.05 | 0.0061 | 9 9 0.05 | 60 162 270%
+FS_| 1.96 | 0.05 [0.0112 [17 17 [005 [60 [739 232%
+MP _| 1.96 | 0.05 | 0.0112 _ | 17 17 0.05 | 60 96 160%
+[nw | 1.96 | 0.05 | 0.0068 | 10 10 0.05 | 60 125 208%
+ui | 7.96 | 0.05 | 0.0112 [17 17 0.05 | 60 70 117%
+NC_| 7.96 | 0.05 | 0.0171 | 26 26 0.05 te 118 197%
+SA 161 161 540 1187 | 220%
+
+102
+
+--- Page 110 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Night time: Light motor vehicle
+
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical pared %
+fact proportion | number | number error | number 2010 Complete
+survey
+GA_| 1.96 | 0.05 | 0.0428 63 63 0.05 100 251 251%
+KZ 1.96 | 0.05 | 0.0301 45 45 0.05 100 173 173%
+WC _| 1.96 | 0.05 | 0.0251 38 38 0.05 100 191 191%
+EC | 1.96 | 0.05 | 0.0328 49 49 0.05 100 185 185%
+FS 1.96 | 0.05 | 0.0392 58 58 0.05 100 198 198%
+MP_| 1.96 | 0.05 | 0.0521 76 76 0.05 100 149 149%
+NW _| 1.96 | 0.05 | 0.0299 45 45 0.05 100 150 150% a]
+LI 1.96 | 0.05 | 0.0282 42 42 0.05 100 148 148%
+NC | 1.96 | 0.05 | 0.0306 46 46 0.05 100 208 208%
+SA 462 462 900 1653 __| 184%
+Night time: Minibus taxi
+| Number
+Conf. 5 Historic Required | Suggested | Varied | Practical obiained %
+‘ror 4 during
+fact proportion | number | number error | number 2010 Complete
+survey
+GA_| 1.96 | 0.05 | 0.1212 164 60 175
+KZ_| 7.96 | 0.05 | 0.0164 | 25 25 0.05 | 60 120 200%
+WC_| 1.96 | 0.05 | 0.0638 92 92 0.05 | 60 | 100 167%
+EC_| 1.96 | 0.05 | 0.0882 124 124 0.05 60 122 203%
+FS 1.96 | 0.05 | 0.0458 il 67 67 0.05 60 101 168%
+MP_| 1.96 | 0.05 | 0.098 136 60 0.075 _| 60 100 167%
+NW _| 1.96 | 0.05 | 0.0326 48 48 0.05 60 117 195%
+LI 1.96 | 0.05 | 0.0404 60 60 0.05 60 96 160%
+NC | 1.96 | 0.05 | 0.0714 102 45 0.075 | 60 4 05 175%
+SA 818 594 540 1036 192%
+
+103
+
+--- Page 111 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Night time: Bus
+
+Number
+Conf. Error Historic Required | Suggested | Varied | Practical richie %
+fact proportion | number | number error | number 2010 Complete
+surve!
+GA_| 1.96 | 0.05 | 0.1111 152 17 0.15 40 65 163%
+KZ 1.96 | 0.05 | 0.1111 152 38 0.1 40 65 163%
+WC _| 1.96 | 0.05 | 0.1111 152 38 0.1 40 52 | 130%
+EC | 1.96 | 0.05 | 0.1111 152 38 0.1 40 44 110%
+Fs 1.96 | 0.05 | 0.1111 152 38 0.1 40 40 100% |
+MP_| 1.96 | 0.05 | 0.1111 152 38 0.1 40 | 58 145%
+NW | 7.96 | 0.05 | 0.1117 152 17 0.15 | 40 56 140%
+Li 1.96 | 0.05 | 0.1111 152 9 0.2 40 52 130%
+NC 1.96 | 0.05 | 0.1111 152 17 0.15 40 75 188%
+SA 1368 250 (as 360 507 141%
+Night time: Truck
+Number
+Conf. rer Historic Required | Suggested | Varied | Practical oe %
+fact proportion | number | number error | number 2010 Complete
+surve:
+GA_| 1.96 | 0.05 | 0.0164 25 25 0.05 60 146 243%
+KZ 1.96 | 0.05 | 0.0096 15 15 0.05 60 101 168%
+WC _| 1.96 | 0.05 | 0.0147 22 22 0.05 60 158 263%
+EC | 1.96 | 0.05 | 0.0244 37 37 0.05 60 119 198%
+FS 1.96 | 0.05 | 0.0131 20 20 0.05 | 60 134 223%
+MP_| 1.96 | 0.05 | 0.016 24 24 0.05 60 66 110%
+NW_| 1.96 | 0.05 | 0.0175 26 26 0.05 [60 141 235%
+LI 1.96 | 0.05 | 0.0364 54 54 0.05 60 83 138%
+NC [186 0.05 | 0.0364 | 54 54 0.05 | 60 129 215%
+SA 277 20F. 540 1077 199%
+
+104
+
+--- Page 112 ---
+Road Traffic Management Corporation
+
+Pedestrian Compliance
+
+Road Traffic Report — Year 2010/11
+
+Day Time
+Number
+Conf. Biror Historic Required | Suggested | Varied | Practical ae %
+fact proportion | number | number error | number 2010 Complete
+survey
+GA_| 1.96 | 0.05 | 0.26 296 296 | 0.05 | 300 320 107%
+KZ 1.96 | 0.05 | 0.2 246 246 0.05 | 300 320 107%
+WC _| 1.96 | 0. 05 | 0.32 334 334 0.05 | 300 320 107%
+EC | 1.96 | 0.05 | 0.36 354 354 0.05 | 300 320 107%
+Fs 1.96 | 0.05 | 0.21 255 255 0.05 | 300 440 147%
+MP_| 1.96 | 0.05 | 0.34 345 345 0.05 | 300 400 133%
+NW _| 1.96 | 0.05 | 0.35 350 _| 350 0.05 300 440 147% |
+Li 1.96 | 0.05 | 0.37 358 358 0.05 300 320 107%
+NC_| 7.96 | 0.05 | 0.12 162___| 162 0.05 [300 | 300 100%
+SA 2700 2700 | 2700 3180 118%
+Night Time
+Number
+Conf. Effor Historic Required | Suggested | Varied | Practical ele %
+fact proportion | number | number error | number 2010 Complete
+surve
+GA_| 1.96 | 0.05 | 0.03 45 279 0.02 _| 300 320 107%
+KZ 1.96 | 0.05 | 0.013 20 123 [0.02 | 300 320 107%
+WC _| 1.96 | 0.05 | 0.003 5 —| 29 0.02 | 300 300 100%
+EC | 1.96 | 0.05 | 0.01 15 95 0.02 300 | 300 100%
+FS 1.96 | 0.05 | 0.01 15 95 0.02 __| 300 360 120%
+MP_| 1.96 | 0.05 | 0.063 [97 91 0.05 | 300 300 100%
+NW | 1.96 | 0.05 | 0.003 5 29 0. 02 | 300 380 127%
+Ll 1.96 | 0.05 | 0.013 20 123 0.02 _| 300 360 120%
+NC_| 1.96 | 0.05 | 0.033 49 | 306 0.02 | 300 320 107%
+SA 265 1170 2700 2960 110%
+
+105
+
+--- Page 113 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+Ro affic
+
+Management Corporation
+
+Compiled by: Magadi Gainewe
+Road Traffic Management Corporation
+Boardwalk Office Park: Phase 5
+Boardwalk Boulevard: Faerie Glen
+Pretoria East, Tshwane
+Tell: 087 310 8200
+
+Want to know more about the RTMC - visit
+Want to know more about ARTO - visit
+
+106
+
+--- Page 114 ---
+Road Traffic Management Corporation Road Traffic Report — Year 2010/11
+
+107
+

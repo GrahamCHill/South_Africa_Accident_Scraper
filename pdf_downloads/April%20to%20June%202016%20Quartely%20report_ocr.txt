@@ -1,0 +1,3533 @@
+--- Page 1 ---
+Y transport »
+
+\( Roa affic
+
+@ i) Deets
+WZ REPUBLIC OF SOUTH AFRICA Management Corporation
+
+ROAD TRAFFIC REPORT
+
+1 APRIL TO 30 JUNE 2016
+
+
+--- Page 2 ---
+* Road “‘raffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Index
+Section Topic Page
+
+Vision 3
+Mission 3
+Values 3
+Abbreviation 5
+Definition 6
+
+Data Man 8
+
+1 Executive Summary 9
+2 Vehicle Population 11
+2.1 Number of Registered Vehicles 11
+
+2.2 Human Population and Mobility 14
+
+2.3 Number of Un-roadworthy and Un-licensed vehicles 18
+
+3 Driver Population 26
+3.1 Learner Driving Licences 26
+
+3.2 Driving Licences Issued and Expired 27
+
+3:3 Professional Driving Permits (PrDP’s) Issued and Expired 31
+
+4 Fatal Road Traffic Crashes and Fatalities 34
+4.1 Number of Fatal Crashes 34
+
+4.2 Number of Fatalities 40
+
+5 Contributory factors 53
+6 Major Accidents Investigated 56
+7 Conclusion 71
+
+
+--- Page 3 ---
+* Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Vision
+
+Safe roads in South Africa
+
+Mission
+Ensure safe, secure and responsible use of Roads in South Africa through:
+
+> Education
+Enforcement
+Coordination
+Partnership
+Planning
+
+VV VV WV
+
+Engineering
+
+Values
+
+The values of the Corporation emanate from the Constitution of the republic, and
+place emphasis on the commitment to law and order and service delivery:
+
+
+--- Page 4 ---
+* Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+ies of the Corporation in an
+
+| The pledge to execute the responsibi
+
+| Integrity
+/ | ethical, truthful, and accurate manner consistent with the professionel
+
+‘The undertaking to be open, honest and accountable as law « enforcers |
+
+Fl
+
+“Accountability
+
+»
+
+ind road safety champions.
+
+“facilitation of free and reasonable access to information within the
+
+"confines of applicable prescripts. |
+
+Teamwork
+
+[The “establishment and maintenance of shared goals by building
+internal and external relationships, furthermore by placing emphasis on
+"working together by providing support through collaboration while
+_ upholding dignity and respect between and among partners /
+
+
+--- Page 5 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+ABBREVIATION
+
+RTMC
+CHoCOR
+EC
+
+GA
+
+FS
+
+Ll
+
+MP
+
+NC
+
+NW
+Wc
+KZN
+SAPS
+ENATIS
+NSS
+
+ROAD TRAFFIC MANAGEMENT CORPORATION
+CULPABLE HOMICIDE CRASH: OBSERVATION REPORT
+EASTERN CAPE
+
+GAUTENG
+
+FREE STATE
+
+LIMPOPO
+
+MPUMALANGA
+
+NORTHERN CAPE
+
+NORTH WEST
+
+WESTERN CAPE
+
+KWAZULU NATAL
+
+SOUTH AFRICAN POLICE SERVICE
+
+ELECTRONIC NATIONAL TRAFFIC INFORMATION SYSTEM
+NATIONAL STATISTICS SYSTEM
+
+--- Page 6 ---
+Road Traffic Management Corporation
+
+DEFINITIONS
+
+Road Traffic Report: April - June 2016
+
+NO.
+
+TERM
+
+DEFINITION
+
+Road traffic
+crash
+
+A road traffic crash is an accident, event, collision or crash between two
+or more vehicles, a vehicle and a train, a vehicle and a cyclist, a vehicle
+and a pedestrian, a vehicle and an animal, a vehicle and a fixed object,
+such as a bridge, building, tree, post, etc, or a single vehicle that
+overturned on or near a public road. A road traffic crash is a single road
+traffic incident, regardless of the number of vehicles or persons involved
+
+in any particular crash.
+
+Crash Scene
+
+An area where a crash has occurred.
+
+Crash
+categories
+
+Categories or Degrees of Crashes : Road traffic crashes are
+classified in the following four categories in accordance with the severity
+thereof :
+
+e Fatal crash : a crash resulting in the death of one or more persons.
+The persons killed may be drivers and passengers of vehicles, or
+cyclists and pedestrians. Such crashes can include serious and
+slight injuries.
+
+e Major crash : a crash in which one or more persons are seriously
+injured and can include slight injuries.
+
+e Minor crash : a crash in which one or more persons are slightly
+
+injured.
+
+The above three categories of crashes are jointly referred to as
+
+casualty crashes.
+
+e Damage only crash : a crash in which no-one was killed or injured
+and resulted in damage to the vehicle or vehicles and/or other
+
+property only.
+
+Casualty
+categories
+
+Categories or Degrees of Casualties : Road traffic casualties or
+
+injuries are classified in the following three categories in accordance
+
+with the severity thereof :
+
+e Fatality : person or persons killed during or immediately after a
+crash, or death within 30 days after a crash happened as a direct
+
+result of such crash.
+
+6
+
+
+--- Page 7 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+e Serious injury : person/s sustained injuries to such an extent that
+hospitalisation is required. Serious injuries include fractures,
+crushings, concussion, internal injuries, severe cuts and lacerations,
+severe shock, etc which require medical treatment, hospitalisation
+
+and/or confinement to bed.
+
+e Slight injury : person/s sustained minor cuts and bruises, sprains
+and light shock which may be treated at the scene of the crash or at
+home.
+
+5 | Accident A form generated electronically or a manually printed form on which
+Report Form the details of a crash are recorded.
+
+6 Driver Any person who drives or attempts to drive any vehicle or who rides
+or attempts to ride any pedal cycle or who leads any draught, pack
+or saddle animal or herd or flock of animals, and "drive" or any like
+word has a corresponding meaning.
+
+7 Data Raw, unprocessed numbers
+
+8 Information
+
+Processed or analysed data that adds context through relationships
+between data to allow for interpretation and use
+
+
+--- Page 8 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+DATA MANAGEMENT
+Road crash data collection methodology
+
+The Culpable Homicide Crash: Observation Report (CHoCOR) form is used to
+collect fatal crashes data on daily basis. South African Police Service (SAPS) is the
+primary source of the fatal crashes data. SAPS provides the Corporation with a list
+of all recorded fatal crashes (CAS list) and further to this the Corporation receive
+the CHoCOR forms from various police stations. Road Traffic Management
+Corporation captures, processes and verifies the data in order to compile a report.
+
+Crash Data Flow
+
+Data is collected through the CHoCOR forms. The forms are submitted to the
+
+Corporation either by fax, email or through the phone.
+Data processing
+
+Road Traffic Management Corporation (RTMC) captures, processes and verifies all
+the data received and captured in order to compile a consolidate report. There is a
+
+continuous engagement with provinces for validation purpose.
+
+--- Page 9 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+1. Executive Summary
+
+1.1 Vehicle Population
+1.1.1 | The number of registered vehicles increased by 314 593 (2.72%) from
+11 566 560 on the 30 June 2015 to 11 881 153 vehicles as on 30 June
+2016.
+1.1.2 | The total number of vehicles that are either un-roadworthy, un-licenced
+or both increased by 27 404 (2.61%) from 1 051 066 vehicles on 30
+June 2015 to 1 078 470 vehicles on 30 June 2016.
+1.1.3 | The number of vehicles that are un-roadworthy (but licenced) increased
+by 15 466 (2.87%) from 539 359 vehicles on 30 June 2015 to 554 825
+vehicles as on 30 June 2016.
+1.1.4 | The number of un-licenced vehicles increased by 7 026 (2.19%) from
+320 382 vehicles on 30 June 2015 to 327 408 vehicles on 30 June
+2016.
+1.2 Driver Population
+1.2.1 | The number of learner driving licences issued increased by 20 090
+(1.60%) from 1 254 221 on 30 June 2015 to 1 274 311 on 30 June
+2016.
+1.2.2 | The number of driving licences issued increased by 507 342 (4.45%)
+from 11 395 277 on 30 June 2015 to 11 902 619 as of 30 June 2016.
+1.2.3 | The number of Professional Driving Permits (PrDP’s) issued increased
+by 3 265 (0.32%) from 1 026 362 as on 30 June 2015 to 1 029 627 on
+30 June 2016.
+1.3 Fatal Road Crashes and Fatalities
+1.3.1 | Over the 3 months period from 1 April to 30 June 2016 there were
+2 912 fatal crashes recorded.
+1.3.2 | Over the 3 months period from 1 April to 30 June 2016 there were
+3 451 fatalities recorded.
+
+
+--- Page 10 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+1.3.3
+
+There were 873 (25.3%) fatalities recorded for drivers, 1 059 (30.7%)
+fatalities for passengers, 1 398 (40.5%) fatalities for pedestrians and
+121 (3.5%) fatalities for cyclists from 1 April to 30 June 2016.
+
+10
+
+
+--- Page 11 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+2. Vehicle Population
+
+21 Number of Registered Vehicles
+The number of registered vehicles increased by 314 593 (2.72%) from 11 566 560 on
+the 30 June 2015 to 11 881 153 vehicles as on 30 June 2016. Detail per type of
+
+vehicle is given in the table below.
+
+Table 1: Number of registered vehicles per vehicle type
+
+Number of Number | Number % % of % of
+Registered Vehicles} registered | registered | Change | Change Group Total
+Motorised Vehicles | June 2015 | June 2016 June 2016) June 2016
+Motorcars 6697574 6 942 64! 245 O6¢ Bad 64.72) 58.43)
+Minibuses 2957194 303 = 798 274 2.83 2.55}
+Buses 58 108] 60 28 241 44 0.56 0.51
+[Motorcycles 360 694) 363 630) 2:94: 08: 3.39 3.0
+ILDV's - Bakkies 2338793 2414913 76 i 3.2! 22.51 20. 33
+[Trucks 363 281 369 747] 6 46 17 3.45} 3.11
+[Other & Unknown 321 067| 272 261 6
+
+Towed Vehicles
+Caravans 103 973 103 419 -560
+Heavy Trailers 181 583 186 507] 4924
+Light Trailers 848 01 18 23
+|Other & Unknown 16 321 -20
+[Total Towed 1 154 25: 22 40:
+[All Vehicles 11881153 314 593)
+
+Source: eNatis
+
+The table above shows that on a percentage basis the biggest change was for
+buses with an increase of 4.16% from 58 108 to 60 525 and followed by motorcars
+with 3.66% from 6 697 574 to 6 942 640.
+
+The total motor vehicle population per Province for June 2015 and 2016
+respectively, is given in table and reflected in the figure below.
+
+11
+
+--- Page 12 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+The monthly percentage changes over the past year for specific types of vehicles;
+as well as motorised and towed vehicles, are shown in the figures below.
+
+Figure 1: Percentage annual change for motorised vehicles
+
+% Annual Change in Motorised Vehicles
+June 2015 to June 2016
+
+Motorcycles
+
+_——_-—_.__.—>~
+
+5
+
+4 ~|
+3 ee | Buses
+1 — ——<—-_ Trucks
+0
+
+aon
+
+A ———— LDV's - Bakkies
+-2 + — ~ ~
+3 Motorcars
+Jun ‘Aug Oct Dec Feb Apr Jun a
+Jul Sep Nov Jan Mch May Minibuses
+Month
+
+The total motor vehicle population per Province for June 2015 and 2016
+respectively, is given in the table and reflected in the figure below.
+
+Table 2: Number of registered vehicles per province
+
+Number of Number Number % % of
+Registered Vehicles| registered registered Change Change Total
+per Province June 2015 | June 2016 June 2016
+[Gauteng 4 485 54: 4594 895 109 350| 2.44 38.67|
+KwaZulu-Natal 1555711 1593 516 37 805] 2.43) 13.41
+Western Cape 7 839 19 1900 484 61 285] 3.33 16.0
+Eastern Cape 768 945 730 796 21 851 2.84] 6.6
+Free State 611 135) 619 466 8 331 = 5.21
+[Mpumalanga 815 419] 844 93: 29 516| 3.6: 7.11
+North West 587 354 602 = 15 288 2.60 5.07|
+Limpopo 636 009 661 914 25 912] 4.07 5.57]
+Northern Cape 267 25: 272 507] 5 25) 1.97 2.29)
+RSA 17 566 =e 11881 153 314 = 2.72) 100)
+
+The table above indicates that the highest increases in the number of registered
+vehicles were recorded in the Limpopo with an increase of 4.07% from 636 002 in
+2015 to 661 914 by Mpumalanga, with an increase of 3.62% from 815 419 to 844
+
+935.
+
+12
+
+--- Page 13 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 2: Percentage annual growth in vehicle population per province
+
+% Annual Growth in Vehicle Population
+June 2015 to June2016
+
+o-+
+GA KZ WC EC FS MP NW LI NC RSA
+
+Figure 3: Percentage annual growth in vehicle population per province (three years
+comparison)
+
+% Annual Growth in Vehicle Population
+
+GA KZ WC EC FS MP NW LI NC RSA
+[F) sune 2013-2014 [I] June 2014-2015 June 2015-2016
+
+Over the past year from June 2015 to June 2016 the highest percentage growth
+in total vehicle was recorded in Limpopo with a growth of 4.07%. Mpumalanga is
+the second highest with an increase of 3.62%.
+
+13
+
+--- Page 14 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+The percentage vehicles registered per province on 30 June 2016 is reflected in
+the graph below.
+
+Figure 4: Percentage contribution of vehicles population per province
+
+North West (5.07%)—
+9
+Mpumalanga (7.11%) E . auteng (38.67%)
+Free State (5.21% :
+
+waZulu-Natal (13.41%)
+
+The information in the graph above shows that 39% of all vehicles were registered
+in Gauteng, 16% in Western Cape and 13% in KwaZulu-Natal as at 30 June 2016.
+
+More detailed information on the number of vehicles per type and province for June
+2015 and 2016 is given in the tables under Annexure A.
+2.2 Human Population and Mobility
+The estimated human population on 30 June of each year from 2013 to 2016 is
+given in the table below. (These figures are estimates from the mid-year
+
+estimates released annually by StatsSA).
+
+Table 3: Estimated Mid-Month Human Population per Province — million
+
+Estimated Mid-Month Human Population per Province - million
+
+Month Province Total
+GA] KZ [| wo] EC | FS | MP | Nw] LI | NC | RSA
+June 2013 | i27i[ 1044 60] 66d 274 4a 3 es 55 1.16 8299
+June 2014 | 1299 1067 61] 67f 279 424 367 56 i oH
+June 2015 | 1324 oof 614 69 264 42q S7q S7A 11e B48
+June 2016 | 13 a 1g 624 7.07 «284 43 vt 5.84 1.20 886
+
+14
+
+--- Page 15 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Based on the information on human and vehicle populations, the average
+number of persons per vehicle per Province (excluding trucks, towed vehicles
+
+and “other” and “unknown’” vehicles) at the end of June, 2013 to 2016 is shown
+in the table and reflected in the graph below.
+
+Table 4: Average Number of Persons per Vehicle (excluding trucks, other, unknown and
+towed vehicles)
+
+‘Average Number of Persons per Vehicle (excluding trucks, other, unknown and towed vehicles
+| Month GA | Kz | wc] ec ] FS | MP | NW] LI NC | RSA
+June 2013 | 35 624 404 1059 624 704 B0f 1139 5.9
+June 2014 [344 <8] 399 105q 614 «68 BOA 10 57.
+June 201s | 34481] 394 1049 614 =67A ~7:84 1064 56
+June 2076 | 337] «SOF 384 1044 —6OY GE] 77A 103] 55
+
+Figure 5: Average number of persons per vehicle (excluding trucks, other and trailers)
+
+Av. No. of Persons per Vehicle
+
+(exluding trucks, other and trailers)
+
+12
+
+10
+
+|
+ql
+
+GA KZ WC EC
+[June 2013 June 2014 [J June 2015 il) June 2016
+
+FS MP NW
+
+Li
+
+NC
+
+RSA
+
+The % annual change or improvement in human mobility per province is
+reflected in Table below.
+
+Table 5: % Improvement in Mobility per Province
+
+% Improvement in Mobility Per Province
+
+Month Province Total
+GA_|_Kz we | EC FS MP NW u NC RSA
+
+June 2013-2014[ 2.01 ey | oe To 231] 08 3.3 3.61.62)
+
+June 2014-2015] 0.1 XY EC OZ On 24 TS: 28414 —~0.80)
+
+[June 2015-2016 14 05424 0.84 [a Rc: MAE 25 17] —*1:99)
+
+15
+
+--- Page 16 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 6: Percentage improvement in mobility of persons (three years comparison)
+
+% Improvement in Mobility of Persons
+
+‘dalla
+
+GA KZ WC EC FS MP NW LI NC_ RSA
+
+[[) June 2013-2014 [i June 2014-2015 [I June 2015-2016
+
+The information in table 4 and 5 and graph shows that on a national basis the
+general overall mobility in terms of the number of persons per road vehicle
+(vehicles that can reasonably transport passengers — motorcars, minibuses,
+buses, motorcycles and LDV’s “bakkies”), improved by 0.80% from a national
+average of 5.67 persons per vehicle at the end of June 2014 to 5.63 persons
+per vehicle at the end of June 2015. From the end of June 2015 to June 2016
+the improvement shows a decrease of 1.92%, from 5.63 to 5.52 persons per
+vehicle.
+
+Although they do show some improvement, the “least mobile” Provinces are
+Eastern Cape with 10.40 persons per vehicle respective; followed by the
+Limpopo with 10.37 persons per vehicle at the end of June 2016. The “most
+mobile” Provinces are Kwa-Zulu Natal and the North West with an average of
+8.06 and 7.73 persons per vehicle respectively at the end of June 2016. All nine
+(9) provinces experienced an increase with regards to the average number of
+persons per vehicle.
+
+The average number of persons per “heavy” road passenger transport vehicle
+(buses and minibuses) is shown in the table and reflected in the graph below.
+
+Table 6 : Average Number of Persons per "Heavy" Passenger Transport Vehicle (buses
+and minibuses)
+
+‘Average Number of Persons per "Heavy" Passenger Transport Vehicle (buses and minibuses)
+Month | GA | Kz | WC | EC | FS | MP | NW] LI | NC [| RSA
+
+June 2013 | oy _—«*15s za 18 154 va 22 20:
+
+June 2014 9 i: 27] «18 14g 17 21 19
+
+June 2015 Hi 78 16 264 ~—«18 14 ~«174 4 18
+
+June 2016 9a ae Tt 264) cs Ce Ls: Ma:
+
+16
+
+--- Page 17 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 7: Average number of persons per heavy vehicles (buses and minibuses)
+
+Av. No. of Persons per "Heavy" Vehicle
+(buses and minibuses)
+
+U L nel
+wc EC FS MP NW LI iC RSA
+
+June 2013 [ij June 2014 [—] June 2015 i} June 2016
+
+The percentage annual change or improvement in the number of persons per
+“heavy” road transport vehicle per province is reflected in the table below.
+
+Table 7: % Improvement in Average Number of Persons per “Heavy" Passenger
+Transport Vehicle (buses and minibuses)
+
+% Improvement in Average Number of Persons per "Heavy" Passenger Transport Vehicle
+(buses and minibuses)
+Month Province Total
+
+care? GA KZ we EC | FS MP 7 NW ul NC | RSA
+June 2013-2014 0.477 1.30 -0.71 1.81] 2.0 2.7 1.78 3.62, 4.03) 1.76
+June 2014-2015] -1.42} -0.21) -0.5 1.41 0.34 1.20] 3.02) 1.55] 3.04] 0.03}
+June 2015-2016 0.34 1.07) 1.1 1.5: 1.31 0.64 2.38) 2.39, 2.46 1.45)
+
+The information in tables 6 and 7 and graph above show that, after a previous
+year-on-year improvement, the national overall mobility and quality of public
+road transport in terms of the number of persons per “heavy” passenger road
+transport vehicle from June 2015 to June 2016 increased by 1.45% from about
+155 persons per vehicle in 2015 to 153 persons per vehicle in 2016.
+
+On a Provincial percentage basis the biggest improvement was in the Northern
+Cape where the average number of persons per vehicle changed by 2.46%
+from about 189 persons per vehicle in June 2015 to 185 persons per vehicle at
+the end of June 2016. In Limpopo the improvement was 2.39% from 215 to 210.
+
+17
+
+--- Page 18 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+The average number of “heavy” road passenger transport vehicle (buses and
+minibuses) per 10,000 human population per Province is shown in the table and
+reflected in the graph below.
+
+Table 8: Average Number of Public Transport Vehicles (buses and minibuses) per 10,000
+Human Population
+
+‘Average Number of Public Transport Vehicles (buses and minibuses) per 10,000 Human
+Population
+Month GA | KZ ] wc] EC | FS ] MP | NW] LI | NC | RSA
+June 2013 10: 51 ef St EZ | a 4
+June 2014 10! 5 6 3 52 67 55] 4 5
+June 2015 10: zs a 39 shay i |
+June 2016 10: 5: | 54 69 59 4a 54
+
+Figure 8: Number of buses and minibuses per 10 000 population
+
+No. of Buses & Minibuses / 10,000 Pop
+
+120
+too |
+80
+60 1
+40 T
+20 + |
+°"GA KZ WC EC FS MP NW LI NC RSA
+[) June 2013 [i June 2014 [] June 2015 fl June 2016
+2.3 Un-Roadworthy and Un-Licenced Vehicles
+2.3.1 General
+
+Un-roadworthy vehicles is defined as those of which the owners failed to submit
+the vehicles for compulsory annual roadworthy tests (including buses, minibus
+taxis and freight transport vehicles) or on change of ownership. Un-licenced
+vehicles are those of which the owners failed to renew the vehicle licences
+within the time frame allowed.
+
+On a national basis the total number of vehicles that are either un-roadworthy,
+
+un-licenced or both increased by 27 404 (2.61%) from 1 051 066 vehicles on 30
+June 2015 to 1 078 470 vehicles on 30 June 2016.
+
+18
+
+--- Page 19 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Detail in this regard per type of vehicle is provided in the table below and the
+percentage (%) change from 2015 to 2016 reflected in the graph below.
+
+Table 9: Number of Un-Roadworthy, Un-Licenced Vehicles or Both
+
+Number of Un-Roadworthy, Un-Licenced Vehicles or Both
+
+\Vehicle Type June 2015 June 2016 Change % Change
+
+Motorcars 579 417] 591 a 12.035 2.08
+IMinibuses 46 167] 46 21 43 0.09
+Buses 9 064 9 te 321 3.54)
+[Motorcycles 59 261] 58 70; -559} -0.94
+ILDV's - Bakkies 170 404 782 18 11 7 6.91
+(Trucks 82 Sad 83 24 58 0.74
+Caravans 654 642! 114| “71
+Heavy Trailers 34 091 35 = 1500 4.40
+Light Trailers 37 661 39 S 1 468 3.90}
+Unknown 25 937] 26 28 34 ry
+[All Vehicles [1051066 1.078.479 27 ate vi
+
+Figure 9: Percentage change in the number of vehicles Un-Roadworthy or Un-Licenced
+OR Both
+
+% Change in Number of Vehicles
+Un-Roadworthy OR Un-Licenced OR Both
+
+All Vehicles
+Light Trailers
+Heavy Trailers
+Caravans
+Trucks
+
+LDV's - Bakkies
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+With an exception of motorcycles and caravans and light trailers, increases were
+recorded for most types of vehicles in this regard. The biggest increase was
+recorded for LDV’s Bakkies with 7%, and the biggest decrease was recorded for
+caravans with 2%.
+
+Detail on the number of vehicles that are either un-roadworthy, un-licenced or
+both per Province is provided in the table below and the percentage (%) change
+“from 2015 to 2016 reflected in the graph below.
+
+19
+
+--- Page 20 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Table 10: Number of Vehicles that is Un-Roadworthy OR Un-Licenced OR Both
+
+Number of Vehicles that is Un-Roadworthy OR Un-Licenced OR Both
+Year GA | KZN | WC EC FS MP NW u NC RSA
+June 2015 | 521970 124 = 724 16-53 445 50492 72464 47977 41509 14179 1051 06
+[June 2016 | 541 784 122173 131704 53579 51519 75257| 47989 39785 14680, 1078470
+[Change ieeiq 267i] 7574 341027] 278 1-172 501 27 404)
+I% Change 3. 7 2.14 6. Off 0.29 2.03 =e 0.03} -4 19 3.5: 2.61]
+
+Figure 10: Percentage change in the number of vehicles Un-Roadworthy or Un-Licenced
+OR Both
+
+% Change in Number of Vehicles
+Un-Roadworthy OR Un-Licenced OR Both
+
+a
+
+et .
+
+a
+
++6 _
+GA KZN WC EC FS MP NW LI NC RSA
+
+Figure 11: Percentage of Un-Roadworthy & Un-Licenced vehicles
+
+% of Un-Roadworthy & Un-Licenced Veh's
+
+lh
+
+40
+“GA KZN WC EC FS MP NW LI NC RSA
+[2 June 2015 Gj June 2016
+
+oN BD O
+
+The information in the table and graph above shows that most provinces
+recorded an increase in this regard with exception of Kwa-Zulu Natal and
+Limpopo. On a provincial percentage basis the biggest increase was recorded in
+Western Cape whereby the number on vehicles in this regard decreased by 7
+518 (6.05%), followed by Mpumalanga with 3.85%.
+
+20
+
+--- Page 21 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+2.3.2 Number of Un-Roadworthy Vehicles
+
+The number of vehicles that are un-roadworthy (but licenced) increased by
+15 466 (2.87%) from 539 359 vehicles on 30 June 2015 to 554 825 vehicles
+as on 30 June 2016. Detail in this regard is given in the table below and the
+percentage of un-roadworthy vehicles per type of vehicle, as a percentage of
+the number registered, is reflected in the graph below.
+
+Table 11: Number of Un-Roadworthy Vehicles
+
+Number of Un-Roadworthy Vehicles
+
+ehicle Type June 2015] June 2016] Change | % Change
+[Motorcars 262 o7q 267 511 5435) 2.07]
+Minibuses 36484 35 554 152 0.43
+iBuses 6 338, 6 50 16 2.67]
+Motorcycles 37 379 37 73 36. 0.97
+LDV's - Bakkies 83 995 90 07: 6 ai 7.24)
+\Trucks 50 90g 50 76: 14) -0.29,
+(Caravans 3.914 3 931 22] 0. saa
+Heavy Trailers 20 34¢ 21 22: 878) 4.32
+Light Trailers 22 36 23 509] 1 142) 5.11]
+Unknown 16 55! 17 934 1373, 8.2
+|All Vehicles 539 359 554 825 15 466) =
+
+Figure 12: Percentage of Un-Roadworthy vehicles
+
+% of Un-Roadworthy Vehicles
+
+All Vehicles
+Unknown
+Light Trailers
+Heavy Trailers
+Caravans
+
+Other Motorised June 2016
+Trucks
+LDV's - Bakkies June 2015
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+0 2 4 6 8 10 12 14
+
+21
+
+--- Page 22 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+The information in the table and graph above shows that with exception of
+trucks, all other vehicle types experienced increases in this regard. The
+biggest increase was recorded for LDV’s Bakkies which increased by 6 078
+(7.24%) from 83 995 at the end of June 2015 to 90 073 un-roadworthy at the
+
+end of June 2016.
+
+Detail on the number of vehicles that are un-roadworthy per Province is
+provided in the table below and the percentage (%) change from 2015 to
+2016 reflected in the graph below.
+
+Table 12: Number of Un-Roadworthy Vehicles
+
+Number of Un-Roadworthy Vehicles.
+Year GA KZN wc EC FS MP NW u NC
+Mune 2015] 236 57a 70 329 62285 30389 32989 43 86g 26647] 26701} 9581
+une 2016] 245 4849 68698 67140 30626 33963 44848 27804 26034 10 22!
+Change 8911] -1631] 4 861] 23; 97 984 1 157) ~667 642
+% Change} 3.77 -2. 34 7.81 0.71 2.9 224 = 4. 34 *2.50) 6.71
+
+Figure 13: Percentage change in number of vehicles that are Un-Roadworthy per
+province
+
+% Change in Number of Vehicles
+that are Un-Roadworthy per Province
+
+o
+
+i
+
+N
+
+C) f-aal i
+
+1 - ——+
+GA KZN WC EC FS MP NW u NC RSA
+
+The information in the table and graph above shows that with exception of
+KwaZulu and Limpopo, all other provinces recorded an increase in the
+number of un-roadworthy vehicles. On a percentage basis the biggest
+increase was recorded in Western Cape where the number of un-roadworthy
+vehicles increased by 4 861 (7.80%) from 62 285 in 2015 to 67 146 at the
+end of June 2016.
+
+22
+
+--- Page 23 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Other increases in this regard were recorded in: Northern Cape with an
+increase of 6.70% followed by North West with an increase of 4.34%.
+
+The percentage of un-roadworthy vehicles per Province, expressed as a
+
+percentage of the total number of vehicles registered per province, is shown
+in the graph below.
+
+Figure 14: Percentage of Un-Roadworthy vehicles per province
+
+% of Un-RoadworthyVehicles
+
+“GA KZN WC EC FS MP NW. LINC RSA
+
+June 2015 [J June 2016
+
+2.3.3 Number of Un-Licenced Vehicles
+
+On a national basis the number of un-licenced vehicles increased by 7 026
+(2.19%) from 320 382 vehicles on 30 June 2015 to 327 408 vehicles on 30 June
+
+2016.
+
+Detail per type of vehicle in this regard is given in the table below and the
+percentage of un-licenced vehicles per type of vehicle, as a percentage of the
+number registered, is reflected in the graph below.
+
+23
+
+--- Page 24 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Table 13: Number of Un-Licenced Vehicles
+
+Number of Un-Licenced Vehicles
+
+\Vehicle Type June 2015} June 2016} Change | % Change
+
+[Motorcars 196 36: 200 304 3941 2.01
+Minibuses 6 23: 6 231 “4 -0.02
+Buses 164 1 795} 152 9.25]
+Motorcycles 14 18! 13 673, 514 -3.61
+iDvs - Bakkies 52 921] 56 237} 3316 6.27
+[Trucks 1779 1921 441 2.35
+(Caravans 1811 171 -92| -5.08)
+Heavy Trailers 7 964 840: 439 5.51
+Light Trailers | 13 067] 13 405] 338] 2.59,
+Unknown 7 421 64 -99t -13.42}
+All Vehicles 320 387 327 a 7 021 2.19
+
+Figure 15: Percentage of Un-Licenced vehicles
+
+% of Un-Licenced Vehicles
+
+All Vehicles
+Unknown
+Light Trailers
+Heavy Trailers
+
+Caravans ||
+Other Motorised June 2016
+Trucks |
+LDV's - Bakkies June 2015
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+The information in the table and graph above shows that with exception of
+minibuses, motorcycles, caravans and unkown, all other vehicle types recorded
+an increase in the number of un-licenced vehicles. On a percentage basis the
+highest decrease was recorded for buses with 9.25%, followed by LDV’s
+Bakkies with 6.27%.
+
+Detail on the number of vehicles that are un-licenced per Province is provided in
+
+the table below and the percentage (%) change from 2015 to 2016 reflected in
+the graph below.
+
+24
+
+--- Page 25 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Table 14: Number of Un-Licenced Vehicles
+
+Number of Un-Licenced Vehicles
+Year GA KZN wc EC FS | MP NW ul NC RSA
+une 2015 | 169927] 37194 42752, 15984 10 864 17 605] 13 443) 9 288 3:32 320 384
+June 2016 | 175678 36527) 44597) 16115 10 Zz 18892] 12446 9 ae 3138] 327 408)
+Change 5751 667, 1 845) 12 -124 1 287) -997/ A -182} 7 026
+% Change 3. 38 1 79 4.32 0.7! A 14 7.31 -7.42| 0.16 5. 48] 2.19
+
+Figure 16: Percentage change in number of vehicles that are Un-Licenced per province
+
+% Change in Number of Vehicles
+that are Un-Licenced per Province
+
+aF- A =
+
+GA KZN WC EC FS Li NC RSA
+
+boakKNONAR OD
+L
+
+The information in the table and graph above shows that the highest decrease in
+the number of un-licenced vehicles were recorded in North West (7%), followed by
+
+Northern Cape 6%%.
+
+The percentage of un-licenced vehicles per type of vehicle, as a percentage of the
+number registered per Province, is reflected in the graph below.
+
+Figure 17: Percentage of Un-Licenced per province
+
+% of Un-Licenced Vehicles
+
+‘lit
+
+GA KZN WC EC FS MP NW LI NC RSA
+
+(7) June 2015 i June 2016
+
+ni
+
+Detailed information on the number of un-roadworthy and un-licenced vehicles per
+type of vehicle and province is provided in the tables under Annexure B.
+
+25
+
+--- Page 26 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+3. Driver Population
+
+3.1. Learner Driving Licences
+
+The number of learner driving licences issued increased by 20 090 (1.60%) from
+1 254 221 on 30 June 2015 to 1 274 311 on 30 June 2016. The information depicts
+that majority prefer category 3 (heavy motor vehicle) compared to category 1 and 2.
+There is a significant difference between category 2 and 3 for the period under
+review of 667 513. Table and figure below presents the number of learner driving
+
+licences issued per category and also presented.
+
+Table 15: Number of leaner Licences Issued per category
+
+Number of Learner Licences Issued
+Category | June 2015 | June 2016 | Change | % Change
+I 51 oA 47 206 -3 834 -7.51|
+2 294 392) 279 79 -14 596 ~4.96
+3 908 789 947 30: 38 52 4.24
+Total 1254 221| 1 274 311] 20 = 7.60}
+
+Source: eNatis
+
+Category 1 : Motorcycle
+Category 2 : Light Motor Vehicle
+Category 3 : Heavy Motor Vehicle
+
+Figure 18: Number of learner driving license issued
+
+No. of Learner Driving Licences Issued
+1000000
+
+800000
+
+600000
+
+400000
+
+200000
+
+o-oo
+Cat1 Cat 2 Cat3
+
+[[] June 20159 June 2016
+
+26
+
+--- Page 27 ---
+* Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Provincial information in this regard is given in table below and the percentage
+
+change per Province over the 12-month period is reflected in the graph below.
+
+Table 16: Number of Learners Licences Issued per Province
+
+Number of Learners Licences Issued per Province
+Year | GA EC | FS MP NW u NC RSA
+June ei 335 38: 115 914 72244 111014 70038] 114 462) 30 312) 1 254 221)
+une 201: 352 m4 111 091 72 868 115 293) 74301) 112 744 29 130] 1 274 311
+Change 17 09 481 621) 4281) 4 266) -1 708) -1 182) 20 091
+% Change} enl| 4.4 0. 86 3.84 6.09) -1.49} 3.9 ra4
+
+Source: eNatis
+
+With exception of Western Cape, Eastern Cape, Limpopo and Northern Cape, other
+provinces recorded an increase in the number of Learner Licences issued. The
+highest increase was recorded in North West with 6.09% followed by Gauteng with
+
+5.10%.
+
+Figure 19: Percentage change in learner licences issued per province
+
+% Change in Learner Licences Issued
+
+GA KZN WC EC FS MP NW LI NC RSA
+
+3.2. Driving Licences Issued and Expired
+3.2.1 Number of Driving Licences Issued
+
+The number of driving licences issued increased by 507 342 (4.45%) from 11 395
+277 on 30 June 2015 to 11 902 619 as of 30 June 2016. Details on the number of
+driving licences issued per category is given in the table and graphically reflected in
+
+the figure below.
+
+27
+
+--- Page 28 ---
+Road Traffic Management Corporation
+
+Table 17: Number of Driving Licences Issued
+
+Road Traffic Report: April - June 2016
+
+Number of Driving Licences Issued
+Category [dune 2015 | June 2016 | Change | % Change
+A 460765 46982 9058) 1.97
+Al 123 481 123 45: -26 -0.02)
+B 2 524 321; 2 660 861 136 539 5.41
+c 2077. 21724 948) 45
+C1 3053 301) 3378 804 325 503 Tal
+EB 3644797) 3647 89 3 09: 0.08)
+[Ec 971677) 1005 45: 33 78: 3.48)
+EC1 596 162) 594 61 -1 55: -0.26
+Total 47 395 277] 11 902 619) 507 34q 4.45)
+Source: eNatis
+Driving licences:
+A aaa > 128 ‘At | Motorcycle <125cub.cm | B | Motorvehicle < 3,500 kg
+¢ | Molorvehicie = 1 | Motor vehicle 3.500 - EB | Aficulated motor vehicle
+16,000 kg 16,000 kg <16,000 kg
+EC a vehicle > 16,000 Ect Aeon, vehicle 3,500 —
+
+Figure 20: Number of driving licenses issued
+
+No. of Driving Licences Issued
+
+4000000
+
+3000000
+
+1000000
+
+ih.
+
+oO
+
+-]
+A1 B c
+
+Gl June 20159 June 2016
+
+A c1
+
+The information contained in the table above depict that the highest percentage
+
+B&B EC Ect
+
+change was recorded for Categories C1, B and C, with percentages of 10.66%,
+
+5.41% and 4.56%, respectively. A decrease in this regard was recorded for
+
+category A1 and EC1 with 0.02% and 0.26% respectively.
+
+The number and percentage (%) of driving licences issued per category at the end
+
+of June 2016 is reflected in table below.
+
+28
+
+--- Page 29 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Table 18: Number and % of Driving Licences Issued per Category
+
+Number and % of Driving Licences Issued per Category
+Category Description Number %
+
+A Motorcycle < 125 cub.cm 469 820, 3.95
+
+Al Motorcycle > 125 cub.cm 123 “ 1.04
+_+_—_—
+
+B Motor vehicle < 3,5000 kg 2 660 861 22.36
+
+c Articulated motor vehicle <16,000 kg 21 721) 0.18)
+C1 Motor vehicle 3,500 - 16,000 kg 3378 ial 28.39
+EB Articulated vehicle 3,500 - 16,000 kg 3 647 891 30.65)
+EC Motorvehicle > 16,000 kg 1 005 45: 8.4!
+EC1 Articulated vehicle > 16,000 kg 594 md aa
+Total 11 902 619) 100,
+
+Source: eNatis
+
+Provincial information in this regard is given in the table below and the percentage
+
+change with regard to all licences issued per Province is reflected in the graph
+
+below.
+
+Table 19: Number of Driving Licences Issued per Province
+
+Number of Driving Licences Issued per Province
+Year GA KZ we EC FS MP NW u NC RSA
+June 2015 |4 026 =A 7804 1901784071] 830834 587 141| 787890 537585 621886 21474911 395 277]
+June 2016 [4 191 274 1 889 864 1842519 868 Z 605 71] 838 799 562834 877 584 225 05411 902 61
+Change | 164359 85 ase 37877 1883 50909 25247] 55 69
+% Change 4.0 474 32g Ek EE at
+
+Source: eNatis
+
+All provinces recorded an increase in this regard. The highest increase was
+
+recorded for Limpopo with 6.78% followed by Mpumalanga with 6.46%.
+
+Figure 21: Percentage change in driving licences issued
+
+% Change in Driving Licences Issued
+
+ofa NO RMD SN
+
+“GA
+
+KZN WC EC FS MP NW LI
+
+29
+
+NC RSA
+
+--- Page 30 ---
+Road Traffic Management Corporation
+
+3.2.1
+
+Number of Driving Licence Cards Expired
+
+Road Traffic Report: April - June 2016
+
+The information in the table below shows that as on 30 June 2016 there were
+2 133 997 expired driving licence cards recorded on the Electronic National Traffic
+
+Information System (eNaTIS).
+
+This figure represents 17.93% of all driving licences issued. This information is also
+reflected in the graph below.
+
+Table 20: Number of Driving Licence Cards Issued and Expired per Province
+
+June 2016 Number of Driving Licence Cards Issued and Expired per Province
+
+Category | GA i KZ wc EC FS MP NW Ur NC RSA
+(On system | 4 191 276 1 889 869 1 842 $19) 868 18 605971] 838 79! 562 832, 877584 225 = 11.902 =
+Not expired | 3 493 585 1 490 716 1543918] 645 84! 454 163 757 = 447 cl 755 930, 179 220; 9 768 62:
+Expired 697 691) 399 15. 298 601] 222 871] 151 80: 81 46: 114 92: 721654 45 833 2133 997|
+% Expired 16. | 21 1 16.21 25. 66 =a 9.71 20.42) 13. 86) 20.37) 17.33
+
+Source: eNatis
+
+Figure 22: Percentage of expired dri
+
+% Expired Driving Licence Cards
+
+30
+
+25
+
+20
+15
+10
+
+a
+
+Laldatal
+
+GA KZN WC EC FS MP NW
+
+LI NC RSA
+
+ng license cards per province
+
+Provinces which recorded the highest increase in this regards are Eastern Cape, with
+25.66%, followed by Free State and North West, with 25.05% and 20.42%,
+
+respectively
+
+30
+
+--- Page 31 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+3.3. Professional Driving Permits Issued and Expired
+3.3.1. Number of Professional Driving Permits Issued
+
+The number of Professional Driving Permits (PrDP’s) issued increased by 3 265
+(0.32%) from 1 026 362 as on 30 June 2015 to 1 029 627 on 30 June 2016. Detail
+on the number of PrDPs issued per category is given in the table and graphically
+
+reflected in the figure below.
+
+Table 21: Number of PrDP's Issued
+
+Number of PrDP's Issued
+
+Category [June 2015|June 2016) Change |% Change}
+
+6 10531] 9584 “947——C 8.99}
+PG 981 344 983064 1714 0.17]
+DG 794 794 1 0.52
+
+DPG 34204 36789 2495 7.28|
+
+Total 7026 362 1029627, 3 265 0.32
+
+Source: eNatis
+
+Professional Driving Permits (PrDPs)
+G: Goods
+
+P: Passengers
+
+D: Dangerous goods
+
+Figure 23: Number of PrDPs issued
+
+No. of PrDPs Issued
+1000000
+
+am!
+G P PG DG DPG
+
+[June 2015 fj June 2016
+
+Provincial information in this regard is given in the table below.
+
+31
+
+--- Page 32 ---
+Road Traffic Management Corporation
+
+3.2.2
+
+Road Traffic Report: April - June 2016
+
+Table 22: Number of Professional Driving Permits (PrDP's) Issued per Province
+
+Table 16 : Number of Professional Driving Permits (PrDP's) Issued per Province
+
+Year GA KZ we EC FS MP NW I NC RSA
+June 2015 | 276889 175431] 144374 8353 64649 9868 52912 105104 24589 1 026 360
+June 2016 | 277 894 176600 14446 63144 64284 100355 52557) 105837 24204 1 029 627)
+
+Change cc: | Ey 301 ae 67 co Zs 38: 3 268
+% Change 034 08t —«00G = -0.47]~— 8G =SCT7COS CO _ “1.57 0.34
+
+Source: eNatis
+Figure 24: Percentage change in driving licences issued
+
+% Change in PrDPs Issued
+
+aor eere
+
+NC RSA
+
+2
+1.5
+
+1
+0.5
+oO
+
+0.5
+A
+1.5
+
+GA KZN WC EC FS MP NW LI
+
+Number of Expired PrDPs
+
+The information in the table below shows that as on 30 June 2016 there were
+
+462 127 expired Professional Driving Permits (PrDPs) recorded on the Electronic
+National Traffic Information System (eNaTIS). These figure represents 44.88% of all
+PrDPs issued. These information is also reflected in the graph below.
+
+Table 23: Number of Professional Driving Permits (PrDPs) Issued and Expired per Province
+
+June 2016 | Table 17 : Number of Professional Driving Permits (PrDPs) Issued and Expired per Province
+
+Category GA KZ we EC FS MP NW ul NC RSA
+jOn system | 277894 176 890) 144 45% 83 146 64 286 100 35: 52 557] 105 83 24 204! 1 029 627)
+INot expired] 138 015) 98 32% 85 43: 45 = 39 = 57 74. 28 53: 60 97: 12 907) 567 500)
+Expired 139879 78 56 59 02% 37 82: 24 34; 42 61 24022| 44 86. 11.297) 462 127)
+(% Expired 50. 34 44.41 40.8 45.19 37.87) 42.46 45.71 42. 39 46.67 44.88
+
+Source: eNatis
+
+32
+
+--- Page 33 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+‘Figure 25: Percentage of expired professional driving permits
+
+% Expired Professional Driving Permits
+
+55
+
+50
+
+45
+40
+35
+30
+25
+
+GA KZN WC EC FS MP NW LI NC RSA
+
+Provinces which recorded the highest increase of expired PrDPs are Gauteng, with
+50.34%, followed by Northern Cape and North West, with 46.67% and 45.71%,
+
+respectively.
+
+Detailed information on the number of learner licences, driving licences and PrDPs
+per Province is provided in the tables under Annexure C.
+
+33
+
+--- Page 34 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+4. - Fatal Road Traffic Crashes and Fatalities
+
+4.1 Number of fatal crashes per Month
+
+Over the 3 months period from 1 April to 30 June 2016 there were 2 912 fatal
+crashes recorded. The table and figure below provides the number of fatal
+crashes over three months.
+
+Table 24: Number of fatal crashes per province and per month
+
+Month EC FS GP | KZN ul mp Nc | NW | WC | Total | % of Tot
+Apr 148 | 40 | 214 | 198 | 98 | 115 | 28 71_ | 93 | 1005 | 34.6%
+May 101 | 51 | 211 | 215 | 88 97 23 63 | 105 | 954 32.8%
+Jun 115 | 60 | 181 | 221 | 100 | 98 27 66 | 85 | 953 32.6%
+
+Total | 364 | 151 | 606 | 634 | 286 | 310 | 78 | 200 | 283 | 2912
+% of 100.0%
+Total 12.5% | 5.2% | 20.8% | 21.8% | 9.8% | 10.6% | 2.7% 6.9% | 9.7% | 100.0%
+
+Figure 26: Fatal crashes distribution per province
+
+9.8% 10.6%
+
+MP NC NW we
+
+5.2%
+| 2.7%
+EC FS GP KZN u
+
+The table and figure above indicate that most fatal crashes were recorded
+during the month of April with 1 005 (35%) crashes. KwaZulu Natal and
+Gauteng recorded more than 600 fatal crashes on the absolute figure over
+
+the three months.
+
+On a percentage basis the highest contribution was recorded in KwaZulu
+Natal with 21% and Gauteng with 20%.
+
+34
+
+--- Page 35 ---
+Road Traffic Management Corporation
+
+25: Comparison of fatal crashes for two quarters
+
+Road Traffic Report: April - June 2016
+
+T
+Number of Fatal Crashes per Province over Easter
+Year GA KZ wc EC FS MP NW ul NC RSA
+2015 328 | 181 578 504 290 317 73 204 255 2.730
+2016 364 | 151 606 634 286 310 78 200 283 2912
+change 36 -30 28 130 4 7 5 -4 28 182
+% change | 11.0 | -16.6 4.8) 25.8 -1.4 2.2 6.8 -2.0 11.0 6.7
+
+The table above provides comparison between two quarters. There is an
+increase of 182 (7%) in comparison of quarter 1 for 2015 and 2016.
+
+However, on a provincial level with exception of four provinces other six (6)
+
+recorded an increase. Highest increase was recorded for Eastern Cape with
+26% followed by Gauteng and Northern Cape with 11% respectively.
+
+4.1.1 Fatal Crashes per Day of Week
+
+Provincial crashes per day of the week in this regard is given in table and
+
+figure below.
+
+Table 26: Number of Fatal Crashes per Province per day of week over 3 months period
+
+Province | Sun | Mon | Tue | Wed | Thu Fri Sat Total si
+EC 71 39 29 26 34 73 92 364 12.5%
+FS 22 13 13: 16 15 23 49 151 5.2%
+GP 114 73 53 66 82 68 150 606 20.8%
+
+KZN 133 85 56 51 71 92 146 634 21.8%
+ul 78 33 19 19 20 39 78 286 9.8%
+MP 92 23 16 22 34 57 66 310 10.6%
+NC 17 3 7 12 12 8 19 78 2.7%
+NW 47 1 17 15 15 38 S1. 200 6.9%
+wc 54 33 30 30 29 40 67 283 9.7%
+
+Total 628 319 240 | 257 312 438 718 2912
+% of Tot | 21.6% | 11.0% | 8.2% | 8.8% | 10.7% | 15.0% | 24.7% | 100.0% rama
+
+35
+
+--- Page 36 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 27: Fatal crashes distribution per day of the week
+
+The figure above shows percentage distribution of fatal crashes per day of
+week. The figure depicts that about 25% of crashes recorded occurred on
+Saturdays followed by Sunday with 22% and Friday with 15%. Most crashes
+being recorded during the same two (2) days (Friday and Saturday) for
+KwaZulu Natal, Eastern Cape and Gauteng.
+
+Figure 28: Comparison of fatal crashes per day for two quarters 2015 & 2016
+
+comme 2015 ommemm2016
+
+30.0%
+25.0%
+20.0%
+15.0%
+
+10.0%
+
+5.0%
+
+0.0%
+
+The figure above depicts trends for fatal crashes per day for two quarters.
+The two quarters follow the same trend. However, 15% was recorded for
+Friday 2016 compared to 16.6% for 2015 of which shows a slight increase.
+Saturday and Sunday remains the top two with most crashes with an
+increase compared to the previous year.
+
+36
+
+--- Page 37 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+4.1.2 Fatal Crashes per time of day
+
+The percentage of fatal crashes per time of day for the period under review is
+reflected in the graph below.
+
+Figure 29: Percentage distribution of fatal crashes per time of day
+
+11.6%
+
+4.1%A1%
+
+oe”
+4.6% Poses
+situa iii il Mi
+
+2
+8
+
+10
+
+10
+00
+00
+
+00:00 - 01:00
+01:00 - 02:
+04:00 - 05:01
+07:00 - 08:00
+08:00 - 09:00
+10:00 - 11:
+12:00 - 13:00
+14:00 - 15:00
+16:00 - 17:00
+18:00 - 19:00
+20:00 - 21:00
+22:00 - 23:
+23:00 - 24:00
+
+The information above depicts percentages of crashes for the respective
+hours of the day as they occurred. Below are most hours with the highest
+
+percentages:
+e From 15:00 to 16:00 : 5%
+e From 16:00 to 17:00 : 6%
+e From 17:00 to 18:00 : 2%;
+e From 18:00 to 19:00 : 12%
+e From 19:00 to 20:00 : 8%;
+e From 20:00 to 21:00 : 6%;
+
+It is evident that most fatal crashes occurred in the after-hours of the day,
+especially from 15:00 to 21:00.
+
+About 52% of the crashes occurred between 14:00 to 22:00 with more than
+4% per time slot. The trend start to pick up again from 6:00 to 8:00 with more
+than 4% as this time slot its pick hours for commuters to work and for
+scholars.
+
+37
+
+--- Page 38 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+The trend start to pick again as from 13:00 as the schools closes and workers
+will join in few hours later as they return to their respective homes.
+
+Figure 30: Comparison of fatal crashes per time of day for two quarters 2015 & 2016
+
+14.0%
+m2015 ™2016
+
+12.0%
+
+10.0%
+
+8.0%
+
+6.0%
+
+4.0%
+
+0.0%
+eseegeegeeegeegesgeegeegeeggegegeg8g
+SSBF SSS Ss SSH sseHeege sg gsgagges
+sss SSSSSREASRARARSARARAAS
+eeseesegeeegeeeeseeegeeeeegegeeegea8
+eeseseeseogeeeseegeeeseseeseeee
+SSSHSEFRZSESSESSHSHEHSS SRS HSS
+sss SsssSsSseaatsRataRaaaeaan
+
+The figure above depicts a comparison between fatal crashes per time of day
+comparing 2015 and 2016 quarter 1. In comparison as from slot 16:00 to
+17:00 until slot 18:00 to 19:00 there is an upward trend (an increase) for all
+the slots from 2015 to 2016. A different picture is then observed whereby a
+down trend is then observed for slot 19:00 to 20:00 to 21:00 to 22:00.
+
+38
+
+--- Page 39 ---
+Road Traffic Management Corporation
+
+4.1.3 Fatal crashes per vehicle type
+
+Road Traffic Report: April - June 2016
+
+The percentage contribution of various vehicles type involved in the fatal
+
+crashes are reflected in the graph below.
+
+Figure 31: Percentage distribution of vehicle type
+
+Bus | &
+
+ES
+®
+©
+y
+Fi
+-
+we
+®
+ov a
+°
+re
+x
+Nv
+BS
+x
+ey
+a
+&
+
+Combi/Minibus [I
+Midibus |‘
+Gmv>3500kg [) 3
+
+Truck Articulated [|
+
+Motor Car or Station Wagon
+Truck Articulated multiple V3 By
+
+7
++
+y
+3
+E
+3
+
+Motorcycle >125¢c
+
+Caravan / Trailor
+
+9.0%
+
+'% 1.0% 0,1% 0.1% 0.1% 0.8% 0.4%
+
+The vehicle types that were mostly involved in fatal crashes and made the
+
+highest contribution are the motorcars and LDV's with contributions of 48%
+and 20% respectively. The two vehicle types contribute to the high number of
+
+fatalities for passengers.
+
+39
+
+--- Page 40 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+4.2. Fatalities
+4.2.1 Fatalities per Month
+Over the 3 months period from 1 April to 30 June 2016 there were
+3 451 fatalities recorded. The national monthly number of fatalities over the e
+
+three months period is graphically reflected in the figure below.
+
+Table 27: Monthly Number of Fatalities April - June 2016
+
+% of
+Tot
+
+Apr 176 56 242 235 125 144 36 85 114 1213 35.2%
+May 132 55 232 244 124 117 28 74 120 1126 32.6%
+Jun 138 64 206 250 122 127 30 82 93 1112 32.2%
+Total 446 175 680 | 729 371 388 94 241 327 3451
+
+% 100.0%
+et 13% | 5% | 20% | 21% | 11% | 11% | 3% | 7% | 9% | 200.0%
+
+Month EC FS GP KZN u MP NC NW we Total
+
+Figure 32: Fatalities distribution per province
+
+The table and figure above indicate that most fatalities were recorded during e
+the month of April with 1 213 fatalities. KwaZulu Natal and Gauteng
+
+recorded more than 650 fatalities over the three months on the absolute
+
+figures. On a percentage basis the two province made a contribution of 21%
+and 20% respectively.
+
+40
+
+--- Page 41 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Table 28: Comparison of fatalities for two quarters 2015 & 2016
+
+Number of Fatalities per Province over Easter
+Year GA KZ wc EC FS MP NW ul NC RSA
+2015 411 244 676 571 389 398 89 236 285 | 3299
+2016 446 175 680 729 371 388 94 241 327. | 3454
+change 35 -69 4 158 -18 -10 5 5 42 152
+% change | 8.52 | -28.28 | 0.59 | 27.67 | -4.63 | -2.51 5.62 2.12 | 14.74 4.61
+
+The table above shows that there is an increase of 5% comparing quarter for1
+2015 and 2016. With exception of KwaZulu Natal, Free State and Mpumalanga
+
+all other provinces recorded an increase. The highest increase has been
+
+recorded for Eastern Cape followed by Northern Cape.
+
+4.2.2 Fatalities per day of Week
+
+Provincial details of the fatalities per day of the week in this regard is given in
+table below.
+
+Table 29: Fatalities per province and per day of week over 3 months period
+
+Province | Sun | Mon | Tue | Wed | Thu Fri Sat Total go
+EC 92 51. 32 31 39 85 116 446 12.9%
+FS 36 13 13 17 15 30 51 175 5.1%
+GP 129 84 55 69 87 91 165 680 19.7%
+KZN 162 99 62 56 78 98 174 729 21.1%
+ul 106 44 22 26 22 50 101 371 10.8%
+MP 113 36 22 22 35 72 88 388 11.2%
+NC 20 3 10 17 13 9 22 94 2.7%
+NW 53 19 20 20 17 50 62 241 7.0%
+wc 66 37 30 31 30 46 87 327 9.5%
+Total 777 386 266 | 289 | 336 531 866 3451 100.0%
+% of Tot | 22.5% | 11.2% | 7.7% | 8.4% | 9.7% | 15.4% | 25.1% | 100.0%
+
+41
+
+
+--- Page 42 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 32: Fatalities distribution per day
+
+The figure above shows percentage distribution of fatalities per day of the
+week. The figure depicts that about 25% of fatalities were recorded on
+Saturdays followed by Sunday with 23% and Friday with 15%. Most crashes
+and fatalities were recorded during the same two days (Friday and Saturday)
+for KwaZulu Natal, Eastern Cape and Gauteng
+
+Figure 33: Comparison of fatalities per day for two quarters 2015 & 2016
+
+30.0%
+25.0%
+20.0%
+15.0%
+
+10.0%
+
+5.0%
+0.0%
+Sun Mon Tue Wed Thu Fri Sat
+
+—@®—2015 —®—2016
+
+The figure above depicts trends for fatalities per day for two quarters.
+The two quarters follow the same trend. However, 15% was recorded for
+Friday 2016 compared to 17% for 2015 of which shows an increase.
+Saturday and Sunday remains the top two with an increase compared
+
+to the previous year.
+
+42
+
+--- Page 43 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+4.2.3 Number of Fatalities per Road User Group
+
+The information in a table below shows that there were 873 fatalities recorded
+for drivers, 1 059 fatalities for passengers, 1 398 fatalities for pedestrians and
+
+121 fatalities for cyclists from 1 April to 30 June 2016.
+Table 30: Number of Fatalities per Road User Group and per province
+Province | Drivers | Passengers | Pedestrians | Cyclists | Total pei
+EC 118 167 155 6 446 | 12.9%
+FS 49 59 61 6 175 5.1%
+GP 159 151 333 37 680 | 19.7%
+KZN 153 197 363 16 729 «| 21.1%
+ul 105 153 100 13 371 | 10.8%
+MP 118 132 127 11 388 | 11.2%
+NC 28 48 16 2 94 2.7%
+NW 71 82 82 6 241 7.0%
+wc 72 70 161 24 327 9.5%
+Total 873 1059 1398 121 3451
+% of Tot | 25.3% 30.7% 40.5% 3.5% | 100.0% inate
+During the period under review pedestrians fatalities contributed 41%,
+followed by passengers with 31% and drivers with 25% to the total number
+of fatalities recorded. Fatalities distribution per road user group
+
+(drivers, passengers, pedestrians and cyclists) are reflected in the figure below.
+
+Figure 34: Fatalities distribution per road users
+
+3.5%
+
+eee |
+
+Drivers Passengers Pedestrians Cyclists
+
+43
+
+--- Page 44 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Figure 35: Comparison of fatalities per road user for two quarters 2015 & 2016
+
+4.2.4
+
+45.0%
+40.0%
+35.0%
+
+30.0% 27.8%
+
+25.0%
+20.0%
+15.0%
+10.0%
+5.0%
+0.0%
+
+Drivers
+
+40.5%
+
+Passengers Pedestrians
+
+—®=2015 —®=—2016
+
+1.8%
+Cyclists
+
+0.0%
+0.1%
+Unknown
+
+The figure above depicts trends for fatalities per road users for two quarters.
+The two quarters follow the same trend. However, the figure shows that there
+is a slight decrease for drivers and passengers in comparison of the two
+quarters. An increase of 2.2% has been recorded for pedestrians and
+
+1.7% increase for cyclists.
+
+Fatalities per gender and race
+
+The table below and a figure provide the number and percentage distribution
+of fatalities per gender.
+
+Table 31: Number and Percentage distribution of Fatalities per Gender
+
+Province Male Female | Unknown Total % of Tot
+EC 343 102 1 446 12.9%
+FS 137 38 0 175 5.1%
+GP S55 125 i?) 680 19.7%
+
+KZN 548 178 3 729 21.1%
+ul 277 93 A, 371 10.8%
+MP 297 90 1 388 11.2%
+NC 69 25 i?) 94 2.7%
+NW 167 74 i?) 241 7.0%
+wc 238 78 iA. 327 9.5%
+Total 2631 803 17 3451 100.0%
+% of Tot 76.2% 23.3% 0.5% 100.0%
+
+44
+
+--- Page 45 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 36: Percentage distribution of Fatalities per Gender
+
+eee =
+
+Female Unknown
+
+The most gender category involved in fatal crashes and contributing to the
+total number of fatalities is the male category with 76%. While the
+female category contributed 23% to the total number of fatalities.
+
+Figure 37 : Comparison of fatalities per gender for two quarters 2015 & 2016
+
+90.0%
+80.0%
+70.0%
+60.0%
+50.0%
+40.0%
+30.0%
+20.0%
+10.0% 17%
+0.5%
+Male Female Unknown
+
+0.0%
+
+—@—2015 —e®—2016
+
+The figure above depicts trends for fatalities per gender for two quarters.
+The trends shows that there is an increase of 4.4% for males and 2.8%
+for females in comparison of the two quarters.
+
+45
+
+--- Page 46 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Table 32: Percentage distribution of Fatalities per Race
+
+Province | Black | White | Asian | Coloured | Other | Foreigner | Total abe
+EC 368 27 iy 42 1 7 446 | 12.9%
+FS 149 14 1 7 0 175 5.1%
+GP 552 75 6 19 1 27 680 | 19.7%
+KZN 619 25 60 4 17 729 | 21.1%
+ul 342 11 2 1 14 371 | 10.8%
+MP 340 27 2 1 15 388 | 11.2%
+NC 39 18 2 34 0 94 2.7%
+NW 209 18 2 5 0 7 241 7.0%
+wc 127 43 1 138 8 10 327 9.5%
+Total | 2745 | 258 77 253 16 102 3451
+100.0%
+% of Tot | 79.5% | 7.5% | 2.2% 7.3% 0.5% 3.0% | 100.0%
+The table above and figure below provide information with regards to the
+race categories that are mostly involved in fatal crashes. The blacks made a a
+
+contribution of 80% followed by whites with 8% and coloureds with 7% to
+the total fatalities.
+
+Figure 38: Percentage distribution of Fatalities per Race
+
+7.5% 7.3% —
+5 :
+booed mer
+
+Black White Asian Coloured Other Foreigner
+
+46
+
+--- Page 47 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 39: Comparison of fatalities per race for two quarters 2015 & 2016
+
+90.0%
+80.0% Teal
+70.0%
+60.0%
+50.0%
+40.0%
+30.0%
+20.0%
+
+10.0% 1.4%
+
+7.7%
+3.0%
+
+0.0% 5
+Black White Asian Coloured Other Foreigner
+
+=f" 2015 “2016
+
+The figure above depicts trends for fatalities per race for two quarters.
+The trends shows that there is an increase of 3.2% for black, followed by
+foreigners with 1.6%. Other categories recorded a slight increase others
+a slight decrease in comparison of the two quarters.
+
+47
+
+--- Page 48 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+4.2.5 Fatalities per age group
+
+The table and figures below provide information with regards to the fatalities per
+age and per road user type for the period 1 April to 30 June 2016.
+
+Table 33: Percentage of Fatalities per Age group per Road User Group
+
+% Fatalities per Age Group
+
+Age Group Passenger Pedestrian Driver Cyclist
+0-4 2.3% 3.5% 0.0% 0.7%
+5-9 2.0% 5.2% 0.0% 1.3%
+10-14 1.4% 3.1% 0.0% 3.3%
+15-19 3.4% 3.2% 0.5% 2.6%
+20-24 6.5% 5.1% 4.7% 5.2%
+25-29 9.2% 6.9% 7.9% 6.5%
+30-34 8.5% 7.2% 13.1% 10.5%
+35-39 5.3% 74% 7.4% 7.8%
+40-44 4.0% 6.5% 6.3% 5.2%
+45-49 3.1% 3.9% 4.6% 1.3%
+50-54 2.3% 3.2% 4.6% 5.2%
+55-59 2.0% 2.7% 3.7% 4.6%
+60 - 64 1.8% 2.1% 2.1% 2.0%
+65 - 69 1.0% 1.3% 1.5% 0.7%
+70 - 74 0.3% 1.0% 0.6% 1.3%
+75-79 0.3% 1.3% 0.3% 0.0%
+80+ 0.2% 0.7% 0.2% 0.0%
+Total 53.6% 64.2% 57.4% 58.2%
+
+Figure 40: Percentage distribution of for all road users
+
+Ey
+< 4
+uy
+3
+ae
+
+
+--- Page 49 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+The figure above shows trend of fatalities per age group for all road users’
+categories. It’s clear that the highest fatalities were recorded between the age group
+20 to 44 years. The figure below provides fatalities per road user category.
+
+Figure 41: Percentage distribution of fatalities per age for drivers
+
+The figure above shows that the highest fatalities for drivers were recorded
+between the age group 25 to 44 years, having the age group between 30 to 34
+years being the highest age group with a contribution of 13%, followed by the age
+group between 25 to 29 years with a contribution of 8%.
+
+Figure 42: Percentage distribution of fatalities per age for passengers
+
+=
+
+= x
+&
+
+| oO
+
+=) 3
+
+me 2
+
+J
+
+The figure above indicates that most fatalities for passengers were recorded
+
+49
+
+--- Page 50 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+‘between age 20 and 39 years, age group between 25 to 29 years being the highest
+with a contribution of 9%. Followed by the age group between 30 to 34 years with a
+
+contribution of 8.5% to passenger fatalities.
+
+Figure 43: Percentage distribution of fatalities per age for pedestrian
+
+70-74 lB 1.0%
+75-79 me 1.3%
+
+The figure above indicates that most fatalities for pedestrians were recorded between
+the ages 5 to 9 then again between age 20 to 44 years. The age group between 35 and
+39 was the highest age group with a contribution of 7.4% followed by age between
+
+25 — 29 and 30 - 34 with a contribution of 6.9% and 7.2% respectively.
+
+Figure 44: Percentage distribution of fatalities per age for Cyclist
+
+®
+3
+3
+3
+g
+
+The figure above indicates that most fatalities for cyclists were recorded between age
+25 to 39 years. Age group between 30 to 34 years being the highest with a contribution
+of 11%. Followed by the age group between 35 to 39 years with a contribution of 8%.
+
+50
+
+--- Page 51 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+4.2.6 Severity of Fatal Crashes
+
+The severity rate of fatal crashes is 1.19 for the period under review.
+
+The provinces with the highest severity rate are Eastern Cape, Limpopo,
+Mpumalanga, Northern Cape and North West. The individual provincial severity
+rates are shown in table below.
+
+Table 34: Severity rate per day of week and per province
+
+Province | Sun Mon Tue Wed Thu Fri Sat Total
+EC 1.30 1.31. 1.10 1.19 1.15 1.16 1.26 1.23
+FS 1.64 1.00 1.00 1.06 1.00 1.30 1.04 1.16
+GP 1.13 1.15 1.04 1.05 1.06 1.34 1.10 1,12
+KZN 1.22 1.16 1.11 1.10 1.10 1.07 1.19 1.15
+ul 1.36 1.33 1.16 1.37 1.10 1.28 1.29 1.30
+MP 1.23 1:57 1.38 1.00 1.03 1.26 1:33: a2)
+NC 1.18 1.00 1.43 1.42 1.08 1.13 1.16 1.21
+NW 1.13 1.12 1.18 1.33 1.13 1.32 1.22 a21
+wc 1.22 1.12 1.00 1.03 1.03 14s 1.30 1.16
+
+Total 1.24 1.21 1.11 22) 1.08 1:22 1.21 1.19
+
+Figure 45: Severity of Fatal Crashes
+
+The information in the figure above shows that most severity rate were
+recorded on Sunday with 1.24. A rate of 1.21 was recorded for Friday,
+Saturday and Monday.
+
+51
+
+--- Page 52 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 46: Comparison of the severity of fatal crashes for two quarters 2015 & 2016
+
+1.30
+
+1.24
+
+1.25
+
+1.21
+
+1.20
+1.19
+
+115
+
+1.10
+
+1.05
+
+0.95
+Sun Mon Tue Wed Thu Fri Sat Total
+
+—O—2016 —e—2015
+
+The figure above depicts trends for the severity of fatal crashes for two quarters.
+With exception of Sunday, Monday and Wednesday, 2016 rates for other days
+are lower compared to 2015 rates.
+
+52
+
+--- Page 53 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+5 Contributory factors
+The information in table below shows that:
+
++ The human factors contributed 83% to the occurrence of fatal
+crashes followed by;
+
++ Road factors with a contribution of 10.4%; and
+
++ Vehicle factors with a contribution of 6.6%
+
+Table 35: Percentage contribution of contributory factors
+
+Contributory factor %
+Human Factors 83.0%
+Vehicle Factors 6.6%
+Road & Environmental Factors 10.4% |
+
+Figure 47: Percentage contribution of contributory factors
+
+Human Factors
+Environmental
+
+Vehicle Factors
+
+53
+
+--- Page 54 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 48: Comparison of contributory factors
+
+90.0%
+80.0%
+70.0%
+60.0%
+50.0%
+40.0%
+30.0%
+
+ae 8.0% 6.9% 13.0% 10.1%
+10.0%
+
+ae | aaa
+
+Human Factors Vehicle Factors Road & Environmental
+Factors
+
+79.0% 83.0%
+
+m2015 m 2016
+
+The figure above depicts trends for contributory factors for two quarters.
+The human factor remains a challenge compared to other factors. There is
+a slight increase of 4% for human factors, while there is a decrease of 1.1%
+for vehicles and 2.9% for roads and environmental.
+
+Figure 49: Percentage distribution of human factors
+
+Intoxicated cyclist with liquor/drug usage! 0.1
+Cell phone holding/usage # 0.3
+Disregard for yield sign 9% 0.6
+U-turn 9 0.9
+Disregard for red traffic lights “ 1.5
+Overtook across barrier line @ 1.7
+Fatigue: driver falling asleep @ 1.8
+Turned in front of oncoming traffic 9 2.4
+Intoxicated pedestrian with liquor/drug usage 2.1
+Disregard for stop sign 2.7
+Followed vehicle too closely 9 3.1
+Intoxicated driver with liquor/drug usage SI 4.0
+Overtook in face of oncoming traffic =I 7.2
+Speed too high for circumstances A 14.3
+Kit andnn TS 18.6
+Ly waking pedsti LL 32,7
+
+0.0 5.0 10.0 15.0 20.0 25.0 30.0 35.0 40.0
+
+The figure above shows that jay walking contributed 38% to the occurrence of
+crashes, hit-and-run and speed being too high for circumstances with a
+contribution of 19% and 14% respectively. These correlate to a high number
+of fatalities for pedestrians as a result of jay walking.
+
+54
+
+--- Page 55 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Figure 50: Percentage contribution of road and environmental factors
+
+Sharp bend
+
+Lighting: poor
+
+Road surface poor
+
+Animals: stray / wild
+
+Visibility poor
+
+Road surface wet/slippery
+
+Road works
+
+Visibility smoke/fog/rain/etc
+Blind corner
+
+Road markings poor/inadequite/none
+Blind rise
+
+Road signs poor/inadequite/none
+Road Traffic lane narrow
+
+aS a) 17.4
+a 16.9
+Es) 12.7
+CTT 12.2
+ED 10.8
+ea 6.6
+
+ERED 5.6
+
+EES 5.6
+
+a 5.6
+
+a 3.3
+
+mmi4
+
+B09
+
+B09
+
+0.0 2.0 4.0 6.0 8.0 10.0 12.0 14.0 16.0 18.0
+
+The figure depicts that about 17% of crashes occurred within the sharp bends
+areas followed by lighting with a contribution of 17%. Road surface being poor
+and Animals stray contributed 13% and 12% respectively.
+
+Figure 51: Percentage contribution of vehicle factor
+
+eae a ee 46.0
+a aT 25.7
+a 2.0
+
+14
+
+G35
+
+O35
+
+27
+
+Bis
+
+Bis
+
+B09
+
+Bo9
+
+Bos
+
+Tyres: burst prior to accident
+Brakes faulty
+
+Tyres: smooth
+
+Overload: passengers
+Headlights not switched on
+Headlights blinding
+
+Steering: faulty
+
+Headlights faulty
+
+Bicycle no rear reflectors
+Overload cargo
+
+Chevrons: reflective stripes
+Checrons: dirty
+
+30.0 40.0 50.0
+
+0.0 10.0
+
+The figure above shows that most crashes occurred as a result of tyre burst
+with a contribution of 46%, followed by brakes being faulty with a contribution
+of 26%. These might be as a result of vehicle owners failing to inspect the
+tyres before they commence with their journey amongst other aspects.
+
+55
+
+--- Page 56 ---
+Road Traffic Management Corporation
+
+6.
+
+Road Traffic Report: April - June 2016
+
+Major Accidents Investigated
+
+6.1
+
+Number of major crashes
+
+The information below shows that there were thirty four (34) major crashes
+investigated by the Corporation. The major crashes refers to crashes that
+meet the following criteria:
+
+a. Accidents in which five (5) or more persons are killed;
+
+b. Fatal accidents in which four (4) or more vehicles are involved;;
+Fatal accidents in which vehicles carrying hazardous substances are
+involved; or
+
+d. Any high profile accident that the Corporation feels necessary to
+investigate.
+
+MAJOR CRASHES INVESTIGATED DURING THE FIRST QUARTER OF THE
+2016/ 2017 FINANCIAL YEAR
+
+The report covers all major crashes reported and investigated during the 2016/ 2017
+financial year (from 01 April 2016 to 30 June 2016). A total number of thirty-seven
+(37) major crashes were reported and investigated during this period. Approximately
+one-hundred and fifty-four (154) persons were killed as a result of the major crashes
+and one-hundred and seventy-nine (179) persons sustained injuries in the major
+
+crashes.
+
+56
+
+--- Page 57 ---
+" Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 52: Major crashes casualties sustained during the first quarter of 2016/
+2017
+
+46.2%
+
+Fatalities Injuries
+
+Major Crashes - Casualties
+(01-Apr-16 to 30-Jun-16) {Total = 333}
+
+The above chart indicates the number of casualties — three-hundred and thirty-three
+(333) - that is made up one-hundred and fifty-four (154) fatalities and one-hundred
+and seventy-nine (179) injuries sustained during the first quarter of the 2016/ 2017
+financial year in the thirty-seven (37) major crashes reported and investigated.
+
+MAJOR CRASHES AND FATALITIES PER MONTH
+
+Figure 53: Total major crashes and fatalities per month as investigated during
+the first quarter of the 2016/ 2017 financial year
+
+Number of Major Crashes/Month
+(01-Apr-16 to 30-Jun-16) {Total =37}
+
+35.1%
+13
+
+Figure 54: Fatalities per month as investigated during the first quarter of the
+2016/ 2017 financial year
+
+57
+
+--- Page 58 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Major Crashes - Fatalities/Month
+(01-Apr-16 to 30-Jun-16) {Total =154}
+
+The above graphs indicate the annual number of major crashes reported and during
+the first quarter of the 2016/ 2017 financial year as well as the fatalities sustained
+over that period per Province. April 2016 had the highest number of major crashes
+and fatalities- fifteen (15) major crashes and seventy six (76) fatalities sustained in
+the major crashes, followed by thirteen (13) crashes with forty three (43) fatalities in
+May 2016. The lowest number of crashes and fatalities were investigated in June
+2016 with nine (9) major crashes and thirty five (35) fatalities sustained.
+
+4. ANNUAL MAJOR CRASH AND FATALITY COMPARISON FROM 01
+JANUARY 2009 TO 30 JUNE 2016
+
+Table 36: Total number of major crashes investigated and fatalities sustained from 2009
+
+to 2016
+
+7 8
+134 118
+
+Table 37: Fatalities sustained from 2009 to 2016
+
+58
+
+--- Page 59 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Total
+
+ec | 133 | se | 90 | 121 | 132 | 56
+rs [52 [oe | aas [67 [28 | 118
+oe | ss | 79 | 115 | 29 | 14 | 45
+KZN | 120 | 150 | 146 | 133 | 185 | 133
+u ee | 14 | m0] 6 | e | a7
+
+mp | 99 | #83 | 127 | 131 | 116 | 120
+
+ne | 10 | 5 é 5_|_20
+
+NW 9 [|u| ss | 2 | « | 6
+we | 6 | a2| 5 | 51 | 57 | 59 | 58 | 26 | 506
+
+Total 615 800 | 864 706 762 724 761 319 | 5,551
+
+The above tables indicate the annual number of major crashes reported and
+investigated from 01 January 2009 until 30 June 2016 as well as the fatalities
+sustained over that period per Province. Eight hundred and ninety eight (898) major
+crashes have been investigated and five thousand five hundred and fifty one (5 551)
+
+persons have been killed in the major crashes investigated.
+
+59
+
+--- Page 60 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+MAJOR CRASHES AND FATALITIES PER PROVINCE
+
+Figure 55: Major crashes and fatalities per Province during the first quarter of the
+2016/ 2017 financial year
+
+5 Major Crashes
+
+FREE STATE 22 Fatalities
+
+1 Major Crash
+11 Fatalities
+
+MPUMALANGA
+Major Cras|
+
+26 Fatalities
+
+GAI
+
+NG
+
+11 Major Crashes
+39 Fatalities
+
+8 Major Crash
+32 Fatalities
+
+2 Major Crashes
+6 Fatalities
+
+5 Major Crashes
+18 Fatalities
+
+60
+
+--- Page 61 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 56: Major crashes investigated during the first quarter of the 2016/ 2017
+
+financial year in South Africa
+
+Google earth
+
+The above image and subsequent below images was generated using Google Earth and
+the exact crash coordinates from each crash investigated. It depicts the crashes in their
+exact locations per Province as they occurred during April 2016, May 2016 and June 2016.
+
+Thirty-seven major crashes were reported and investigated during this period.
+
+61
+
+--- Page 62 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+’ Below is the crashes investigated during the months for the first quarter of the 2016/ 2017
+
+financial year:
+
+Figure 57: April 2016
+
+Google earth
+8
+
+The above image was generated using Google Earth and the crash coordinates obtained
+during the investigation of the major crashes reported during April 2016. Fifteen (15) major
+crashes were reported and investigated during April 2016.
+
+62
+
+--- Page 63 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 58: May 2016
+
+Google earth
+
+E elev $513 ft eye alt 1718.81 mi
+
+The above image was generated using Google Earth and the crash coordinates obtained
+during the investigation of the major crashes reported during May 2016. Thirteen (13) major
+crashes were reported and investigated during May 2016
+
+63
+
+--- Page 64 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Figure 59: June 2016
+
+Google earth
+
+The above image was generated using Google Earth and the crash coordinates obtained
+during the investigation of the major crashes reported during June 2016. Nine (9) major
+crashes were reported and investigated during June 2016.
+
+6.1. MAJOR CRASHES PER PROVINCE
+
+Figure 60: Major crashes per Province investigated during the first quarter of the 2016/
+
+2017 financial year
+
+Number of Major Crashes/Province
+(01-Apr-16 to 30-Jun-16) {Total = 37}
+
+64
+
+--- Page 65 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+The above graph depicts the number of investigated major crashes per Province during the
+first quarter of the 2016/ 2017 financial year. The highest number of crashes were reported
+and investigated in Gauteng Province- eleven (11) crashes, followed by eight (8) crashes in
+
+Kwazulu Natal Province
+
+The highest number of major crashes occurred in Gauteng Province. Six (6) out of eleven
+(11) major crashes investigated in Gauteng Province were multiple vehicle crashes that
+
+involved thirty one (31) vehicles.
+FATALITIES PER PROVINCE
+
+Figure 61: Major crash fatalities per Province as investigated during the first quarter
+of the 2016/ 2017 financial year
+
+Major Crashes - Fatalities/Province
+(01-Apr-16 to 30-Jun-16) {Total =154}
+
+25. a
+base “a
+
+14.3%
+11. ve 22
+2. ae
+3.9%
+6
+u MP we
+
+The above chart indicates the number of fatalities sustained in the major crashes
+
+investigated for each Province during the first quarter of the 2016/2017 financial year. The
+highest number of people were killed in Gauteng (thirty nine- 39), followed by thirty two (32)
+people in Kwazulu Natal and twenty six (26) people in Mpumalanga Province.
+
+65
+
+--- Page 66 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+VEHICLE TYPES INVOLVED IN MAJOR CRASHES
+
+Figure 62: Vehicle types involved in major crashes during the first quarter of the
+2016/ 2017 financial year
+
+Major Crashes - Vehicle Type Involved
+{01-Apr-16 to 30-Jun-16) {Total = 111}
+
+10.8% 10.8%
+
+0.9% 12
+
+Midibus |
+
+Minibus Taxi [fj
+
+The above chart depicts the vehicle types involved in the major crashes reported and
+investigated during the first quarter of the 2016/2017 financial year. A total of one hundred
+and eleven (111) vehicles were involved in thirty seven (37) major crashes. The vehicle
+type mostly involved were Light Motor Vehicles (LMV’s- 59), followed by Light Delivery
+Vehicles (LDV’s-16), Minibuses twelve (12) and Trucks twelve (12).
+
+66
+
+--- Page 67 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+MAJOR CRASH TYPES
+
+Figure 63: Major crash types that occurred during the first quarter of the 2016/ 2017
+
+financial year
+
+Major Crashes - Type of Crash
+(01-Apr-16 to 30-Jun-16) {Total =37}
+
+40.5%
+
+The above graph and table depicts the major crash types that occurred during the first
+quarter of the 2016/2017 financial year. Fifteen (15) of the thirty seven (37) major crashes
+reported and investigated were multiple vehicle type crashes that resulted in twenty six (26)
+fatalities and forty five (45) injuries. A total of seventy (70) vehicles were involved in the
+
+fifteen (15) multiple vehicle crashes.
+Ten (10) of the major crashes reported and investigated during the first quarter of the
+
+2016/2017 financial year were head-on type crashes that resulted in sixty one (61) fatalities
+and thirty two (32) injuries.
+
+67
+
+--- Page 68 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+CONTRIBUTING FACTORS TO THE MAJOR CRASHES
+
+Table 38: Contributing factors to major crashes that occurred during the first quarter
+of the 2016/ 2017 financial year
+
+Major Crashes - Contributory Factors
+Province Human Vehicle Crashes % of Tot
+EC 5 0 S 14%
+FS 1 0 1 3%
+GP 9 2 11 30%
+KZN 6 2 8 22%
+ul 5 i?) 5 14%
+MP 4 EC E 14%
+wc 2 (¢) 2 5%
+Total 32 5 37 100%
+% of Tot 86% 14% 100%
+
+Figure 64: Contributing factors to major crashes that occurred during the first
+quarter of the 2016/ 2017 financial year
+
+Major Crashes - Contributory Factors
+{01-Apr-16 to 30-Jun-16) {Total = 37}
+
+= Human » Vehicle
+
+86.5% of the contributing factors to the major crashes that occurred during the first quarter
+of the 2016/ 2017 financial year were as a result of Driver/ Human Error. These crashes
+
+occurred as a direct result of drivers:
+
+. Driving in oncoming traffic lane
+. Failing to keep vehicle under control
+5 Failing to keep a proper lookout
+
+68
+
+--- Page 69 ---
+* Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+. Driving at a speed too high for circumstances
+. Driving while intoxicated with drugs/ liquor
+
+. Driving in the wrong lane
+
+. Driving in wrong lane/ oncoming traffic lane
+
+. Turning in the face of oncoming traffic
+
+. Overtaking in the face of oncoming traffic
+
+13.5% of the contributing factors to the major crashes that occurred during the first quarter
+of the 2016/ 2017 financial year were attributed to Vehicle Error. These crashes occurred
+
+as a result of the following:
+
+. Faulty brakes on the vehicle
+. Tyres bursting prior to crash occurring
+. Underinflated tyre that caused a driver to lose control
+
+MAJOR CRASHES PER DAY
+
+Figure 65: Major crash occurrence per day as they occurred during the first quarter
+of the 2016/ 2017 financial year
+
+Number of Major Crashes/Day
+(01-Apr-16 to 30-Jun-16) {Total =37} 35.1%
+
+13
+21.6%
+8
+16.2%
+6
+8.1%
+3
+2.7%
+. L4
+
+|
+
+Thu Fri Sat Sun
+
+Tue
+
+The above graphs indicate the major crashes as they occurred per day during the first
+quarter of the 2016/ 2017 financial year. Thirty three (33) of the major crashes were
+reported over the period ranging from the Friday until Monday, with the highest number of
+crashes recorded on Sundays (thirteen-13), followed by eight (8) crashes on Saturdays and
+
+six (6) crashes reported on the Friday and the Monday.
+
+69
+
+--- Page 70 ---
+Roai Traffic Management Corporation Road Traffic Report: April - June 2016
+
+MAJOR CRASH FATALITIES PER DAY
+
+Figure 66: Major crash fatalities sustained per day during the first quarter of the
+2016/ 2017 financial year
+
+Major Crashes - Fatalities/Day
+(01-Apr-16 to 30-Jun-16) {Total = 154}
+
+17.5% 17.5%
+
+27 27
+3.2% 4.5%
+5 7
+=i |
+Fri Sat Sun
+
+Thu
+
+The above graphs indicate the number of fatalities sustained per day during the first quarter
+of the 2016/ 2017 financial year
+One hundred and forty two (142) fatalities were sustained from the Fridays to the Mondays,
+with sixty eight (68) fatalities sustained on Sundays, followed by twenty seven (27) fatalities
+sustained on a Friday and twenty seven (27) fatalities sustained on a Saturday. Twenty (20)
+persons were killed on Mondays.
+
+70
+
+--- Page 71 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+7. Conclusion
+
+There were 2 912 fatal crashes recorded during the period under review with 3 451
+fatalities. Fatalities for pedestrians contributed 41% followed by passenger's
+contribution of 31%. The information depicts that of the total number of fatalities
+there were 76% representing fatalities for males during the crashes and 23% for
+females. Most of crashes occurred between 14:00 to 22:00 with a contribution of
+52%. Most vehicles involved in the crashes were motorcars and LDV with 48% and
+20% respectively. Furthermore, most crashes occurred as a result of human
+
+factors.
+
+There were 37 major crashes reported and investigated during this period where
+154 persons were killed and 179 sustained injuries in the crashes. Out of 37 major
+
+crashes, 86% were as a results of human factors while 14% were vehicle factors.
+
+There is a need to strengthen the Law Enforcement operations to address among
+others the vehicle roadworthiness and passenger's safety. The information shows
+that more road users that are vanishing are the passengers and pedestrians. The
+Road Safety initiatives must focus on the safety of the above mentioned two road
+
+users not neglecting drivers.
+
+71
+
+--- Page 72 ---
+Road Traffic Management Corporation
+
+Compiled by
+
+Ms Magadi Gainewe
+Head: Road Traffic Information
+Date
+
+Reviewed and Supported by
+
+<A
+
+Mr Gil ferto/Martins
+coo
+
+Recommended by
+
+Approved by
+
+Chairman (of the Board
+
+72
+
+Road Traffic Report: April - June 2016
+
+MLA.
+
+Mrs Rosina Moloto
+Sub-Head: Road Traffic Information
+Date:
+
+Date
+
+--- Page 73 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Annexures
+A Vehicle Population per Province 74
+B Un-Roadworthy and Un-Licenced Vehicles 75
+c Number of Learner and Driving Licences and PrDPs 78
+D Number of Fatal Crashes per Province 80
+E Number of Fatalities per Province 83
+
+73
+
+--- Page 74 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Annexure A
+
+Number of Registered Vehicles
+
+Jun 2015 Number of Registered Vehicles per Province Total
+GA KZ we EC FS MP Nw Tu NC RSA
+Motorised Veh's
+Motorcars 280600] 920117 1156574 421834 296984 388 Seq 29763] 295777] (12021 +6 697 674)
+[Minibuses 115799 48224 «3220921 a 2117} 2182 at I 295 19:
+[Buses Teeey 767A CG 3.80 2 80. 742] 3 7 5634 «it 6 58 10
+|Motorcycles 146179 33884 «83409 ~=—« 2310204320 = 1471 Tosa 634i] 360 694
+ICDV's-Bakkies | 771460 334978 300 2 T8174 124606 197904 141653 204864 ~— 74737] | 233879:
+|Trucks T6244 49139 «4027A 2 AGT SA AZ TI 180523734 T 363 281]
+Other & Unkwn er2rA_ 48369 —«49517]~—«987A_— «AB TOA S2A7i|—-2838H «2021 1121 321 067|
+Sub-Total 4061 805 1442317] 1668 964 701154 522368710 515675 581 230 384 10 434710
+[Towed Veh's
+Caravans 40 59. 776q ‘16:92 S34gj 7899 «10251 667d 5867 ~—«2 957] ~=—«*103:973)
+Heavy Trailers 58251] 2397 18 36: 75116971] 3108 1128] 836 577 181 88.
+Light Trailers 322 21 80039 132649 53570 61 29 S131y 3933-27 431
+Unknown Box 2309 = 2 06 240 T1317 71
+[Sub-Total 423739 113394 170230 + «67786 88 76! 71680 54563 36671 11318
+[All Vehicles 4485 643 1555711] 1839199 768945 611135 815419 587 354 636 am 267 259 11 ra
+Jun 2016 Province Total
+GA [ae EC FS MP NW u NC RSA
+Motorised Veh's
+IMotorcars 2907295 948.849 1202509 435599 30497] 404447] 304170 310674 124149 6 942 640,
+Minibuses 11796450 oa 3307§ 22 68 12323) 22 28 18269 21724 ~=CO4 i 303 180]
+Buses 960i 7624  +~<6677 —«4: 10 298772 3934601 7664-60525)
+[Motorcycles 147429 33.931] 85639  —22981| 20387] 19984 14514 1009 8484 363 636|
+LDV's-Bakkies | 795610 343 aa 3 =e 194621] 127348] 205969 146034 214224 76400, 2414914
+Trucks 736639 «49774 «42091! 22 67F_—«21:98]_—44- 9018 24529 9428 —-369 747
+Other & Unkwn 41284 462 718737] 39558 30277 ~—-2539 7839410 137]_—«272 261
+ub-Total 4166 019, 1.479 46 605 65; | 10726 904]
+[Towed Veh's
+Caravans 40 a 7a7]__1729§ ~+<5274 ~—«7 829 ~«10197]~—S—i ASC 4 2914 103 aE
+Heavy Trailers 869A 23 7a 19 32 751 17599 34088 ~«1103~=S«B 66 5661] 186 50
+Light Trailers 327259 81144 ~«+137964 —«55 ant 62442 63018 52269 40689 28068 848 01
+Unknown 2554 160 142204 2041 236 1301
+\Sub-Total 428 874114 01 109 3: 72211] 56 258
+[All Vehicles 4594 893, 1593 51 844 ae 602644 661914 272 507] 11 881 153
+% Change Number of Registered Vehicles per Province Total
+Jun 2014-2015 [GA KZ we EC FS MP | NW u NC RSA
+Motorised Vehicles
+[Motorcars 36] ERE 3.97] 3.29 2, a 4.09 434 5.04] 32 3.64
+Minibuses 1.88, 374 274 a 17 2.44 4.10 3.8 46) 271
+Buses 3.91 1.84 3.23 77 6.53] 41 3.8 6.85 0.9 44
+[Motorcycles 08 014 28 -0.59 -0.27| =1.22| 4 a -2.14 171 oa
+ILDV's - Bakkies 34 253 35 34 2.20 4.03] 3.10) 457 2.39 3:25
+[Trucks 04: 0.09 45: 09! 154 6.64) 0. 3 3 -1.94 17
+[Other & “38.6. 42 14.78] “571 9.6) 67-105 “90 “959 “15.2
+Unknown
+[Sub-Total 2.57 ia 3.27] 2.8 1.38) 354 2.86 417} 2.08] 2.80
+Towed Vehicles
+Caravans =1.09 2.79 22 By -0.84 0.53 -1.87] 0.95 “1.25, 0.54
+|Heavy Trailers 1.10) -1.01 51 0 a 3.67] 966 “24 36. “2.01 274
+Light Trailers 156 1.38] 401 2.99 0.98) 265} 1 4 3 z 23; 2.21
+Unknown 479 097 0.64 56 “0.9 “23 -1.85 12; ia -1.24]
+|Sub-Total 12] 05 EX] i 12 43 07. 3.14] 12
+[All Vehicles 2.44] 24: 334 2.84 Ta 36: Za 4.07) 1.97}
+
+74
+
+--- Page 75 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Annexure B-1
+
+Number of Vehicles that are Un-Roadworthy
+
+Number of Un-Roadworthy Vehicles
+esierapes GA KZ L we] EC FS MP NW a NC RSA
+Motorised Vehicles
+jotorcars 12687] 32829 34847 14337 13437] 15907] 11109 967 3 or 262 076
+[Minibuses 16559 560 ra 2100 1460 2431) 1824 2 os 39 35 48
+Buses 233484 60; seq 07S —CAOSCATY—=C| 6 33
+[Motorcycles 17327] 3649 539i] 1674 208 Saif 1855 143 64: 37 371
+[CDV - Bakkies 3475412 a 8429 5569 448i] 7114 4 ua 55341 at 83 998
+[Trucks 19519 6547 3909 2997 3774 5984 2825 3534 1840 50 909
+JOther & Unkwn 254i] 2099 123 97§ 2880 2287 1564
+(Sub-Total 219 894 64 167 28037, 28411| 37801] 23 684
+Towed Vehicles
+(Caravans cE: MK: 17 37 «467 256] a
+|Heavy Trailers Seay 28441524 ——Bt]~—198O «Saat ATT a7 6a: 20 346)
+Light Trailers B12q 281A 2974 ~1 264 ~2iTi| 1929 1370 124 52 22 36
+Unknown 7 144] 7: Ey | = 129 s 3 95
+Sub-Total 16678 6164 50! 2354 2966 2418 «130: 47 58:
+IAIl Vehicles 236572, 70329 62285 30 389 26701, 9 rte
+[Sune 2016] GA KZ we EC rm NC RSA
+Motorised Vehicles
+|Motorcars 130017] 31957 37849 14207 13669 15969 11519 9730 321 267 511
+[Minibuses 16 ss 5517 2699 2164 1559 2407] 1984 2 oy a 35 638
+Buses 2404 83 EE 28 Ey aS: 24 6 507|
+|Motorcycles 172369 3739 ~=5 7a 7 a Diz 3257} 1 86y 1414 729 377.
+|[DV's - Bakkies 40119 12184 8934 5638 467 ~720i[ 433% 5339 1 65 90 07:
+[Trucks 19049 6 23q 417 2949 3784 6334 2900 3418 192 50 76:
+JOther & Unkwn 2774 2154 1504 1160 3010 2507) 1625 166: 7d 16 973
+[Sub-Total 228 448] 62629 61479 28229 29129 38352 24629 23524 8 505 198
+Towed Vehicles
+Caravans 142; 37. 521 467,253) 25g) 12; 3931
+|Heavy Trailers i | 380i] 1279 967 = 21 2
+lLight Trailers 3404 T5i41227~~—~59i 23 508
+Unknown 34 959
+ub-Total
+Motorised Vehicles
+Motorcars 24-26 EE: Zs 37] 564 44!
+[Minibuses Te] 494 ~-474 309 CACO 877-329 ‘10 :
+Buses 3.00 -094 -3.04 25.78 rat 804 124 13197.
+Motorcycles 05y 24 674-19] 187 247 O43 -1.14 1337
+LDV's - Bakkies 1544-174 604 (i244 T2553) 35] 2.67
+[Trucks 239-479 710-1 a 0. 7 58 265 324 «44
+lOther & Unkwn 92] 287 2154 (6i] 451 96: 390 764 207
+|Sub-Total Ee A RX: aie 409 3.14 a
+Towed Vehicles
+[Caravans 227 08] 83405 297 —i00]_—=C-17]~=S—iS OSC 0.5
+[Heavy Trailers 3349-64 8 4 219 1157 7.56 564 105i) 7.9 43
+Light Trailers 2 26 14.3: 35g «154A —«9.0-—« 10-51] ~—-T.2i]_—«12 5 5.14
+Unknown’ -20.57, 6.38 16.24 «19.6. 5.19 7.25 0. ot 159 12.5 0.34
+[Sub-Total 214-149 12.0 13]! 77.085 «3.7 _—«10.44 430
+IAIl Vehicles a7 2.34 a o7 2.9! 224 434-2 679 2.87]
+
+75
+
+--- Page 76 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Annexure B-2
+
+Number of Un-Licensed Vehicles
+
+Number of Un-Licenced Vehicles
+
+—— GA KZ we EC FS MP NW ur NC RSA
+Motorised Vehicles
+Motorcars [ 104s6q 22625 2881 1008 606] 887q 8 12 5207 1819 —~196-36:
+Minibuses 402 529] 659) at 137] 235 a 78 37623
+Buses 98: 24g 114 44] 37 122 | 19 16
+IMotorcycles 6 64 134-2931 a 46 777 569 = a 14 185,
+ILDV's - Bakkies 26 43 6 45% 6027 311 203 3204 2554 233 754 52921]
+Tracks 11 6242 14! 7718775
+
+[Other & Unkwn
+
+Towed Vehicles
+
+Sub-Total
+
+ull Vehicles.
+
+Caravans 997] 1F 22: EE | E
+Heavy Trailers 4 264 88. 55 164 531
+Light Trailers 6574 2019 «1:45 “| 492)
+Unknown 24 1 BE 2 14
+[Sub-Total 12 07! 3 03! 228 87. 112:
+[All Vehicles 169927] 37 194 4275415989 10 864
+GA KZ wc EC FS
+
+Motorised Vehicles
+|Motorcars 108 409 22279 +3034 ~—«10 04 572 915 753 509] «1725 ~—-200 304
+IMinibuses 4074 544) = 26 i = 18: 179 ET 6234
+Buses 1 227] 184 11 3 4 GE 3 34] a 1795}
+Motorcycles 6424 (131 2791 86. 421 742] 55 30 251] 13 sr
+ILDV's - Bakkies 29 06: 6 oa 6247 317. 2264 336 «= 497] ~—2 | 735] 56 23;
+[Trucks 1161 2239 ~‘112 66 464-2251 32 44 m 19 21
+[Other & Unkwn 2701 58 84 22: 49 37. 349} 22 a 6 08
+
+ub-Total | 163 42047] 15279 9564) 16 417 47s
+Towed Vehicles
+
+Caravans 904 10: 22 79 6
+Heavy Trailers 433 88
+Light Trailers 6 - 1971
+Unknown 15]
+
+12 161]
+
+Motorised Vehicles
+[Motorcars 369-240, 53] 0378.58 314
+[Minibuses 1.34 309 -11.64 27] 13.87 9.3
+Buses 24.99 -25.30) 117A 22,7. ai] 7. =
+Motorcycles “3.3 237-474 1! -10) a 4.50]
+LDV's - Bakkies 99. 0.91 36 199 _11.0 5.02
+[Trucks 173, 4. c 6a 17.99 667] a
+JOther & Unkwn 20.0: 344-25: 12149-1221 —*14.6
+[Sub-Total e 1.84] 3.94 1.0! -1.83] 5.54]
+
+Towed Vehicles
+
+[Caravans 0.91 -7.0§ _ -16.87] 8.11]
+Heavy Trailers 1. 10.0 184 25.61! —*14.66)
+Light Trailers 1364 -9.5
+Unknown ;
+[Sub-Total
+AllVehicles |
+
+76
+
+
+--- Page 77 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Annexure B-3
+
+Number of Vehicles that are Un-Roadworthy, Un-Licenced or Both
+
+Number of Vehicles : Un-Roadworthy OR Un-Licenced OR Both
+[Sune 2075 GA KZ we EC FS MP NW u NC RSA
+Motorised Vehicles
+
+IMotorcars 305 s 66134 77179 28947] 23359 30367 24349 16049 5619 579 47]
+IMinibuses 23 76 6 62 381g 2507] +168 281 2107] 238: 44946 167|
+Buses 395g “a 791 5 36 96: 497 52 247,90
+IMotorcycles 644g 55549 191 282 2 62! 461 2768] 2004 1008 59261
+ILDV's - Bakkies 80661] 2204 1737] 10131] 7814 12254 815 930 2664170 fod
+[Trucks 39661] 10130 5589 3870 4484 9121] ust 7304
+Other & Unkwn 650g 2947 3002
+
+Towed Vehicles
+(Caravans 2 94! 528, 774 274 498
+Heavy Trailers 1431 438 2434 1074
+lLight Trailers 15811] 507: 46742 |
+
+|Unknown
+
+|Sub-Total
+
+Number of Vehicles : Un-Roadworthy OR Un-Licenced OR Both
+
+| Sanezote TGA KZ we EC FS [MP NW ur NC RSA
+
+Motorised Vehicles
+|Motorcars 315659 64460 824549 28527] 23149 30797 24014 16719 5684 591459
+[Minibuses 24107 6364 3524 2 an Te2i|__—- 276 229 2288 495} 46.210
+Buses 432i]__‘1 174 777 53 374 Ea 46 534 26, 9.385
+[Motorcycles 2795) 5579 9339 2 76! 2809 +4449 ~«2 Sa 7 on Ti] 58702
+ICDV's - BakKies S087] 2172] 18200 10254 8409 842 907 2697] _ 182 180
+[Trucks 36759 1001} 6009 3990 4 Sal 3437408
+[Other & Unkwn 296] 2474 2117 +1987]
+[Sub-Total I 6 2
+
+Towed Vehicles
+
+[Caravans 2.801 507 an 26q 7 | 367]
+|Heavy Trailers ea] 4 Ee 2 oa cs: Mc 1588]
+\Cight Trailers 1621-503 532 197. 2 eq 317723244
+
+|Unknown 323 iz 154
+[Sub-Total 3397
+|All Vehicles 84)
+Number of Vehicles : Un-Roadworthy OR Un-Licenced OR Both
+[_ %Ghange | GAT Kz we EC FS [MP wey NC RSA
+Motorised Vehicles
+
+[Motorcars 3 a 2.53 6eq -14 09 14 SE: A: | 2.08)
+
+inibuses Tal ry | 19! 78 19: i 70.24 0.09
+Buses 93 73 a7 __173 24 84 624 12 z 5.67 3.54
+|Motorcycles 4 4 0 A Tey 2.2: 08 “37 Ore 5.2 105 0.94
+|LDV's - Bakkies 7264-14 «A 77 72] 76 27933 2.44] | 694
+[Trucks 2 =1.14 7A EST ME: 12.2 0845.11 4.09 O74
+Other & Unkwn 04 7024 19.07] 14 EX 747 327] __ 16.30) T77|
+[Sub-Total 3.97] 214 EX Cr: 28 00g 484 3.50, 2.54
+
+Towed Vehicles
+
+Caravans ~4 z 49 509 -4.34 4 1 5 = 11.9 2509 1.74]
+Heavy Trailers 23, 4a B59 1.0 16.1 96 32 60 :
+Cight Trailers 254-07 Beg 16 6417.10 Tay «18
+[Unknown 3099 «13:74 ~~«7-5G «ST 647] 21.20 -113i| —-2.63)
+[Sub-Total 13: Sa a 03: 651] 106 one 428]
+[All Vehicles va 2A x 025 2.0; Be 0.0 475)
+
+77
+
+--- Page 78 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Annexure C-1
+
+Number of Learner Licences Issued
+
+June 2015 Number of Learners Licences Issued per Province
+Category GA | kz wc EC FS MP NW Ll NC RSA
+7 17200 532i] 1516] 3244 2593 2734 2034 «1598 1137] ais
+2 73 = 44854 86489 33795 16859 9464 11034 6249 6076 294 39:
+3 238 609 164 at 88075 78879 52799 98814 56962] 106608 23 090 908 789)
+Total 335 383, 215 130 189739 115914 72244 11101 70035 114452 30 312) 1 254 221
+June 2016 Number of Learners Licences Issued per Province
+Category RSA
+1 15674 4895 14509 2604 244 2579 2013] 1514 969 47 206
+2 7479 41757 85678 29924 15964 9212) 1084] 5853 5771 279 796)
+3 262 003 170849 86930 78379 54461] 103504 61447] 105377 22 37% 947 30
+Total 352473 217 495 188914 111 099 72 865 115 295) 74 301] 1127. 1274311
+% Change Number of Learners Licences Issued per Province
+Category | GA KZ wc EC FS MP NW Li NC RSA
+1 1139-8177 = OT -74Y 830.44 9.45 11.27 9.02
+2 TTY 80l 34-1185 4541.97 OA 7.87 8.10] 58:
+3 68 56 os] 08st Oa] 48 998-152) 5.2 37
+Total $58 289-208 3.24 0.78) - a 209 5.44 0.91]
+
+Learner Licences :
+Category 1 : Motorcycle
+
+Category 2 : Light Motor Vehicle
+Category 3 : Heavy Motor Vehicle
+
+78
+
+--- Page 79 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Annexure C-2
+
+Number of Driving Licences Issued
+
+June 2015 Number of Driving Licences Issued per Province
+Category GA KZ wc EC FS MP NW LI NC RSA
+Al 71 an 59057} 105570 33304 25 = 22364 «(19388 «143049 28 460 76:
+A 4490 Bory aria (O18 906: 6681 6497, «3884 «ae «123-484
+B 925567] 417039 «815059 205384 «129559 110 73 105 53 69436 46007) 2524321]
+EB Ci, a: ad 1014 a7 218 762. 1624 424-2077
+Ci 1046604 50360 175 is 158674 133804 334654 172600 471998 55.661] 3.053 304
+ECt T3152 57746 —7e945G 3096 176 16A 160481] 147880 108738 «65 104 3 644 797]
+c 28971 158951] 115811 67667) 76554 9863 52 80: 87 10 24434 971 677}
+EC 2284997013] ~—<S0704 — AB BBE ABD «82 13 37 254-6470. 17 40 596 16:
+Total 4026 924 1804 ied T7e4 071] 830839 887 147] 787890 537 58H 821888, 214 a 17 395 2
+June 2016 Number of Driving Licences Issued per Province
+Category GA KZ wc EC FS MP NW ul NC RSA
+Al T7436 59909 10929 33814 26124 ~—«2261 = 19879 «1472493 469 82
+A 44674 1301 28 07. 978 9034 6637 6473 389 247] 12345
+B M7868] 436624 545571 217824 135704 114994 109951 72583 49014 266086
+EB 4584 4694 4 454] 107: ay 24nd 1 66 71 a 24724
+[or] T182309 86218 E9754 180327 «144 78h S76 | 792 237] 519381] 61688 337860.
+ECT T3226 $7669 796219 310591] 175924 159855 147604 1088 «SIA 3 GAT BO
+c 297944 166359 118601] 69824 78504 103977 84074 91.214 ~—« 24.964 ©1005 45
+EC 226541, 69981] 50554 46 a 35304 «S217 «37254 «65 18 71459 69467
+Total 4191 274 1889 869 1842 519 868719 GOS 97%] BsB 7A 562839 877 58: 225 053 11 902 64
+% Change Number of Driving Licences Issued per Province
+Category L GA KZ wc EC FS MP NW Ll NC
+A Tq | 354 T4 08: BE 07. 229 |
+A 0. 4 “0.44 149 “0.0; 03: “0.69 0.38 dost 0.24)
+B 5B 4.95 5.93 61 511 4.01 429 | 7.01
+EB 451 0.47] 824) 64 27. 12.07 0.98) | 240
+Ct 10.07} | EX: 82 12.64 T7151 Ee EE |
+ECt “0.2 0.08 08 02 “0.4 “0.44 “04 02! 08
+c [| a 46 23 32 24 54! a | a
+EC “08 “02; “03: 03 “04 -0.0: “0.0 074 05
+Total t 405 485 32 464 32 6. cad 6.74] =
+
+Driving licences:
+
+Motorcycle > 125
+a | Motorcycle ‘1 | Motorcycle <125 cub.cm |B | Motor vehicle < 3,5000 kg
+cub.om
+¢ | Motorvehicie > c1_| Motor vehicle 3,500 Ep | Aticulated motor vehicle
+16,000 kg 16,000 kg <16,000 kg
+re | Attculated vehicie > zor | Aticulated vehicle 31500 —
+16,000 kg 16,000 kg
+
+79
+
+--- Page 80 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Annexure C-3
+Number of Professional Driving Permits (PrDPs) Issued
+
+June 2015 Number of Professional Driving Permits (PrDP's) Issued per Province
+Category GA KZ wc EC FS MP NW LI NC RSA
+G 2027 ~~—~*1:86 83, 95. 118 478) 97. 416 10 534
+PG 263 ae 164 73 80924 612249 «94831 «5131 +102 = 23 534) 981 346
+DG 37] 34 1 36 2 31 12) E| 191
+DPG 11399 —«879' 2634 264 Tos} «1 563) 634] En |
+Total 276 885 175 431 8353964 Bay 98684 52 97 105 10924 5891 026 36
+June 2016 Number of Professional Driving Permits (PrDP's) Issued per Province
+Category GA KZ | WC EC FS MP | NW Li NC RSA
+G Teg 18041 634 765 861 03 420] 887] 33 958:
+PG 263714 165773 138869 80449 60569 96 74 50929 10322723 = 983 =
+DG 37 34 1 7| 34 T3 2 rp E| 19:
+DPG 12304 9277 ~«3:951 92g 282f 297 TITY CTA 64. sls
+Total 277 684176 B99 14445383 14h G4 285 10035 52557] 105837] 24 = 1029 62
+% Change Number of Professional Driving Permits (PrDP's) Issued per Province
+Category GA KZ wc EC FS MP NW LI NC RSA
+G 539-681 7A 549 -12.61 79-1408 7.64 12.2 “7.8
+PG -0.04 TS: “0. 1.87 0.26 Tey 0.94) 05 7 05
+DG 16.2 ~10.34) 9.0 0.0 3464-18. —-16.67} 43.7 “33.3 3.21]
+DPG 82 = 7.9% a 784 13.6 67 10.1 3.04) ExT
+Total 02 17 0.07 Tg 0.14 184 sa 06 787, 0.68
+
+Professional Driving Permits (PrDPs)
+G: Goods
+
+P: Passengers
+D : Dangerous goods
+
+80
+
+--- Page 81 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Annexure D
+
+Monthly Number of Fatal Crashes per Province: 2013 - 2016
+
+Year Number of Fatal Crashes per Province per Month
+Month GA | KZ | WC | EC | FS | MP | NW/ LI NC RSA
+Jan 133 | 148 68 76 | 17 74 57 59| 26 658
+Feb 141 | 178 62 69 | 26 90 39 58} 29 692
+Mar 220| 216 77| 103 | 25| 106 77 | 101 27 952
+Apr 201 | 174 88 | 100} 30 82 60 89 | 24 848
+May 218 | 129 83 71 | 46 71 58 72 | 24 772
+2013 Jun 163 | 227 89| 124] 64] 129 84} 132] 26 1,038
+Jul 80} 215 84} 103 | 50/ 109 70 89} 22 822
+Aug 159 | 216 81] 104; 53] 105 79 98 | 22 917
+Sep 206 | 192 72| 105; 32] 121 94} 107 | 26 955
+Oct 140 | 148 59 73 | 34 80 70 94 | 26 724
+Nov 229 | 126 73 91} 39 87 58} 108| 18 829
+Dec 119 | 221 92} 145| 60] 104 69} 122} 31 963
+Your. Number of Fatal Crashes per Province per Month
+Month GA | KZ | WC} EC | FS | MP | NW} LI NC RSA
+Jan 157 | 115 76 83] 41 67 57 68 | 24 688
+Feb 169 | 148 84 77 | 42 81 52 63 | 17 733
+Mar 188 | 158 89} 105] 57] 103 62 88 33 883
+Apr 148 | 165 79 | 103 | 44 76 55 87 | 29 786
+May 159 | 165 83 77 | 40 77 66 81 31 779
+2014 Jun 181 | 213 90} 116] 45 | 104 61} 103 | 24 937
+Jul 175 | 214 91} 129] 57 95 77 90} 21 949
+Aug 205 | 202 96} 113} 66] 117 93 | 101 31 1024
+Sep 180 | 179 84} 124| 68 17 81 96 24 853
+Oct 194 | 170 69 88 | 58 89 58 86 | 27 839
+Nov 186 | 162 60 38 | 62); 106 66 93 | 33 806
+Dec 194 | 238 93 | 152} 70} 101 74 | 131 37 1090
+ae Number of Fatal Crashes per Province per Month
+Month GA | KZ | WC | EC | FS} MP | NW} LI NC RSA
+Jan 90 99 57 | 106} 49 89 63 72| 27 652
+Feb 119 88 51 79 | 44 53 42 63 | 17 556
+Mar 130 | 147| 105| 102] 66 90 60 86} 22 808
+Apr 190 | 176 89 96} 64} 102 71 | 102 18 908
+May 198 | 223 90} 110| 63| 124 78 98 | 28 1012
+2015 Jun 195 | 222 76} 119| 55 95 56 91 27 936
+Jul 239 | 190 79} 111] 65] 104 73 | 112} 20 993
+Aug 240 | 225 81 | 108| 88 94 67 | 132] 23 1058
+Sep 191 | 189 94 83 | 41} 105 65 91 25 884
+Oct 217 | 184 90 86} 71 92 59 99| 40 938
+Nov 166 | 109 86 87 | 60 38 53 93 | 30 722
+Dec 196 | 223| 100| 162} 84} 112 78 | 150} 41 1146
+
+81
+
+--- Page 82 ---
+Road Traffic Management Corporation
+
+Road Traffic Report: April - June 2016
+
+Number of Fatal Crashes per Province per Month
+
+ee Month GA KZ wc EC FS MP NW ui NC RSA
+Jan 109 169 91 95 60 77 60 84 28 773
+Feb 147 146 73 79 50 69 77 83 17 741
+
+2016 Mar 189 154 99 94 55 104 66 106 18 885
+Apr 148 40 214 198 98 115 28 71 93 1005
+May 101 51 211 215 88 97 23 63 105 954
+Jun 115 60 181 221 100 98 27 66 85 953
+
+82
+
+
+--- Page 83 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Annexure E
+Monthly Number of Fatalities per Province: 2013 - 2016
+
+[Year | Number of Fatalities per Province per Month
+Month | GA | Kz | WC | EC | FS | MP | NW | LI | NC | RSA
+Jan 143|_186| 69] 87] 17] 109] 57] 69] 26] 763
+Feb 123| 218| 64] 80] 21| 97| 47] 72| 31] 753
+Mar 220| 231] 110] 134| 31] 123] 67| 108| 27| 1070
+‘Apr 211 | 225| 100/ 124] 34] 92] 70] 102} 30| 988
+May 227| 143, 69| 65| 50| 76| 63] 114] 35| 882
+Jun 167| 294| 96] 165| 73| 148| 114] 176| 20] 1262
+2013 Jul 75| 248| 96| 126| 50| 136{ 62] 117] 31| 960
+‘Aug 156| 265| 100| 114| 68| 143| 88] 124] 22| 1079
+Sep 204| 214] 96] 130| 32] 151] 121] 119] 26| 1092
+Oct 1s3| 161] 64| 68] 39] 101| 81| 108| 31] 926
+Nov 228] 191| 74] 113| 51] 115] 65| 150] 12] 999
+Dec 121| 251| 108| 178| 76| 130| 99] 155| 43] 1470
+[Year| Number of Fatalities per Province per Month
+Month | GA | Kz | Wc | EC | FS | MP | NW | _LI_| NC | RSA
+Jan 199} 166] 110] 103 71] 95] 59| 68| 28] 900
+Feb 167| 162/ 93[ 83| 46] 102| 66| 107| 17] 943
+Mar 223 | 237| 104] 108| 62| 134| 76| 105| 40| 1089
+Apr 204| 220] 88| 117| 73| 96] 63| 101] 35] 998
+May 175| 206] 98| 108| 40] 101| 78| 95| 49] 949
+Jun 181| 213| 106] 116| s56| 157| 73| 118| 24] 1044
+ania Jul 187| 296] 99] 177] 63| 125| 93] 134| 21| 1496
+Aug 224| 303] 119| 126] 83] 143] 114] 149] 47| 1307
+Sep 187 | 226| 117| 167| 104] 19| 96| 124| 24] 1063
+Oct 254| 170| 76| 88| 76| 112| 109] 97| 47| 1030
+Nov 260| 162| 68] 38| 87| 119| 70] 99| 33| 936
+Dec 207| 279| 107| 184| 110| 134] 96| 173] 54] 1346
+[= | Number of Fatalities per Province per Month
+Month | GA | KZ | wc | EC | FS | MP | NW] LI | NC | RSA
+Jan 95| 115] 65| 128] 67] 121] 82] @i| 31] 775
+Feb 121/98] 52| 108| 48] 68| 53| 77| 25] 650
+Mar 157| 164| 144| 130| 64] 116| 76| 113| 24] 1008
+Apr 227| 208| 94| 133| 86| 138| 61| 138] 25| 1430
+May 228| 249| 100] 130| 73| 148| 89| 141| 28| 14186
+Jun 226| 246| 91] 143| 87| 118| 67| 112| 36| 1126
+2018 Jul 262| 221] 90| 133] 74| 148| 91] 141] 25| 4485
+Aug 257| 279| 94] 165| 101| 123| 89] 174| 27| 1309
+Sep 215| 229| 115| 110| 49| 127] 93| 107| 34| 1079
+Oct 2a7| 219| 105] 119] 86] 119| 63| 122| 53| 1153
+Nov 211| 123| 99] 108| 75| 54| 74] 117] 33| 894
+Dec 226| 260| 131| 241| 118] 142| 100] 182| 49] 1449
+
+83
+
+--- Page 84 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Number of Fatalities per Province per Month
+Month | GA KZ wc EC FS MP NW ul NC RSA
+Jan 125 201 110 121 90 112 74 130 33 996
+Feb 168 168 84 94 58 82 90 102 17 863
+vans Mar 206 173 122 130 74 146 1 141 23 1.103
+Apr 176 56 242 235 125 144 36 85 114 1213
+May 132 55 232 244 124 117 28 74 120 1126
+Jun 138 64 206 250 122 127 30 82 93 1112
+
+84
+
+--- Page 85 ---
+Road Traffic Management Corporation Road Traffic Report: April - June 2016
+
+Roa affic
+
+Management Corporation
+
+Road Traffic Management Corporation
+Boardwalk Office Park: Phase 5.
+Boardwalk Boulevard: Faerie Glen
+Pretoria East, Tshwane
+Tell: 012 999 5200
+
+Want to know more about the RTMC - visit www.rtmc.co.za
+
+85
+

@@ -66,8 +66,12 @@ def run_scraper(scraper: BaseScraper, output_dir: str = "output") -> str:
 
     # Export to CSV
     print("Exporting to CSV...")
-    # Ensure output_dir is an absolute path relative to the script directory
-    abs_output_dir = os.path.join(SCRIPT_DIR, output_dir)
+    # Ensure output_dir is an absolute path
+    if os.path.isabs(output_dir):
+        abs_output_dir = output_dir
+    else:
+        # If it's a relative path, make it relative to the script directory
+        abs_output_dir = os.path.join(SCRIPT_DIR, output_dir)
     os.makedirs(abs_output_dir, exist_ok=True)
     # Let the scraper use its default output file name but specify the output directory
     csv_path = scraper.export_to_csv(output_dir=abs_output_dir)
@@ -147,6 +151,10 @@ def merge_csv_files(csv_paths: List[str] = None, output_file: str = None, output
     if output_dir is None:
         output_dir = os.path.join(SCRIPT_DIR, "output")
         os.makedirs(output_dir, exist_ok=True)
+    elif not os.path.isabs(output_dir):
+        # If it's a relative path, make it relative to the script directory
+        output_dir = os.path.join(SCRIPT_DIR, output_dir)
+    os.makedirs(output_dir, exist_ok=True)
 
     # If csv_paths is not provided, find all CSV files in the output directory
     if csv_paths is None:
@@ -184,19 +192,18 @@ def merge_csv_files(csv_paths: List[str] = None, output_file: str = None, output
 
     # Generate default output file name if not provided
     if output_file is None:
-        # Ensure output_dir is an absolute path relative to the script directory
-        output_dir = os.path.join(SCRIPT_DIR, "output")
-        os.makedirs(output_dir, exist_ok=True)
+        # Use the output_dir that was already processed above
         output_file = os.path.join(output_dir, "accidents_south_africa.csv")
         output_file = get_next_available_filename(output_file)
     else:
         # If output_file is provided, ensure its directory exists
-        output_dir = os.path.dirname(output_file)
-        if not os.path.isabs(output_dir):
-            # If output_dir is not an absolute path, make it relative to the script directory
-            output_dir = os.path.join(SCRIPT_DIR, output_dir)
-            output_file = os.path.join(output_dir, os.path.basename(output_file))
-        os.makedirs(output_dir, exist_ok=True)
+        file_dir = os.path.dirname(output_file)
+        if file_dir:  # If there's a directory component in output_file
+            if not os.path.isabs(file_dir):
+                # If file_dir is not an absolute path, make it relative to the script directory
+                file_dir = os.path.join(SCRIPT_DIR, file_dir)
+                output_file = os.path.join(file_dir, os.path.basename(output_file))
+            os.makedirs(file_dir, exist_ok=True)
 
     # Write to CSV
     merged_df.to_csv(output_file, index=False)
@@ -223,7 +230,7 @@ def main():
     parser.add_argument("--output-dir", default="output", help="The directory to save the output files")
     args = parser.parse_args()
 
-    # Ensure output_dir is an absolute path relative to the script directory
+    # Ensure output_dir is an absolute path
     abs_output_dir = args.output_dir
     if not os.path.isabs(abs_output_dir):
         abs_output_dir = os.path.join(SCRIPT_DIR, args.output_dir)

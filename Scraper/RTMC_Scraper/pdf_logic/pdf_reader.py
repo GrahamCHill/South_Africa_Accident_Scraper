@@ -86,6 +86,18 @@ def pdf_to_text_ocr(pdf_path: str, dpi: int = 150, save_output: bool = True) -> 
         Extracted text as a string
     """
     text = ""
+    # Check if the output file already exists
+    output_file = os.path.splitext(pdf_path)[0] + "_ocr.txt"
+    if os.path.exists(output_file):
+        print(f"[RTMC] OCR text file already exists for {pdf_path}, skipping OCR processing")
+        try:
+            with open(output_file, "r", encoding="utf-8") as f:
+                text = f.read()
+            return text
+        except Exception as e:
+            print(f"[RTMC] Error reading existing OCR text file: {e}")
+            # If there's an error reading the file, continue with OCR processing
+
     try:
         # Get tesseract path from config
         config = read_config()
@@ -127,7 +139,6 @@ def pdf_to_text_ocr(pdf_path: str, dpi: int = 150, save_output: bool = True) -> 
 
         # Save the extracted text to a file if requested
         if save_output and text:
-            output_file = os.path.splitext(pdf_path)[0] + "_ocr.txt"
             with open(output_file, "w", encoding="utf-8") as f:
                 f.write(text)
             print(f"[RTMC] OCR text saved to {output_file}")

@@ -1,8 +1,11 @@
-Tests
 output
-pdf_downloads
 test_data
 test_pdf_downloads
 __pycache__
 .idea
 test_output
+/pdf_downloads/*.pdf
+/notebook_output/*
+/notebook_output/merged_accidents.csv
+*.csv
+*.png

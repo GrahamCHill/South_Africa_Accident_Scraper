@@ -1,0 +1,2723 @@
+--- Page 1 ---
+State of Road Safety in South Africa
+‘January to June 2020’
+
+transport :
+(i i) Department: J
+aw
+
+Transport -
+REPUBLIC OF SOUTH AFRICA
+
+--- Page 2 ---
+Table of Content
+
+LIST OF FIGURES ......sccssescssesssccsesseaeseeaesecaesecaesesaesecaesecsesataesaeeesaeseeassenaeeataneass 3
+1) EXECUTIVE SUMMARY .....sccssescssescssssesesecseseeeecassesaeseeaesecaesetaeeetacensaseaseeatas 1
+2 FINTRODUCTION......cccscssessscsesseseseesesecaeeecaesesaesecaesecaesataeeasensasseeaesetaesataeeats 3
+
+2.1 NRSS Target
+2.2 Methodologies and Data limitation .
+
+2.2.1. Road crash data collection methodology ...
+
+2.2.2 Crash Data FIOW.......cccccccceccccccesceeeeeeeeeeeeeesaeseeeeeeseeeeeseeeeeeeeeseeeessaeeenaes 5
+2.2.3 Data Processing .......cccecccce eee ce cece cece ee ee eee eee ee eeeeeeee esse eeeeeesnea nena eseaees 5
+2.2.4 LIMITATIONS ....... cece cece eee eee eect eeee eee eee eee eeeeeeeeeneeeeeeeeeeaeteeeaeeseeeeeee tenes 5
+
+3 ROAD SAFETY COLLECTION METHODOLOGY...
+3.1. Background...
+4 STRUCTURE AND CULTURE..
+
+4.1 Characteristics.........ccccccccccceceeeeeeeeeseeeeeeee esses eesseeeeeeeeesueneseeeeeseeeeeeeeesaeeeeegs 7
+4.2  POPUlation 2... eceeceee cece ee eee ee ee eee neta eters nese eee eee eee eta eea essa etaneeeeeaeeeeeeaeens 8
+4.3 ClIMAtC Lo. eee cece cece ee eeeeeeeeeaeeeeeeeesueeesseeeeeeeeeeeeeseeseeseeeeeeesesaeeenaes 9
+
+4.4 Road network
+
+4.5 Vehicle population
+4.6 Structure of Road Safety Management ...
+
+4.6.1 Road Accident FUN ........cccccccccceceeeeeeeeeeeesaeeeeeeeeseaeeeseeeeeeeeeeeeesesaeeenees
+
+4.6.2 South African National Roads Agency Limited .............cceeeeeeeeeeeeeeee eee ee 15
+4.6.3 Cross-Border Road Transport AG@Ncy ........csseeeeeeeeeeeeeeeneeeeeeeeeeaeeneeeneeaee 15
+4.6.4 Road Traffic Infringement Agency. 215
+4.6.5 ROAD TRAFFIC MANAGEMENT CORPORATION . .16
+
+5 ROAD SAFETY PERFORMANCE INDICATORS
+
+5.1 Speed Operations ......... cc cececceeeeeeeeee eee eee eeeeeeeeeeaeeseeeaeeaeeseeeaeeeeeeaeeeeeeeeeas 17
+5.2 Alcohol Operations CONdUCtEd .........ceeeeeeeee eee eee seen ee eeeea teases eeaeeeeeeaeeeeenaeens 17
+5.3 Awareness Interventions ..........ccccceeecseeeeeeeeeeeeeeeeneeenerseeeeesereeeeeeegeeenetseees 17
+
+5.4. Schools Involved In Road Safety Programs...
+
+5.5 Driver & Vehicular Activities..
+6 ROAD SAFETY RESEARCH ....
+
+7 PERFORMANCE ON NATIONAL ROAD SAFETY STRATEGY .......ccccssesseeeeeaes 20
+7.1 Pillar 1: Road Safety ManageMent ...........cceeeeeeeeeseee seen eeaeeeeeeeeeeeeaeeeeeeaeens 21
+7.2 Pillar 2: Safer Roads and Mobility ...........ccceeeeeeeeeeeee seca eee eeeeeeeeeeeeeaeeeeeea eens 24
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 0
+
+--- Page 3 ---
+7.3 Pillar 3: Safer VEHICIES oo... ccceccecce cece cece ee ee eeeceeeeeeeeeeeeeeeseeeeeseeeeseeeesaenenenees
+7.4 Pillar 4: Safer Road Users
+7.5 Pillar 5: Post-Crash Response
+
+7.6 Summary of the implementation status ..
+7.7 Challenges to date ....... ccc cceeeceee cece ee eee eee eee een eeaeeeeeea senses eeaeeeeeeaeeeeeeaeeas 30
+8 EFFECT OF COVID-19 ON ROAD SAFETY ......ccccecseseeseseeeeeeeeeeneeneseeneeeenenas 32
+9 ROAD SAFETY OUTCOMES.
+10 PEDESTRIAN SAFETY
+10.1 Pedestrian fatalities ..
+11 COST OF CRASHES....
+12 POST-CRASH.,....cccccccseeeeeeeeeseeeeseeeeeeseeeeaeeauseseaueneseeseaeeausauseusegusoesoueguegas 49
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 1
+
+--- Page 4 ---
+List of Tables
+
+Table 1: Breakdown of South African road NEtWOrk........ccceceeeeceseeeeeeeeeeeeeeesaeeenees 10
+Table 2: Number of registered vehicles per tyP@..........cseeeeeneeeeeeeeeeeeeaeeeeeeeeeeeeeaees 12
+Table 3: Provincial performance .........csceeeee eee eeeee eee eee eeee senses a eeeeeeeeeaeeeaeeaeeneeeaees 18
+Table 4: Summary of NRSS implementation status ............ccceeeeeeeeeeeneeeeeeeeeeeeen ees 30
+Table 5: Fatal crashes per Province ........ceeeeeeeeeeeeneeeeeeeee senses eeeeeeeeeaeeeeeeaeeneeegees 33
+Table 6: Fatalities per province ..........eeceeeeeeeeeeee tense eeeee een eeeaeeeeeee teases eeaeeneeegees 34
+Table 7: Pedestrian fatalities ...........cccccccccecceceeeeeeeeesaeeeeeeeeseeeeesaeeeseeeeeeeeeesaeeenees 42
+Table 8: Pedestrian fatal crashes per ProvinCe .........cceeeeeeeeneee nets eeeeeeneeeeeaeeneeenees 42
+Table 9: Pedestrian fatalities per ProViINCe ..........eeceeeeeeeeneeeeeeeeeeeeeeeeaeeeneeaeeneeeaees 44
+Table 10: Number of fatal pedestrian crashes per day of week and time bin ........... 47
+Table 11: Registered emergency VehICIES...........:ceceeeeeeeeeeeeeeeeeeeeeee teases eeaeeneeeaees 49
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 2
+
+--- Page 5 ---
+List of Figures
+
+Figure 1: Progression towards NRSS Target.
+
+Figure 2: South African population per Province .........ceceeeeeeeeeeeeeeeeeeeeeneeeeeeeeeeeenees 8
+Figure 3: South African climate ..
+
+Figure 4: Percentage vehicles per road authority ............cccceeeeeeseeeeeeeeeeeeeaeeeeeee eens 11
+Figure 5: Percentage vehicles registered per province...
+
+Figure 6: Entities of the Department of TramSport..........ccecseeeeeeneee eee eeeeeeaeeeeeea eens 14
+Figure 7: Effect of Covid-19 on fatal CraShesS...........cceeeeseee eee eeeeeeeeeeeeeeeeaeeeeeea eens 32
+Figure 8: Percentage change in number of fatal crashes per province ............:.:0eee 33
+Figure 9: Percentage change in fatalities per Province ...........csseeeeeeeeeeeeeeeeeeeeeea eens 34
+Figure 10: Percentage distribution of fatalities per road user type ..........eeeeeeeeeeeeeee 35
+Figure 11: Fatal crashes per time Of day .........ceeeeeeeeeeeeeeeeeeeea senses eeeeeeeeeaeeeeeeaeeas 36
+Figure 12: Percentage distribution of fatalities per AGE GrOUP .........eeeeeeeeeeeeee nena eee 37
+Figure 13: Percentage distribution of fatalities per Gender...........ccceeeeeeeeeeeeee nena eens 38
+Figure 14: Percentage distribution of fatalities per race .........ceceeeeeeeeeeeeeeeeeeeeee eens 38
+Figure 15: Percentage distribution of fatalities per race per road USEF............eeeeeeee 39
+Figure 16: Percentage distribution of fatalities per major contributory factors ......... 40
+Figure 17: Percentage distribution of fatalities per contributory factors .............00 41
+Figure 18: % Pedestrian fatal crashes per PrOViNCe...........ceeeeeeeeeeeeeeeeeeeeeaeeeeeea eens 43
+Figure 19: % Pedestrian fatalities per Province ..........cceseeeeeeeeeeeeeeeeeeeeeeeaeeeeeea eens 44
+Figure 20: Pedestrian fatalities per AGE GrOUP........ceeeeeeeeeee eee eeeeeeeeeeeeeeeeaeeeeeea eens 45
+Figure 21: Pedestrian fatalities per day of the WEeK...........cceeeeeseeeeeeeeeeeeeaeeeeeea eens 46
+Figure 22: Estimated Cost of CraShes ..........cccceeeeeeneeeeeeeeeeeeeeeeaeeeeeeeeeeeeaeeeeeeaeeas 48
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 3
+
+--- Page 6 ---
+List of Acronyms and Abbreviations
+
+ae ORCRONYM x INTERPRETATION
+AR Accident Report
+
+CBRTA Cross-Border Road Transport Agency
+CEO Chief Executive Officer
+
+Corporation Road Traffic Management Corporation
+CSIR Council for Scientific and Industrial Research
+DOT National Department of Transport
+
+EMS Emergency Medical Services
+
+NaTIS National Traffic Information System
+NCDMS National Crash Data Management System
+NRSS National Road Safety Strategy (2016-2030)
+NRTA National Road Traffic Act
+
+RAF Road Accident Fund
+
+RIMS Road Incident Management System
+
+RTI Road Traffic Information
+
+RTIA Road Traffic Infringement Agency
+
+RTMC Road Traffic Management Corporation
+SAIA South African Insurance Association
+SAMRC South African Medical Research Council
+SANRAL South African National Roads Agency
+SAPS South African Police Service
+
+UNDA United Nations Decade of Action
+
+SAIA South African Insurance Association
+SAMRC South African Medical Research Council
+SANRAL South African National Roads Agency
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+--- Page 7 ---
+2
+1 EXECUTIVE SUMMARY
+
+The review of the State of Road Safety in South Africa over the last six months
+is split into two, from January to March and from April to June. This is due to the
+National wide COVID-19 lockdown that took effect from 27 March 2020. This is
+because almost all economic activities were halted to reduce the impact of the
+pandemic and as such, the road traffic environment saw significantly reduced
+
+volumes on South African roads.
+
+Furthermore, additional regulations which positively affected safety on South
+African roads, notably, the ban of consumable alcohol and night-time driving. As
+such, quarter on quarter road crash fatalities reduced by 61%. This was further
+demonstrated by an 80% reduction in Easter fatalities in April due to limited
+movements and no social gatherings; however, key patterns indicated the abuse
+
+of the emptier space on the road which is linked to road user behaviour.
+
+The country continues to battle with drink driving and the lockdown months
+provided a limited impact review of alcohol not only on South African roads but
+as well as the medical fraternity. The bill to propose zero alcohol limits is
+
+currently in Parliament, with comments from the public being accepted.
+
+Majority of the Road Safety programmes were halted in a number of provinces
+between April and June 2020 - due to restrictions in travel and interpersonal
+engagement. This extended to non-achievement of provincial KPIs linked to the
+transportation of school-going children and additional restrictions when the
+Department of Education implemented a risk-adjusted strategy for Grades 7 and
+12.
+
+Whilst the Corporation, DOT SOEs and provincial Road Safety Education units
+adopted the use of technology to drive road safety messages; however, the key
+
+focus during the quarter was on COVID-19. Furthermore, it is acknowledged that
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 1
+
+--- Page 8 ---
+this mode of engagement is limited in a country which is a hybrid of the First
+and Third world.
+
+The implementation of the National Road Safety Strategy remains a priority in
+the country; however, the key challenge is the adoption of a Safe Systems
+approach. Key challenges are inherently tough to change in South Africa an
+amongst these, are the rise of information settlements next to major freeways,
+poor town planning which does not prioritise non-motorised transport and
+limited action towards more safer vehicles in South Africa. The 2019 AA Vehicle
+Safety Report provides an indication of poor consumer knowledge on vehicle
+safety matters and a proactive interest ‘sporty’ aspect of a vehicle during
+
+purchase and not safety.
+
+Pedestrians remain the most vulnerable road user on South African roads,
+accounting for more than 35% of the fatalities. Whilst this figure is much higher
+for Gauteng, KwaZulu Natal and Western Cape - key efforts are required to (1)
+educate the road user more intensively and (2) provide protection to these road
+users through engineering infrastructure. This remains a challenge in a country
+or province which still has to prioritise the elimination of gravel road in key parts
+
+of the country. This does also provide an opportunity to build safer roads.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 2
+
+--- Page 9 ---
+2 INTRODUCTION
+
+This report aims to provide an overview of the state of road safety in South
+Africa between January and June 2020. the Road Traffic Management
+Corporation is mandated by the Road Traffic Management Corporation Act, No.
+
+20 of 1999 to report on road crashes in South Africa.
+
+Over the last five years, South Africa has seen a decline in the number of road
+crash fatalities; however, the reduction has not been significant to meet the
+2010 - 2020 Decade of Action goals nor has the rate of reduction indicated that
+the 2016 - 2030 National Road Safety Strategy (NRSS) targets will be met.
+
+2.1 NRSS TARGET
+
+The NRSS 2016-2030 sets the target of reducing fatalities in the country by 50
+% from 13,967 fatalities that was recorded in 2010 by 2030. The graph below
+depicts an initial smaller annual target from 2017 to 2021 whereafter a larger
+linear annual decrease is set until 2030 to allow for the implementation of initial
+NRSS interventions. The actual recorded fatalities for 2018 and 2019 are below
+the targets set respectively with preliminary data predicting a further reduction
+
+in fatalities for 2020. Once traction is gathered with the implementation of the
+
+initial NRSS interventions, the targets will be aligned to the actual recorded
+fatalities and new target set for the remaining years; it is envisaged that this
+
+will be done with the commencement of the 2021/22 financial year.
+
+So stated the NRSS 2016-2030, a reduction in serious injuries of equal amount
+would also be considered a strategic target, however current data limitations
+make measuring this progress difficult. Improving and addressing information
+shortcomings such as collecting data on road crash injuries has therefore also
+
+been identified as a strategic theme of this strategy.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 3
+
+--- Page 10 ---
+SA Fatalities - NRSS (2016-2030) Target: 50% of 2010
+16000
+14000) y @eenoses
+i oe ee ore
+vow 8 86 gs “tee,
+3 55 BB OB pcs.)
+10000 § Nn J 3 Fe ad e
+, 8 6B 8 fed mel, a
+$000 - S is 2 8 fae, -
+6000 i 2 6 : 8 -
+s &
+4000 oe
+2.000
+0} - =-=s =» wp we eee ee
+2000 “21-150 -300 -400 .550 -600 -600 -600 -600 -600 -600 -600 -600 _g67
+o S o a o - N al z w o S o a So
+5Bs58 8 8 f& 8S ks sg gs gs sk kg sf B
+Nn Nn Nn Nn n Nn Nn N Nn Nn Nn Nn Nn nn Nn
+_ Fatalities Actual © NRSS Target ™ Needed Annual Target Decrease
+
+Figure 1: Progression towards NRSS Target
+
+There are key focus areas that combined, will lead to the attainment of the target
+and this report is structured to provide an update, challenges, and planned
+
+interventions within that focus area.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 4
+
+--- Page 11 ---
+2
+2.2 METHODOLOGIES AND DATA LIMITATION
+
+2.2.1 Road crash data collection methodology
+
+The Culpable Homicide Crash Observation Report (CHoCOR) form is utilised to
+collect fatal road crash data on daily basis. South African Police Service (SAPS)
+is the primary source of the fatal crash data. SAPS provide the Corporation with
+a list of all recorded fatal crashes (CAS list) and further to this, the Corporation
+receive the CHoCOR forms from various police stations. Road Traffic
+Management Corporation captures, processes and verifies the data to compile a
+
+report.
+
+2.2.2 Crash Data Flow
+
+The data is collected through the CHoCOR forms which are submitted to the
+
+Corporation either by fax, email or through the phone.
+
+2.2.3 Data processing
+
+The data is captured and verified for compilation of the consolidated statistical
+
+report. There is a continuous engagement with provinces for validation purpose.
+
+2.2.4 Limitations
+
+The road traffic information contained in the report is based mainly on the fatal
+crashes only. There is still a need for in-depth research to be conducted to collect
+
+scientific base facts to complement the administrative data.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 5
+
+--- Page 12 ---
+2
+3 ROAD SAFETY COLLECTION METHODOLOGY
+
+3.1 BACKGROUND
+
+In previous editions of the State of Road Safety reports, the RTMC focused on
+the road crash information, with the key Road Safety initiatives, Law
+Enforcement interventions and progress on the implementation of the NRSS not
+being consolidated into a single report. This led to limited engagements on the
+overall interventions that the South African road safety stakeholders are
+
+implementing, and alignment across all interventions.
+
+Moreover, countries with similar road safety challenges have elevated the matter
+of road safety and amongst others, these countries publish comprehensive
+annual State of Road Safety reports with an objective to drive the road safety
+
+agenda at the highest level possible.
+
+However, key challenges remain a hindrance in the South African context
+
+including:
+
+e Limited data collection and information processing to understand macro and
+micro societal factors affecting the set targets in road safety;
+
+e The various platforms that exist in the fraternity, noting that multiple
+stakeholders are interlinked with Road Safety in South Africa including and
+not limited to the South Africa Police Service, provincial and_ local
+government, non-governmental agencies and the private sector - each
+pursuing its priority activities aligned to their mandate;
+
+e The inherent corruption associated with the road traffic fraternity, which
+extends from the acquisition of a driver’s license to road traffic law
+transgressions and limited implications thereafter;
+
+e Road user behaviour remains a challenge in the country including:
+
+o Driving at an inappropriately high speeds in certain sections of the road;
+o Driving under the influence of alcohol; and
+
+o Distracted driving notably, the use of a mobile phone whilst driving.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 6
+
+--- Page 13 ---
+2
+4 STRUCTURE AND CULTURE
+
+4.1 CHARACTERISTICS
+
+South Africa, the southernmost country on the African continent, renowned for
+its varied topography, great natural beauty, and cultural diversity, all of which
+have made the country a favoured destination for travellers since the dawn of
+democracy in 1994. The vast majority of black South Africans were not
+enfranchised until 1994.
+
+Africa is a developing country and ranks 113th on the Human Development
+Index, the seventh highest in Africa. It has been classified by the World Bank as
+a newly industrialized country, with the second-largest_economy in Africa, and
+the 33rd-largest in the world. South Africa also has the most UNESCO World
+Heritage Sites in Africa. The country is a middle power in international affairs; it
+
+maintains significant regional influence and is a member of the G20.
+
+Today South Africa enjoys a relatively stable mixed economy that draws on its
+fertile agricultural lands, abundant mineral resources, tourist attractions, and
+highly evolved intellectual capital. Greater political equality and economic
+stability, however, do not necessarily mean social tranquillity. South African
+society at the start of the 21st century continued to face steep challenges: rising
+crime rates, ethnic tensions, great disparities in housing and educational
+
+opportunities, and the AIDS pandemic.
+
+South Africa is bordered by Namibia to the northwest, by Botswana and
+Zimbabwe to the north, and by Mozambique and Swaziland to the northeast and
+east. Lesotho, an independent country, is an enclave in the eastern part of the
+republic, surrounded by South African territory. South Africa’s coastlines border
+
+the Indian Ocean to the southeast and the Atlantic Ocean to the southwest.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 7
+
+--- Page 14 ---
+4.2. POPULATION
+
+According to Statistics South Africa (Stats SA), the midyear population of South
+Africa has increased to an estimated 59,62 million in 2020. The population of
+Gauteng is approximately 15,5 million (26,0%), the province with the highest
+portion of the county’s population. KwaZulu-Natal follows with the second
+highest portion of the population with 11,5 million people with the Northern Cape
+province having the smallest portion of the population at only 1,29 million. Stats
+SA further estimates that the female population is an estimated 30,5 million
+
+females (51,1%) of the total population.
+
+In addition, about 28,6% of the population is aged younger than 15 years and
+approximately 9,1% (5,4 million) is 60 years or older. Of those younger than 15
+years of age, the majority reside in KwaZulu-Natal (21,8%) and Gauteng
+(21,4%). Of the elderly (those aged 60 years and older), the highest percentage
+24,1% (1,31 million) reside in Gauteng. The proportion of elderly persons aged
+60 and has grown from 7,6% in 2002 to 9,1% in 2020 (Stats SA, Mid-Year 2020
+Report).
+
+15,49M
+7,01M
+
+li ;
+
+57,1%
+
+6,73M
+
+Stats SA: MID-YEAR ESTIMATES 2020
+
+Figure 2: South African population per province
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 8
+
+--- Page 15 ---
+Road Traffic
+
+4.3. CLIMATE
+
+South Africa’s long coastline - some 2,800 kilometres — influences much of the
+climate. On the west coast is the cold Atlantic Ocean, and the warmer Indian
+Ocean on the south and east. Starting at the hot and arid desert border with
+Namibia in the northwest, South Africa’s coastline runs south down the cold
+Skeleton Coast, around the Cape Peninsula to Cape Agulhas. This is the
+southernmost tip of Africa, said to be where the Atlantic and Indian oceans meet.
+In fact, it is here, slightly offshore, that two coastal currents meet, currents that
+determine the different coastal climates. The cold Benguela current sweeps the
+
+west coast, and the warm Agulhas current the east.
+
+Képpen climate types with average summer and
+winter temperatures in major cities and towns
+
+Durban
+25°C | 17°C
+
+ast London
+23°C | 14°C
+
+Figure 3: South African climate
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 9
+
+--- Page 16 ---
+From Cape Agulhas the coastline moves east and slowly northwards, and the
+
+climate becomes warmer and wetter. The Western Cape’s pretty green Garden
+Route gives way to the forested Wild Coast in the Eastern Cape, and then humid
+subtropical KwaZulu-Natal coast, famous for its beaches. In the northeast, the
+
+coast reaches the border of Mozambique.
+
+Running along most of the coast is a narrow low-lying strip of land, which soon
+gives way to a higher plateau - the Great Escarpment. The high altitude of South
+Africa’s interior means the country is generally much cooler than southern
+
+hemisphere countries at the same latitude, such as Australia.
+
+4.4 ROAD NETWORK
+
+The South African Road Network consists of approximately 750,000 km of road
+and is estimated to be the tenth largest road network in the world. The following
+table illustrates the breakdown of the road network of road authorities within
+
+the country.
+
+Table 1: Breakdown of South African road network
+
+Road Authority Surfaced Unsurfaced Total
+SANRAL 21 946 0 21 946
+Provinces - 9 42 411 226 273 268 684
+Metros - 8 51 682 14 461 66 143
+Local Municipalities 37 691 219 223 256 914
+
+Total 153 730 459 957 613 687
+Un-Proclaimed (Estimate) 133 291 133 291
+Estimated Total 153 730 593 248 746 978
+
+The National, or roads under the jurisdiction of the South African Roads Agency
+
+(SANRAL) accounts for 3.6% of proclaimed roads with the road network of the
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 10
+
+--- Page 17 ---
+Road Traffic
+
+9 provincial road authorities accounting for 43.8% of the network (see graph
+below).
+
+% Road Network per Authority
+
+_SANRAL
+3,6%
+
+Metropolitan
+10,8%
+
+Figure 4: Percentage vehicles per road authority
+
+Surfaced roads in South Africa consists of 25.1% of proclaimed roads and
+unsurfaced (earth/gravel) roads 74.9%.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 11
+
+--- Page 18 ---
+4.5 VEHICLE POPULATION
+
+South Africa is amongst the top ten (10) countries with the highest vehicles per
+
+capita in Africa. Similarly, remains to be in the top ten (10) with regards to the
+
+population based on 2020 population figures per country.
+
+Table 2: Number of registered vehicles per type
+
+Number of
+Registered
+Vehicles
+
+Motorcars
+Minibuses
+Buses
+Motorcycles
+LDV's - Bak-
+kies
+
+Trucks
+Other & Un-
+known
+Total Motor-
+ised
+
+Caravans
+Heavy Trailers
+Light Trailers
+Other & Un-
+known
+
+Total Towed
+All Vehicles
+
+Number
+Registered
+June 2019
+
+7 424 605
+335 392
+64 807
+345 507
+
+2 589 654
+378 254
+250 609
+
+11 388 828
+
+100 292
+202 303
+883 781
+
+15 356
+
+1 201 732
+12 590 560
+
+Number
+Registered
+June 2020 Change
+Motorised Vehicles
+7496 710 72105
+341 455 6 063
+65 247 440
+339614 -5 893
+2 607 484 17 830
+377 782 -472
+248 309 -2 300
+11476601 87773
+Towed Vehicles
+98 784 -1508
+207 352 5 049
+885 036 1255
+14 891 -465
+1 206 063 4 331
+12 682 664 92104
+
+%
+Change
+
+0,96%
+1,78%
+0,67%
+
+-1,74%
+
+0,68%
+-0,12%
+-0,93%
+
+0,76%
+
+-1,53%
+2,43%
+0,14%
+
+-3,12%
+0,36%
+0,73%
+
+The mid-year vehicle population increased slightly with
+million in 2019 to 12.68 million in 2020 depicted in the table above. Within
+
+% of
+Group
+June 2020
+
+65,32%
+2,98%
+0,57%
+2,96%
+
+22,72%
+3,29%
+2,16%
+
+100,00%
+
+8,19%
+17,19%
+73,38%
+
+1,23%
+100,00%
+
+% of To-
+tal June
+2020
+
+59,11%
+2,69%
+0,51%
+2,68%
+
+20,56%
+2,98%
+1,96%
+
+90,49%
+
+0,78%
+1,63%
+6,98%
+0,12%
+9,51%
+
+100,00%
+
+0.73% from 12.59
+
+motorized category minibuses recorded an increase of 1.81%. Whilst heavy
+
+trailers within the towed vehicles category increased by 2,50%.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+12
+
+--- Page 19 ---
+% Vehicles per Province (mid-year 2020)
+
+38,57%
+
+16,20%
+13,31%
+
+721% 6,65% 581% 5.92% 5,00%
+
+2,25%
+maleraleralerelareteeles
+
+Figure 5: Percentage vehicles registered per province
+
+South Africa has nine (9) provinces, the figure above depicts the percentage
+distribution of registered vehicles per province. Gauteng, Western Cape and
+
+Kwa-Zulu Natal remain to be provinces with the highest proportion.
+
+4.6 STRUCTURE OF ROAD SAFETY MANAGEMENT
+
+The National Department of Transport is responsible for the policy and legislation
+governing roads and public transport. This is implemented through provincial
+departments, local government and public entities. In terms of Schedule 5 of
+the Constitution, provincial roads and traffic are an exclusive provincial function,
+while municipal roads, traffic and parking are exclusive Schedule 5B municipal
+functions. Public transport is a concurrent Schedule 4A function of both national
+and provincial government. While municipal public transport is a Schedule 4B
+
+concurrent municipal function.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 13
+
+--- Page 20 ---
+The strategy of the DoT has been guided by five strategic priorities that define
+
+the work of the Department and the political agenda over the term of this
+
+administration. The following key five (5) priorities have been identified which
+
+will guide the effort of the sector:
+
+Safety as an enabler of service delivery;
+
+Public transport that enables social emancipation and an economy
+
+that works;
+
+Infrastructure build that stimulates economic growth and job
+
+creation;
+
+Building a maritime nation, elevating the oceans economy; and
+
+Accelerating transformation towards greater economic participation
+
+The Department of Transport:
+
+transport
+
+Department:
+Transport
+REPUBLIC OF SOUTH AFRICA
+
+yD ROADS AGENCY | Sp (es
+, mn d Road
+Accid: it
+Road Trafic | Fa cones
+
+« CROSS-BORDER
+
+ROAD TRAFFIC
+INFRINGEMENT AGENCY
+
+Figure 6: Entities of the Department of Transport
+
+4.6.1 Road Accident Fund
+
+The Road Accident Fund (RAF) is a juristic person established by an Act of
+Parliament, namely, the Road Accident Fund Act, 1996 (Act No. 56 of 1996) as
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+14
+
+--- Page 21 ---
+amended ("RAF Act”). It commenced operations on 1 May 1997, assuming at
+
+the time, all the rights, obligations, assets and liabilities of the Multilateral Motor
+Vehicle Accidents Fund.
+
+The RAF is responsible for providing appropriate cover to all road users within
+the borders of South Africa; rehabilitating and compensating persons injured as
+a result of motor vehicles in a timely and caring manner; and actively promoting
+the safe use of all South African roads. Section 3 of the RAF Act stipulates, “the
+object of the Fund shall be the payment of compensation in accordance with this
+
+Act for loss or damage wrongfully caused by the driving of a motor vehicle”.
+
+4.6.2 South African National Roads Agency Limited
+
+The South African National Roads Agency SOC Ltd (SANRAL) is a South African
+parastatal responsible for the management, maintenance and development of
+South Africa's proclaimed National Road network which includes many (but not
+
+all) National ("N") and some Provincial and Regional ("R") route segments
+
+4.6.3 Cross-Border Road Transport Agency
+
+The Cross-Border Road Transport Agency (C-BRTA) exists to improve the cross-
+border flow of commuters and freight operators who make use of road transport.
+Its function as an interstate operations agency is to reduce mobility constraints
+for road transport operators, in the form of regulating market access and issuing
+cross-border permits, while facilitating sustainable social and economic
+
+development in the Southern African Development Community (SADC) region.
+
+4.6.4 Road Traffic Infringement Agency
+
+The Road Traffic Infringement Agency (RTIA) performs its functions in terms of
+subsection (1)(a) of the AARTO Act. The objectives of the agency are, to
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 15
+
+--- Page 22 ---
+administer a procedure to discourage the contravention of road traffic laws and
+to support the adjudication of infringements; to enforce penalties imposed
+against persons contravening road traffic laws; to provide specialised
+prosecution support services; and to undertake community education and
+community awareness programmes to ensure that individuals understand their
+
+rights and options.
+
+4.6.5 ROAD TRAFFIC MANAGEMENT CORPORATION
+
+The RTMC operates under the stewardship of the Department and facilitates an
+effective partnership between national, provincial and local spheres of
+
+government in the management of road traffic matters.
+
+The overriding aim of the Road Traffic Management Corporation (RTMC) is to
+overcome the current fragmentation of traffic management functions across
+hundreds of provincial and local jurisdictions, and to bring a new professional
+coherence and improved morale into the entire system; in support of enhanced
+co-operative and co-ordinated road traffic strategic planning, regulation,
+facilitation and law enforcement; strengthening national and_ provincial
+governments’ collective capacity to govern road traffic through partnerships with
+local government bodies and the private sector; and focussing government on
+
+effective strategic planning, regulation, facilitation and monitoring.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 16
+
+--- Page 23 ---
+5 Road Safety Performance Indicators
+
+5.1 SPEED OPERATIONS
+
+A total of 25 978 Speed Operations were conducted from the period of January
+
+to June by the Provincial Law Enforcement Agencies.
+
+For the period starting in January to March 20 0270 operations were conducted
+
+and 5 708 speed operations were conducted in the period April to June.
+
+5.2 ALCOHOL OPERATIONS CONDUCTED
+A total of 4 488 alcohol operations were conducted from January until June 2020.
+
+For the period starting in January to March 4 128 operations were conducted
+
+and 360 operations were conducted in the period April to June.
+
+5.3 AWARENESS INTERVENTIONS
+
+A total of 1 724 awareness interventions were carried out from January until
+June 2020.
+
+For the period starting in January to March 1 347 interventions were carried and
+
+377 interventions were carried out conducted in the period April to June.
+
+5.4 SCHOOLS INVOLVED IN ROAD SAFETY PROGRAMS
+
+A total of 2 064 schools were involved in Road Safety School Programs from
+January until June 2020. All the schools involvement were for the period January
+to March due to Covid-19 lockdown.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 17
+
+--- Page 24 ---
+5.5 DRIVER & VEHICULAR ACTIVITIES
+
+Table 3: Provincial performance
+
+Number Recorded Number Recorded
+
+Aeahalstes (January - March) (April — June) WOW
+Overloading 1 363 (e) 1 363
+Speed Arrest 1363 192 1555
+Drunken Driving 5 927 159 6086
+Arrests
+Discontinued 5 646 0 5 646
+Vehicles
+Infringement Notices 2 671 803 (e) 2671 803
+
+TOTAL 2 686 102 351 2 686 453
+State of road safety report: 1 Jan 2020 - 30 June 2020 18
+
+
+--- Page 25 ---
+6 ROAD SAFETY RESEARCH
+
+The RTMC, in collaboration with the SAMRC-UNISA Violence, Injury and Peace
+Research Unit (VIPRU) has investigated the role of driver alcohol intoxication as
+a risk factor for fatal road traffic crashes in the country for the period 2016-
+2018. The research is based on the analysis of data collected by the RTMC and
+included records of 13 074 fatal crashes with known driver risk factors and was
+published by the RTMC in March 2020.
+
+Extrapolating from RTMC data and other research nationally, driver alcohol
+intoxication is believed to account for 27.1% of fatal crashes in the country
+where driver error is the primary attribution; with an associated estimated cost
+
+of R 18.2 billion. This is considerably higher than current estimates.
+
+Given evidence globally to indicate that driver error may be involved in over
+90% of all fatal crashes, it is possible that driver alcohol intoxication is implicated
+
+in at least one in four of all fatal crashes in the country, regardless of cause.
+
+Reference:
+
+Other research published in March 2020, in line with the Safe System Approach
+towards providing more forgiving roads in the country are a literature review on
+speed and speed limits in SA, as Phase A of the improved driver behaviour
+project and research on the effect of outdoor advertising on road safety and a
+
+draft safety engineering manual for outdoor advertising in South Africa.
+
+References:
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 19
+
+--- Page 26 ---
+7
+
+PERFORMANCE ON NATIONAL ROAD SAFETY
+STRATEGY
+
+The implementation of the National Road Safety Strategy (NRSS) 2016-2030 is
+
+driven by the 82 outlined initiatives. With each of these initiatives aligned to the
+
+five pillars of the Decade of Action for Road Safety, they are led by various
+
+agencies viz.
+
+Pillar 1:
+
+Pillar 2:
+Pillar 3:
+
+Pillar 4:
+
+Pillar 5:
+
+Road Safety Management - RTMC and the Department of
+Transport (DOT)
+
+Safer Roads - SANRAL and Provincial Authorities
+
+Safer Vehicles - The Department of Trade and Industry (and
+its agencies namely, the National Regulator for Compulsory
+Specification (NRCS), South African Bureau of Standards
+(SABS)
+
+Safer Road User - RTMC and DOT SOEs with the Road Safety
+mandate
+
+Post Crash Care - Department of Health and the Road
+Accident Fund (RAF)
+
+This section aims to provide an update on the 82 initiatives outlined in the NRSS,
+
+noting that; the finalisation of a coherent implementation plan and the cost of
+
+implementing the NRSS is still outstanding. The approach to address this
+
+shortcoming is addressed in Annexure A of this report.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 20
+
+--- Page 27 ---
+7.1 PILLAR 1: ROAD SAFETY MANAGEMENT
+
+This pillar has the following strategic intents:
+
+e Improve Coordination and Management
+
+There are six interventions under this strategic intent - 1A(i) to 1A(vi)
+
+NRSS
+ID
+1A(i) [Establish a National Road Safety Oversight Council for governance and oversight of the strategy
+
+Continue to support improvement measures to address the problem areas within road safety e.g. freight transport as they
+1A(ii) |relate to road safety management efforts on national and provincial roads. E.g. roadworthiness, overloading, driver fatigue,
+etc.
+
+INRSS Project Plan - 28 June 2020
+
+1A(iii) [Establish an annual conference on Road Safety to enhance evidence-based solutions
+1A\(iv) [Support and influence the development of guidance for liquor licencing to include road safety considerations
+1A(v) [Monitor and improve compliance by road authorities to strategy targets
+
+1A\vi) [Continuous improvement of co-ordination between private and public health services to improve post-crash response rates
+lacross all areas
+
+e Three of these interventions namely 1A(ii) - 1A(iv) are being implemented
+
+e Objective 1A(i) is currently being undertaken by the RTMC in a bid to
+advance the initiatives of the NRSS programme
+
+e The two interventions are not implemented but undergoing approval
+phases for completion in July 2022. 1A(i) and 1A(v)
+
+e Ensure Adequate Funding and Capacity
+There are four interventions under this strategic intent namely 1B(i) -
+1B(iv) only intervention 1B(ii) is being implemented - notable by the
+
+RTMC’s Road Traffic Training College.
+
+NRSS
+
+ID NRSS Project Plan - 28 June 2020
+
+1B(i)__| National road safety budget to be approved by Treasury
+Develop and roll out (standardised, modernized and improved) training pack-
+1B(ii) ages for traffic officers and other road safety practitioners to increase educa-
+tion standards and level of professionalism
+1B(iii) Complete a full resource and capacity assessment to determine a baseline to
+deliver the NRSS
+
+. Find alternative sources of funding for road safety interventions (consider
+
+1B(iv) both public and private sector)
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 21
+
+--- Page 28 ---
+e Interventions 1B(i), 1B(iii) and 1B(iv) - 1B(iv) are scheduled to be
+
+completed for implementation by January 2022.
+
+e Eliminate Fraud and Corruption
+There are three interventions under this strategic intent namely 1C(i) -
+
+1C(iii),
+
+NRSS
+
+ID NRSS Project Plan - 28 June 2020
+
+Support the development of the new anti-corruption strategy followed by mar-
+1C(i) | keting and communications plan including drafting norms and standards for the
+corruption strategy.
+
+1C(ii Standardise and improve employment conditions for road safety professionals
+1C(iii) Identify and address opportunities for fraud and corruption in driver and vehi-
+cle licensing
+
+e Intervention 1C(i) and 1C(iii) are being implemented by various entities
+however; implementation of online services remains the main avenue to
+reduce corruption in the fraternity.
+
+e Intervention 1C(ii) is on-going with the first group of RTMC’s Road Safety
+officers expected to graduate in the 2021/22 FY.
+
+e Improve Road Safety Data Systems
+
+There are five interventions under this strategic intent namely 1D(i) -
+
+1D(v),
+
+NRSS | NRSS Project Plan ~ 28 June 2020
+
+1D(i) Develop a new crash reporting framework for improving the collection and ac-
+' curacy of data and development of new forms
+
+1D(ii) Publication of annual statistics to be achieved within 6 months of the following
+
+year - State of Road Safety Report(s)
+
+Commission research into situational conditions of crashes (time of day,
+1D(iii) | weather, other vehicles present/involved), which should feed into road safety
+guidelines.
+
+Strengthen programme to share data across the private and public sector; in-
+cluding short-term insurance industry to discuss the effective use of this data
+to introduce new services and products jointly between the private and public
+sector
+
+1D(iv)
+
+1D(v) | Identify availability and potential integration of other crash data sources
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 22
+
+--- Page 29 ---
+e Interventions 1D(i), 1D(ii), 1D(iv) and 1D(v) are being implemented,
+
+e Intervention 1D(iii) is scheduled to be completed for implementation by
+November 2021.
+
+e Enhance the Use of Technology To Protect Road Users
+There are three interventions under this strategic intent namely 1E(i) -
+1E(iii).
+
+NRSS
+
+ID NRSS Project Plan - 28 June 2020
+
+1E(i)_| Technology review, procurement and training
+
+1E(ii) | Legislate use of tachograph for all freight and public transport vehicles
+
+Implement system for utilisation of technology to build a road safety knowledge
+1E(iii) | management system; using information such as Geographical information sys-
+tems, Geolocation, etc.
+
+e Interventions 1E(i) and 1E(iii) are being developed for implementation
+e Intervention 1E(ii) is scheduled to be completed for implementation in
+October 2021.
+
+e Implementation of Standards as a tool to support the
+implementation of the Decade of Action
+There are four interventions under this strategic intent namely 1E(iv) -
+1E(vii)
+
+NRSS
+
+ID NRSS Project Plan - 28 June 2020
+
+Promotion, marketing and awareness initiatives towards implementation of the
+1E(iv) | Road Traffic Safety Management Systems (ISO39001), both within Govern-
+ment and Industry.
+
+Partnering with SANAS and SABS and other industry partners to put in place
+1E(v) | measures to ensure that the requirements for Certification Bodies and accredi-
+tation of the Standards Auditors are adequately addressed.
+
+1E(vi) | Develop and implement regulatory tools and accreditation schemes
+
+1E(vii) Develop sector specific implementation manuals to support participating indus-
+tries
+
+e Interventions 1E(iv) and 1E(vi) are being implemented,
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 23
+
+--- Page 30 ---
+e Interventions 1E(v) and 1€£(vii) are scheduled to be completed for
+
+implementation in April 2021,
+
+7.2 PILLAR 2: SAFER ROADS AND MOBILITY
+
+The focus of this Pillar is ensuring that engineers and planners design
+
+forgiving roads’ , that is, roads which will ensure road users are not killed
+
+and serious injuries are minimised as a result of an error by a road user. This
+
+pillar is largely led by SANRAL and Provincial Authorities responsible for road
+
+construction and rehabilitation.
+
+e Identifying and Addressing High Road Safety Risk Locations
+
+NRSS | NRSS Project Plan - 28 June 2020
+
+2A(i) Implementation of Hazardous Location Programme
+
+2A(ii) | Develop Road Safety Assessment Capacity within Road Authorities
+2A(iii) | Implementation of Road Safety Assessment Programme
+
+e There are three interventions under this strategic intent namely 2A(i) -
+
+2A(iii), and all are being partially implemented.
+
+Providing Self-Explaining and Forgiving Road Environments
+
+Ness NRSS Project Plan - 28 June 2020
+
+2B(i) Provide self-explaining and forgiving road environment for all road users.
+
+2B(ii) Employ adequately experienced and qualified staff to support upskilling
+and training of staff
+
+2B(iii) Ensure application of road signage and road markings standards are effec-
+tively applied.
+Develop and implement a road improvement and maintenance prioritisa-
+
+2B(iv) tion model (with focus to rural roads based on information driven strategic
+data)
+
+e There are four interventions namely 2B(i) - 2B(iv) and all partially being
+
+implemented - as part of operations
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 24
+
+--- Page 31 ---
+e Implementing Road Safety Audit Programmes
+There are three interventions under this intent, namely 2C(i) - 2C(iii) and
+
+all three are being implemented.
+
+NRSS
+
+ID NRSS Project Plan - 28 June 2020
+
+Review Legislation pertaining to Road Safety Audits to make it mandatory for
+2C(i) | All Road Authorities to have Road Safety Audit Policy and Programmes in
+place.
+
+2C(ii) | Develop Road Safety Auditor Capacity
+
+2C(iii) | Implement Road Safety Audit Programmes
+
+7.3. PILLAR 3: SAFER VEHICLES
+
+This pillar focuses on introducing technology to improve vehicle safety, which
+aims to actively prevent road crashes (e.g. stability control) and passively to
+minimise the impact of the crash (e.g. airbag). The Safer Vehicles Pillar
+
+objectives entail:
+
+e Ensuring That Vehicles on Road Networks Are Roadworthy
+
+NBS NRSS Project Plan - 28 June 2020
+3A(i) Immediately increase traffic (law) enforcement around vehicle roadwor-
+
+thiness
+
+Improved surveillance of vehicle testing stations to combat corruption
+and ensure that vehicle testing is robust
+
+Implement periodic roadworthy testing programme for all vehicles as well
+as specifying incremental checks for public transport vehicles
+
+3A(iv) | Improve the roadworthiness of the Public Transport vehicle fleet
+
+3A(ii)
+
+3A(iii)
+
+e There are four interventions namely 3A(i) - 3A(iv),
+e Interventions 3A(i), 3A(ii) and 3A(iv) are being implemented as part of
+
+operations;
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 25
+
+--- Page 32 ---
+Increasing Vehicle Safety Standards
+
+There two interventions under this strategic intent namely 3B(i) and 3B(iv)
+
+and not yet implemented,
+
+NRSS
+
+NRSS Project Plan - 28 June 2020
+
+3B(i) Enhance visibility of vehicles through “Lights-On” programme
+
+3B(iv) | ternationally acceptable levels including the use of latest technology
+
+Research new technologies in vehicle testing, and set standards to in-
+
+(e.g. dash-cameras, tachometers)
+
+e The interventions are scheduled to be completed by April and July 2021.
+
+7.4 PILLAR 4: SAFER ROAD USERS
+
+The strategic objective of this pillar aims to improve road utilisation behaviour
+
+through road safety education and awareness. The key initiatives for this
+
+pillar are:
+
+e Improve Road User Behaviour Through Awareness’ and
+
+Involvement
+
+There are nine interventions under this strategic intent namely 4A(i) -
+
+4A(ix)
+
+NRSS NRSS Project Plan - 28 June 2020
+
+4A(i) Incorporate road safety education and awareness campaigns directly under the coor-
+dination of the RTMC
+Coordination of public awareness campaigns - Develop and rollout public education
+
+4A(ii) campaigns (Focus on speed, seatbelt use and drunk/drug-driving, distracted driving
+behaviour)
+
+4a(iii) Rollout a responsive campaign empowering public transport passengers and other
+road users to report poor and/or dangerous driving (‘Speak out’ campaign).
+
+4A(iv) Develop and rollout programmes of community-based engagements by introducing
+the National Prayer Day and other road safety awareness programmes
+
+4a(v) Devise focused persuasive road safety behaviour change campaigns targeting all
+road users.
+
+4a(vi) Conduct research into new opportunities for youth, women and people with disabili-
+ties in road safety and create opportunities for them to pursue careers in road safety
+Involve citizens especially the youth in leading safer road user behaviour (Introduce
+
+4A(vii) | Road Safety Badge System - at local organisation and community development level
+e.g. scout clubs, youth clubs, school badges etc.).
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 26
+
+
+--- Page 33 ---
+NRSS | NRSS Project Plan - 28 June 2020
+4A(viii) | Explore and implement sports and popular-culture based road safety interventions.
+4A(ix) Conduct research into incentives for compliant road user (specifically fleet owners
+
+and drivers) behaviour (Behavioural economics research).
+
+e Five interventions namely 4A(i), 4A(ii), 4A(iii), 4A(iv) and 4A(v) are being
+implemented by various Road Entities namely, RTMC, RAF, CBRTA and
+
+RTIA under various Road Safety Programmes;
+
+e The four interventions namely 4Avi) - 4A(ix) are scheduled to be completed
+between June 2021 and November 2021.
+
+e Improve Road User Behaviour Through Education and
+
+Training
+
+There are 17 interventions under this strategic intent from 4B (i) - 4C(x).
+
+NRSS | NRSS Project Plan - 28 June 2020
+
+4B(i) Develop and rollout public education programme to protect VRUs
+
+4B(ii) Enhance school-based safety programmes including scholar patrol, pedestrian safety
+and cyclist education.
+
+4B(iii) | Implement traffic management plans for education institutions.
+Revise driver training processes and testing (all license types, including K53 and
+
+4B(iv) Learners Licence tests) - Investigate opportunity for school and TVET-based gradu-
+ated learner driver programmes to enable learners to acquire drivers’ licensing to-
+gether with their grade 12 or technical and vocational qualifications.
+
+4B(v) | Teach children from pre-school level about keeping safe on roads.
+
+4B(vi) | Introduce sustained road safety education in the basic education curriculum.
+
+4B(vii) Incorporate technology for driver training and licensing to improve driving abilities
+of new drivers.
+
+4C(i) Ensure that traffic departments provide a 24/7 service nationally
+Develop, implement and enforce intelligence-led adherence to road laws, with focus
+
+4C(ii) | on protection of VRUs and passengers, through the use of seatbelts and child re-
+straints
+
+4C(iii) Urgently investigate the deficiencies in current enforcement practices and systems
+and rectify.
+
+. Enforce stricter adherence to seatbelts safety standards on all road-based public
+
+4C(iv)
+transport vehicles and the use thereof.
+To improve police enforcement intelligence through appropriate use of latest tech-
+
+4C(v) .
+nology (e.g. integrated enforcement system, speed-over distance technology).
+
+4C(vi) | Identify and address of high risk road users for focused interventions
+
+4C(vii) | Start regular national traffic patrols along hazardous/high risk locations.
+
+4C(viii) | Improve enforcement and consider the introduction of Traffic Courts.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 27
+
+
+--- Page 34 ---
+NBS NRSS Project Plan - 28 June 2020
+Implement repeat offender disqualification together with rehabilitation programmes
+4C(ix) | for license reinstatement (refers to drivers exhibiting reckless behaviour e.g. intoxi-
+cation, negligence etc.)
+4C(x) | Implement medical disqualification - and rehabilitation - (physically unfit drivers)
+
+e Four of these interventions are being partially implemented, with the other
+
+half not yet determined,
+
+e Thirteen objectives are scheduled to completed between November 2020
+and September 2021,
+
+e Increase Protection for Vulnerable Road Users
+
+There are 3 interventions under this strategic intent namely 4D(i) - 4D(iii)
+
+NRSS
+ID
+
+NRSS Project Plan - 28 June 2020
+
+4D(i)
+
+Establishment of community-based pedestrian/VRU safety teams.
+
+4D(ii)
+
+VRU safety to be included as a key component of Road Safety Manual.
+
+4D(iii)
+
+Implement NMT policy requiring roads authorities to prioritise vulnerable road us-
+ers.
+
+e Intervention 4D(iii) is being implemented
+
+e The two interventions scheduled to be implemented by December 2021
+
+7.5 PILLAR 5: POST-CRASH RESPONSE
+
+In the event that Pillars 2 - 4 did not provide the adequate protection required
+
+to prevent a road crash, pillar 5 focuses on preventing fatalities (by saving
+
+injured lives) and to reduce to impact of serious injuries when a crash has
+
+occurred. As such, the immediate response for medical assistance and
+
+treatment thereafter is largely led by the Department of Health and much
+
+later, by the Road Accident Fund (RAF). The key initiatives under the pillar
+
+are:
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 28
+
+
+--- Page 35 ---
+e Increasing Effectiveness of First Responses Post A Road Crash
+
+There are 9 interventions under this strategic intent namely 5A(i) - SA(ix).
+
+NRSS
+ID
+
+5A(i) Deployment of ambulances at high-risk locations during peak periods
+Strengthen interaction with DoH and private medical sector in post-crash re-
+
+NRSS Project Plan - 28 June 2020
+
+SAii) sponse (Also HPCSA, medical schools, MRC, etc.).
+
+SA(iii) Clarification of on-scene response roles / Areas between SAPS, National Traffic
+Police, Metro Police, Provincial Traffic, Municipal Traffic, etc.
+
+5A(iv) Investigate the feasibility for Traffic Police to be legislated to handle fatal crash
+
+investigations.
+5A(v) | Introduce technology use on crash scene to obtain precise location of crashes.
+SA(vi Increase crash investigation capacity at SAPS and other agencies involved with
+
+(vi) .
+
+the function.
+
+5A(vii) | Mobilisation of intensive care ambulances for high-risk rural sites.
+Increase the number of trained trauma medical personnel, nurses, paramedics,
+5A(viii) | etc. in collaboration with the Health and Welfare Sector Education and training
+Authority (HWSETA).
+5A(ix) | Incentivize Private Health establishments to treat road crash victims
+
+e Interventions 5A(i), 5A(ii), SA(v), SA(vii), and are being implemented.
+e The remaining four interventions are scheduled to be completed between
+February 2021 and June 2024.
+
+e Simplify Access to Post-Crash Care
+
+NRSS
+
+ID NRSS Project Plan - 28 June 2020
+
+Full roll-out of the Road Accident Fund model to improve access to quality
+
+5B(i) healthcare and to make the application for financial assistance efficient and easily
+accessible to all communities.
+
+5B(ii) | Implement a single emergency response number across South Africa.
+
+5B(iii) | Introduce RABS into the Social Security System
+
+There are 3 interventions under this strategic intent namely 5B(i) - SB(iii).
+
+e Intervention 5B(i) is being implemented with the other two are scheduled
+
+to be completed between October 2021 and November 2022.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 29
+
+--- Page 36 ---
+7.6 SUMMARY OF THE IMPLEMENTATION STATUS
+
+The table below is derived from the summation of quarterly performance reports
+
+of the Roads Entities and Provincial Departments of Transport.
+
+The Stakeholders implements interventions without a nationally developed
+implementation plan, within limited budgetary costs and when funds are
+
+permitting.
+
+Table 4: Summary of NRSS implementation status
+
+IMPLEMENTATION SHORT MEDIUM LONG
+
+STATUS TERM TERM TERM % WOUAL
+Being Implemented 36 14 8 71% 58
+Yet to be started 13 7 4 29% 24
+Percentage 73% 67% 66%
+(Implemented)
+TOTAL 49 21 12 100% 82
+
+71% of the interventions are being implemented and 29% still pending
+implementation and 73% of the Short Term and 67% of the Medium-Term
+
+interventions are being implemented.
+
+7.7 CHALLENGES TO DATE
+
+Over the last two years, the Corporation has been reporting on NRSS based on
+
+information published in the quarterly performance reports of the stakeholders.
+
+Whilst this indicated that efforts made by various stakeholders to
+
+implementation the initiatives, the overall conclusion was that:
+
+e The efforts were not coordinated and provide the best chance of
+
+success;
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 30
+
+--- Page 37 ---
+e There was a limited opportunity to fairly evaluate the impact if these
+
+were not coordinated optimally; and
+e There was a limited opportunity to solicit external funding if the costs
+
+were unknown.
+
+The work undertaken by the Corporation in 2017/18 began to pave uniformity
+in the implementation of the NRSS; however, systematic constraints led to
+
+disruptions in the process such as:
+
+e The then strategic programmes were not amended to integrate
+NRSS-linked initiatives, and this led to the NRSS being considered
+to be additional work without additional funding in the current
+MTEF budget cycle;
+
+e Unsigned off performance achievements linked to the NRSS by Ac-
+counting Officers were not auditable and thus systematically, they
+were equivalent to additional voluntary performance information;
+and
+
+e The above-mentioned challenge led to provinces reverting to Annual
+Performance Plan targets (including transversal indicators) —- which
+were consolidated for the RTMC and the DOT. In certain cases,
+NRSS-linked work was kept at an operational level which other
+
+simply dropped it.
+
+The above-mentioned challenges are however; addressed in the revised
+approach in the engagement of stakeholders as presented in the attached
+
+Annexure.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 31
+
+--- Page 38 ---
+D)
+
+8 EFFECT OF COVID-19 ON ROAD SAFETY
+
+An analysis to evaluate the effect of the Covid-19 lockdown periods were
+conducted between the period from 1 January to 30 June for 2019 and 2020.
+The number of fatal crashes for each period were superimposed on an extraction
+of traffic flow on SANRAL Roads for the periods in concern. It needs to be noted
+that the traffic flow used in the analysis is only a small extract of 72 counting
+stations at toll gates and did not include an urban sample. The following graph
+
+depicts the analysis outcome:
+
+2019 vs 2020 Traffic Flow Trend & Fatal Crashes Lockdown L5 Lockdown L4 Lockdown L3
+24 Mar 20 - 30Apr20 1May 20-31 1Jun 20-30Jun
+
+fm 2019_Flow 2020_Flow mmm Easter 2020 mmmEaster 2019 ——2020_FatCr —~2019_FatCr
+
+Figure 7: Effect of Covid-19 on fatal crashes
+
+It is clear from the above graph, that the traffic flow for the two periods followed
+very much the same trend with a drastic drop in vehicle flow on 24 March 2020
+
+when the Level-5 lockdown commenced.
+
+The number of fatal crashes during the same periods also followed very much
+the same trend with the same drastic decrease in fatal crashes from 25 March
+2020. It could be argued that less vehicles on the road contributed to less fatal
+crashes due to less points of conflict due to amongst others poor driving
+
+behaviour and pedestrian activity when the lockdown started.
+
+It is unfortunate to note that with the relaxation of the lockdown levels from
+Level-5 to Level-4 and Level-3, that the number of fatal crashes followed the
+
+same upward trend with the increase of vehicle flow.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 32
+
+--- Page 39 ---
+9 ROAD SAFETY OUTCOMES
+
+During the reporting period, 1 January 2020 to 30 June 2020 a total number of
+3,331 fatal crashes were recorded. This is a reduction in fatal crashes of 31,8%
+from the same period in 2019 when 4 887 fatal crashes were recorded. The large
+reduction in fatal crashes is directly related to the Covid-19 restriction of vehicle
+
+and people movement from 24 March 2020 to 30 June 2020.
+Table 5: Fatal crashes per province
+
+1 Jan to
+30 Jun
+
+2019 609 306 1051 953 517 517 140 334 460 4 887
+
+EC FS GP KZN LP MP NC NW WC Total
+
+2020 423 185 633 721 364 336 98 207 364 3331
+Total 1032 491 1684 1674 881 853 238 541 824 8218
+%of Total 12,5%  6,3%  21,5% 19,5% 10,6% 10,6%  2,9% 6,8% 9,4%  100,0%
+Change -186 90-121 -418 = -232 -153 -181 -42 -127 -96 -1556
+% Change -30,5% -39,5% -39,8% -24,3% -29,6% -35,0% -30,0% -38,0% -20,9% -31,8%
+
+The largest percentage decrease in fatal crashes of more than 38% were
+recorded in the Free State, Gauteng, and North West provinces with the lowest
+
+reduction in the KwaZulu-Natal province.
+
+Ec ° LP Ne
+-20,9%
+-24,3%
+-30,5% -29,6% -30,0%
+
+-35,0%
+
+- 9
+-39,5%  -39,8% 38,0%
+
+™ % Change
+
+Figure 8: Percentage change in number of fatal crashes per province
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 33
+
+--- Page 40 ---
+”A
+
+Table 6: Fatalities per province
+
+AEM Ge FS GP KZN. LP MP NC NW. WC __ Total
+30 Jun
+
+2019 +732 434 «+1188 1103 701 637 + «171 + «2395 555 5916
+2020 533 «234.=«716—S's«835.—'—s«ASBS:si«‘«KBS—“‘éd:«~C<‘<«étkS: «=O:
+Total 1265 668 1904 1938 1154 1050 282 640 962 9865
+a
+
+no 12,4%  7,3% 201% 18,6% 118% 108%  2,9% 67%  9,4% — 100,0%
+Change -199 -200 -472 -268 -248 -224 -60 -150 -148 -1969
+
+9
+
+change -27,2% -46,1% -39,7% | -24,3% + -35,4% + -35,2% + -35,1% + -38,0% + -26,7% + -33,3%
+
+In line with the distribution of fatal crashes, the fatalities during the period
+
+followed the same trend per province in the country with a crash severity of 1,20
+
+i.e., 1,2 people died per crash during the total period in 2020.
+
+A total number of 3,947 fatalities were recorded in 2020 during the 6-month
+
+period which is a decrease of 33.3% from 2019. Even though the free state
+
+recorded the largest percentage decrease from 2019 of 46,1%, an absolute
+
+decrease of 472 fatalities were recorded in the Gauteng province from 2019. The
+
+lowest percentage decrease was recorded in KwaZulu-Natal province.
+
+Fs Lp NC
+-24,3%
+-27,2% -26,7%
+-39,7% ~38,0%
+
+-35,4% -35,2% -35,1%
+
+-46,1%
+
+™ % Change
+
+Figure 9: Percentage change in fatalities per province
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 34
+
+--- Page 41 ---
+The distribution of fatalities per road user type during the period of analysis
+followed the same trend as in 2019 without significant change. It needs to be
+highlighted that the 41,4% recorded is higher than the historic average of 38%
+over the past few years for calendar year periods notwithstanding that there was
+
+a reduction in fatalities of more than 30%.
+
+41,6% 41,4%
+30,8%
+26,3% 28,6%
+
+3%
+
+ane ; : | :
+ee
+
+Cyclist Driver Passenger Pedestrian
+
+28,3%
+
+mJan-June 2019 = mJan-June 2020
+
+Figure 10: Percentage distribution of fatalities per road user type
+
+During the analysis period, there were an increase from 25,5% to 20,7% in fatal
+crashes on Saturdays and on Sundays from 18,3% to 21,0%; totalling 46,4%
+or almost half of all fatal crashes on Saturdays and Sundays. Fatal crashes
+reported for the rest on the weekdays range from12,6% 11,8% on Wednesdays
+to 14;0% on Fridays for 2020.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 35
+
+--- Page 42 ---
+N
+a
+a
+&
+
+Sat
+
+N
+[s}
+~
+ss
+
+,
+
+a  __Frng
+tv [an 11,996
+
+Wed en 11,8%
+
+‘ve [10,65
+o_o
+13%
+
+mJan-June 2020 mJan-June 2019
+
+Figure 11: Fatal crashes per time of day
+
+Similar with the distribution of road fatalities per road user type, the age fatality
+breakdown followed the same trend during the same period in 2019
+notwithstanding that there was a reduction in fatalities of more than 30%,
+
+illustrated in the figure below.
+
+The trend continues with the largest proportion of fatalities within the age group
+25 to 39. The percentage fatalities for children up to an age of 14 is 13,4%, a
+
+small increase from 11,8% during the same period in 2019.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 36
+
+--- Page 43 ---
+18,0%
+
+16,0% 15,5%; 16,1%
+
+14,0% 4
+12,3%; 13,2% 13,2%; 12,9%
+12,0%
+
+10,0%
+8,4%; 9,2%
+
+8,0% 7,6%; 8,0%
+
+6,0% 5,6%; 5,8%
+4,5%; 4,7%
+
+0%; 3,0%
+
+3,7%; 4,2%
+3,6%; 3,0%
+
+4,0%
+
+2,0%
+
+7%; 1,1%
+0.0% %; 0,7%
+5TOo FT OFT FHT FH FTO FTA TH +
+1 1 A TWt NN OHM TCU TLUO NF NH BO HO KR KR DGD
+Om ee
+omounononononMnow
+AWN NOHO M TCU TCU HN OO KR PR
+
+——Jan-June 2019 = ——Jan-June 2020
+
+Figure 12: Percentage distribution of fatalities per age group
+
+No significant change was recorded in the gender split for fatalities during the
+analysis period with males that died being three quarters of all fatalities or
+75,3% for 2020. Driver’s license card holders registered on the NaTIS System
+constitutes a 61,1/38,9 per cent male/female split; it could thus be argued that
+
+more males are killed as drivers in context of licenced female drivers.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 37
+
+--- Page 44 ---
+76,0% 75,3%
+
+22,4% 19 90%
+| | 16% —
+——
+Female Male Unknown
+
+miJan-June 2019 m Jan-June 2020
+
+Figure 13: Percentage distribution of fatalities per gender
+
+The distribution of fatalities per race during the analysis period indicate that 82,3% of
+all fatalities were black persons with the rest of the race between 1,3% and 5,7%.
+Asian 1 596; 1,496
+Foreigner | 2,1%; 2,6%
+otrer FM soe; 1,39
+white BBB 5s 5% 6,6%
+Coloured | | 6,4%; 5,7%
+
+elec 20.0%; 22.3%
+
+@Jan-June 2020 mJan-June 2019
+
+Figure 14: Percentage distribution of fatalities per race
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 38
+
+--- Page 45 ---
+Further analysis of fatalities per race per road user group are illustrated in the
+figure below. A total of 95,8% of all pedestrian fatalities are black and coloured
+citizens with passenger fatalities following the same trend with 93% being black
+and coloured. Most cyclists who died was black with 18,4% white. 75,8% of all
+
+driver fatalities were black persons with 13,8% white.
+
+Pedestrian mami 7,0%
+
+Passenger fill” 6.0%
+
+Driver Mill 5.2%
+
+18,4%
+Mi 6,6%
+Cyclist Mim 81%
+SE 647%,
+@ 2,2%
+
+0,0% 20,0% 40,0% 60,0% 80,0% 100,0%
+
+@ White mForeigner mColoured mBlack wm Asian
+
+Figure 15: Percentage distribution of fatalities per race per road user
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 39
+
+--- Page 46 ---
+Notwithstanding a third less fatalities recorded for the analysis period in 2020
+than in 2019, similar with above discussed analyses, the trends are very much
+similar from 2019 for major contributory factors to crashes with almost 85% of
+all fatal crashes having a human factor as major contributory factor, illustrated
+
+by the figure below.
+
+86,2% 349%
+
+85% 943% 52%  5,8%
+
+|e —
+Human Factors Road and Environmental Vehicle Factors
+Factors
+
+@Jan-June 2019 mJan-June 2020
+
+Figure 16: Percentage distribution of fatalities per major contributory factors
+
+The Figure below illustrate a breakdown of the top 15 contributory factors which
+
+constitutes 87,4% of all the 41 types of contributory factors reported by SAPS.
+
+The largest of all contributory factor is Jay-Walking Pedestrians (Human factor)
+at an estimated 36,8% from 33,1% in 2019 followed by Hit-and-run (Human
+factor) at 19,7% slightly down from 20,2% in 2019 during the same analysis
+
+period.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 40
+
+--- Page 47 ---
+40%  36,8%
+35% 33-1
+
+30%
+9
+25% 19,7%
+20%
+15% 10,4%
+10% 3,9%
+5% | i we __| 2.9% __|_4 ao 18% 1,0%
+0% . a Bue: 2 a
+
+55 ¢e $F Fs BEE ETE
+= > o = 2
+
+gg €@ ¢ & £5 € € © € 8% €& 8
+
+So 3 © © 3S o ff
+
+© ic @ 6 oO = S a} 3 i r=) c
+
+- c 2 » 2 S$ Ff § FF ww» 2 8
+
+cle = = Zl &
+
+s 8s € € ese S FE ye FE & E
+
+Ee —€ ¢@ £€ § Fzesestp ee ES B
+
+3 Ss 9S 3s = § 8 ™ 3S 8 § SB
+
+x= x 5 e rel c=] id Ss g = x e i oO
+
+Ste gs 8 = £& Fe eB t=sg € 8B
+
+<c ¢ § © o ff € &
+
+® 5 £§ 5 $§ 5 2 8 & 5 2 $ 5 B
+
+<= = os ° 2 g $ Pe 2 ge ° i } 2S
+
+a co BM vg 6 £ 2 Y® @ 5 5 € 2? §&
+
+o ££ £ gs 2 6S &@ 8B 3 FJ $ Ss F&F
+
+ie) io ° e = 2 € og = 2 2 x
+
+eg # 9 < os 3 S$ OD @ . £ 2 2
+
+Q = e = v 2 od $ & 5 a i= e
+x“ a J wu & 2 me) = =
+
+OD mo} o£ el oO a
+
+c oO [Sj 3 2 Oo ra ne} 3 PR
+
+s o fs} 2 x s = 2 Vv >
+
+3 QoQ S = a oc a o¢
+
+© A © uw # S& 5 » € 5
+
+2 B ve = 5 8 2 FF
+
+S fe} > fing [e} a2)
+
+ic e a“ 5
+
+1 2 4 5 6 7 8 9 10 11 #12 #13 «#«14~«115
+
+m™2019 m™2020
+
+Figure 17: Percentage distribution of fatalities per contributory factors
+
+From the figure above, the top five contributory factors were reported as being
+human factors with the highest Vehicle Factor (No.5 on above figure) i.e., Tyres
+burst prior to crash at 3,9% in 2020. The top Road and Environmental factor
+
+were reported as being Sharp Bend at 2,9% in 2020.
+
+Even though the rest of the contributory factors reported were less than 1% of
+
+all contributory factors, does diminish its significance.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 41
+
+--- Page 48 ---
+2
+10 PEDESTRIAN SAFETY
+
+10.1 PEDESTRIAN FATALITIES
+
+Pedestrian safety remains the most significant road safety problem in South
+Africa with 41,4% of all fatalities recorded during the period of analysis and
+almost the same as the 2019 % of 41,6% illustrated in the table below. This is
+almost 13 percentage points higher than the annual recorded pedestrian
+
+fatalities of an average of 38% over the past few years.
+
+Pedestrian deaths are 33,9% lower than the same recorded for 2019 due to the
+
+restriction of people and vehicle movement from March 2020 to June 2020.
+
+Table 7: Pedestrian fatalities
+
+Pedestrian deaths Jan-June 2019 Jan-June 2020
+Number of pedestrian deaths 2 449 1630
+% of total fatalities for period 41,6% 41,4%
+
+Table 8: Pedestrian fatal crashes per province
+
+1Jan
+2019 to EG FS GP KZN LP MP NC NW WC Total
+30 Jun
+2019 289 98 578 551 210 203 56 151 264 2 400
+2020 182 57 356 392 145 118 41 78 208 1577
+Total 1032 491 1684 1674 881 853 238 541 824 8218
+9
+nor 12,0% 4,1% 24,1%  23,0% 8,8% 8,5% 2,3% 6,3% 11,0%  100,0%
+Change  -107 -41 -222 -159 -65 -85 -15 -73 -56 -823
+9
+% -37,0% -41,8%  -38,4% -28,9%  -31,0% -41,9% -26,8%  -48,3% -21,2% -34,3%
+Change
+% of all
+nine 43,0%  30,8% 562% 544% 39,8%  35,1%  41,8%  37,7% 57,1%  47,3%
+2020
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 42
+
+--- Page 49 ---
+Road Traffic
+
+60,0% 56,2% 54,4% 57,1%
+
+Oy
+50,0% 43 9% aie%
+39,8% 7
+40,0% 35,1% SLT
+30,8%
+
+30,0%
+20,0%
+10,0%
+
+0,0%
+
+EC FS GP KZN LP MP NC NW
+
+™ % Pedestrian fatal crashes of all fatal crashes 2020
+
+WC
+
+Figure 18: % Pedestrian fatal crashes per province
+
+From the figure above, the most pedestrian crashes, or crashes where
+pedestrians were killed in of total fatal crashes in the respective province, were
+reported in the KwaZulu-Natal, KwaZulu-Natal and Western Cape provinces with
+more than 50% of the respective fatal crashes involving pedestrian deaths.
+
+Nationally, 47.3% of all fatal crashes record pedestrian fatalities.
+
+The figure below depicts the pedestrian deaths per province during the period
+analysed. In line with the recorded fatal pedestrian crashes above, Gauteng and
+the Western Cape provinces have the highest pedestrian deaths with more than
+50% recorded in the two provinces. The province with the lowest number of
+pedestrian deaths is the Limpopo province followed closely by the Northern Cape
+
+province.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 43
+
+--- Page 50 ---
+Table 9: Pedestrian fatalities per province
+
+1 Jan to
+30 Jun
+2019
+2020
+Total
+% of
+Total
+Change
+% Change
+% of all
+fatalities
+2020
+
+60,0%
+50,0%
+40,0%
+30,0%
+20,0%
+10,0%
+
+0,0%
+
+EC
+
+295
+191
+1032
+
+12,3%
+
+-104
+-35,3%
+
+35,8%
+
+35,8%
+
+EC
+
+FS GP KZN
+
+101 586 560
+60 366 401
+491 1684 1674
+
+4,2% 24,4%  23,3%
+
+-41 -220 -159
+
+-40,6%  -37,5% -28,4% -27,6%
+
+25,6% 51,1% 48,0% 34,2%
+
+51,1%
+” 48,0%
+
+25,6% | |
+FS GP-_—sCOKZN
+
+”A
+
+Road Traffic
+
+LP MP NC NW WC Total
+214-206 57 155 275 2.449
+155 125 41 79 212 1630
+881 853 238 541 824 8218
+89% 86%  2,4% 65%  11,5%  102,0%
+59-81 -16 = -76 63 819
+
+-39,3% -28,1% -49,0% -22,9% + -33,4%
+30,3% 36,9% 32,2% 52,1% 41,3%
+52,1%
+36,9%
+34,2% 32.2%
+30,3% y
+
+LP
+
+MP
+
+@ % of all fatalities 2020
+
+NC
+
+Figure 19: % Pedestrian fatalities per province
+
+NW WC
+
+From the figure above, the most pedestrian deaths were reported in the
+
+KwaZulu-Natal and Western Cape provinces with more than 50% pedestrian
+
+deaths of all reported road deaths for the period in concern.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+44
+
+--- Page 51 ---
+Similar to the country profile for age of road crash deaths, most pedestrians
+killed in road crashes are between the age of 25 and 39 with 34,0% of all
+pedestrians killed within this age group. Alarming however is that almost a
+
+quarter (24%) of all pedestrian killed are children between up to 14 years of
+
+age.
+
+80+
+75-79
+70-74
+65 - 69
+60 - 64
+55-59
+50-54
+45 - 49
+40 - 44
+35 - 39
+30-34
+25-29
+20-24
+15-19
+10-14
+
+5-9
+
+0-4
+
+BE 0,9%; 0,8%
+
+mrt 4%; 0,6%
+
+MMT 7%; 1,0%
+
+MEE 2,0%; 2,3%
+
+R= 24%; 3,6%
+
+EEE 4, 7%; 4,4%
+
+EE. 4.7%; 4,8%
+
+Eo, 4,9%
+= 64%; 8,3%
+= | 10,7%; 11,7%
+= 13,2%; 15,1%
+= 10,1%; 11,7%
+Dg 4%; 83%
+SOE. 4.2%; 4,4%
+
+0%; 4,6%
+se, 07%
+see 09%
+
+0,0% 2,0% 4,0% 6,0% 8,0%  10,0%  12,0% 14,0% 16,0%
+
+@ an to30Jun 2020 = @ Aan to30Jun 2019
+
+Figure 20: Pedestrian fatalities per age group
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+45
+
+--- Page 52 ---
+The figure below illustrates the percentage of pedestrian deaths per day of the
+week with Friday, Saturday and Sunday’s recording the most pedestrian deaths.
+
+20,4%
+
+sat 24,6%
+
+15,5%
+Fri 14,9%
+11,4%
+
+Thu 0,6%
+Wed 12,9%
+
+Tue
+
+12,1%
+Mon 11,5%
+9
+sun 16,4%
+
+19,5%
+0,0% 5,0% 10,0% 15,0% 20,0% 25,0% 30,0%
+
+@ Ian to30Jun 2020 =m an to30Jun 2019
+
+Figure 21: Pedestrian fatalities per day of the week
+
+Further analysis of the time and day of pedestrian fatal crashes are depicted in the table
+below. The top 10% time-bins in which pedestrian fatal crashes occur per day of week
+are indicated from white fill (no pedestrian fatal crashes) to dark red fill where the
+
+highest percentage of all fatal pedestrian crashes occurred during the analysis period.
+
+Within the top 10%, a singular spike occurred on Wednesdays from 07:00-08:00 with
+the rest occurring mostly between 17:00- 23:00 on Saturdays. The percentages per
+time bin for all crashes where pedestrians were killed (far-right column) indicates that
+
+almost 20% of all pedestrian fatal crashes occurred between 18:00 and 20:00.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 46
+
+--- Page 53 ---
+The percentage pedestrian fatal crashes per day of week indicates that most pedestrian
+
+crashes occurred on Saturdays with 20,4% followed by Sundays with 16,4%. During
+
+only five of the 168 time-bins within a week, as illustrated in the table below, no
+
+pedestrian fatal crashes were reported.
+
+Table 10: Number of fatal pedestrian crashes per day of week and time bin
+
+Time / Day
+
+00:00 - 01:00
+01:00 - 02:00
+02:00 - 03:00
+03:00 - 04:00
+04:00 - 05:00
+05:00 - 06:00
+06:00 - 07:00
+07:00 - 08:00
+08:00 - 09:00
+09:00 - 10:00
+10:00 - 11:00
+11:00 - 12:00
+12:00 - 13:00
+13:00 - 14:00
+14:00 - 15:00
+15:00 - 16:00
+16:00 - 17:00
+17:00 - 18:00
+18:00 - 19:00
+19:00 - 20:00
+20:00 - 21:00
+21:00 - 22:00
+22:00 - 23:00
+23:00 - 24:00
+
+% Per day
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+Sun
+
+0,8%
+0,6%
+0,7%
+0,6%
+0,5%
+0,6%
+0,6%
+0,4%
+0,5%
+0,4%
+0,2%
+
+16,4%
+
+Mon
+
+0,3%
+0,1%
+
+0,1%
+0,4%
+0,5%
+1,0%
+0,6%
+0,4%
+0,4%
+0,3%
+0,3%
+0,4%
+0,3%
+0,4%
+0,8%
+0,8%
+0,8%
+
+06%
+0,1%
+0,1%
+
+12,1%
+
+Tue
+
+0,2%
+0,1%
+
+0,2%
+0,5%
+0,3%
+0,6%
+0,3%
+0,5%
+0,4%
+0,6%
+0,5%
+0,4%
+0,6%
+0,9%
+1,1%
+0,8%
+0,9%
+
+0, 7%
+0,2%
+0,2%
+0,1%
+
+11,4%
+
+Wed
+
+0,4%
+0,4%
+0,3%
+0,4%
+0,1%
+0,3%
+0,7%
+12%
+0,3%
+0,3%
+0,6%
+0,6%
+0,3%
+0,4%
+0,7%
+0,8%
+0,6%
+0,4%
+
+0,9%
+
+0, 7%
+0,4%
+0,1%
+0,5%
+
+12,9%
+
+Thu
+
+0,2%
+0,3%
+
+0,2%
+0,1%
+0,2%
+0,5%
+0,4%
+0,3%
+0,4%
+0,4%
+0,4%
+0,6%
+0,4%
+0,7%
+1,1%
+
+Fri
+
+0,4%
+0,1%
+0,1%
+
+0,1%
+0,8%
+0,6%
+0,6%
+0,6%
+0,1%
+0,6%
+0,4%
+0,8%
+0,3%
+1,1%
+0,7%
+
+Sat
+
+0,5%
+0,4%
+0,3%
+0,2%
+0,3%
+0,5%
+0,4%
+0,6%
+0,6%
+0,5%
+0,4%
+0,3%
+0,8%
+0,3%
+0,5%
+1,1%
+
+1,1%
+
+0; 8%
+0,3%
+0,2%
+0,1%
+
+11,4%
+
+0,9%
+
+0,8%
+
+1,0% 1,8%
+0,4% 1,1%
+15,5% 20,4%
+
+% Per
+Time-bin
+2,79%
+1,90%
+1,40%
+1,46%
+1,65%
+3,36%
+4,06%
+4,44%
+2,92%
+2,66%
+2,98%
+3,30%
+3,49%
+2,60%
+4,69%
+6,09%
+6,53%
+6,34%
+
+9,26%
+9,32%
+5,39%
+
+3,04%
+2,73%
+
+100,0%
+
+47
+
+--- Page 54 ---
+11 COST OF CRASHES
+
+The high number of road traffic crashes and their associated consequences has a
+significant impact on South African society, which in turn continues to hamper socio-
+economic development and affects the well-being of all South Africans. This impact is
+measured in terms of human lives lost, “pain, grief and suffering”, as well as an
+increasing cost to the economy. In 2019, the total cost of road crashes amounted to an
+estimated R170.60 billion; adjusted with CPI and crash statistics from the calculated
+R142.95 billion for 2015 - Published September 2016 (see following graph and link):
+
+Reference:
+Estimated Cost of Crashes (CoC) - Calendar Year
+. ._.|**Fatal| CoC | Change] % |***Est. Unit Cost| ***Est. Unit Cost
+Period **Fatalities
+ie Pay Icrashes| R*Billion |R*Billion| change} Death Fatal Crash
+2015 Uani5-31Deci5 | 365] 12944 | 10613| 142,95 : -  |[R  3916187]R 5.435 261
+*2016 Uani6-31Deci6 | 365| 14071 | 11676| 167,68 | +24,68 |+17,27%|R —-4.174264|R 5793 445
+*2017 Uani7-31Deci7 | 365] 14050 | 11437| 172,72 | +5,09 |+3,04%|R — 4390908|R 6.094.125
+*2018 Uani8-31Decig | 365] 12921 | 10564| 166,72 | -6,00 | -348%|R —4588499|R 6 368 360
+*2019 Uani9-31Deci9 | 366] 12503 | 10381] 170,60 | +3,88 |+2,33%|R —_4778004|R 6631373
+|*Adjusted with CPI from 2015 (Cost of Crashes in South Africa - Published September 2016)
+**Actual fatal crashes & fatalities recorded; 5% added in CoCs calculation for underreporting Average annual CoC 5 yrs = R164,12 bn
+}***Est. Unit Cost of one Death for respective year; CoCs include serious, slight and no injuries. Total CoC 5 yrs = R820,62 bn
+|***Est_ Unit Cost of one Fatal Crash for respective year; CoCs include major, minor and damage only crashes.
+Estimated CoC vs Fatal Crashes and % Change - Estimated Cost of Crashes (CoC)
+Fatalities
+2 +17,27%
+smo R167,63 %172,72 R166,72 R170,60 2°
+14.000
+1295 2
+1200 “
+10000 220
+800 100
+6000 2
+32 S&S 85 aS 83 @ +3,04% +2,33%
+sm GG CdSGC<C ROR CS
+200 NO ta ta NO NO x
+S8 S35 85 85 a8 2
+o °
+2015 2016 «Ss 2017_—S «2018 =~ 2019
+-3,48%
+Fatalities Fatal Crashes =o=CoC R*Billion 2015 to 2016 2016 to 2017 2017-2018 +—-2018-2019
+
+Figure 22: Estimated Cost of Crashes
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 48
+
+--- Page 55 ---
+12 POST-CRASH
+
+Table 11: Registered emergency vehicles
+
+NaTIS EMS Vehicles
+
+Province Ambulance — Breakdown Fire engine EY Rescue vehicle Grand Total
+Ambulance
+GP 2428 4151 617 2 863 8061
+ZN 1313 2218 1041 1 99 4672
+WP 627 911 541 3 239 2321
+Ec 987 674 215 1 225 2102
+MP 446 848 641 1 123 2059
+L 427 610 176 2 71 1286
+NW 472 456 142 1 73 1144
+FS 498 362 115 3 62 1040
+NC 209 152 67 29 457
+
+Grand Total 7 407 10 382 3555 14 1784 23.142
+Km Roads in SA: 750000 km EMS-vehicles per 1 000 km 30,86
+2020 Mid-Year Population 59,62 million EMS-vehicles per 100 000 inhabitants 38,82
+
+There are approximately 23 000 vehicles registered as emergency vehicles throughout
+
+the country with over 7 400 of the emergency vehicles registered as Ambulances.
+
+State of road safety report: 1 Jan 2020 - 30 June 2020 49
+
+--- Page 56 ---
+Reviewed and Supported by:
+
+Mr Thabiso Ndebele
+
+Executive Manager: RSM & S
+
+Reviewed and Supported by:
+
+Mr Stephen Podile
+
+Executive Manager: LE
+
+Reviewed and Supported by:
+
+Mr Kevin Kara-Vala
+
+Executive Manager: RTI & T
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+50
+
+--- Page 57 ---
+Recommended by:
+
+Adv. Makhosini Msibi
+
+CEO
+
+Approved by:
+
+Mr Zola Majavu CD (SA)
+
+Chairman of the Board
+
+State of road safety report: 1 Jan 2020 - 30 June 2020
+
+51
+
+--- Page 58 ---
+y,
+
+Road Traffic
+
+Monogement Corporation
+
+Road Traffic Management Corporation
+Eco Origin Office Park, Block F
+349 Witch-Hazel Street
+Highveld Ext 79
+Tell: 012 999 5200
+
+www.rtmc.co.za
+
