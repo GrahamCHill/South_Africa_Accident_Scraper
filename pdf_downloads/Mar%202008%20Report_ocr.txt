@@ -1,0 +1,4371 @@
+--- Page 1 ---
+Ro affic
+
+Management Corporation
+
+Road Traffic Report
+March 2008
+
+17 April 2008
+
+
+--- Page 2 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Index
+Section Topic Page
+1 Executive Summary 4
+2 Vehicle Population 10
+2.1. Number of Registered Vehicles 10
+2.2 Un-roadworthy and un-licenced vehicles 11
+2.3 Number of Vehicles per road length 16
+3 Driver Population 18
+3.1. Learner Driving Licences 18
+3.2 Driving Licences Issued and Expired 19
+3.3. Professional Driving Permits (PrDP’s) Issued and Expired 21
+4 Human Population and Mobility 24
+5 Fatal Road Crashes and Fatalities 27
+5.1 Number of Fatal Crashes 27
+5.2 Number of Fatalities 28
+5.3 Number of Fatalities per Road User Group 29
+5.4 Number of Fatalities per Age Group 30
+5.5 Number of Vehicles involved in Fatal Crashes 32
+5.6 Number of Fatal Crashes and Fatalities per Type of Crash 34
+5.7 Number of Crashes and Fatalities per Day of Week 36
+5.8 Number of Crashes and Fatalities per Time of Day 38
+5.9 Severity of Crashes per Province and per Month 40
+5.10 Cost of Fatal Crashes 41
+5.11. Crash and Fatality Rates and Trends per 10,000 Vehicles 42
+5.12 Provincial monthly crashes, fatalities, rates and trends 44
+6 Easter 2008 45
+7 Discussion and Conclusion 51
+
+
+--- Page 3 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Index of Annexures
+
+Annexure Topic Page
+A Vehicle population per Province 52
+B Un-Roadworthy and Un-Licenced Vehicles 53
+c Number of Learner and Driving Licences and PrDPs 56
+D Number of Fatal Crashes per Province 58
+E Number of Fatalities per Province 59
+F Number of Driver, Passenger and Pedestrian Fatalities per Vehicle 60
+
+Type
+G Number of Driver, Passenger and Pedestrian Fatalities per Age Group 64
+H Number of Vehicles per Type involved in Fatal Crashes 68
+I Number of Crashes and Fatalities per Type of Crash 69
+J Number of Crashes and Fatalities per Day of Week 73
+K Number of Crashes and Fatalities per Time of Day 75
+L Cost of Fatal Crashes per Province and Type of Crash 77
+M Rolling 12-month number of fatal crashes and fatalities : 36 months 78
+N % annual change in rolling 12-month crashes and fatalities 80
+fe) Rolling 12-month crashes and fatalities per 10,000 motorised vehicles 82
+
+
+--- Page 4 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+1. Executive Summary
+
+11
+
+Vehicle Population
+
+The number of registered vehicles increased by 455,615 (5,22%)
+from 8,727,062 on 31 March 2007 to 9,182,677 vehicles on 31
+March 2008.
+
+On a percentage basis the biggest change was for buses, which
+increased by 9,14% to 40,760. Motorised vehicles increased by
+5,40% and towed vehicles increased by 3,69%.
+
+The total number of vehicles that are either un-roadworthy, un-
+licenced or both increased by 142,194 (18,23%) from 780,006
+vehicles at the end of March 2007 to 922,200 vehicles at the end
+of March 2008.
+
+The number of vehicles that are un-roadworthy (but licenced)
+increased by 109,185 (40,79%) from 267,691 vehicles at the end
+of March 2007 to 376,876 vehicles at the end of March 2008.
+
+The number of un-licenced vehicles (but roadworthy) increased
+by 22,666 (4,95%) from 458,016 vehicles at the end of March
+2007 to 480,682 vehicles at the end of March 2008.
+
+On a national basis, the average number of motorised vehicles
+per one (1) kilometre of road increased by 3 (36,6%, or an
+annual average of 4,58%) over the 8-year period from 8 vehicles
+at the end of March 2000 to 11 vehicles at the end of March
+2008.
+
+In Gauteng Province the average number of vehicles increased
+by 17 (41,43%, or an annual average of 5,18%) over the 8-year
+period from 41 vehicles at the end of March 2000 to 58 vehicles
+per 1 kilometre of road at the end of March 2008.
+
+--- Page 5 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+1.2
+
+2.1
+
+2.2
+
+2.3
+
+2.4
+
+2.5
+
+1.3
+
+1.3.1
+
+1.3.2
+
+Driver Population
+
+The number of learner driving licences issued increased by
+48,500 (4,48%) from 1,082,163 at the end of March 2007 to
+1,130,663 at the end of March 2008.
+
+The number of driving licences issued increased by 306,602
+(3,88%) from 7,899,385 at the end of March 2007 to 8,205,987
+at the end of March 2008.
+
+At the end of March 2008 there were a total of 969,744 expired
+driving licence cards recorded on the National Traffic Information
+System (NaTIS). This figure is 11,82% of all licences issued.
+
+The number of Professional Driving Permits (PrDP’s) issued
+increased by 31,808 (4,70%) from 676,445 at the end of March
+2007 to 708,253 at the end of March 2008.
+
+At the end of March 2008 there were a total of 233,077 expired
+Professional Driving Permits (PrDPs) recorded on the National
+Traffic Information System (NaTIS). This figure represents
+32,91% of all PrDPs issued.
+
+Mobility
+
+The general overall mobility in terms of the number of persons
+per road vehicle (vehicles that can reasonably transport
+passengers; such as motorcars, minibuses, buses, motorcycles
+and LDV’s “bakkies”), improved by 15,27% (or an average
+annual improvement of about 5,01%), from a national average of
+7,37 persons per vehicle at the end of March 2005 to 6,24
+persons per vehicle at the end of Mach 2008.
+
+The overall mobility in terms of the number of persons per
+“heavy” public passenger road transport vehicle (minibuses and
+buses) over the 3-year period improved by 11,14% from about
+169 persons per vehicle at the end of March 2005 to 150
+persons per vehicle at the end of March 2008.
+
+--- Page 6 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+1.3.3
+
+1.4
+
+1.4.1
+
+1.4.2
+
+1.4.3
+
+1.4.4
+
+1.4.5
+
+On a national basis, the overall mobility in terms of the number
+of public passenger transport vehicles per 10,000 population
+over the 3-year period improved by 12,54% (or an average
+annual improvement of about 4,18%), from 59 vehicles per
+10,000 persons at the end of March 2005 to 67 vehicles per
+10,000 persons at the end of March 2008.
+
+Fatal Road Crashes and Fatalities
+
+Over the 12-month period from 1 April 2007 to 31 March 2008
+the number of fatal crashes decreased by 1,000 (7,95%) from
+12,577 crashes over the same period the previous year to
+11,577.
+
+Decreases were recorded in 7 Provinces. On a provincial
+percentage basis the biggest decreases over the 12-month
+period were recorded as follows:
+= KwaZulu-Natal : decrease of 556 (22,22%) from 2,502 to
+1,946
+= Free State : decrease of 120 (13,42%) from 894 to 774;
+and
+= Gauteng : decrease of 257 (8,56%) from 3,003 to 2,746.
+
+Increases in fatal crashes over the 12-month period were
+recorded in 2 provinces as follows:
+= Mpumalanga : increase of 104 (9,29%) from 1,119 to
+1,223; and
+= Limpopo : increase of 1 (0,10%) from 1,028 to 1,029.
+
+Over the 12-month period from 1 April 2007 to 31 March 2008
+the number of fatalities decreased by 887 (5,72%) from 15,515
+fatalities over the same period the previous year to 14,627.
+
+Six Provinces recorded increases in fatalities. On a provincial
+percentage basis the biggest decreases were recorded as
+follows:
+= KwaZulu-Natal : decrease of 528 (17,78%) from 2,970 to
+2,442
+= Gauteng : decrease of 415 (11,80%) from 3,515 to 3,100;
+
+--- Page 7 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+and
+= Free State : decrease of 75 (6,44%) from 1,163 to 1,088.
+
+1.4.6 Increases in the number of fatalities over the 12-month period
+were recorded in 3 provinces as follows:
+= Mpumalanga : increase of 192 (12,53%) from 1,532 to
+1,724
+= Limpopo : increase of 73 (5,53%) from 1,316 to 1,388;
+and
+= Northern Cape : increase of 6 (1,56%) from 407 to 414.
+
+1.4.7. From 1 April 2007 to 31 March 2008 the changes in the number
+of fatalities per road user group were as follows:
+= Drivers : decrease of 247 (5,46%) from 4,531 to 4,283
+= Passengers : increase of 78 (1,55%) from 4,995 to 5,073;
+and
+= Pedestrians : decrease of 717 (11,98%) from 5,989 to
+5,272.
+
+1.4.8 From 1 April 2007 to 31 March 2008 the total number of vehicles
+involved in fatal crashes decreased by 1,322 (8,02%) from
+16,494 in 2006-2007 to 15,172 in 2007-2008.
+
+1.4.9 The biggest changes (on a percentage basis) in the number of
+vehicles per type of vehicle were recorded as follows:
+= Buses : decrease of 91 (24,57%) from 370 to 279
+= Minibus taxis : decrease of 51 (17,29%) from 295 to 244;
+and
+= Minibuses : decrease of 135 (10,60%) from 1,273 to
+1,138.
+
+1.4.10 The biggest changes (on a percentage basis) in the number of
+fatalities per type of vehicle were recorded as follows:
+= Buses : decrease of 119 (29,46%) from 404 to 285
+= Minibus taxis : decrease of 71 (18,98%) from 373 to 302;
+and
+= Minibuses : decrease of 138 (10,60%) from 1,503 to
+1,365.
+
+1.4.11 Decreases in all main categories of crash types were recorded.
+The following major changes were recorded :
+
+--- Page 8 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+1.4.12
+
+1.4.13
+
+1.4.14
+
+1.4.15
+
+1.4.16
+
+1.4.17
+
+= Unsafe turning manoeuvre crashes : decreased by
+15,65% to 472
+
+= Pedestrian and hit-and-run crashes : decreased by
+11,33% to 5,182; and
+
+= Failure to stop or yield crashes : decreased by 4,70% to
+818
+
+The majority of crashes remain pedestrian and_ hit-and-run
+crashes as 44,76% and overtaking related crashes as 32,34%
+respectively of all crashes.
+
+The severity of crashes increased by 0,030 (2,43%) from 1,234
+during the 2006-07 period to 1,263 during 2007-08.
+
+Despite an increase in the unit cost per crash due to inflation, the
+total cost of fatal crashes decreased by R 460 million from a total
+of R 13,73 billion during the 2006-2007 period to R 13,27 billion
+during the 2007-2008 period.
+
+The number of fatal crashes per 10,000 registered motorised
+vehicles decreased by 2,28 (13,71%) from 16,67 during the 12-
+month period from April 2006 to March 2007 to 14,38 over the
+following 12-month period till the end of March 2008.
+
+With the exception of Mpumalanga where the rate increased by
+2,70%, all other Provinces recorded decreases. On a Provincial
+percentage basis the biggest decreases were recorded as
+follows:
+= KwaZulu-Natal : decrease of 6,28 (26,96%) from 23,29 to
+arate of 17,01; and
+= Free State : decrease of 3,74 (17,31%) from 21,60 toa
+rate of 17,86.
+
+The number of fatalities per 10,000 registered motorised
+vehicles decreased by 2,39 (11,62%) from 20,56 during the 12-
+month period from April 2006 to March 2007 to 18,17 over the
+following 12-month period.
+
+With the exception of Mpumalanga where the rate increased by
+5,75%, all other Provinces recorded decreases. On a Provincial
+percentage basis the biggest decreases were recorded as
+follows:
+
+--- Page 9 ---
+Road Traffic Management Corporation
+
+1.5
+
+1.6
+
+1.5.1
+
+1.5.2
+
+Road Traffic Report — March 2008
+
+. KwaZulu-Natal : decrease of 6,30 (22,79%) from 27,65 to
+arate of 21,35;
+
+. Gauteng : decrease of 2,15 (17,72%) from 12,15 to a rate
+of 9,99; and
+
+. Free State : decrease of 2,99 (10,64%) from 28,10 to a
+rate of 25,11.
+
+Easter 2008
+
+The number of fatal crashes over Easter 2008 decreased by 25
+(9,96%) from 251 during Easter 2007 to 226 in 2008.
+
+The number of fatalities over Easter 2008 decreased by 22
+(6,88%) from 320 during Easter 2007 to 298 in 2008.
+
+Conclusion
+
+Since about July 2006 a steady month-on-month downward
+trend in the number of fatal crashes and _ fatalities was
+experienced on a national basis. Although there was still an
+increase in the number of crashes over the following 11 to 12
+months or so — it was at a continuing decreasing rate. This
+downward trend broke through the zero growth rate in June
+2007, from where the month-on-month rate continued on its
+downward trend until March 2008. Similar trends were recorded
+in the number of fatal crashes and fatalities per 10,000
+registered vehicles. These trends are graphically reflected in the
+figures below.
+
+15
+
+10
+
+% Change in Crashes & Fatalities
+
+Crashes & Fatalities / 10,000 Vehicles
+
+RSA RSA
+
+10 |
+
+AJAODFAJAODFAJAODF
+Mus
+
+AMJJASONDJFMAMJJASONDJFM
+Month
+
+NJMMJSNJIMMJSNUM
+Month of Year
+
+= crashes -=- fatalities -= crashes -=- fatalities
+
+KwaZulu-Natal was the biggest contributing Province to this
+downward trend.
+
+--- Page 10 ---
+Road Traffic Management Corporation
+
+2.
+
+Vehicle Population
+
+241 Number of Registered Vehicles
+
+Road Traffic Report — March 2008
+
+The number of registered vehicles increased by 455,615 (5,22%) from
+
+8,727,062 on 31 March 2007 to 9,182,677 vehicles on 31 March 2008. Detail
+per type of vehicle is given in Table 1 below.
+
+Table 1 : Number of Number Number % % of % of
+Registered Vehicles registered | registered Change Change Group Total
+lotorised Vehicles Mch 2007 | Mch 2008 Mch 2008 | Mch 2008
+Motorcars 4,992,401] 5,224,652] 232,251 4.65 63.36 56.90]
+Minibuses 268,660) 280,632] 11,972 4.46 3.40 3.06
+Buses 37,348 40,760] 3,412 9.14 0.49 0.44
+Motorcycles 293,164] 315,643] 22,479 7.67| 3.83 3.44
+ILDV's - Bakkies 1,732,256 1,856,440[ 124,184] 7.17] 22.51 20.29]
+[Trucks 285,807| 307,828) 22,021 7.70 3.73 3.35
+Other & Unknown 213,677| 219,634] 5,957| 2.79 2.66 2.39
+‘otal Motorised 7,823,313, 8,245,589 422,276 5.40 100.00] 89.80]
+Towed Vehicles
+Caravans 107,923 106,468 -1,455 “1.35 11.36] 1.14
+Heavy Trailers 125,161 136,595 11,434 9.14 14.58] 1.49
+Light Trailers 651,698] 677,516 25,818 3.96 72.30 7.38
+Other & Unknown 18,968 16,510) -2,458, _-12.96 1.76| 0.18
+‘otal Towed 903,750] -937,089{ 33,339 3.69 100.00) 10.20
+[All Vehicles 8,727,062) 9,182,677, 455,615 5.22] 100.00]
+
+The information above shows
+was for buses, which increased
+Motorised vehicles increased by 5,40% and towed vehicles increased by 3,69%.
+
+that on a percentage basis the biggest change
+by 9,14% to 40,760.
+
+The monthly percentage change over the past year for specific types of vehicles
+is shown in the figure below.
+
+% Annual Change in Motorised Vehicles
+March 2007 to March 2008
+
+Motorcycles
+
+Buses
+Trucks
+
+LDV's - Bakkies
+
+Motorcars
+
+Minibuses
+
+10
+
+--- Page 11 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+The total motor vehicle population per Province for March 2007 and 2008 is
+given in Table 2 below.
+
+[Table 2 : Number of Number Number % % of
+[Registered Vehicles registered | registered | Change | Change Total
+per Province Mch 2007 | Mch 2008 Mch 2008
+(Gauteng 3,354,147] 3,531,181] 177,034 5.28] 38.45
+KwaZulu-Natal 1,210,839] 1,269,715] _58,876| 4.86 13.83
+lestern Cape 1,466,330, 1,531,928] 65,598] 4.47| 16.68}
+Eastern Cape 596,561 629,573) 33,012 5.53} 6.86
+Free State 499,736, 518,545) 18,809} 3.76 5.65)
+Mpumalanga 525,798] 552,846] 27,048] 5.14 6.02]
+North West 483,559| 519.401] 35,842) 7.41 5.66|
+Limpopo 399,020] 426,618] 27,598] 6.92 4.65]
+Northern Cape 191,072] 202,870] ‘11,798 6.17| 2.21
+IRSA 8,727,062| 9,182,677| 455,615] 5.22] 100}
+The annual percentage change from March 2006 to March 2007 and from March
+2007 to March 2008 per Province is reflected in the figure below.
+
+% Annual Growth in Vehicle Population
+2006-2007 to 2007-2008
+
+oR BO &
+
+GA KZ wC EC FS MP NW LI NC RSA
+2006-2007 [lj 2007-2008
+
+More detailed information on the number of vehicles per type registered per
+Province is given in the Table under Annexure A.
+
+2.2 Un-Roadworthy and Un-Licenced Vehicles
+
+2.2.1 General
+
+Un-roadworthy vehicles is defined as those of which the owners failed to submit
+the vehicles for compulsory annual roadworthy tests (including buses, minibus
+taxis and freight transport vehicles) or on change of ownership. Un-licenced
+vehicles are those of which the owners failed to renew the vehicle licences
+
+within the time frame allowed.
+
+11
+
+--- Page 12 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+On a national basis the total number of vehicles that are either un-roadworthy,
+un-licenced or both increased by 142,194 (18,23%) from 780,006 vehicles at the
+end of March 2007 to 922,200 vehicles at the end of March 2008. Detail in this
+regard per type of vehicle is provided in Table 3 and the % change over the 12-
+month period from 2007 to 2008 reflected in the graph below.
+
+Table 3 : Number of Un-Roadworthy,
+Un-Licenced Vehicles or Both
+
+Vehicle Type March 2007|March 2008] Change | % Change
+[Motorcars 399,995) 431,599) 31,604] 7.90)
+Minibuses 45,342) 59,00 13,658} 30.12]
+[Buses 4,366) 5,941 1,575 36.07
+[Motorcycles 81,406 112,802) 31,396] 38.57]
+ILDV's - Bakkies 120,276 135,202] 14,926) 12.41
+{Trucks 37,870) 56,457/ 18,587 49.08}
+(Caravans 9,169) 10,435) 1,266} 13.81
+[Heavy Trailers 13,965] 21,808) 7,843) 56.16
+Light Trailers 48,867} 61,904] 13,037) 26.68)
+Unknown 18,750} 27,052| 8,302) 44.28)
+|All Vehicles 780,006) 922,200} 142,194) 18.23)
+
+% Change in Number of Vehicles
+Un-Roadworthy OR Un-Licenced OR Both
+
+All Vehicles
+Light Trailers
+Heavy Trailers
+Caravans
+Trucks
+
+LDV's - Bakkies
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+Detail on the number of vehicles that are either un-roadworthy, un-licenced or
+both per Province is provided in Table 4 and the % change from 2007 to 2008
+reflected in the graph below.
+
+Table 4 : Number of Vehicles that is Un-Roadworthy OR Un-Licenced OR Both
+Year GA KZ wc EC FS MP NW ul NC RSA
+Mch 2007 | 286,645] 116,175| 109,438] 58,536 50,104] 56,352] 49,840] 40,444] 12,472] 780,006)
+Mch 2008 | 370,180] 133,826| 110,733, 59,446, 57,366, 66,080| 61,017| 46,835 16,717| 922,200]
+Change | 83,535, 17,651] 1,295] 910, 7,262] 9,728 11,177] 6,391] 4,245] 142,194)
+%Change| 29.14 15.19 1.18] 1.55] 14.49] 17.26 22.43] 15.80, 34.04] 18.23]
+
+12
+
+--- Page 13 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+% Change in Number of Vehicles
+that are Un-Licenced per Province
+
+40
+
+30
+
+20
+
+-20
+
+GA KZ wc EC FS MP NW LI NC RSA
+
+2.2.2 Number of Un-Roadworthy Vehicles
+
+The number of vehicles that are un-roadworthy (but licenced) increased by
+109,185 (40,79%) from 267,691 vehicles at the end of March 2007 to 376,876
+vehicles at the end of March 2008. Detail in this regard is given in Table 5 and
+the percentage of un-roadworthy vehicles per type of vehicle, as a percentage of
+the number registered, for the two years respectively is reflected in the graph
+below.
+
+Table 5 : Number of Un-Roadworthy Vehicles
+
+Vehicle Type March 2007|March 2008] Change | % Change
+
+[Motorcars 97,169] 162,488} 65,319] 67.22
+[Minibuses 29,289) 29,876) 587 2.00)
+Buses 3,407} 3,571 164| 4.81
+[Motorcycles 46,193) 56,208] 10,015} 21.68)
+ILDV's - Bakkies 31,143} 49,741 18,598} 59.72]
+{Trucks 30,039} 37,097 7,058) 23.50}
+(Caravans 2,355 2,895} 540) 22.93}
+[Heavy Trailers 11,294) 14,584) 3,290} 29.13}
+Light Trailers 10,119 11,714 1,595} 15.76)
+Unknown 6,683) 8,702) 2,019} 30.21
+|All Vehicles 267,691] 376,876, 109,185) 40.79)
+
+% of Un-Roadworthy Vehicles
+
+All Vehicles
+Unknown
+
+Light Trailers
+Heavy Trailers
+Caravans
+
+Other Motorised March 2008
+Trucks
+
+LDV's - Bakkies March 2007
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+13
+
+--- Page 14 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Detail on the number of vehicles that are un-roadworthy per Province is provided
+in Table 6 and the % change from 2007 to 2008 reflected in the graph below.
+
+Table 6 : Number of Un-Roadworthy Vehicles
+Year GA KZ wc EC FS MP NW ul NC RSA
+Mch 2007| 96,210| 47,080| 32,466] 15,934] 19,188] 20,041] 18,846 13,410| 4,516| 267,691
+Mch 2008| 160,441] 58,578] 44,488| 20,295] 23,853] 24,226 23,427| 15,856] 5,712] 376,876
+Change | 64,231] 11,498] 12,022] 4,361] 4,665] 4,185, 4,581] 2,446 1,196 109,185)
+%Change| 66.76 24.42] 37.03, 27.37| 24.31] 20.88, 24.31] 18.24 26.48, 40.79)
+
+% Change in Number of Vehicles
+
+ra that are Un-Roadworthy per Province
+
+60
+50
+40
+30
+
+20
+GA KZ WC EC FS MP NW LI NC RSA
+
+2.2.3 Number of Un-Licenced Vehicles
+
+°
+
+On a national basis the number of un-licenced vehicles (but roadworthy)
+increased by 22,666 (4,95%) from 458,016 vehicles at the end of March 2007 to
+480,682 vehicles at the end of March 2008. Detail per type of vehicle in this
+regard is given in Table 7 and the percentage of un-licenced vehicles per type of
+vehicle, as a percentage of the number registered, is reflected in the graph
+
+below.
+
+Table 7 : Number of Un-Licenced Vehicles
+(Vehicle Type March 2007|March 2008] Change | % Change
+[Motorcars 275,763} 245,634 —_ -30,129] -10.93}
+Minibuses 10,876 21,333] 10,457) 96.15]
+[Buses 533} 1,774 1,241 232.83}
+[Motorcycles 27,746) 41,699) 13,953} 50.29}
+ILDV's - Bakkies 82,043} 77,882| -4,161 -5.07|
+|Trucks 4,509) 14,774 10,265} 227.66
+(Caravans 6,443) 7,035) 592) 9.19}
+[Heavy Trailers 1,579} 5,638} 4,059} 257.06]
+Light Trailers 37,333} 47,980} 10,647) 28.52)
+Unknown 11,191 16,933} 5,742! 51.31
+|All Vehicles 458,016] 480,682} 22,666 4.95]
+
+14
+
+--- Page 15 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+% of Un-Licenced Vehicles
+All Vehicles
+Unknown
+Light Trailers
+Heavy Trailers
+
+Caravans
+Other Motorised March 2008
+Trucks
+LDV's - Bakkies March 2007
+Motorcycles
+Buses
+Minibuses
+
+Motorcars
+
+0 2 4 6 8 10 12 14
+
+Detail on the number of vehicles that are un-licenced per Province is provided in
+Table 8 and the % change from 2007 to 2008 reflected in the graph below.
+
+Table 8 : Number of Un-Licenced Vehicles
+Year GA KZ wc EC FS MP NW Li NC RSA
+Mch 2007 | 171,433) 59,645) 68,636, 39,079] 27,638) 32,477] 27,287] 24,459] 7,362] 458,016
+Mch 2008 | 187,986, 63,891] 59,451] 34,601] 28,868 36,149] 32,640] 27,284) 9,812] 480,682
+Change 16,553} 4,246) -9,185) -4,478| 1,230} 3,672} 5,353} 2,825, 2,451 22,666
+% Change 9.66 7.19 -13.38 -11.46 4.45) 11.31] 19.62) 11.55] 33.28) 4.95}
+
+% Change in Number of Vehicles
+that are Un-Licenced per Province
+
+GA KZ Wc EC FS MP NW LI NC RSA
+
+40
+
+30
+20
+
+10
+
+a
+
+-20
+
+The percentage of un-licenced vehicles per type of vehicle, as a percentage of
+the number registered per Province, is reflected in the graph below.
+
+% of Un-Licenced Vehicles
+
+4 yo ea oN
+
+GA KZ WC EC FS MP NW u NC RSA
+[March 2007 [lj March 2008
+
+Detailed information in this regard is provided in the tables under Annexure B.
+
+15
+
+--- Page 16 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+2.3 Number of Vehicles per Road Length
+
+The estimated length of roads and streets per category per Province is given in
+the table below.
+
+Estimated Length of Road per Road/Street Category - kilometres
+Municipal National Prov. Total
+Province Urban & Numbered Rural Roads &
+Roads & Provincial Access Street
+Streets Roads Roads length
+Gauteng 40,917| 3,759] 10,333 55,009)
+KwaZulu-Natal 33,237| 9,938 54,734] 97,909]
+estern Cape 31,830] 10,299 50,057| 92,180)
+lEastern Cape 10,124 10,505] 57,855] 78,485|
+Free State 11,484| 9,836 90,033| 111,353}
+Mpumalanga 11,471 8,444) 36,110 56,025
+INorth West 10,920] 9,137| 52,556 72,613)
+Limpopo 10,401 7,936 48,066] 66,403]
+INorthern Cape 9,145] 12,173 89,877| 111,195
+IRSA 169,530 82,019] 489,623| 741,172
+Based on the estimated length of roads and streets an the number of vehicles
+registered per Province and the end of March 2008, the average number of
+motorised vehicles per one (1) kilometre of road is given in the table and
+
+reflected in the graph below.
+
+No. of Motorised Vehicles per 1 km Road Length per Province
+
+Year | GA | KZ | wc | EC | FS | MP | NW] LI | NC | RSA
+
+2000 4 gl 11 5 3] i 5 4 1 E}
+2001 42 E) 11 5 3 4 5] 4 1 8
+2002 42 9 12] 5 3 6 5 4 1 E |
+2003 43] E) 12] Gl 3 7 5] 4) 1 8)
+2004 45] g 1 4 3 7 5] 4 1 E)
+2005 47| 10) 13] a 3 7 5] 5] 1 E)
+2006 51 ral 14] GI 4 E| 4 5 1 70
+2007 55 1 14] 7 4 E| 4 5 1 11
+2008 58 1 15] 7 4 EI 6 iG 2 11
+
+Number of Vehicles per 1 km Road
+
+88s 88
+
+°
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+2000 [ij 2008
+
+16
+
+--- Page 17 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+The above information shows that, on a national basis, the average number of
+motorised vehicles per one (1) kilometre of road increased by 3 (36,6%, or an
+annual average of 4,58%) over the 8-year period from 8 vehicles at the end of
+March 2000 to 11 vehicles at the end of March 2008.
+
+In Gauteng Province the average number of vehicles increased by 17 (41,43%,
+or an annual average of 5,18%) over the 8-year period from 41 vehicles at the
+end of March 2000 to 58 vehicles per 1 kilometre of road at the end of March
+
+2008.
+The percentage annual change from 2000 to 2008 per Province in this regard is
+given in the table and reflected in the graph below.
+% Annual Change in No. of Motorised Vehicles per 10 km Road Length per Prov.
+Year GA KZ wc EC FS MP NW Ll NC | RSA
+2000-2001 2.30] 0.69 1.57, 1.32] -2.27, 1.139 0.28 2.99] 0.40]_~—«*1.38)
+2001-2002 1.74 0.649 1.27, 0.84 -1.99 0.9] 1.01] 3.26 O0.68| 1.15]
+2002-2003 189 1.19 «15 1.74 -0.19 189 289 263] 0.91] 1.65]
+2003-2004 3.22] 2.39 2.91| 3.20] 1.24 2.99] 3.77, 5.191254, _— 3.02)
+2004-2005 5.09 4.70, 4.52] 5.82] 3.07, «6.16 4.06, _—«5.91] 4.12] 4.89
+2005-2006 7.70, 7.51] 6.56 7.18] —4.30|_—7.95, —5.65,__—8.78| 5.90, __—7.16
+2006-2007 8.19 7.45, 6.88 6.31] 4.96 6.36 5.79 8.73, 10.70] _7.38)
+2007-2008 554 4.92 4.61| 5.63] 4.09 5.44 7.19] 7.17] 6.48] __5.40|
+% Change in Vehicles per 1 km Road
+2000 - 2008
+60
+50
+“ V_= [—~ \—
+30
+20
+ao) GA KZ WC EC FS MP NW LI NC RSA
+
+17
+
+--- Page 18 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+3.
+
+Driver Population
+
+3.1 Learner Driving Licences
+
+The number of learner driving licences issued increased by 48,500 (4,48%) from
+1,082,163 at the end of March 2007 to 1,130,663 at the end of March 2008.
+Detail on the number of learner driving licences issued per category is given in
+Table 9 and graphically reflected in the figure below.
+
+Table 9 : Number of Learner Licences Issued
+Category | Mch 2007 | Mch 2008 | Change | % Change
+1 44,219) 45,777] 1,558} 3.52)
+2 348,104 343,948) -4,156 -1.19}
+3 689,840) 740,938) 51,098} 7.41
+Total 1,082,163] 1,130,663} 48,500} 4.48)
+
+No. of Learner Driving Licences Issued
+800000
+
+[Neh 2007 fg Mch 2008
+
+Provincial information in this regard is given in Table 10 and the percentage
+change over the 12-month period is reflected in the graph below.
+
+Table 10 : Number of Learners Licences Issued per Province
+Year GA KZ wc Ec | Fs | MP | NW] ULI NC RSA
+Mch 2007 | 321,160] 203,509] 140,895] 92,041] 65,465] 67,284| 81,948] 86,422] 23,439] 1,082,163
+Mch 2008 | 339,048] 182,440| 156,082] 100,312] 77,905| 78,676 77,854| 91,237| 27,109] 1,130,663
+Change | 17,888 -21,069| _15,187| 8,271] 12,440] 11,392] -4,094/ 4.815| 3,670] 48,500)
+% Change 5.57, _-10.35, 10.781 —_—-8.99|_ 19.001 16.93] -5.00] 5.571 15.66 4.48,
+
+% Change in Learner Licences Issued
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+18
+
+--- Page 19 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+3.2 Driving Licences Issued and Expired
+3.2.1 Number of Driving Licences Issued
+The number of driving licences issued increased by 306,602 (3,88%) from
+
+7,899,385 at the end of March 2007 to 8,205,987 at the end of March 2008.
+Detail on the number of driving licences issued per category is given in Table 11
+
+and graphically reflected in the figure below.
+Table 11 : Number of Driving Licences Issued
+Category | Mch 2007 | Mch 2008 | Change | % Change
+Al 120,058) 120,822) 764 0.64]
+A 391,699) 398,323) 6,624] 1.69
+B 1,277,244] 1,396,992] 119,748 9.38)
+EB 3,607,025, 3,611,421 4,396 0.12)
+ci 1,018,167] 1,189,664] 171,497 16.84
+EC1 609,915} 608,361 -1,554] -0.25]
+c 12,769 13,440| 677| 5.30]
+EC 862,514) 866,964 4,450] 0.52}
+Total 7,899,385 8,205,987] 306,602) 3.88}
+
+No. of Driving Licences Issued
+4000000
+
+3000000
+
+0
+
+Al AB EB Ci EC C EC
+[ch 2007 yy Mch 2008
+
+The percentage driving licences issued per category at the end of March 2008 is
+reflected in Table 12 below.
+
+Table 12 : Number and % of Driving Licences Issued per Category
+Category Description Number %
+
+Al Motorcycle < 125 cub.cm 120,822] 1.47|
+
+A Motorcycle > 125 cub.cm 398,323) 4.85)
+
+B [Motor vehicle < 3,5000 kg 1,396,992 17.02
+EB Articulated motor vehicle <16,000 kg 3,611,421 44.01
+C1 Motor vehicle 3,500 - 16,000 kg 1,189,664 14.50}
+EC1 Articulated vehicle 3,500 - 16,000 kg 608,361 7.41
+
+Cc IMotorvehicle > 16,000 kg 13,440 0.16}
+EC Articulated vehicle > 16,000 kg 866,964) 10.57]
+Total 8,205,987} 100}
+
+19
+
+--- Page 20 ---
+Road Traffic Management Corporation
+
+Provincial information on the number o
+13 and the percentage c!
+reflected in the graph below.
+
+Road Traffic Report — March 2008
+
+driving licences issued is given in Table
+
+hange with regard to all licences issued per Province is
+
+Table 13 : Number of Driving Licences Issued per Province
+Year GA KZ wc EC FS MP NW ul NC RSA
+Mch 2007 | 2,813,990] 1,268,424] 1,313,280, 587,594] 441,946] 463,619] 414,972] 446,348] 149,212] 7,899,385]
+Mch 2008 | 2,902,282] 1,318,719] 1,359,293] 610,661] 459,072] 486,005] 433,925] 475,096| 160,934] 8,205,987/
+Change 88,292] 50,295, 46,013] 23,067] 17,126, 22,386, 18,953, 28,748] 11,722] 306,602]
+% Change 3.14 3.97 351 3.93, 3.8 483 4571 6447.86] 3.88|
+% Change in Driving Licences Issued
+8
+6
+2
+c GA KZ WC EC FS MP NW LI NC RSA
+3.2.2 Number of Driving Licence Cards Expired
+
+The information in Table 14 below shows that at the end of March 2008 there
+were a total of 969,744 expired driving licence cards recorded on the National
+‘ormation System (NaTIS). This figure is 11,82% of all licences issued.
+This information is also reflected in the graph below.
+
+Traffic In
+
+Mch 2008 | Table 14 : Number of Driving Licence Cards Issued and Expired per Province
+
+Category GA KZ wc EC FS MP NW ul NC RSA
+On system| 2,902,282} 1,318,719] 1,359,293} 610,661) 459,072} 486,005] 433,925] 475,096] 160,934) 8,205,987]
+INot expired} 2,578,989} 1,160,191] 1,217,814) 486,263] 402,353] 432,150| 389,738) 423,552} 145,193] 7,236,243)
+
+Expired 323,293) 158,528] 141,479) 124,393 56,719} 53,855] 44,187} 51,544) 15,741 969,744)
+% Expired 11.14) 12.02} 10.41) 20.37 12.36) 11.0 10.1 10.85) 9.7 11.82)
+
+% Expired Driving Licence Cards
+
+25
+
+GA KZ WC EC FS MP NW LI
+
+NC RSA
+
+20
+
+--- Page 21 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+The number of expired driving licence cards per category; as well as the expiry
+time frame : between 1 to 60 days; between 2 to 24 months and longer than 24
+months, is given in Table 15 below.
+Table 15 : No. of Driving Licenses Expired per Category
+Licence 1 to 2to > Total
+Category 60 days | 24 months | 24 months
+Al 3,583 4,528| 5,066 13,177|
+A 9,447 14,450] 22,136 46,033
+B 10,856 30,670| 34,512 76,038
+EB 132,346 162,425] _223,387| «+518, 158
+C1 4,991 24,467] 32,354] 61,812
+ECi 25,868 33,133 43,447| 102,448
+c 7A 329 773 1,180
+EC 28,521 49,208 73,169 150,898
+Total 215,690, 319,210 434,844] (969,744
+3.3 Professional Driving Permits Issued and Expired
+
+3.3.1 Number of Professional Driving Permits Issued
+
+The number of Professional Driving Permits (PrDP’s) issued increased by
+31,808 (4,70%) from 676,445 at the end of March 2007 to 708,253 at the end of
+March 2008. Detail on the number of PrDPs issued per category is given in
+Table 16 and graphically reflected in the figure below.
+
+Table 16 : Number of PrDP's Issued
+
+Category | Mch 2007 | Mch 2008 | Change | % Change
+G 10,015} 10,121 106) 1.06}
+
+P 5,600} 3,949} 71,651 -29.48}
+PG 536,856] 565,975) 29,119 5.42)
+DG 1,102) 915 -187| -16.97|
+DPG 122,872} 127,293} 4,421 3.60)
+Total 676,445| 708,253] 31,808) 4.70)
+
+No. of PrDPs Issued
+
+600000
+
+P PG DG DPG
+[ch 2007 fg Mch 2008
+
+21
+
+--- Page 22 ---
+Road Traffic Management Corporation
+
+below.
+
+Road Traffic Report — March 2008
+
+Provincial information in this regard is given in Table 17 and the percentage
+change with regard to all PrDPs issued per Province are reflected in the graph
+
+Table 17 : Number of Professional Driving Permits (PrDP's) Issued per Province
+
+Year | GA KZ we Ec | Fs | MP [| NW] ULI NC | RSA
+Mch 2007 | 189,748} 114,373) 91,282} 51,951 45,682} 57,584) 40,424) 58,247; 18,087) 667,377|
+Mch 2008 | 199,993}  120,44( 95,985} 55,15: 47,837] 61,784] 43,783} 63,811] 19,462} 708,253}
+
+Change 10,245} 6,067] 4,703) 3,20! 2,155) 4,201 3,359} 5,564) 1,375) 40,876
+% Change 5.40) 5.3 5.15) 6.1 4.72) 7.29) 8.31) 9.55) 7.6 6.12)
+% Change in PrDPs Issued
+GA KZ WC EC FS MP NW LI NC RSA
+3.3.2 Number of Expired PrDPs
+
+The information in Table 18 below shows that at the end of March 2008 there
+were a total of 233,077 expired Professional Driving Permits (PrDPs) recorded
+on the National Traffic Information System (NaTIS). This figure represents
+32,91% of all PrDPs issued. This information per Province is also reflected in the
+
+graph below.
+Mch 2008 Table 18 : Number of Professional Driving Permits (PrDPs)
+Issued and Expired per Province
+
+Category GA KZ wc EC FS MP NW ul NC RSA
+On system | 199,993] 120,440] 95,985 55,158] 47,837] 61,784] 43,783, 63,811] 19,462] 708,253
+Notexpired| 130,304] 78,186] 66,043] 36,671] 33,310, 41,152] 27,247] 48,678] 13,585] 475,176
+
+Expired 69,689] 42,254] 29,942] 18,487] 14,527] 20,632] 16,536 15,133] 5,877| 233,077]
+% Expired 34.85, 35.08] 31.19] ~— 33.52] ~— 30.37] 33.39] 37.77] 23.79] 30.2 32.91
+
+% Expired Professional Driving Permits
+
+GA KZ WC EC FS MP NW LI
+
+NC RSA
+
+22
+
+--- Page 23 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+The number of expired professional driving permits per category; as well as the
+expiry time frame : between 1 to 60 days and between 2 to 24 months, is given
+
+in Table 19 below.
+
+Table 19 : No. of PrDPs Expired per Category
+PrDP 1to 2 to Total
+Category 60 days | 24 months
+
+G 555 3,699} 4,254
+
+P 313 1,930} 2,243}
+
+PG 25,981 161,921 187,902)
+
+DG 63) 249) 312)
+
+DPG 5,204] 33,162) 38,366)
+
+Total 32,116] _200,961| 233,077)
+
+Detailed information on the number of learner
+PrDPs is provided in the tables under Annexure C.
+
+23
+
+icences, driving licences and
+
+--- Page 24 ---
+Road Traffic Management Corporation
+
+4. Human Population and Mobility
+
+Road Traffic Report — March 2008
+
+The estimated human population at the end of each financial year from 2005 to
+2008 is given in Table 20 below. (These figures are estimates from the mid-year
+
+estimates re
+
+leased annual
+
+ly by StatsSA).
+
+Table 20 : Estimated Month-End Human Population per Province - million
+Month Province Total
+GA KZ wc EC FS MP NW ul NC RSA
+Mch 2005 8.98} 9.65} 4.63} 7.05} 2.95) 3.23} 3.82} 5.60} 0.90} 46.81
+Mch 2006 9.40} 9.86} 4.72| 6.93} 2.96} 3.44] 3.49} 5.43} 1.05) 47.27)
+Mch 2007 9.65} 9.99} 4.82 6.90} 2.96} 3.53} 3.39} 5.39} 1.10) 47.74)
+Mch 2008 9.81} 10.08 4.91 6.92| 2.97 3.56} 3.41 5.43} 1.11 48.20,
+
+Based on the information
+of persons per vehicle per Province (excluding trucks, towed vehicles and “other”
+and “unknown” vehicles
+respectively, are shown in Table 21 and
+
+reflected in t
+
+on human and vehicle populations, the average number
+
+at the end of March 2005, 2006, 2007 and 2008
+he graph below.
+
+The information in t
+
+in terms of the number o'
+transport passengers; such as motorcars, minibuses, buses, motorcycles and
+LDV’s “bakkies”), improved by 15,27% (or an average annual improvement of about
+5,01%), from a national average of 7,37 persons per vehicle at the end of March
+2005 to 6,24 persons per vehicle at the end of Mach 2008.
+
+he tabl
+
+24
+
+Table 21 : Average Number of Persons per Vehicle
+(excluding trucks, other, unknown and towed vehicles
+Month GA KZ wc EC FS MP NW Ll NC RSA
+Mch 2005 3.64 10.76 4.17| 15.88} 8.88) 9.03, 11.28} 20.09) 7.14) 7.37|
+Mch 2006 3.54 10.21 3.99, 14.59} 8.49} 8.89} 9.70, 17.82 7.82) 6.93)
+Mch 2007 3.36 9.62) 3.80, 13.69} 8.05) 8.54) 8.89 16.32} 7.42| 6.52
+Mch 2008 3.24 9.26 3.70} _ 13.00} 7.72 8.14) 8.32) 15.32} 6.99} 6.24]
+Av. No. of Persons per Vehicle
+(exluding trucks, other and trailers)
+25
+20
+15 fh
+10
+5
+GA KZ WC EC FS MP NW NC RSA
+Mch 2005 [lj Mch 2006 [—]Mch 2007 [ggjgj Mch 2008
+
+le and graph above shows that the general overall mobility
+persons per road vehicle (vehicles that can reasonably
+
+--- Page 25 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+On a Provincial percentage basis the biggest improvement in this regard was
+recorded in North West where the average number of persons per vehicle improved
+from 11,28 to 8,32 (26,29%).
+
+The “least mobile” Provinces are Limpopo with 15,32 persons per vehicle; followed
+by the Eastern Cape with 13,00 persons per vehicle at the end of March 2008.
+
+The “most mobile” Provinces are Gauteng and the Western Cape with an average
+of 3,24 and 3,70 persons per vehicle respectively at the end of the 2007-2008
+financial year.
+
+The average number of persons per “heavy” road passenger transport vehicle
+(buses and minibuses) is shown in Table 22 and reflected in the graph below.
+
+Table 22 : Average Number of Persons per "Heavy" Passenger Transport Vehicle
+(buses and minibuses)
+
+Month GA KZ wc EC FS MP NW Ll NC RSA
+Mch 2005 89g 230] 119} 337| 232 169} 185) 297] 232 169)
+Mch 2006 89g 221 120} 306 226 171 164] 266 258} 162)
+Mch 2007 85 216} 120} 297] 221 161 156} 251 244) 156|
+Mch 2008 81 206} 118} 286 212 157| 155} 247| 236 150)
+
+Av. No. of Persons per "Heavy" Vehicle
+(buses and minibuses)
+
+350
+300
+250
+200
+150
+100
+
+GA KZ WC EC FS MP NW LI NC RSA
+Mch 2005 [ij Mch 2006 [__]Mch 2007 lj Mch 2008
+
+The information in the table and graph above show that the overall mobility in terms
+of the number of persons per “heavy” public passenger road transport vehicle
+(minibuses and buses) over the 3-year period improved by 11,14% from about 169
+persons per vehicle at the end of March 2005 to 150 persons per vehicle at the end
+of March 2008.
+
+On a Provincial percentage basis the biggest improvement in this regard was
+recorded in Limpopo from 297 to 247 (17,06%); followed by North West from 185 to
+155 persons per “heavy” public passenger transport vehicle (16,03%).
+
+25
+
+--- Page 26 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+The average number of “heavy” road passenger transport vehicle (buses and
+minibuses) per 10,000 human population per Province is shown in Table 23 and
+reflected in the graph below.
+
+Table 23 : Average Number of Public Passenger Transport Vehicles
+(buses and minibuses) per 10,000 Human Population
+
+Month GA KZ wc EC FS MP NW Ll NC RSA
+Mch 2005 112} 43) 84 30 43) 59 54| 34| 43) 59)
+Mch 2006 113} 45) 83 33 44) 59 61 38 39 62)
+Mch 2007 117| 46) 83 34 45) 62 64 40, 4 64)
+Mch 2008 124) 49) 84) 35 47| 64) 64) 4 42 67)
+
+No. of Buses & Minibuses / 10,000 Pop
+
+“GA KZ WC EC FS MP NW LI NC RSA
+Mch 2005 [fj Mch 2006 [—]Mch 2007 [Mj Mch 2008
+
+The information in the table and graph above show that, on a national basis, the
+overall mobility in terms of the number of public passenger transport vehicles per
+10,000 population over the 3-year period improved by 12,54% (or an average
+annual improvement of about 4,18%), from 59 vehicles per 10,000 persons at the
+end of March 2005 to 67 vehicles per 10,000 persons at the end of March 2008.
+
+On a Provincial basis the biggest improvements in this regard were recorded for
+Limpopo with a 20,57% improvement from 34 vehicles in 2005 to 41 vehicles per
+10,000 persons in 2008; followed by North West with an improvement of 19,08%
+and the Eastern Cape with an improvement of 17,73%.
+
+There was basically no improvement in the Western Cape; and the Northern Cape
+
+shows a decrease of 1,75% from 43 vehicles to 42 vehicles per 10,000 persons
+over the 3-year period.
+
+26
+
+--- Page 27 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5. Fatal Road Crashes and Fatalities
+
+5.1
+
+Number of Fatal Crashes
+
+Over the 12-month period from 1 April 2007 to 31 March 2008 the
+number of fatal crashes decreased by 1,000 (7,95%) from 12,577
+crashes over the same period the previous year to 11,577. Provincial
+detail in this regard is given in Table 24 below.
+
+Table 24 : Number of Fatal Crashes per Province
+Year GA KZ wc EC FS MP NW ul NC RSA
+2006-07 | 3,003} 2,502) 1,358} 1,375 894 1,119) 990} 1,028} 308) 12,577)
+2007-08 | 2,746} 1,946) 1,335) 1,281 774| 1,223} 956} 1,029} 287| 11,577)
+change -257| _-556| -23) -94  -120) 104 -34 1 -21] —_-1,000|
+%change| -8.56| -22.22} -1.69| -6.84) -13.42) 9.29] -3.43) 0.10) -6.82| -7.95]
+
+Decreases were recorded in 7 Provinces. On a provincial percentage
+basis the biggest decreases over the 12-month period were recorded as
+ollows:
+
+= KwaZulu-Natal : decrease of 556 (22,22%) from 2,502 to 1,946
+
+= Free State : decrease of 120 (13,42%) from 894 to 774; and
+
+= Gauteng : decrease of 257 (8,56%) from 3,003 to 2,746.
+
+Increases in fatal crashes over the 12-month period were recorded in 2
+provinces as follows:
+
+= Mpumalanga : increase of 104 (9,29%) from 1,119 to 1,223; and
+
+= Limpopo : increase of 1 (0,10%) from 1,028 to 1,029.
+
+The monthly number of fatal crashes is graphically reflected in the figure
+below.
+
+No. of Crashes per Month
+
+1400
+1200
+1000
+800
+600
+400
+
+‘Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+[2006-07 fm 2007-08
+
+The number of fatal crashes per month per province over the past 4
+years is given in the table attached under Annexure D.
+
+27
+
+--- Page 28 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5.2
+
+Number of Fatalities
+
+Over the 12-month period from 1 April 2007 to 31 March 2008 the
+number of fatalities decreased by 887 (5,72%) from 15,515 fatalities over
+he same period the previous year to 14,627. Provincial detail in this
+regard is given in Table 25 below.
+
+Table 25 : Number of Fatalities per Province
+Year GA KZ wc EC FS MP NW ul NC RSA
+2006-07 | 3,515} 2,970} 1,668) 1,687] 1,163) 1,532) 1,257] 1,316 407| 15,515)
+2007-08 | 3,100} 2,442) 1,623} 1,638} 1,088) 1,724) 1,210} 1,388) 414 14,627)
+change -415} — -528) 44) -49) -75) 192| -47| 73) ) -887|
+(% change] -11.80) -17.78} -2.65) -2.92} -6.44) 12.53] -3.77| 5.53} 1.56] 5.72)
+
+Six Provinces recorded increases in fatalities. On a provincial percentage
+basis the biggest decreases were recorded as follows:
+
+= KwaZulu-Natal : decrease of 528 (17,78%) from 2,970 to 2,442
+
+= Gauteng : decrease of 415 (11,80%) from 3,515 to 3,100; and
+
+= Free State : decrease of 75 (6,44%) from 1,163 to 1,088.
+
+Increases in the number of fatalities over the 12-month period were
+recorded in 3 provinces as follows:
+
+= Mpumalanga : increase of 192 (12,53%) from 1,532 to 1,724
+
+= Limpopo : increase of 73 (5,53%) from 1,316 to 1,388; and
+
+= Northern Cape : increase of 6 (1,56%) from 407 to 414.
+
+The monthly number of fatalities over the 12-month period is graphically
+reflected in the figure below.
+
+No. of Fatalities per Month
+
+i
+
+‘Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+1600
+
+1400
+121
+10
+
+ET
+
+2
+8888
+
+[1206-07 jug 2007-08
+
+The percentage change in the number of fatal crashes and fatalities over
+the 12-month period from 1 April 2007 to 31 March 2008 per province is
+reflected in the graph below.
+
+28
+
+--- Page 29 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5.3
+
+% Change in Crashes & Fatalities
+From 2006-07 to 2007-08
+
+GA KZ WC EC FS MP NW LI NC RSA
+Province
+
+-=- crashes -=- fatalities
+
+The number of fatalities per month per province over the past 4 years is
+given in the table attached under Annexure E.
+
+Number of Fatalities per Road User Group
+
+From 1 April 2007 to 31 March 2008 the changes in the number of
+fatalities per road user group were as follows:
+
+= Drivers : decrease of 247 (5,46%) from 4,531 to 4,283
+
+= Passengers : increase of 78 (1,55%) from 4,995 to 5,073; and
+
+= Pedestrians : decrease of 717 (11,98%) from 5,989 to 5,272.
+Provincial detail in this regard is given in Table 26 below.
+
+Table 26 : Number of Fatalities per Road User Group
+
+2006-2007 | GA KZ _| wc | EC FS MP_| NW Ll NC | RSA
+Drivers 1,102] 663, 489{ 403) ~~ 399] ~—«519] +413] ~—«408|~—=«s34]—4,531
+Passengers | 863] 857/501] 605) 430i +~«#592]~=—«440|_~=C«S31|_—«st77|_~—«4,995]
+Pedestrians | 1,550| 1,450] 677] 680 33a, 420] +404 ~=«377|_~—=«|_—i5,989]
+
+[Total 3,515] 2,970} 1,668) 1,687} 1,163) 1,532} 1,257) 1,316) 407] 15,515)
+2007-2008 | GA KZ | wc | EC FS MP | NW ul NC | RSA
+Drivers 991 566, 460} 399 = 336} 576411 430} 115) 4,283}
+
+Passengers 721 783} 506} 632) 495, 720] 435] 596} 186 5,073)
+Pedestrians | 1,389} 1,094 658) 607} 257) 428 364 ~=362)— 113} 5,272)
+
+[Total 3,100} 2,442} 1,623) 1,638) 1,088} 1,724) 1,210) 1,388} 414 14,627|
+Change GA KZ | wc EC FS MP | NW ul NC | RSA
+Drivers -112 -98) -29) -4| -63) 56} A 22| -19} -247|
+Passengers -142) -74 EB 27| 65) 128) ee) 65] 8 78)
+Pedestrians -161} — -357 -20| -73) -76| 8 1 -15] 17| -717|
+[Total -415} = -528} -44| -49| -75) 192) -47/ 73} G -887|
+% Change | GA KZ | we EC FS MP | NW ul NC | RSA
+Drivers -10.13)_-14.71]_-6.0i]_-0.87]_-15.87| 10.82} -0.35|  5.44| -14.00 -5.46
+Passengers | -1646 -864 0.99 450) 15.00 e167] -1.14 1231] 474 1.55
+Pedestrians | -10.38} -24.58| -2.91) -10.72) -228e) 1.80] -10.11] -3.80| 17.47] -11.98)
+Total “11.80 -17.78| -2.65|  -2.92  -6.4al 12.53, -3.77 5.53] «1-50 5.72
+
+The percentage of fatalities per road user group for the respective two
+12-month periods are graphically reflected in the figure below.
+
+29
+
+--- Page 30 ---
+Road Traffic Management Corporation
+
+5.4
+
+More detail on the number of driver, passenger and pedestrian fatalities
+per Province per type of vehicle is given in the tables under Annexure F.
+
+Road Traffic Report — March 2008
+
+gees
+
+BBS
+
+% of Fatalities per User Group
+
+Drivers
+
+Passengers
+
+Pedestrians
+
+[12006-2007 [gm 2007-2008
+
+Number of Fatalities per Age Group
+
+From 1 April 2007 to 31 March 2008 the biggest changes (on a
+percentage basis) in the number of fatalities per age group were recorded
+
+as fol
+
+Detai
+
+lows:
+
+70-74 : decrease of 32 (31,05%) from 103 to 71
+10-14 : decrease of 116 (28,38%) from 410 to 294; and
+50-54 : decrease of 111 (20,97%) from 531 to 420.
+
+per age group in this regard is given in Table 27 below.
+
+Table 27 : Number of All Fatalities per Age Group
+
+Age Group | 2006-2007 | 2007-2008 Change % Change
+0-4 389 313) -76| -19.47|
+5-9 529 453} -75) -14.27|
+
+10-14 410 294 -116 -28.38)
+15-19 541 466) -75) -13.85)
+20-24 1,044} 873 -171 -16.34)
+25-29 1,311 1,140 -171 -13.03)
+30-34 1,448) 1,171 -277| -19.15)
+35-39 1,105) 997| -108} -9.80]
+40-44 1,004} 798 -206 -20.47|
+45-49 683} 594 -89| -13.02)
+50-54 531 420) -111 -20.97|
+55-59 320} 263) -57| -17.72
+60-64 219 195) -23) -10.69)
+65-69 128} 106 -21 -16.59)
+70-74 103 71 -32) -31.05)
+75-79 56] 60| 4 6.88)
+80+ 64 63} a -1.70)
+Unknown 5,631 6,349} 718 12.76
+Total 15,515) 14,627, -887| 5.72)
+
+30
+
+--- Page 31 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+The percentage of fatalities per road user and age groups are also
+reflected in the graphs below.
+
+% Driver Fatalities per Age Group
+20
+15
+10
+5
+0
+0-4 10-14 20-24 30-34 40-44 50-54 60-64 70-74 80+
+5-9 15-19 25-29 35-39 45-49 55-59 65-69 75-79
+2006-2007 [lj 2007-2008
+% Passenger Fatalities per Age Group
+16
+14 |
+12
+10
+8
+6
+4
+2
+0
+0-4 10-14 20-24 30-34 40-44 50-54 60-64 70-74 80+
+5-9 15-19 25-29 35-39 45-49 55-59 65-69 75-79
+2006-2007 [ll 2007-2008
+% Pedestrian Fatalities per Age Group
+14
+12
+10
+8
+6
+4
+2
+0
+0-4 10-14 20-24 30-34 40-44 50-54 60-64 70-74 80+
+5-9 15-19 25-29 35-39 45-49 55-59 65-69 75-79
+2006-2007 [lj 2007-2008
+
+More detail on the number of driver, passenger and pedestrian fatalities
+per Province per age group is given in the tables under Annexure G.
+
+31
+
+--- Page 32 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5.5 Number of Vehicles involved in Fatal Crashes
+
+From 1 April 2007 to 31 March 2008 the total number of vehicles involved
+in fatal crashes decreased by 1,322 (8,02%) from 16,494 in 2006-2007 to
+15,172 in 2007-2008.
+
+The biggest changes (on a percentage basis) in the number of vehicles
+per type of vehicle were recorded as follows:
+
+= Buses : decrease of 91 (24,57%) from 370 to 279
+
+= Minibus taxis : decrease of 51 (17,29%) from 295 to 244; and
+
+= Minibuses : decrease of 135 (10,60%) from 1,273 to 1,138.
+Detail per type of vehicle in this regard is given in Table 28 below.
+
+Table 28 : Number of Vehicles in Crashes per Type of Vehicle
+Vehicle Type 2006-2007 | 2007-2008 Change % Change
+
+Motorcars 7,794) 6,997] -797 -10.22)
+Minibuses 1,273 1,138 -136 -10.60)
+
+295] 244) -51 -17.29)
+
+370} 279| -91 -24.57
+Motorcycles 287 305 18) 6.38)
+LDV's - Bakkies 2,999) 2,935] -65] -2.16
+{Trucks 1,569 1,581 12) 0.75)
+\Other and unknown 1,541 1,398} -143} -9.27|
+[Total Motorised 16,128) 14,877| 1,251 -7.76|
+Bicycle 362) 293) -69| -18.92)
+(Animal drawn 5 1 -4| -69.92)
+[Total 16,494) 15,172) 1,322) -8.02
+
+The number of vehicles involved in crashes per 10,000 registered per
+type of vehicle is reflected in the figure below.
+
+Vehicles in Crashes per 10,000 Reg
+
+Total Motorised
+Trucks
+
+LDV's - Bakkies Y |
+ts 2007-2008
+
+lotorcycles eal
+Buses 2006-2007
+
+Minibuses
+
+Motorcars
+
+0 20 40 60 80 100 120
+
+32
+
+--- Page 33 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+The number of vehicles involved in fatal crashes per Province is shown in
+
+Table 29 below.
+
+Table 29 : Number of Vehicles Involved in Fatal Crashes
+Year GA | Kz | wc [| Ec | Fs | MP | NW LI | NC | RSA
+2006-2007| 4,110] 3,057] 1,751] 1,748] 1,170 1,592] 1,293| 1,389] 384] 16,494
+2007-2008| 3,657| 2,404] 1,691] 1,596 1,042] 1,694 1,303| 1,418] 367] 15,172
+Change -453|-653,—-60|_—-152]~—-128| ~—*102) 10 2g -17]|_ -1,322)
+% Change| -11.03] -21.36| -3.42] -8.70| -10.96 6.39[ 0.81] 2.07] -4.43]  -8.02)
+
+The biggest decrease in the number of vehicles involved in
+
+was recorded in
+by 653 (21,36%
+2007-2008.
+
+fatal crashes
+KwaZulu-Natal where the number of vehicles decreased
+from 3,057 during the 2006-2007 period to 2,404 during
+
+The average number of vehicles per fatal crash per Province is reflected
+in the figure below.
+
+Average No. of Vehicles per Crash
+
+GA KZ WC EC FS MP
+
+NW
+
+Li NC RSA
+
+[-]2006-2007 |g 2007-2008
+
+The number of vehicles involved in fatal crashes per 10,000 registered
+motorised vehicles per Province is shown in the figure below.
+
+40
+
+30
+
+20
+
+10
+
+No. of Vehicles per 10,000 Registered
+
+GA KZ WC EC FS MP
+
+NW
+
+Li NC RSA
+
+2006-2007 [ij 2007-2008
+
+33
+
+--- Page 34 ---
+Road Traffic Management Corporation
+
+5.6
+
+Road Traffic Report — March 2008
+
+The number of fatalities per type of vehicle for the two reporting periods is
+given in Table 30 below.
+
+The biggest changes (on a percentage basis) in the number of fatalities
+
+per type of vehicle were recorded as follows:
+= Buses : decrease of 119 (29,46%) from 404 to 285
+= Minibus taxis : decrease of 71 (18,98%) from 373 to 302; and
+= Minibuses : decrease of 138 (10,60%) from 1,503 to 1,365.
+
+Table 30 : Number of All Fatalities per Type of Vehicle
+Vehicle Type 2006-2007 | 2007-2008 Change % Change
+Motorcars 7,386) 6,896} -490| -6.63)
+Minibuses 1,503| 1,365] -138| -9.18
+Minibus Taxis 373 302 71 -18.98}
+[Buses 404| 285] -119 -29.46|
+Motorcycles 293) 305] 11 3.84)
+ILDV's - Bakkies 2,830} 2,897] 68} 2.39)
+{Trucks 955] 974 19) 1.95}
+\Other and unknown 1,405} 1,312) -93) -6.62)
+{Total Motorised 15,149) 14,336 -813) -5.37|
+Bicycle 358) 290 -68} -18.90|
+‘Animal drawn 8) 1 -6 -82.21
+{Total 15,515} 14,627| -887| 5.72,
+
+More detail on the number of vehicles per vehicle type involved in
+crashes per Province is given in the tables under Annexure H.
+
+Number of Fatal Crashes and Fatalities per
+
+Decreases in all main categories of crash
+
+Type of Crash
+
+ypes were recorded. The
+
+number of fatal crashes per type of crash is given in Table 31 below.
+
+Table 31 : Number of Fatal Crashes per Type of Crash
+Crash Type 2006-2007 | 2007-2008 Change % Change
+Pedestrian & Hit and Run 5,844] 5,182 -662| -11.33}
+(Overtaking Related 3,748} 3,744) -3I -0.09}
+Failure to Stop or Yield 858) 818) -40| -4.70|
+[Unsafe Turning Manoeuvres 559} 472 -88| -15.65)
+Poor Visibility & Following Dist. 675 647 -28) -4.16
+(Other & Unknown 893} 714 -179| -20.02}
+[Total No. of Crashes 12,577| 11,577| -1,000| -7.95|
+
+The information in the table above shows the following changes :
+= Unsafe turning manoeuvre crashes : decreased by 15,65% to 472
+= Pedestrian and hit-and-run crashes : decreased by 11,33% to
+
+34
+
+--- Page 35 ---
+Road Traffic Management Corporation
+
+5,182
+
+Road Traffic Report — March 2008
+
+= Failure to stop or yield crashes : decreased by 4,70% to 818
+
+The majority of crashes remain pedestrian and hit-and-run crashes as
+44,76% and overtaking related crashes as 32,34% respectively of all
+
+crashes.
+
+The percentage of fatal crashes per type of crash per Province for the
+2007-2008 period is graphically reflected in the figure below.
+
+60
+
+% of Crashes per Crash Type
+
+2007 -
+
+2008
+
+50
+40
+30
+20 ||
+10
+
+GA KZ WC EC FS
+
+MP NW LI
+
+NC RSA
+
+Pedestrian & Hit and Run
+[Failure to Stop or Yield
+
+[i Overtaking Related
+HH Unsafe Turning Manoeuvres
+
+The number of
+
+atalities per type of crash is given in Table 32 below.
+
+Table 32 : Number of Fatalities per Type of Crash
+
+Crash Type 2006-2007 | 2007-2008 Change % Change
+Pedestrian & Hit and Run 6,037| 5,302] -735 12.18)
+(Overtaking Related 5,515} 5,695} 180} 3.27
+Failure to Stop or Yield 1,167 1,136 -30| -2.61
+[Unsafe Turning Manoeuvres 755} 684] -71 -9.35]
+Poor Visibility & Following Dist. 1,053) 974) -79| -7.51
+(Other & Unknown 987] 835 -152| -15.41
+[Total No. of Fatalities 15,515 14,627| -887| -5.72|
+The percentage of fatalities per type of crash per Province for the 2007-
+2008 period is shown in the figure below.
+
+% of Fatalities per Crash Type
+2006
+
+50
+
+30
+20
+
+GA KZ WC EC
+
+Pedestrian & Hit and Run
+[Failure to Stop or Yield
+
+FS MP NW LI
+
+[ll Overtaking Related
+[Ml Unsafe Turning Manoeuvres
+
+NC RSA
+
+35
+
+--- Page 36 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+More detail on the number of crashes and fatalities per type of crash per
+Province is given in the tables under Annexure I.
+
+5.7 Number of Fatal Crashes and Fatalities per Day of Week
+
+The number of fatal crashes per day of the week for the 2006-2007 and
+2007-2008 periods is shown in Table 33 and reflected in the figure below.
+
+Table 33 : Number of Fatal Crashes per Day of Week
+Day of Week | 2006-2007 | 2007-2008 | Change | % Change
+Sun 2,375] 2,202 -173 -7.28)
+Mon 1,412 1,254) -158) -11.20,
+Tue 1,105} 1,096 -9) -0.84)
+Wed 1,121 1,075] -46} -4.13)
+Thu 1,278} 1,162) -116 -9.07|
+Fri 2,123} 1,866 -257| -12.10,
+Sat 3,163} 2,922] -240| -7.60)
+Total 12,577| 11,577| -1,000| -7.95)
+
+% Fatal Crashes per Day of Week
+
+a
+
+0 il 1 ‘I
+Sun Mon Tue Wed Thu Fri Sat
+
+[2006-2007 gy 2007-2008
+
+The above information shows that all the days of the week experienced
+decreases in the number of fatal crashes. The biggest decreases on a
+percentage basis were recorded as follows :
+
+= Fridays : decrease of 12,10%
+
+= Mondays : decrease of 11,20%
+
+= Thursdays : decrease of 9,07%.
+Sunday, Friday and Saturday remain high with 61,49% of the total weekly
+crashes on these 3 days. 25% of the weekly crashes happens on
+Saturdays.
+
+The number of fatalities per day of the week for the 2006-2007 and 2007-
+2008 periods is shown in Table 34 and reflected in the figure below.
+
+36
+
+--- Page 37 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Table 34 : Number of Fatalities per Day of Week
+Day of Week | 2006-2007 | 2007-2008 | Change | % Change
+
+Sun 2,971 2,789 -182] -6.12|
+Mon 1,725] 1611 =114] -6.62|
+Tue 1,341 1,381 40] 2.96
+Wed 1,332 1,309] 29) “2.24
+Thu 1,577| 1,399] =184] “11.68
+
+Fri 2,681 2,335] -346] -12.90
+Sat 3,888 3,816] “72 -1.84|
+Total 15,515 14,627| -887| 5.72
+
+% Fatalities per Day of Week
+
+a al
+
+Sun Mon Tue Wed = Thu Fri Sat
+
+2006-2007 [lj 2007-2008
+
+The above information shows that, with the exception of Tuesdays, which
+experienced an increase of 2,96%, all the other days of the week
+experienced decreases in the number of fatalities. The biggest decreases
+on a percentage basis were recorded as follows :
+
+= Fridays : decrease of 12,90%
+
+= Thursdays : decrease of 11,68%
+
+= Mondays : decrease of 6,62%.
+Sunday, Friday and Saturday remain high with 61,12% of the total weekly
+fatalities on these 3 days. 26,09% of the weekly fatalities occurs on
+Saturdays.
+
+With the exception of Thursdays and Fridays, the severity of fatal crashes
+(average number of fatalities per crash) per day of the week for the 2006-
+2007 and 2007-2008 periods in creased for all the other days of the
+week. The biggest increases per day of the week were as follows:
+
+= Saturday : increase of 6,24%
+
+= Monday : increase of 5,16%
+
+= Tuesday : increase of 3,83%
+Detail in this regard is shown in Table 35 and reflected in the figure
+below.
+
+37
+
+--- Page 38 ---
+Road Traffic Management Corporation
+
+5.8
+
+Road Traffic Report — March 2008
+
+Table 35 : Fatal Crash Severity per Day of Week
+Day of Week | 2006-2007 | 2007-2008 | Change | % Change
+Sun 1.251 1.267| 0.016 1.257|
+Mon 1.221 1.284] 0.063 5.157
+Tue 1.213 1.260 0.047 3.839
+Wed 1.188] 1.212] 0.024] 2.003
+Thu 1.234] 1.198] -0.035] -2.869|
+Fri 1.263] 1.251 -0.011 -0.907|
+Sat 1.229] 1.306| 0.077 6.236
+Total 1.234] 1.263] 0.030] 2.425
+Fatal Crash Severity per Day of Week
+1.32
+1.3
+1.28 JN
+1.26 e.
+1.24 Y/N
+1.22
+1.2
+1.18
+Sun Mon Tue Wed Thu Fri Sat Week
+© 2006-2007 -=- 2007-2008
+The above information shows that the day of the week with the highest
+rate was Saturday, with an average rate in the order of 1,31.
+
+More detail on the number of crashes and fatalities per day of week per
+Province is given in the tables under Annexure J.
+Number of Fatal Crashes and Fatalities per Time of Day
+
+The percentage of fatal crashes and fatalities per time of the day for the
+2006-2007 and 2007-2008 periods are reflected in the figures below.
+
+% Fatal Crashes per Time of Day
+10
+
+1 3 5 7 9 1 13 15 17 «19 21 23
+2 4 6 8 10 12 14 16 18 20 22 24
+
+[2006-2007 fu 2007-2008
+
+38
+
+--- Page 39 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+% Fatalities per Time of Day
+
+1 3 5 7 9 1 13 15 17 19 21 23
+2 4 6 8 10 12 14 16 18 20 22 24
+
+2006-2007 [ij 2007-2008
+
+The percentage of fatal crashes and fatalities per time of day is
+summarised in Table 36 below, which shows that in the order of 50% of
+all daily crashes and fatalities occur from 16:00 up to midnight.
+
+[Table 36 : Percent of Crashes and|
+Fatalities per time of day
+
+Time crashes | fatalities
+00-04 12.73 13.09}
+04-08 12.87| 13.90}
+08-12 9.80} 9.79}
+12-16 14.79) 14.01
+16-20 27.86 27.28}
+20-24 21.95] 21.93}
+
+The severity of crashes per time of the day is reflected in the graph
+below, which shows that the average rates in the early hours of the
+morning and late at night are considerably higher than the rates during
+the day.
+
+Crash Severity per Time of Day
+1.45
+
+14
+
+; iit
+| A
+
+\
+
+1.25
+1.2
+
+1.15
+1°93 °5 7 9 11 13 15 17 19 21 23
+
+2 4 6 8 10 12 14 16 18 20 22 24
+
+More detail on the number of crashes and fatalities per time of day per
+Province is given in the tables under Annexure K.
+
+39
+
+--- Page 40 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5.9 Severity of Fatal Crashes per Province and Month
+
+The severity of crashes increased by 0,030 (2,43%) from 1,234 during
+he 2006-07 period to 1,263 during 2007-08. The provincial severity rates
+are shown in Table 37 below.
+
+Table 37 : Severity of Crashes per Province
+Year GA KZ wc EC FS MP NW ul NC RSA
+2006-07 | 1.171] 1.187] 1.228] 1.227] 1.301] 1.369 1.270] 1.280[ 1.323] 1.234)
+2007-08 | 1.129] 1.255, 1.216] 1.279) 1.406] 1.409] 1.265 1.349] 1.442] 1.263)
+change | -0.041] 0.068] -0.012] 0.052] 0.105] 0.041] -0.004] 0.070{ 0.119] 0.030)
+%change| -3.54[ 5.71] -0.97| 421| 8.06 297 -0.34 543, B89 2.43)
+
+The information in the table above shows that the severity rate increased
+in 6 Provinces. In the Northern Cape the increase was 8,99%; followed
+by the Free State with an increase of 8,06%. The rate in Gauteng
+deceased by 3,54% and in the Western Cape by 0,97%. The provincial
+information in this regard is also reflected in the figure below.
+
+Severity of Crashes per Province
+
+15
+14
+13
+12
+1
+
+GA KZ WC EC FS MP NW LI NC RSA
+Province
+
+[2006-07 2007-08
+
+The severity rate per month is reflected in the figure below.
+
+Severity of Crashes per Month
+
+‘Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+[2006-07 a 2007-08
+
+The figure above shows that the month with the highest severity was
+March 2008 with a rate of 1,358, which is also the month with the biggest
+rate increase, 15,99%.
+
+40
+
+--- Page 41 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5.10 Cost of Fatal Crashes
+
+The estimated cost of fatal crashes for the 2006-2007 and 2007-2008
+periods per main crash category is shown in Table 38 and reflected in the
+igure below. The average unit cost during the 2006-2007 period was in
+he order of R 1,091 million per crash and during the 2007-2008 period in
+he order of R 1,146 million per crash.
+
+Table 38 : Cost of Fatal Crashes per Type of Crash : Rand million
+Type of Crash 2006-2007 | 2007-2008 Change % Change
+Pedestrian & Hit and Run R 6,379] R 5,939} -440| -6.89}
+(Overtaking Related R 4,091 R 4,292) 201 4.90
+[Failure to Stop or Yield R 937 R 937| 1 0.07
+\Unsafe Turning Manoeuvres R610 R 540] -70) -11.44|
+[Poor Visibility & Following Dist. R 737| R 742] 5| 0.63
+(Other & Unknown R 975) R 819) -156} -16.02|
+|Total Cost of Crashes R 13,730| R 13,270 -461 -3.35)
+
+Est. Cost of Fatal Crashes - R million
+
+Other & Unknown
+Poor Visibility & Following Dist.
+Unsafe Turning Manoeuvres 2007-2008
+Failure to Stop or Yield 2006-2007
+
+Overtaking Related
+
+Pedestrian & Hit and Run
+
+© 1000 2000 3000 4000 S000 6000 7000
+
+The information above shows that, despite an increase in the unit cost
+per crash due to inflation, the total cost of fatal crashes decreased by R
+460 million from a total of R 13,73 billion during the 2006-2007 period to
+R 13,27 billion during the 2007-2008 period.
+
+On a percentage basis the biggest decrease was for crashes resulting
+from unsafe turning manoeuvres which decreased by R 70,0 million. The
+cost of pedestrian related crashes decreased by R 440,0 million (6,89%).
+The cost oc crashes resulting from illegal and unsafe overtaking
+increased by R 201 million (4,90%) to R 4,29 billion.
+
+Provincial detail in this regard is provided in the table under Annexure L.
+
+41
+
+--- Page 42 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5.11 Crash and Fatality Rates and Trends per 10,000 Vehicles
+
+The number of fatal crashes per 10,000 registered motorised vehicles
+decreased by 2,28 (13,71%) from 16,67 during the 12-month period from
+April 2006 to March 2007 to 14,38 over the following 12-month period til
+he end of March 2008. Provincial detail in this regard is given in Table 39
+and graphically reflected in the figure below.
+
+Table 39 : Number of Fatal Crashes per 10,000 Motorised Vehicles per Province
+Year GA KZ wc EC FS MP NW ul NC RSA
+2006-07 | 10.38} 23.29{ 10.55] 26.34) 21.60| 25.31] 23.97] 29.63, 20.11] 16.67)
+2007-08 | 8.85| 17.01] 9.78] 23.14] 17.86 26.00| 21.73] 27.56] 17.03] 14.38
+change | -1.53| 6.28 -0.77| -3.20| -3.74) 0.68) -2.23| -2.07| -3.09]  -2.28
+%change| -14.70| -26.96| -7.28| -12.14[ -17.31] 2.70 -9.32) -6.98| -15.35| -13.71
+
+No. of Crashes per 10,000 Vehicles
+
+30
+25
+
+15
+10
+
+GA KZ WC EC FS MP NW LI NC RSA
+Province
+
+[2006-07 2007-08
+
+With the exception of Mpumalanga where the rate increased by 2,70%,
+
+all other Provinces recorded decreases. On a Provincial percentage
+
+basis the biggest decreases were recorded as follows:
+
+= KwaZulu-Natal : decrease of 6,28 (26,96%) from 23,29 to a rate of
+17,01; and
+
+= Free State : decrease of 3,74 (17,31%) from 21,60 to a rate of 17,86.
+
+The number of fatal crashes per 10,000 registered motorised vehicles per
+month for the two 12-month periods is shown in the figure below.
+
+Monthly Crashes per 10,000 Vehicles
+
+‘Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+[2006-07 I 2007-08
+
+42
+
+--- Page 43 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+The number of fatalities per 10,000 registered motorised vehicles
+decreased by 2,39 (11,62%) from 20,56 during the 12-month period from
+April 2006 to March 2007 to 18,17 over the following 12-month period.
+Provincial detail in this regard is given in Table 40 and graphically
+reflected in the figure below.
+
+Table 40 : Number of Fatalities per 10,000 Motorised Vehicles per Province
+Year GA KZ wc EC FS MP NW ul NC RSA
+2006-07 | 12.15| 27.65 12.95] 32.32] 28.10| 34.65, 30.43] 37.92] 26.60| 20.56
+2007-08 | 9.99 21.36 11.89] 29.59] 25.11] 36.64) 27.50| 37.19 24.54[ 18.17
+change | -2.15| 6.30] -1.06| -2.73] -2.99 1.99] -293| -0.73| -2.06| -2.39]
+% change| -17.72| -22.79 -8.18| -8.45| -10.64 5.75| -9.63| -1.93| -7.73| -11.62)
+
+No. of Fatalities per 10,000 Vehicles
+
+40
+
+30
+20
+
+GA KZ WC EC FS MP NW LI NC RSA
+Province
+
+[2006-07 i 2007-08
+
+With the exception of Mpumalanga where the rate increased by 5,75%,
+
+all other Provinces recorded decreases. On a Provincial percentage
+
+basis the biggest decreases were recorded as follows:
+
+= KwaZulu-Natal : decrease of 6,30 (22,79%) from 27,65 to a rate of
+21,35;
+
+= Gauteng : decrease of 2,15 (17,72%) from 12,15 to a rate of 9,99.
+
+= Free State : decrease of 2,99 (10,64%) from 28,10 to a rate of 25,11.
+
+The number of fatalities per 10,000 registered motorised vehicles per
+month for the two 12-month periods is shown in the figure below.
+
+Monthly Fatalities per 10,000 Vehicles
+
+“Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mch
+Month
+
+2006-07 [ij 2007-08
+
+43
+
+--- Page 44 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+5.12 Long Term Monthly National and Provincial Crashes, Fatalities,
+Rates and Trends
+
+5.12.1. The rolling 12-month total number of fatal crashes and fatalities
+per Province per month over the past 36 months is shown in
+he graphs under Annexure M.
+
+5.12.2 The percent annual change in rolling 12-month total number of
+atal crashes and fatalities per Province per month over the
+past 36 months is shown in the graphs under Annexure N.
+
+5.12.3 The rolling 12-month total number of fatal crashes and fatalities
+per 10,000 motorised vehicles per month per Province per
+month over the past 24 months is shown in the graphs under
+Annexure O.
+
+44
+
+--- Page 45 ---
+Road Traffic Management Corporation
+
+6
+
+Road Traffic Report — March 2008
+
+Easter 2008
+
+6.1
+
+Easter Traffic Volumes
+
+The Easter 2008 long weekend was from Thursday, 20 March to
+Monday, 24 March. 5-Day traffic counts, from Thursday to Monday,
+were obtained from various toll plazas on national routes around the
+country. In general, traffic volumes decreased by about 27,86% from
+Easter 2007 to Easter 2008. Detail in this regard is given in Table 41
+below.
+
+Table 41 : Total Traffic Volumes over the 5-day Easter Period
+Rte SITE NAME 2007 2008 | change [% changel
+N1 |Carousel plaza 131,884} 101,152) -30,732| -23.30
+N1 |Kranskop 115,586} 75,756] _-39,830} -34.46|
+N1 [Huguenot plaza 77,335| 61,762} _—_-15,573) -20.14|
+N2 |Groot Brak 72,770} 32,103} __-40,667| -55.88}
+N@ |Tugela plaza 84,624} 64,296] —_ -20,328} -24.02|
+N4 |Middelburg 107,900} 90,632) __-17,268} -16.00
+
+Total 590,099] 425,701] -164,398| —_-27.86)
+
+The information above shows that:
+
+= Traffic through the Carousel plaza on the N1 between Gauteng and
+Limpopo decreased by 30,732 (23,30%) from 131,884 vehicles 2007
+to 101,152 vehicles over the 5-day period in 2008. Traffic through
+the Kranskop plaza on the N1 decreased by 39,830 (34,46%) from
+115,586 vehicles to 75,756 vehicles in 2008.
+
+= Traffic on the N4 through the Middelburg plaza in Mpumalanga
+decreased by 17,268 (16,00%) from 107,900 vehicles in 2007 to
+90,632 in 2008.
+
+= Between Johannesburg and Durban on the N3 at the Tugela plaza,
+there was a decrease of 20,328 vehicles (24,02%) from 84,624 to
+64,296 in 2008.
+
+= Towards the south, the N1 at the Huguenot plaza volumes
+decreased by 24,02% and on the N2 at Groot Brak River volumes
+decreased by 55,88%.
+
+45
+
+--- Page 46 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+6.2
+
+6.3
+
+Number of Fatal Crashes
+
+The number of fatal crashes over Easter 2008 decreased by 25 (9,96%)
+trom 251 during Easter 2007 to 226 in 2008. Detailed Provincia
+information in this regard is given in Table 42 and graphically shown in
+he figure below.
+
+Table 42 : Easter - Number of Fatal Crashes
+Easter GA | KZ | WC | EC FS MP | NW Ll NC | RSA
+
+2007 48} 53} 20 20 17 30 34] 20 9} 251
+2008 4 49| 25) 25) 14 23} 15] 28) 6} 226
+Change -7| -4| 5] 5} -3| 7-19) 8) -3| _--25)
+
+% change | -14.58) -7.55| 25.00} 25.00} -17.65} -23.33] -55.88] 40.00} -33.33] -9.96
+
+Easter No. of Fatal Crashes
+60
+
+40
+30
+20
+
+GA KZ WC EC FS MP NW LI NC
+(2007 M2008
+
+The percentage fatal crashes over the Easter period, in comparison with
+he total number of fatal crashes for the month of March 2008, is shown
+in Table 43 below.
+
+[Table 43: No. of Easter Crashes in Comparison with Total Crashes for the Month
+Period GA KZ wc EC FS MP | NW Li NC | RSA
+Mch 2008 180} 175 99} 87 46) 87| 81 84 20} 859)
+Easter 2008] 41 49) 25] 25 14) 23) 15) 28) 6} 226)
+Easter % | 22.78] 28.00} 25.25] 28.74) 30.43} 26.44] 18.52) 33.33} 30.00] 26.31
+
+The information above shows that, on a national basis, the number of
+atal crashes over the 5-day Easter period was in the order of 26,31% of
+he total number of fatal crashes over the full 31 days of March 2008.
+
+Number of Fatalities
+The number of fatalities over Easter 2008 decreased by 22 (6,88%)
+
+from 320 during Easter 2007 to 298 in 2008. Detailed Provincial
+information in this regard is given in Table 44 and graphically
+
+46
+
+--- Page 47 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+represented in the figure below.
+
+Table 44 : Easter - Number of Fatalities
+
+Easter | GA | KZ | WC | EC | FS | MP | NW | LI [| NC [RSA
+2007 6] 65] |i] =] Se] 45] ST g| 320)
+2008 47, 6a 33] 5] S15] 39] S20] 6 298
+
+Change 4-3 6g 14] 20 i a a
+
+% change | -22.95| -4.62} 22.22) 66.67] -57.14| 8.33] -55.56] 95.24] -33.33|_ -6.88}
+
+Easter No. of Fatalities
+
+60
+50
+40
+30
+20
+10
+
+GA Kz WC EC FS. MP NW LI NC
+(2007, 2008
+
+On a Provincial percentage basis the biggest increase was recorded in
+Limpopo where the number of fatalities increased by 20 (95,24%) from
+21 in 2007 to 41 in 2008. North West recorded a decrease of 55,56%.
+
+The percentage fatalities over the Easter period, in comparison with the
+otal number of fatalities for the month of March 2008, is shown in Table
+45 below.
+
+Table 45 : Number of Easter Fatalities in Comparison with
+The Total Fatalities for the Month
+Period GA KZ | wc EC FS MP | NW Li NC | RSA
+Mch 2008 200} 225, 135} 129) 68} 144 #114 116 35} 1,167|
+Easter 2008 47 62| 33} 35] 15 39} 20) 4 6 298)
+Easter % | 23.46) 27.53] 24.36] 27.09} 22.17) 27.16] 17.48] 35.41] 17.14) 25.54)
+
+The information above shows that, on a national basis, the number of
+atalities over the 5-day Easter period was in the order of 25,54% of the
+otal number of fatalities over the full 31 days of March 2008. In
+Limpopo it was 35,41% and in KwaZulu-Natal 27,53% of the total
+number of fatalities recorded for the month.
+
+The number of fatalities per road user group over Easter is given in
+Table 46 below.
+
+47
+
+--- Page 48 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+6.4
+
+Table 46 : Easter - Number of Fatalities per Road User Group
+
+Easter 2007| GA | KZ | WC | EC FS MP | NW LI NC | RSA
+Drivers 16) 10| is) 4 10} 13) 9 2 4 74
+Passengers 20| 25) 13) g 21 8 25 is) 2, 129)
+Pedestrians 25) 30 8} 8) 4| 15 11 13) 3} 117)
+{Total 61 65,27 21 3! 36 45,21 9} 320)
+
+Easter 2008| GA | KZ | WC | EC FS MP | NW Li NC | RSA
+Drivers 16) 13 8} 5] 2 10 5| 12 2 73}
+Passengers 14 29) 18) 21 8 22| 9 19) 0} 138)
+Pedestrians 19 20) 7| 9g 5] 7| 6 10 4 87|
+{Total 4762] 35, 1 3920) 6| 298
+
+Change GA _| KZ | wc | EC FS MP | NW Li NC | RSA
+Drivers 0} 3 2 1 -8| -3 -4| 10 -2| 1
+Passengers -8| 4 5] 12) -13) 14-16 13) -2| 9}
+Pedestrians -6| -10) A 1 1 -8} -5| -3| 1] -30)
+[Total 714) 3 6 14-2 3-25) 20) -3} -22
+
+% Change | GA | KZ | WC | EC FS MP | NW Li NC | RSA
+Drivers 0.00, 30.00) 33.33) 25.00] -80.00) -23.08| -44.44) 500.00] -50.00]-1.35)
+Passengers | 40.00 16.00] 38.46 133.33 -67.90| 175.00 -64.00| 216.67] 100.00] 6.98)
+Pedestrians | -24.00, -33.33) -12.50| 12.50, 25.00] -53.33] -45.45) -23.08| 33.33] -25.64)
+{Total -22.95| -4.62] 22.22 66.67] 57.1 8.33) -55.56 95.24) -33.33 -6.88
+
+Changes in road user group fatalities were as follows:
+Drivers : decreased by 1 (1,35%) from 74 to 73
+Passengers : increased by 9 (6,98%) from 129 to 138
+Pedestrians : decreased by 30 (25,64%) from 117 to 87.
+
+Severity of Crashes over Easter
+
+The severity of fatal crashes over Easter per Province is shown in Table
+49 below.
+
+Table 49 : Easter Fatality Rates
+Easter GA KZ wc EC FS MP | NW LI NC | RSA
+2007 1.271] 1.226 1.350} 1.050) 2.059} 1.200] 1.324) 1.050] 1.000} 1.275)
+2008 1.146} 1.265) 1.320} 1.400) 1.071] 1.696) 1.333} 1.464) 1.000} 1.319)
+Change _ | -0.124] 0.039] -0.030| 0.350} -0.987| 0.496] 0.010} 0.414} 0.000} 0.044)
+% Change| -9.80} 3.17] -2.22} 33.33] -47.96] 41.30] 0.74} 39.46] 0.00} 3.43)
+
+The information above shows that, on a national basis, the severity rate
+increase by 0,044 (3,43%) from a rate of 1,275 in 2007 to a rate of
+1,319 over Easter 2008. An increase of 39,46% in the rate was
+recorded in Limpopo.
+
+The severity rates per Province is also graphiocally reflected in the
+figure below.
+
+48
+
+--- Page 49 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Easter Fatality Rates
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+[2007p 2008
+
+The severity of Crashes over Easter in comparison with the severity
+rates per Province for the full month of March 2008, is shown in Table
+50 below.
+
+Table 50 : Easter Fatality Rates in Comparison with Month Fatality Rates
+Period GA KZ | WC |} EC FS MP | NW ul NC | RSA
+Mch 2008 1.113] 1.287) 1.36: 1.485) 1.471] 1.651] 1.413) 1.378) 1.750, 1.358}
+
+Easter 2008] 1.146 1.265) 1.320/ 1.400, 1.071] 1.696] 1.333, 1.464[ 1.000) 1.319]
+Difference | 0-033 -0.022 -0.048| -0.085 -0.399{_0.048| -0.079| 0.086] -0.750| -0.040)
+\% Difference| 2.992] 1.695 -3.538| -5.749{ 27.149 2.717] -S.61e{ 6.230] -42.867| -2.929
+
+The above information shows that the national rate over Easter was
+0,040 (2,923%) lower than the rate for the full month.
+
+6.5 Easter 2008 Law Enforcement Activities
+
+Law enforcement actions per Province over Easter 2008 are
+summarised in Table 51 below.
+
+The information in the table shows that a total of 147,214 vehicles were
+stopped and checked. In KwaZulu-Natal 56,745 drivers were screened
+for alcohol. A total of 1,663 drivers were arrested for various offences,
+amongst others 766 for driving under the influence of alcohol.
+
+19,320 drivers were charged for various moving offences, including
+1,013 for inconsiderate driving and 1,842 for speed in KwaZulu-Natal.
+
+Over the 5-day Easter period a total of 2,717 notices were issued in
+KwaZulu-Natal for a variety of vehicle defects, including 668 for tyre
+defects and 587 for front and rear vehicle light defects. KwaZulu-Natal
+suspended 494 vehicles.
+
+49
+
+--- Page 50 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Table 51 : Easter 2008 Law Enforcement Activities
+Activity GA KZ wc EC FS MP NW ul NC RSA
+
+Driver and Vehicle Fitness Checks
+
+ehicles stoppedichecked 60,697] 23,021] 14,000] 6,195] 14,200] 20,275, 8,826 147,214|
+[Drivers checked - Alcohol 56,745| 56,745]
+Driver and Vehicle Document Charges
+INo driving licence 655 655
+[Fail to carry driving licence 642 642]
+INo PrOP 540| 540|
+Fail to carry PrDP 382| 382]
+lUn-licensed vehicles 600| 600
+[Fail to display license 489] 483|
+[Total document charges 9 3,302 0 Cl tl 0} 0} 9 3,302
+‘Seatbelt Offence Charges
+[Drivers 475] 475|
+[Front seat passengers 5 50|
+[Back seat passengers 53 53}
+[Total seatbelt charges EI 579| 0 EI qd | 0 EI 578|
+Moving Offence Charges
+lnconsiderate driving 2g E 210, 319) E| 450 1 1,013}
+
+Wertaking line / unsafe 52 52
+[Road sign / signal 105 105|
+{Stopping on freeway 26 26
+[Speed (manual only) 1,842 1,842)
+{Cell phone 39 30
+
+ther moving offences 286 3,490] 3,235, 421] «2,476, «1,686 3,624, 1,034] —_— 16,252)
+[Total moving off.charges oO 2,366 3,493] 3,445, +740] 2,481] 1,686, 4,074] 1,035, 19,320]
+Driver arrests
+[Alcohol 61 204 61| 37 E 32 E E| 24 766]
+Speed 4g 43)
+
+Werloading 207| 17| 319] 279] 816
+
+ther offences 39 38
+[Total arrests 61] 285| 61 579 EI 4g 321] 281 24 1,663)
+(Vehicle defect charges
+|Steering E| E}
+[Brakes - service 52 52
+[Brakes - parking 129 129]
+[Tyres 668] 668|
+Headlights 219 215]
+[Rear lights - stop 372| 372
+[Direction indicators 104 104]
+Number plate 362| 362]
+(Other vehicle defects 807| 807
+[Total veh defect charges oq 2,717 0 EI EI | 0) 2,717
+
+ehicles suspended 266 " 10) 207 494
+
+otal number of Charges 61] 9,248] 3,554) 4,024] ~—742)—2,530| 2,007] 4,955| 1,059] 27,580]
+
+50
+
+--- Page 51 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+7 Discussion and Conclusion
+
+Since about July 2006 a steady month-on-month downward trend in the number
+of fatal crashes and fatalities was experienced on a national basis. Although
+there was still an increase in the number of crashes over the following 11 to 12
+months or so — it was at a continuing decreasing rate. This downward trend
+broke through the zero growth rate in June 2007, from where the month-on-
+month rate continued on its downward trend until March2008. Similar downward
+trends were recorded for the number of fatal crashes and fatalities expressed in
+terms of the vehicle population per Province.
+
+The 4 Provinces that mainly contributed to this continued decrease are
+Gauteng; KwaZulu-Natal; Eastern Cape and the Free State. These trends are
+shown in the graphs under Annexures N and O.
+
+Increases in the “level of lawlessness” in terms of un-roadworthy and un-
+licenced vehicles; as well as high numbers of expired driving licences and
+PrDPs were recorded over the 12-month reporting period.
+
+Despite these increases, the information contained in the report above clearly
+indicates a steady decrease in both the national number of fatal crashes and
+fatalities as well as rates and trends per 10,000 motorised vehicles over about
+the past 20 months. Most of the provinces contributed to these favourable rates.
+
+Due to a general lack in available “output” information, particularly with regard to
+law enforcement information, such as number of driver and vehicle controls;
+number of drivers arrested and vehicles suspended; number of notices issued,
+etc per Province, it is not possible to determine the cause/s of the recorded
+decreases in crashes, fatalities and rates. An improvement in the preparation
+and submission of accurate monthly enforcement performance reports is
+essential to better analyse and report on factors that contribute to improvements
+in road safety.
+
+51
+
+--- Page 52 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Index of Annexures
+
+Annexure Topic Page
+A Vehicle population per Province 52
+B Un-Roadworthy and Un-Licenced Vehicles 53
+c Number of Learner and Driving Licences and PrDPs 56
+D Number of Fatal Crashes per Province 58
+E Number of Fatalities per Province 59
+F Number of Driver, Passenger and Pedestrian Fatalities per Vehicle 60
+
+Type
+G Number of Driver, Passenger and Pedestrian Fatalities per Age Group 64
+H Number of Vehicles per Type involved in Fatal Crashes 68
+I Number of Crashes and Fatalities per Type of Crash 69
+J Number of Crashes and Fatalities per Day of Week 73
+K Number of Crashes and Fatalities per Time of Day 75
+L Cost of Fatal Crashes per Province and Type of Crash 77
+M Rolling 12-month number of fatal crashes and fatalities : 36 months 78
+N % annual change in rolling 12-month crashes and fatalities 80
+fe) Rolling 12-month crashes and fatalities per 10,000 motorised vehicles 82
+
+52
+
+
+--- Page 53 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure A
+Number of Registered Vehicles
+
+Mch 2007 Number of Registered Vehicles per Province Total
+GA KZ wc EC FS MP NW ul NC RSA
+Motorised Veh's
+Motorcars 2,088,554[ 708,192] 917,193] 316,731] 235,307] _ 243,707] 230,658] 168,960 _83,099| _ 4,992,401
+Minibuses 101,411| 40,313] 35,368] 20,427] __—*11,709|__—‘18,489|__18,937| 18,405] 3,601] _—_ 268,660)
+Buses 11,733{___ 6,03 4830|___ 2,822 —+*1,684|_ —«3,396|~—«2,867| 3,066) 91 37,348)
+|Motorcycles 178,055] 29,479 _58,374| 18,686] __18,819| 18,113, 15,183] 9,707] __6,748| 293,164)
+ILDV's - Bakkies 552,164| 254,119] _252,201| 145,493] _100,830| 129,669] 113,636 130,252] __53,898| _ 1,732,256
+[Trucks 105,559, 45,033] _33,261| 22,295] _—+17,477|__21,427| 15,954] 16,681 8,120| __ 285,807|
+lOther & Unkwn 33,067} 29,780, 31,158] 12,232) 38,751| 23,207] 25,693] 12,909] 6,881] 213,677
+‘owed Veh’s
+
+Caravans 42,974 8,837, 16,813, 6,106] ——~8,261 9495] 7,420] 5,004] 3,013] 107,923)
+|Heavy Trailers 41,598] 22,784] ‘10,876, ——9;,82 11,197] __11,550| 8,071 5,594] _—-3,663|_—=«125,161
+lLight Trailers 255,818| _64,371| _103,490| 40,662] 53,061] 44,441] 42,363, _27,017| 20,485] 651,698)
+Unknown 3,214] 1,899|__2,766| 1279 2,641 2,305] _2,787| _ 1,425 653 18,968|
+(Sub-Total 343,604[97,891| 133,945|__57,875|___75,160|___67,791| 60,631| 39,040| 27,814) 903,750|
+[All Vehicles 3,354,147| 1,210,839] 1,466,330| 596,561| 499,736] _525,798| 483,559] 399,020| 191,072| 8,727,062]
+
+Mch 2008 Number of Registered Vehicles per Province Total
+
+GA KZ wc EC FS MP NW ul NC RSA
+
+Motorised Veh's
+Motorcars 2,183,725] _ 737,663] 952,058 332,034 244,474] 257,091] 247,825, 181,871] 87,914] 5,224,652)
+Minibuses 108,238, _42,525| _36,317| 20,926) _—12,227| 18,945] 19,195] 18,612] _3,647| 280,632)
+Buses 13,194 6,474 ~—=«+ 138] —«3,247]~—=SOiBT7|_—=«S,714|_—«2,732__3,4033) 1,044 40,760)
+|Motorcycles 125,191| 31,352] 64,963] __20,187| 19,978] 18,648, 17,525] 10,380] 7,422] 315,643)
+ILDV's - Bakkies 595,548| 270,826 268,528) 155,524] 106,182] _138,470| 122,714] 140,200[ _58,448| _1,856,440|
+[Trucks 115,561[ _48,425| 34,778] 24,149] _(18,677|__22,917| 17,163] 18,041 8117] 307,828)
+lOther & Unkwn 35,782] 30,394] 32,022 12,949] 38,596] 23,154! 26,198] 13,292] —7,247| _—-219,634)
+‘owed Veh's
+
+Caravans 41,904 8,739 _—*16,708|_—_—5,961 B19 9,21] —7,752]__—5,05 3,016 106,468)
+|Heavy Trailers 45,581| 24,932] __11,194{ 10,790] 12,389) 12,858] 8,922) 5,951 3,984| 136,595]
+Light Trailers 263,844| 66,894 107,834] _42,667| __54,010| 45,728 46,650| 28,456] 21,424! __—«677,516|
+Unknown 2,613] 1,491 2,391 T1145] 2,083, 2,119] 2,716] ‘1,351 607 16,510|
+(Sub-Total 353,942| 102,056 138,127] 60,563, 76,595| ——69,910| 66,049 40,816, —29,031| 937,089)
+[All Vehicles 3,531,181] 1,269,715] 1,531,928) 629,573) 518,545] —552,846| 519,401] 426,618] 202,870| _9,182,677|
+
+% Change Number of Registered Vehicles per Province Total
+
+Mch 2007-2008 GA KZ wc EC FS MP NW ul NC RSA
+
+Motorised Vehicles
+Motorcars 456 4.16] 3.80 483 3.9 549 7.44[___7.64) 5.79 4.65
+Minibuses 6.73 5.49 2.68 2.44] 449 247 1.36 ‘1.121 1.28 4.46
+Buses 12.45 722 6.33 15.06 7.90 928,471] 10.99] _—*14.47 9.14)
+|Motorcycles 6.04 635 11.29) 8.00 6.14 2.95] 15.43] 6.96] 9.99 7.67|
+ILDV's - Bakkies 7.86 65 6.47 6.89 5.31 6797.99] 7.64) 8.44 7.47
+[Trucks 9.48 753 456 8.3 6.87 695,75! 8.19 0.04 7.70|
+lOther & Unknown 8.21 2.06 2.77 5.86 “0.40 -0.23,_-1.97|___-2.97| 5.33 2.79
+5.54) 492] 464 5.63] 4.09 5447.19] __‘7.17| 6.48) 5.40|
+Towed Vehicles
+
+Caravans 2.49 “1 “0.69 2.37] “1.79 299 4.47 _—*1.0 0.10 =1.35|
+|Heavy Trailers 957 9.43 2.92 979 10.59) 11.3 1054 «6.3 8.74 9.14)
+lLight Trailers 3.14 3.99] 429 493 179 2.90, 10.17 5.39 458 3.96
+Unknown 18.70 _-21.4% 13.56] _-10.4% “21.13 8.31] __-2.55| 5.19] 6.97 -12.96|
+Sub-Total 3.0) 4.25| 3.12 4.64) ) 3.13 8.94|_——4.55| 4.38) 3.69
+[All Vehicles 5.28) 4.86| 4.47| 5.53] 3.76| 5.14 74i{_—_—6.92| 6.17| 5.22)
+
+
+--- Page 54 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure B-1
+Number of Un-Roadworthy and Un-Licenced Vehicles or Both
+
+Number of Vehicles : Un-Roadworthy OR Un-Licenced OR Both
+GA | Kz [ wc [ EC| Fs | MP [| NW | LI [| NC [ RSA
+Motorised Vehicles
+
+Motorcars 160,803] 58,918] 67,167] 28,859] 21,068] 22,140, 21,078] 14,926 4,748] 399,008
+Minibuses 17,014 9,254 4,542] 3,214 1,968] 2,989] 3,088|_—2,851] 424) 45,342]
+Buses 1,098] 1,045] 384) 2q)_—=—233]-—= 42a] =—S20e| = 437] ~—SstTi] «= (4,888
+Motorcycles 34,84 6,963] 9,319] 4,183| 5,820, 7,976 —6,370, 4,343 ~—«1.596 81,406)
+LDV's- Bakkies| 34,629 21,814 14,551] 12,275 7,229] «9,771 8,548] 9,197] 2,272] ~—*120,276
+[Trucks 10,129 6,837] 3,575, 3,225 3,482] «3,734, ~—«2.635| «2,885 —*1,068| 37,870
+Other & Unkwn a 2,567 et 939] 3,064) 2,195, 269] 1.421] 2 eat
+Towed Vehicles
+(Caravans 327 785] —,11 60] S711] 1,058] 771 62 at ——9,169)
+Heavy Trailers 4,284 2,536 96 968] 1,395] 1,508 1,031 904] 371] 13,965]
+Light Trailers 17,860| 5,150] 6,316 3,664 4,468) ~—4,t67|_—3.64i 2.618] ~—=— 985] ——48, 867]
+Unknown 44-306] 206] ~—«86|_~=S378] ==] 80328 | 2,574
+ub-Total 25,837] 8,777 8,696] 5, 6, 7 5,746 4, 1,635, 74,575]
+[All Vehicles 286,645, 116,175| 109,438] 58,536 50,104] 56,352] 49,840, 40,444] 12,472, 780,006
+
+lumber of Vehicles : Un-Roadworthy OR Un-Licenced OR Both
+GA KZ wc EC FS MP NW LI NC RSA
+
+Motorised Vehicles
+
+Motorcars 192,359] 62,476 60,021] 26,117] 22,579 23,312] 23,028] 16,146] 5,561] 431,599)
+Minibuses 23,942) 11,007} 5,599) 4,035] 2,248) 3,901] 3,935]_——3,693) 640 59,000)
+IBuses 1,706 1,215] 624) 607 245 565} 359 489 131 5,941]
+Motorcycles 48,493) 10,073] 12,672} 5,071] _—7,765| 10,460} 9,656} ~—6,059] 2,553) _—112,802)
+ILDV's - Bakkies| 45,135, 23,788, 14,858] 11,730, 7,768 10,581] 8,923, 9,458] 2,961 135,202)
+[Trucks 17,95: 9,53. 4,925} 4,472} 4,500} 5,266] 3,864) ~— 4,196 ——*1,748) 56,457]
+
+\Other & Unkwn 4,76: 3,62! 1,714 1,332} 4,000} 3,249) 3,143,924) 698 24,
+
+Towed Vehicles
+\Caravans 4,057| 971,148] 577 7331 1,062] 994] 606] 282] 10,435]
+Heavy Trailers 7,008] 3,974 1,452] 1,492) 2,347] 2,369] 1,540] ‘1,097 523] 21,808
+Light Trailers 24313 6,844 7,462 3,854 4,912] 4,950] ~—«5,11]~—«2,929] 1,528] «61,904
+Unknown 451 315) 260) «15g 269 369 457 239 9 ,
+ub-Total 35,829 12,109] 10,322) 6, 8,261] 8,7 81 4,870| 2,425 96,753)
+
+|All Vehicles 370,180 133,826 110,733, 59,446 57,366, 66,080 61,017] 46,835 16,717] 922,200
+
+54
+
+--- Page 55 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure B-2
+Number of Un-Roadworthy Vehicles
+
+Number of Un-Roadworthy Vehicles
+
+| March 2007 [ GA [ Kz | wc [EC] FS | MP | NW] LI | NC [| RSA
+
+Motorised Vehicles
+
+Motorcars 37,69] 17,979 15,999] 5,40] 5,839] 5,048] 5,530, 2,863] —817]_—«97, 169)
+Minibuses 11,245] 6.270] 2,462] 1,881] 1,000] —*1,98i]~—«1,989| ~—«1,904)~—=—«257|_—29,280
+Buses 824876] ——98]~—=—33]_—S—st9i|~—06]~—Sst6] = o4f 3,407]
+Motorcycles 2055 3,770 «4,378 —*1,743{ 3,368] 4,680] 4,059] +—«2,574l 1,062] +—46,193)
+LDV's-Bakkies| 9,007] 7,827 3,641 2,274 —1,87i| 2,199 2,198) «1,623, ~——«503]—«31,143)
+[Trucks 7,868| 5,329 2,856 2,567] 2,924 2,964) ~—-2,15i| 2,207] 1,173) 30,039)
+(Other & Unkwn | 1,143] 1.171] 389]_—2e0|—1,118) ~~ 69] 787] ~—Ss525]~—Sst0d)S Ot
+Towed Vehicles
+\Caravans 875] 26 267 too] ——s83]—S22]~S2] «iS |
+Heavy Trailers 3286 2,118] ——758|—83i|_—1,54] 1,254 ~—856 72] ti] 11,294
+Light Trailers 3501] 1,384 1,354 508] —1,i73| ——s676|_~—=Si836) =A] 123) «10,1191
+Unknown 121 96 6a 79 5 53 31 19 540|
+ub-Total 7,875, 3,858, 2,446 1,475, 2, 22] 1974 506| 24,308)
+
+Il Vehicles 96,210, 47,080] 32,466 15,934 19,188] 20,041 18, 13,410, 4,516 267,691
+GA | Kz | wc | EC | FS | MP [| NW ul Nc | RSA
+Motorised Vehicles
+
+Motorcars 7,760] 25,008] 23,083 7,814 8,170] 7,327] ~—« 7,890, —«4,148)~—«1,291] 162,488)
+Minibuses 12,452 5.9781 2,695, 1,854 1,244 1,738] 1,91 ‘1,707 299 29,876]
+Buses 1079 77] a7i] 339) 157 302 204 259 84 3,571
+Motorcycles 25,74 4810, 5,670 2,073] 3,784 ~—«5,044] 4,828] 2,995 1,262] ~—56,208
+LDV's -Bakkies| 19,064 9,779 5,785] 3,275 2,663, 3,202] «2,896 2,299 791] 49,741]
+[Trucks 11,983] 6,354 3,393] 2,774 3,231] 3,217] ~—«2,480_ 2,441] 1,226 ~—-37,097
+(Other & Unkwn | 1,98] 1,36 520, 357] 1,375 814 976 601] i: es
+Towed Vehicles
+
+\Caravans 1145) 3032] tt] att 297| 249] 174 7g 2,895}
+Heavy Trailers 4805 2,612 1,063] 1,032] 1,679 «1,409 974 665 350, 14,584
+Light Trailers 4,287 1,525 1,535 627] _—_—*1,290 8ig 932 Bag 151] 11,714)
+Unknown 14. 74 534 4g) 59] 82 2g] 14 533|
+
+ub-Total 10,380 4515, 2,971 1 3, 2, 2, 141 588 29,726)
+[All Vehicles 160,441] 58,578| 44,488] 20,295] 23,853] 24,226 © 23,427] 15,856] 5,712 376,876)
+
+55
+
+--- Page 56 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure B-3
+Number of Un-Licenced Vehicles
+
+Number of Un-Licenced Vehicles
+| March 2007 [ GA [| Kz [| wc [EC] FS | MP [| NW] LI | NC [| RSA
+Motorised Vehicles
+Motorcars 113,367] 36,363] 45,659] 21,732] 14,020 15,715] 13,960, 11,236] 3,709] 275,763
+Minibuses 3,928] 1,797] 1,58 9781 = 465] = 685] 715] 600,126, ~—«*10,8764
+Buses 156| 94 i 56] 2g| 66) 25] 55) 533
+Motorcycles 10,947| 2,631] 4,204 2115 1,91 2,395] 1,695] ~—«1,317| ~—=—440) «2, 746)
+LDV's- Bakkies| 23,783 12,17 9,949 9,958] 4,973| 7,072] ~—«5.828) 7,228, ~—«*1,678~—«82,043|
+(Trucks 1376{ 83440] 300] ~—S 309], = 80S ar 377] tt] 4,509)
+Other & Unkwn a = a 633] 1,806 1,44] ~—«*1,287/_~—=—8t8|_———( 0g aS
+Towed Vehicles
+\Caravans 2,251 491 80g 488] «506 = 803] «SO 44151] «6, 443)
+Heavy Trailers 617| 237) 121 87| 145) 142} 98 100} 32 1,579}
+Light Trailers 13,716 3,565 4,778] 3,096 3,184 ~—«3,403, «2,663 «2,083, B45] -—«87,833)
+Unknown 28 19 Er EC: =: 51,952]
+ub-Total 16,864 4,486 5,923 3, 4a 467] 3, 2, 4,080, 47,307]
+
+Il Vehicles 171,433 59,645| 68,636 39,079| 27, 32,477| _ 27,287 24,459{ 7,362] 458,014
+GA | Kz | wc | Ec | Fs | mp | Nw] LI | NC [ RSA
+
+Motorised Vehicles
+
+Motorcars 106,584 32,838] 33,73] 16,479 12,663] 14,521] 13,731] 11,117] 3,969]
+Minibuses 8546 3,359 2,227] 1,674 735 —«1,556] 1.531] 1,447] —«26
+Buses 501 30195200 nL: | 3¢
+Motorcycles 16,803] 4,044 5,749] 2,353] 2,855 3,686 «3,221 ~—«2,056, 930)
+LDV's-Bakkies| 24,213] 12,075 8,279] _-7,748| 4,617/ «6,700 5,538) 6,719] 2,000
+(Trucks 476 2,320 1,183] 1,278 ~—92i| 1,528] 1,045] 1,958] «3754
+Other & Unkwn a 017] 1,124 905] 2,380] 2,278] 1.996 1,21) ~——A79 :
+Towed Vehicles
+(Caravans 2,724 62 735] 437] 484) 7io] ==] 300]-~—S st] ~—S7, 088)
+Heavy Trailers 1,77; 1,042} 299) 359 505] 735] 457| 331 137| 5,638)
+Light Trailers 19,249 5,043] 5,685, 3,046 3,432] ~—«3.947] «3,947 —«2,28i| 1,350] —«47,080)
+Unknown 29g 235] 200] 124] ~=—2ta] = 300] = 868) —(209 742,014
+ub-Total 24,042] 6,940, 6,969] 3; 4 5,692] 5,461] 3, 1,759| _62,667|
+
+[All Vehicles 187,986 63,891] 59,451] 34,601] 28,868] 36,149 32,640] 27,284] 9,812) 480,682
+
+56
+
+--- Page 57 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure C-1
+Number of Learner and Driving Licences and PrDPs Issued - 2007
+
+Feb 2007 Number of Learners Licences Issued per Province
+Category| GA KZ wc EC FS MP NW ul NC RSA
+1 17,512] 3,823] _~—«9,588]_—-3,175, 3,008] «2,193 2,226 ~—«*1,231] 1,117] 43,873
+2 97,055, 57,863, 80,311] 46,004, 19,205] 12,296 19,511] 8,393] 7,485, 348,123)
+3 206,194] 136,938, 49,154] 42,298] 42,226] 51,447] 59,842] 74,499] 14,522] 677,120,
+Total 320,761] 198,624] 139,053, 91,477] 64,439] 65,936 81,579] 84,123| 23,124] 1,069,116]
+Feb 2007 Number of Driving Licences Issued per Province
+Category| GA KZ wc EC FS MP NW ul NC RSA
+Al 45,243] 12,866, 23,848] 8,785, 9,400] 6,901] 6,908] 3,787] —2,235| 119,973)
+A 146,482] 52,489] 79,189] 29,815, 24,240] 20,146 18,421] 12,289] 8,077] 391,148)
+B 418,986] 242,926, 246,574] 103,323] 69,128] 58,113] 71,490] 32,926] 23,613] 1,267,079
+EB 1,331,038] 580,557] 739,089] 303,915] 177,142] 160,584] 148,217] 102,890] 63,415] 3,606,847)
+C1 347,537| 166,109] 62,501] 36,986, 54,925, 83,160] 76,081 156,739] 19,619] 1,003,657]
+EC1 242,435] 71,231] 52,549] 44,378] 36,933] 51,800] 39,413] 61,235] 10,194] 610,168)
+c 2,346 4,109] 2,115] 466 304| 485] 1,527] _ 1,099] 255| 12,706]
+EC 270,623] 134,147] 103,720] 58,209] 68,668, 80,415, 52,059] 73,120] 21,309] _ 862,270,
+Total | 2,804,690| 1,264,434] 1,309,585] 585,877] 440,740] 461,604| 414,116 444,085] 148,717] 7,873,848]
+Feb 2007 Number of Professional Driving Permits (PrDP's) Issued per Province
+Category| GA KZ wc EC FS MP NW ul NC RSA
+G 1,56: 2,040] 1,866 773 aii] 1,130 533] 703| 546] 9,970)
+P 555] 167, __3,486| 260 47 306| 187] 101 117| 5,657
+PG 169,827} 63,327] __70,267| 37,954] 37,990] 45,183] 38,951] 53,601] 15,347] 532,447]
+DG 127| a4| 577| 3 99 102| 29) 29) al 1,106
+DPG 19,179] 49,170] 15,591] 12,868] 6,439] 11,183] 1,928] 3,766 _—«*1,028| 121,152]
+Total 191,256 114,788] 91,787] 51,893] 45,817] 57,904] 41,628 58,200| _17,059| _ 670,332
+
+Learner Licences :
+
+Category 1 : Motorcycle
+Category 2 : Light Motor Vehicle
+Category 3 : Heavy Motor Vehicle
+
+Driving licences :
+
+A | Motorcycle > 125 cub.cm | A1 | Motorcycle < 125 cub.cm B Motor vehicle < 3,5000 kg
+C | Motorvehicle > 16,000 kg | C1 | Motor vehicle 3,500- 16,000 kg | EB Articulated motor vehicle <16,000 kg
+EC | Articulated vehicle > 16,000 kg EC1 | Articulated vehicle 3,500 — 16,000 kg
+
+Professional Driving Permits (PrDPs)
+G : Goods
+
+P : Passengers
+
+D : Dangerous goods
+
+57
+
+--- Page 58 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure C-2
+Number of Learner and Driving Licences and PrDPs Issued — 2008
+
+Feb 2008 Number of Learners Licences Issued per Province
+
+Category| GA KZ wc EC FS MP NW ul NC RSA
+1 17,090) 4,351 11,202] 3,394) 3,06: 2,076) 2,097] 1,077| 1,13: 45,493)
+2 96,505} 50,759} 86,935, 46,524) 21,081) 11,099) 17,87% 7,699} 8,00! 346,488}
+3 221,292) 128,515} 57,229} 49,781] 52,472} 65,187; 58,405} 81,055) 17,54! 731,484}
+
+Total 334,887] 183,625) 155,366] 99,699} 76,621) 78,362} 78,380] 89,831/ 26,694) 1,123,465)
+
+Feb 2008 Number of Driving Licences Issued per Province
+
+Category| GA KZ wc EC FS MP NW ul NC RSA
+Al 44,970, 12,919] 24,467] 8,926 9,361] 6,839] 7,174] 3,822] 2,296 120,774)
+A 147,790] 53,290] ___81,385| 30,337] 24,448] 20,227] 19,476 12,553] 8,211] 397,717]
+B 463,637] 259,236] 272,848] 114,724] 76,306, 62,870, 74,989] 36,252] 26,975] 1,387,837|
+EB 1,323,083] 579,550] 745,340] 305,319] 177,174] 160,334] 151,530] 104,365] 64,342] 3,611,037]
+C1 403,375] 199,322] 72,820] 45,209] 64,263] 100,197] 86,284] 179,309] 25,099 1,175,878)
+EC1 240,146] 71,041] 52,345] 44,674] 36,783, 51,820, 39,433] 61,425] 10,913] _ 608,580,
+c 2,539] 4,246 2,259 537| 331 545] 1,526 1,119 28 13,384
+EC 269,627 135,348] 104,291] 59,151] 69,108] 81,397] 51,936, 73,753] 22,290] 866,901
+
+Total | 2,895,167| 1,314,952| 1,355,749] 608,877| 457,774 484,229] 432,348] 472,598| 160,414] 8,182,108]
+
+Feb 2008 Number of Professional Driving Permits (PrDP's) Issued per Province
+Category| GA KZ wc EC FS MP NW ul NC RSA
+G 1,631 2,172] 1,945 767| 77] 1,082 476 731 554] 10,129)
+P 452] 215, 2,053) 267| 457| 264) 166 99 84] 4,051
+PG 176,543] 65,557] 70,341 41,481 41,464] 49,851| 41,297] 59,191] 17,917] 563,642)
+DG 154] 74 476| 2 81 74 al 24l 19| 951
+DPG 20,93 52,370| 20,955, 12,602] 4,732] 10,081] 1,435| 3,390) 891] 127,394)
+
+Total | 199,718| 120,388| —95,770| 55,145] 47,505, 61,352] 43,395 63,429] 19,465, 706,167
+
+58
+
+--- Page 59 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure D
+
+Number of Fatal Crashes per Province per Month
+
+Year |Month| GA KZ wc EC FS MP NW Li NC RSA
+2004 Apr 196) 204 110) 71 68} 74 74 82) 23) 902!
+May 204, 251 129} 95] 67| 95} 82) 89 29) 1,041)
+Jun 190 177,113) 90} 62} 78) 71 56 21 858)
+Jul 214 210) 127| 82) 46 85) 74| 93} 33} 964)
+Aug 221 197; 100 77 67 73) 70| 74 25) 904}
+Sep 204 194 99} 84) 60} 76 80} 79| 25) 901]
+Oct 229} 210) ~—*127 68) 70| 97 85] 77 22| 985)
+Nov 175} 198) 95 61 63) 88} 64] 74 15 833)
+Dec 214 202 115 109} 72| 92} 78} 85 26) 993)
+2005 Jan 160] 145) 92) 78} 54] 72 58) 62) 26 747|
+Feb 196} 175) 90} 56| 66) 78} 61 57| 19 798)
+Mch 234 201 127| 102) 63) 84) 67 82 25) 985)
+Apr 219 211 124) 96} 70} 90) 62 85 20 977|
+May 230) 214122) 81 60} 100} 84 75) 28} 994}
+Jun 211 197, 115 82) 66} 85) 63) 72 22| 913)
+Jul 242) 268) 132| 109} 71 124) 110 103) 28) 1,187)
+Aug 223} 214, —:100) 80) 72| 88} 87 82 19 965)
+Sep 247| 229) 111 90 63) 88} 83} 92| 20 1,023)
+Oct 234| 233) ~—_—:130) 91 66 124 83} 80] 24| 1,065)
+Nov 193} 170 95| 103 68) 84 80] 71 17| 881
+Dec 253} 241 125) 140} 70 112) 100} 124) 36] 1,201)
+2006 Jan 162] 139} 102 88) 50} 64) 52) 52) 19} 728}
+Feb 210} 153 84) 103 60| 81 60} 71 25) 847
+Mch 266, 200) 118} 109} 75) 104) 72 82) 19} 1,045)
+Apr 241 258} 119 108) 100} 138) 102) 149} 22| 1,237)
+May 263 192 119} 124) 72| 81 78) 82) 31 1,042)
+Jun 244 243) 119} 171 78} 77 83) 77 28) 1,120)
+Jul 277| 219) 111 143) 88) 105) 79| 80} 20) 1,122)
+Aug 244 212) 114) 103} 65 92) 77 97 23) 1,027)
+Sep 276 221 121 100} 77 93) 88) 76 24 1,076
+Oct 261 186) 106 117 58} 106| 103} 72| 30} 1,039)
+Nov 239} 183) 115] 98) 76| 70} 63} 82| 27 953)
+Dec 278| 262) 119} 136) 95| 100} 100} 90} 40 1,220}
+2007 Jan 189} 128) 84 88) 60} 70| 62) 76 17| 774
+Feb 209} 168} 95| 85) 45) 81 75) 65) 20 843)
+Mch 282| 230) 136| 102) 80) 106) 80} 82) 26 1,124)
+Apr 248 184) 101 123) 75 114) 98} 92 24 1,059)
+May 225, 201 125) 116) 71 95} 92) 78} 27 1,030}
+Jun 257| 196 113} 112) 61 118) 88} 96} 23} 1,064}
+Jul 288} 138 107} 101 83} 120) 86 93} 13 1,029)
+Aug 268} 122 118} 128) 66 120| 81 87 20 1,010}
+Sep 241 161 126) 117| 71 127 80} 95] 30} 1,048}
+Oct 206} 152| 118 105] 60} 106 77 80 28) 932!
+Nov 199 117; 104 83) 81 74 81 73} 27 837}
+Dec 295] 235) 142 153) 70} 128) 89 117| 32) 1,261)
+2008 Jan 140} 130 79| 87 50| 62] 58} 74 20 700}
+Feb 199} 135, 103) 69| 40} 74 45) 60 23} 748}
+Mch 180 175 99} 87 46] 87 81 84] 20 859)
+
+59
+
+--- Page 60 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure E
+Number of Fatalities per Province per Month
+Year Month GA KZ wc EC FS MP. NW ul NC RSA
+2004 Apr 227| 223) 115) 96} 84 91 84) 90 29) 1,039}
+May 226} 279) 154) 122) 72) 118} 105) 103) 29) 1,208)
+Jun 220} 195} 124) 118 85) 118} 84) 64] 21 1,029)
+Jul 247| 231 151 129 55) 121 89) 100} 4 1,165)
+Aug 252) 243} 109} 100 81 114) 93} 95] 28) 1,114)
+Sep 218) 211 108} 112 85] 104 98) 97| 31 1,065)
+Oct 246} 275) 150} 101 83) 139} 96} 104) 22) 1,215}
+Nov 187} 225) 113) 76| 86} 105) 86] 93} 18 987|
+Dec 246 234) 144) 141 105 128) 100} 111 28) 1,237)
+2005 Jan 180} 162} = 115) 99} 80} 102 86] 85) 31 939}
+Feb 217 185 109} 74 75) 118} 72| 64] 21 935)
+Mch 260} 223} 147| 118 80) 105) 74 105) 40) 1,152)
+Apr 268) 249) 148) 117| 88) 118} 69} 114) 22| 1,193)
+May 266, 254) 132) 91 64 145) 100} 88) 35 1,176
+Jun 231 249) 139} 108 76 102| 78} 88) 25) 1,097|
+Jul 273} 295] 147| 157 95} 158} 146) 152) 33) 1,457)
+Aug 243} 248) 130 92) 99} 100} 104) 94 19) 1,129)
+Sep 268 291 122) 103 82) 118} 108} 171 20) 1,282)
+Oct 262) 277 152) 103 72) 147 119} 94} 32) 1,258)
+Nov 219) 182) 100} 138 87 115) 85) 112) 26) 1,064)
+Dec 273} 292 147| 167 114 145) 114) 153) 49) 1,454)
+2006 Jan 179, 171 124) 97| 71 81 72| 63} 26) 883)
+Feb 233) 181 91 140 86] 109} 75) 95} 27| 1,036)
+Mch 294 224) 152) 153 90) 140} 94 106) 26) 1,280)
+Apr 296] 315 143) 130 122 232 126) 196) 34) 1,594)
+May 301 230} 146) 152 95} 102| 100} 114) 39} 1,280}
+Jun 280, 292) ~=163} = 226} ~—«109) 98} 113) 89) 37] 1,408}
+Jul 329, 253) 135 150 118 133} 132) 102) 26) 1,378)
+Aug 299-263) 134) 115 89) 114) 96} 112) 31 1,254)
+Sep 315} 264) 148} 129 102 109} 97 97] 27| 1,289)
+Oct 306, 225) 122) 157 93} 149} 121 90} 38) 1,302
+Nov 305} 230} 159} 125 101 96} 78} 120| 34) 1,249]
+Dec 318} 313) 132) 178 116 124) 117| 108) 61 1,467)
+2007 Jan 215, 139 103} 102 80} 118 82) 100) 18 958}
+Feb 233, 185, —:119) 99} 51 115 98) 95| 23} 1,020)
+Mch 316} = 261 162) 123 86 141 96} 93} 38} 1,316]
+Apr 292) 218) 124) 149 126 150} 107| 115) 28) 1,309)
+May 252) 245) 141 141 94) 116) 112) 118) 50} 1,267)
+Jun 295} 215, 135 133 75) 179| 119} 129) 46) 1,326)
+Jul 325] 197 126 121 125 158} 112) 124) 13) 1,300)
+Aug 284 149} 126 161 90) 228) 96} 114) 22) 1,270)
+Sep 293) 251 159} 156 93} 152| 103) 131 41 1,379)
+Oct 222! 200; 136) 129 97| 140 103) 106) 40) 1,174
+Nov 218) 140} 145) 124 112 103} 108) 102) 27| 1,077|
+Dec 326 272 168) 196 93} 178) 113) 144) 33) 1,523)
+2008 Jan 160} 156) 99} 120 72) 84) 69} 99} 26] 883}
+Feb 232 174 128) 80) 45) 93} 54] 92} 54) 951)
+Mch 200} 225) 135 129 68) 144) 114 116) 35) 1,167)
+
+60
+
+--- Page 61 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure F-1
+
+2006-2007 Estimated Number of Driver Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars 676} 330} 251 236) 212) 279) 220} 207| 70} 2,481]
+Minibuses 41 34) 21 20) 30} 25) 11 27| 4 211
+[Minibus Taxis 14 10} 0} 5 q 9g 11 2 0} 51
+[Buses 5 3 6 4 0} 6 1 3 1 28,
+[Motorcycles 100) 29) 42| 9g 14) 16 23} 7} 8 246
+ILDV's - Bakkies 115) 140} 67 87| 71 93} 75} 111 26) 785)
+|Trucks 26) 58} 27 24) 38} 35) 14] 22) 9g 254)
+\Other and unknown 21 34| 16) 4| 10} 12) 7| 9 1 115)
+[Total Motorised 998} 639) 431 391 372| 475) 361 388) 119} 4,171
+[Bicycle 104) 24) 58} 13) 28) 45) 51 19 15) 357|
+[Animal drawn 0} 0} 0} 0} [| 0} 1 1 0} E}
+[Total 1,102} 663} 489} 403} 399] 519) Eo 408} 134) 4,531
+2007-2008 Estimated Number of Driver Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW Ll NC RSA
+[Motorcars 614) 249} 229) 199} 180} 298) 221 206} 74 2,269}
+[Minibuses 40) 28) 15] 29) 26) 23) 9 15 2 187]
+[Minibus Taxis 2 13 0} 2 5} 1 4 8 0} 38
+[Buses 0 0} 1 0} 3) 6 [| 3 0} 12)
+[Motorcycles 94) 31 52| 14 18) 25) 15) 4 5} 257
+ILDV's - Bakkies 122) 137| 76| 97 46) 153) 88} 122) 19) 861
+|Trucks 26) 51 28) 30} 39} 32) 13) 22) 7 248)
+\Other and unknown 26 30 15) 9} 3 4| 11 22 0} 121|
+[Total Motorised 925} 539) 416 379) 321 542! 3 402) 107| 3,994
+[Bicycle 66) 27 44) 20) 15) 34) 47| 28) 8 288)
+[Animal drawn qj L qj L of L 1 dj L) 1
+[Total 991 566] 460} 399) 336| 576 ai 430} 115) 4,283
+Change Estimated Number of Driver Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars -62 -82 -23 -37| -32 18 E| -1 4| +212)
+[Minibuses A -6| -6 9 -4| -2| a -12 -2| 24)
+[Minibus Taxis -12| 3 0} 2 5} -7| -5| 46 0} -13
+[Buses 4 -3| -5| -4| 3| 0 -1 -0| 1 -16
+[Motorcycles -6 1 11 5 7 g -8| -3 3 1
+ILDV's - Bakkies 7| -3| g 9g -24 61 13} 11 -7| 76
+[Trucks 0} -7| 1 E) 1 -3) A -0| 1 -6|
+\Other and unknown 5| -4| -2| 4| -7| 8 4| 14 a 6
+{Total Motorised -74 -100} -15) = 51 67 14 11 -178|
+[Bicycle -38) 3 -15] 7| -12) 11 -4| 9g -7| -69
+Animal drawn [i 0} 0 0} 0} [| 0} A 0} -
+[Total 112) -98} +29) -4| 63) 56 =] 22) -19| -247|
+
+61
+
+--- Page 62 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure F-2
+
+2006-2007 Estimated Number of Passenger Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars 464 302) 215} 278) 205} 259) 204) 242) 105) 2,273)
+Minibuses 170| 123) 83} 78) 55) 136 70| 31 g 755)
+[Minibus Taxis 23) 62) 3 25) 14 22} 42) 10} 4 204
+[Buses 23) 37| 28) 51 31 8 1 28) 2 208)
+[Motorcycles 4 4 3 0} 4 3 1 0} 4 25)
+ILDV's - Bakkies 142| 213) 96} 129} 75) 120} 76| 160} 45) 1,055}
+|Trucks 22| 58} 62} 30 32) 30) 23) 34] 4 294
+\Other and unknown 16 57| 1 15) 15) 13) 21 25) 3 175
+[Total Motorised 863) 857| 501 60: 430) 592) 438) 52! 176 4,989)
+[Bicycle q q of q q of q q q q
+Animal drawn 0 ty 0 0 ty 0 2 E 1 4
+[Total 863} 857| 501 60: 430) 592] 440) 531 177|__4,995}
+2007-2008 Estimated Number of Passenger Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars 439) 285) 235} 266 237| 349} 208) 259} 72 2,350}
+[Minibuses 102| 58} 61 120 70| 151) 55) 61 10 687)
+[Minibus Taxis 4 65) 1 5 38) 6 21 45) 0} 185]
+[Buses 8) 56} 35 18 5| 35) E| 5| 5 169)
+[Motorcycles 64 E| 3) 3| 1 q 4 | ” 19)
+ILDV's - Bakkies 98} 230) 110} 170 73) 138} 114) 157] 38) 1,129)
+|Trucks 40| 40) 35) 39} 54) 35} 16 40} 29) 328)
+\Other and unknown 24) 47 27| | 17| 7| 12) 28 31 204)
+[Total Motorised 721 783} 506] 63: 495) 720 434| 591 186, 5,072)
+[Bicycle 0} 0 oO 0} 0 oO 1 0} 0} 1
+[Animal drawn D| q of q q of q q 9 q
+[Total 721 783} 506| 63: 495) 720| 435] 591 186, 5,073)
+Change Estimated Number of Passenger Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars -26 -17| 19 -12) 32) 90} 4 17| -32| 77
+[Minibuses -68) -65] -22 42| 14 15] -15) 31 1 -68)
+[Minibus Taxis -19 3 -2| -20 24) -16 -21 36) -4] -18)
+[Buses -15) 19) 7| -33} -26| 27 1 22) 3 739)
+[Motorcycles E -4| -0| 3 -2| -3| 3 70 -4| -7|
+ILDV's - Bakkies -43) 17| 14 42| -2| 18) 38) -2| -7| 74
+|Trucks 19) -18 -27| 9g 23) 5} -7| 5} 25) 34)
+\Other and unknown 8 -10| 16 -3| 2| 6 -9| 3} 28 29)
+{Total Motorised 142) -74 5 2 65 128) -4| 6 10} 82)
+[Bicycle 0} 0 ie 0} 0 0} 1 0} 0} 1
+[Animal drawn 0} 0 q 0 0 -2| -2| A 6
+[Total =142,_—-74i E| 2 65|__(128| =3| é E| 73|
+
+62
+
+--- Page 63 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure F-3
+
+2006-2007 Estimated Number of Pedestrian Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW Ll NC RSA
+[Motorcars 802) 529) 337| 278) 126) 210} 169) 145) 36) 2,632!
+Minibuses 151 147 44) 71 32) 28} 17| 45) 2 536
+[Minibus Taxis 42| 33} () 5} 2 6 12 16 1 118)
+[Buses 28) 46) 26) 16] 12 16 g 18) 0} 168)
+[Motorcycles G) a 9g 0} 2 0} 4 (0) 0} 22|
+ILDV's - Bakkies 161 262) 97 160} 65 62) 85 66) 33 990}
+|Trucks 68} 117| 50} 51 34) 19) 33) 31 5} 407
+(Other and unknown 292) 314] 115] 99} 61 80} 79) 56} 19} 1,115]
+[Total Motorised 1,549] 1,450] 677| 680| 333} 4 404) 377| 96) 5,988)
+Bicycle 1 q | of q | 0 | 0 1
+Animal drawn 0 0 ty 0 q 0 q 0 q| L)
+[Total 1,550| 1,450) 677| 680] 333} 4 404) 377| 96] 5,989)
+2007-2008 Estimated Number of Pedestrian Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW Ll NC RSA
+[Motorcars 732) 404) 286) 221 137| 157] 139) 145 54) 2,277}
+Minibuses 144) 108} 50} 63} 21 51 21 23} 10 491]
+[Minibus Taxis 10} 23) 2 oO 3 4 17 20) 0} 78)
+Buses 13 27| 19 15] E| 14] 7 4 1 104|
+[Motorcycles 5 4 10 1 2 3 3 0} 0} 28)
+ILDV's - Bakkies 143) 192| 97 162 30} 89 82) 91 21 908|
+|Trucks 80} 79| 56) 60) 26) 40 25) 23} g 397|
+\Other and unknown 261 256 136} 85 33 70} 69 57| 18) 987
+[Total Motorised 1,388| 1,094 658) 607| 257| 4 364) 362} 113) 5,270)
+[Bicycle 1 0} 0 oO 0} 0} 0} 0} 0 1
+[Animal drawn ) 0} ) of 0} 0 0} 0} of 0}
+[Total 1,389| 1,094} 658} 607| 257| 4 364) 362 113} 5,272,
+Change Estimated Number of Pedestrian Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW Ll NC RSA
+[Motorcars -70| -124] -51 -57| 12 -53) -30| 0} 18 +355]
+[Minibuses -7| -38) 4 8 -11 23} 5 -23) 7} -46)
+[Minibus Taxis -32| -10 2 -5 ie) -2| 5 3 a -40|
+[Buses -16) -20| -7| -0} -8| -2| 1 -14) 1 -64)
+[Motorcycles A 2 1 1 i) 3 -0 0} 0} 7
+ILDV's - Bakkies -18} -70 1 2 -34| 27 -3| 25] 11 -82|
+[Trucks 12 -38) ) E -8} 20 -8 -8| 4 -10|
+\Other and unknown -30| -58| 22 -14] -28) -10} -10 1 -1 +128}
+{Total Motorised -161 -357/| 2 -73| -76 a1 -15| 17 -718)
+[Bicycle 0 0} 0 oO 0} 0} 0} 0} oO 0}
+[Animal drawn ) 0} 0 q 0} 0 0} 0} of 0}
+[Total -161 -357| 2 +73) -76 AI 15) 17 -717|
+
+63
+
+--- Page 64 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure F-4
+
+2006-2007 Estimated Number of All Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW Ll NC RSA
+[Motorcars 1,942) 1,161 804) 792) 543} 748} 593} 594} 210) 7,386
+[Minibuses 361 303} 148) 169 117| 189] 97 103} 15] 1,503}
+[Minibus Taxis 79 105} 3 35} 16) 36 64 27| 5) 373}
+[Buses 56 86 60 70| 43) 30 E) 48} 3 404)
+[Motorcycles 109) 37| 54) E 17 20 28) 7 12 293)
+ILDV's - Bakkies 418) 615) 259) 376 210| 275 236] 337 103) 2,830)
+|Trucks 115) 233) 139) 105} 103) 85] 69} 88) 18) 955]
+\Other and unknown 328} 405} 142) 119} 86 105 107| 90} 23) 1,405)
+[Total Motorised 3,410] 2,946] 1,609) 1,674, 1,135, 1,487) 1,203} 1,293) 391] 15,149)
+[Bicycle 105} 24) 58) 13} 28) 45 51 19) 15) 358}
+(Animal drawn ) 0} 0 0} 0} 0 3 3 1 8}
+[Total 3,515] 2,970] 1,668 1,687] 1,163] 1,532) 1,257] 1,316) 407} 15,515)
+2007-2008 Estimated Number of All Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW Ll NC RSA
+[Motorcars 1,784) 938} 750} 686 555} 804} 569} 610} 200} 6,896
+[Minibuses 286) 194] 126) 211 117| 225} 86) 99} 22) 1,365]
+[Minibus Taxis 16 101) 3 7 46) 11 44) 73) 0} 302|
+[Buses 20 83} 54 33} 12 55] 10 12 4 285
+[Motorcycles 104 36| 65) 18} 22) 28} 22) 4 5} 305)
+ILDV's - Bakkies 364) 559) 284) 429) 149) 380} 284 371 78) 2,897}
+|Trucks 147) 170| 119) 128} 120) 106} 54) 85 46) 974
+\Other and unknown 311 334] 178} 106 52 81 93 108} 49) 1,312)
+[Total Motorised 3,033] 2,415, 1,580, 1,618 1,072, 1,6: 1,161] 1,360) 406 14,336
+Bicycle 67| 27 44) 20) 15 34] 48) 28} 8 290!
+|Animal drawn 0} 0} 0} 0} 0} 1 0} 0} 1
+{Total 3,100] 2,442) 1,623) 1,638] 1,088 1,724) 1,210} 1,388) 414) 14,627|
+Change Estimated Number of All Fatalities per Vehicle Type
+Vehicle Type GA KZ wc EC FS MP NW Ll NC RSA
+[Motorcars -158} -223} -54| -106} 12 56 -24 16 -10 -490|
+[Minibuses -76| -110 -22) 43} -0| 36 -12 -4| 4 -138}
+[Minibus Taxis -63) -4| 0 -27| 30} -25} -21 45) -5| -71
+[Buses -35) 4 6 -37| -31 25 1 -36| 3 -119)
+[Motorcycles -5| -0} 11 8 4 8 -5 3 -7| 11
+ILDV's - Bakkies -54 -56 24) 53} -61 105} 48) 34] -25] 68)
+[Trucks 31 -63) -20| 23) 16 22| -15| -3| 28) 19)
+\Other and unknown -17| -72| 36 13) -33) -24) -14 18) 26 -93)
+[Total Motorised 7377, —_—-531 33 -56 -63 2 42) 67| 15) -813
+Bicycle -38} 3 -15] 7| -12 11 -3 9g -7} 68)
+[Animal drawn 0} (| ty) 0} 0, 0} -2| -3| A -6|
+{Total ~415} -528| 44) ~49} -75| 19: 47] 73) 6 -887|
+
+64
+
+--- Page 65 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure G-1
+
+2006-2007 Estimated Number of DRIVER Fatalities per Age Group
+
+Age Group| GA KZ wc EC FS MP NW Ll NC RSA
+0-4 1 0} 0} 0} 0} fy q 0} 0} 1
+5-9 0 0 E| 1 0} 2 0 0} 0} 4
+10-14 7 3 3 5] 1 5| 2 0} 3} 29)
+15-19 15 16 14 6] 4 0} 13 11 1 81
+20-24 88) 49) 34] 19) 25) 17| 20 12 13) 278)
+25-29 104) 62 49 36 29 38 43 29) 10| 401)
+30-34 106} 73) 40 45] 38 44 50} 36 11 443)
+35-39 91 41 39 33) 42 31 38 36 13) 364)
+40-44 79| 52| 36] 34] 28} 42| 40) 45) 16 373)
+45-49 59| 44) 30 34] 17| 25) 15 44 11 279|
+50-54 45) 29) 25) 20 21 21 23) 15 11 210)
+55-59 25) 16 18 10} 16) 14 6 8) 6] 119
+60-64 12 8} 9} 10| 12) 2 7| 4 0} 64)
+65-69 4| 13) 7 6| 1 3 3 4| 5| 47
+70-74 13 2 1 1 1 2 1 0} 1 23)
+75-79 5] 0} 3 1 2| 2 2 1 0} 17
+80+ 5| 3 0} 1 E 2 q 0} 0} 13)
+Unknown 445, 252 177 139) 158} 270; 148) 161 34) 1,784)
+Total 1,102} 663} 489} 403)_—-39: 519} 413) 408) 134) 4,531
+
+2007-2008 Estimated Number of DRIVER Fatalities per Age Group
+
+Age Group| GA KZ wc EC FS MP NW ul NC RSA
+0-4 0 0| 0| 0| 0| 0 0 0} 0| Ce}
+5-9 0 3| 3| 0} 0| 0 1 0} 0} 7
+10-14 1 4 2 5] 3} 3 4 1 0} 25)
+15-19 13 15 9 14 4 14 1 10 5] 86)
+20-24 42) 20) 41 16 15) 31 20 16 11 212)
+25-29 72| 42| 39} 36 23} 52| 31 46) 11 352|
+30-34 74 60) 37 37 38 59 38 31 7| 381)
+35-39 64) 50} 40 29 30 46 44) 4 13) 356
+40-44 45) 33} 34] 27 25] 36] 38} 48) 14 301|
+45-49 32) 31 26] 21 28} 4 15 32| 11 237)
+50-54 23) 25) 18 21 9 31 12 23) 10} 171
+55-59 25 20 10| 4| 9| 12 6 4 0} 91
+60-64 6 g| E E 7| 6 8 6 0} 62
+65-69 5| 2 7 E| 0} 7| 10) 2 2| 38}
+70-74 1 1 4| 0} 1 6| 2 2 0} 18)
+75-79 5] 0} 2| 1 4 2 0} 3 0} 17
+80+ 2] 0} 3 0} 1 2 1 3 1 14)
+Unknown 580} 249) 173 178 137] 229) 179} 161 29} 1,916)
+Total 991] 566 460, 399 33 576} 411) 430) 115} 4,283}
+
+65
+
+--- Page 66 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure G-2
+
+2006-2007 Estimated Number of PASSENGER Fatalities per Age Grou
+
+Age Group |_ GA KZ wc EC FS MP NW Li NC RSA
+0-4 27 23} 10 22| 8) 23) 12 17| 4 147|
+5-9 9} 25) 11 16 15 7| 7| 4| 5] 99)
+
+10-14 17 28} 7| 23) 17 11 5] 15 7| 130}
+15-19 30] 66] 33} 41 20 28) 11 17 7 252)
+20-24 63} 94] 55 41 15 26] 34] 42| 17 386)
+25-29 58} 103} 4 45) 41 43) 38} 58} 23} 451
+30-34 78} 80] 32] 72| 49| 49) 4 56) 13) 468)
+35-39 41 48 26 36 41 33) 38) 56| 24) 344)
+40-44 43} 55] 24 54] 25) 19 12 42) 14) 287|
+45-49 22 29} 29} 28) 14 12 18) 15) is) 172
+50-54 14 47 10 22| 13 11 9 24] 3} 153)
+55-59 E 31 3 11 E 3 11 E 4| 89
+60-64 7| 13} 6 8 5| 2| 3| 10| 1 55|
+65-69 E| 4| 5 g 1 0} 4| 6 0} 31
+70-74 5] 3} 6| 4 0} 3 2 1 2 26)
+75-79 0} 2 3 2 0} 0} 1 1 0} 9)
+80+ 1 2| 2 5| 1 3 0} 2 1 16)
+Unknown 438} 206 199} 165) 158} 319) 193) 156 45] 1,879)
+Total 863] 85 501} 605, 430,592) 440} 531) 177} 4,995)
+
+2007-2008 Estimated Number of PASSENGER Fatalities per Age Grou,
+
+Age Group |_ GA KZ wc EC FS MP NW Li NC RSA
+0-4 14 27 19 17| is) 21 12 14 7| 135)
+5-9 11 11 11 20 9g 21 11 6 5] 105)
+
+10-14 5} 24] 12 18) 12| 7 is) 8} 0} 91
+15-19 18 43} 20 40| 16 22) 20) 19 8} 207]
+20-24 46 87 37| 39| 29| 43) 27 49) 24] 382)
+25-29 52 79| 34] 56) 25) 45) 35) 44) 18 387
+30-34 32 71 32| 51 50 57| 25) 53} 14 385)
+35-39 26 54] 34] 49| 29| 39) 34] 36] 14 317|
+40-44 15] 52 24] 37| 29| 24 21 33} 4| 239)
+45-49 15] 21 11 17| 12 18 15] 20) 7| 136)
+50-54 5] 21 9 20 16 11 11 11 2 106)
+55-59 5| 28 8 7 6 8 2 7| 7| 79|
+60-64 2 14) 4 16 2] 3 4 9 8} 61
+65-69 0} | 3 4| 0} 8 1 4| 0} 29)
+70-74 0} 7| 1 3 1 2 3 1 0} 19)
+75-79 4| 4| 2 2 1 0} 0} 3 0} 17
+80+ 1 0} 5 i) 0} 1 0} 1 10
+Unknown 471 231 242} 235, 250) ~— 390} ~— 205} — 279 66} 2,367)
+Total 721|__78 506} 632, 495, 720) 435, = 596} ~— 186] 5,073)
+
+66
+
+--- Page 67 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure G-3
+
+2006-2007 Estimated Number of PEDESTRIAN Fatalities per Age Group
+
+Age Group| GA KZ wc EC FS MP NW Li NC RSA
+0-4 4 57| 32| 33} 13) 29} 15 15 6 242)
+5-9 73} 104) 34 72 32 30) 33) 37 10) 425]
+10-14 34] 73| 23) 46) 23} 17| 12 20 4 252]
+15-19 28) 62| 25) 32| 8} 16 11 23} 1 208}
+20-24 88} 116) 53} 46 6 14] 26 25) 6 380)
+25-29 79| 146 52| 49) 43} 13 29) 33} 14 459)
+30-34 131 179 60} 31 11 44 29) 42| 11 537]
+35-39 76-103) 69 37 34 25) 25) 22 5 397|
+40-44 76| 73| 49) 47 21 28} 25) 19 5| 343}
+45-49 44 53} 29| 34] 21 17| 10 19 4 231
+50-54 37| 52 22) 13} 10) g 10) 10) 5 169|
+55-59 20 27 17 11 8} 7| 7| 12 3 111
+60-64 21 16 14 16 4 10 7| 8 2 100
+65-69 9 18) 6 5 4| 1 2 3 0 49|
+70-74 3 g 5] 10 1 4 is) 14 1 53}
+75-79 5] 10) 2 3 3, 4| 1 3 i) 30
+80+ 10) 8) 1 3 3) 2| 1 4] 3 35
+Unknown 776| 344] 183 190] 7| 149| 155) 66} 17|__ 1,967]
+
+Total 1,550, 1,450} 677/680) 33 420] 4043 96} 5,98:
+
+2007-2008 Estimated Number of PEDESTRIAN Fatalities per Age Group
+
+Age Group| GA KZ wc EC FS MP NW Li NC RSA
+0-4 53} 32| 33) 16 10| 15 12 4 3 178
+5-9 59] 97 27| 49 14] 35] 20) 36 4 342
+10-14 29| 53} 21 16 9} 17| 13 18 4 178
+15-19 22| 37| 23) 32| 14) 14 6 11 13 173)
+20-24 37| 78| 42) 26) 18) 27 15 20 16 279)
+25-29 66 93} 42 52 24) 32 33) 43) 15) 401
+30-34 84) 109) 54 46 18} 38 25) 25) 5 404|
+35-39 79| 71 4 46 23} 18 17| 23} 7| 324]
+40-44 51 73| 34] 30] 12) 9 18 17| 13 258]
+45-49 47 69| 26) 26) 11 10 9} 15 7| 220)
+50-54 22) 44 19) 15) 9| 16} 8 10) 1 142)
+55-59 18 24 11 12 4 14 4 6 1 93
+60-64 6 20 14 8 4 4 8 4| 1 72
+65-69 10) 6 3 8 0} 3 4| 7| 0 40)
+70-74 2 7 7| 5 0} 3 1 5 3 33)
+75-79 7 2 1 3 0 4 1 8 0 26|
+80+ 6 6 7 6 Z| 4| 3 5 i) 39)
+Unknown 792| 274| 251 210 84] 164 165) 105] 20} 2,066)
+Total 1,389} 1,094; 658} 607, ~—25 428} 364, 36: 113| 5,272]
+
+67
+
+--- Page 68 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure G-4
+
+2006-2007 Estimated Number of TOTAL Fatalities per Age Group
+Age Group| GA KZ wc EC FS MP NW ul NC RSA
+0-4 69| 80] 43} 56} 21 51 27| 31 1 389)
+5-9 82} 130} 47 89} 47| 39} 40| cal 15 529)
+10-14 57| 104| 33} 74 4 32| 20 35) 13) 410)
+15-19 73) 145) 73} 79| 32| 44] 34] 52| 9 541
+20-24 239, 259) 141 106} 47| 57| 80 79| 37} 1,044)
+25-29 241 311 142) 130} 114) 95) 111 121 47| 1,311
+30-34 315) 331) 131) = 149) 98 §=6136 =6120} = 133) 35) = 1,448)
+35-39 208) 192) 134 107| 116] 89| 102 115 42) 1,105)
+40-44 197 180) 109) 136] 74| 89} 78| 107 35] 1,004)
+45-49 124) 126 89} 95] 52| 54] 43) 78) 21 683}
+50-54 97| 128) 57| 55] 44| 42| 42| 4g) 18) 531
+55-59 53} 74 39 32 32 24 23 30 12| 320
+60-64 4 37| 30} 34] 21 14 17 22) 3 219)
+65-69 15 35] 18 21 7| 5| 10 13 5] 128)
+70-74 ai 14 12 15) 3 9} 9 15) 5] 103)
+75-79 10 12 8} 7| 4 6 5} 5] 0} 56]
+80+ 16 12 3} 9 7| 7| 1 i3) 4] 64
+
+Unknown | 1,659] 802) 559) 494 403] 738 496] 383) 96] 5,631
+Total 3,515} 2,970} 1,668 1,687] 1,163} 1,532] 1,257) 1,316] 407} 15,51
+
+2007-2008 Estimated Number of TOTAL Fatalities per Age Group
+Age Group| GA KZ wc EC FS MP NW Ll NC RSA
+0-4 66 59} 52 33 16) 36 24) 18) g| 313}
+5-9 70,111 41 69 23) 56 33) 42 g| 453]
+10-14 35) 82) 35] 39} 24 26) 22| 27| 4] 294)
+15-19 53} 96} 52 86 34] 50 27 cal 26] 466)
+20-24 125] 185] 120) 81 62| 102| 62| 85) 52| 873}
+25-29 190} 214 115) 144) 72| 130 99} 133 44 1,140)
+30-34 190} 240) 123) 134) 106} 154] 88) 110 25] 1,171
+35-39 168) 175 115] 124) 82| 103} 96) 100} 33} 997]
+40-44 110 158) 92| 94] 66] 69} 78| 98) 32] 798}
+45-49 94) 121 63} 64] 51 69} 39| 67| 25] 594)
+50-54 49) 89} 46 56] 34] 57| 32| 43) 14 420
+55-59 47 73 30 23) 18) 34 13) 17 8) 263)
+60-64 15 43} 27 33} 16 13 21 19 9 195)
+65-69 16 16 14 14) 0} 17| 15 12 2 106}
+70-74 3 15 12 9} 2 11 7 9g 3 71
+75-79 16 5] 5] 7| 5| 7| 1 14 0} 60)
+80+ 10} 6 16) 6 5 6 6 8 2| 63)
+
+Unknown | 1,844] 754; 665, 623/471 783, 549) 545) 114) 6,349)
+Total 3,100] 2,442] 1,623] 1,638] 1,088| 1,724] 1,210| 1,388, 414] 14,627
+
+68
+
+--- Page 69 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure H
+2006-2007 Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars 2,277 1,221 844 810} 509} 767 608} 574 183} 7,794
+Minibuses 310} 279 111 160] 105) 110} 60} 121) 17 1,273}
+[Minibus Taxis 83) 70) 5} 24] 13 20/ 46} 32] 2 295)
+[Buses 68) 83) 57] 50} 24) 36) 1 37 3 370)
+[Motorcycles 110} 34) 55) 9 16 19) 26) 9g} 10 287
+ILDV's - Bakkies 519) 633} 290) 394) 216) 282) 256) 317| 91 2,999)
+|Trucks 251 304} 175 161 165) 195} 110) 171 37| 1,569}
+\Other and unknown 383} 409 156) 126 95 119) 121 108} 24) 1,541
+[Total Motorised 4,002] 3,032] 1,693] 1,735] 1,142] 1,548] 1,239] 1,369 368] 16,128}
+[Bicycle 108) 24) 58} 13) 28) 45 52) 19] 15] 362)
+[Animal drawn 0} 0} 0} 0} 0} 2| 1 1 5
+{Total 4,110} 3,057} 1,751 1,7 1,170) 1 1592) 1,293) 1,389) 384 16,494
+2007-2008 Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars 2,042! 921 776) 676 525) 725) 576} 578} 177| 6,997}
+[Minibuses 293) 198} 109| 153} 64) 151) 71 70) 28) 1,138
+[Minibus Taxis 17) 77| 3 4 25) 8} 44] 66 te) 244)
+[Buses 37| 59} 42| 30 18 4 21 26) 4 279)
+[Motorcycles 109} 34) 63} 16 24) 28) 22 4 E) 305}
+ILDV's - Bakkies 450) 511 286] 410, 156) 387} 281 373) 80) 2,935)
+|Trucks 296 252) 162| 174 162) 227 128) 141 38} 1,581
+(Other and unknown 344 324) 204 110 52| 92) 113) 131) 27| 1,398
+[Total Motorised 3,588} 2,377] 1,647, 1,575, 1,025, 1,660, 1,255} 1,390, — 360) 14,877
+[Bicycle 69} 27 44) 21 17} 34) 47 28) 8 293)
+[Animal drawn 0} 0} 0} 0} 0} 0 1 [| i
+{Total 3,657} 2,404) 1,691 1,591 1,042) 1,694, 1,303] 1,418) 367 15,172)
+Change Number of Vehicles per Type Involved in Fatal Crashes
+Vehicle Type GA KZ wc EC FS MP NW ul NC RSA
+[Motorcars -236) -301 -67| -134} 16 -42) -32| 4 -6 -796)
+[Minibuses -17| -80| -2| -7| -41 4 10} “51 1 -135)
+[Minibus Taxis -66 7 -2| -19} 11 -12) -2| 34] -2| 51
+[Buses -31 -24) -14] -20} -6 5} 9g 14 1 -91
+[Motorcycles -1 1 g 7 8 9g} -5| -5 -5| 18)
+ILDV's - Bakkies -69 -122) -4| 16 -60| 105) 25} 56) -12 65)
+|Trucks 45) -52| -13 13) -3} 33} 17 -30} 1 12)
+\Other and unknown -39| -85| 48 -16 -43| -27| -7 23) 2| +143)
+{Total Motorised 414) ~656 ~45) 16 -117| 112) 16 21 8 -1,251
+[Bicycle -39) 3 -15] 8 -11 11 -5| EI -7| ~68)
+[Animal drawn 0} 0 0} 0 0} 0} A a A 3]
+[Total 453, -653{ 60 ~—=—-152] ~—-128|+~—=—«102] 79 29 -17|_—=-1,322)
+
+69
+
+--- Page 70 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure I-1
+
+2006-2007 Number of Crashes per Type of Crash
+Crash Type GA KZ wc EC FS MP NW Ll NC RSA
+Pedestrian & Hit-&-Run 1,502} 1,423} 663) 664) 326 405} 392) 375) 94) 5,844!
+Single vehicle: overturned 423) 430 237| 309} 258 267 264 271 127 2,586)
+Single vehicle: fixed object 150] 107| 84) 59} 34] 22 33} 41 7| 536|
+[Head on 172) 124) 84) 151 79 164] 90) 129) 191,012)
+[Sideswipe opposite direction 51 26 34 27 20) 42) 26 34] 5] 265
+[Sideswipe same direction 155] 66 33} 13] 29| 29| 31 40| 11 407|
+|Head-Rear end 194} 128) 67| 47 47 85) 39) 60} g 675
+[Approach at angle 56 24] 24 3 18 12] G 5 of 152
+{Turn : wrong lane / ifo traffic 69} 37| 16 17 14) 10 21 20) 4 206}
+Person fell off LDV / Truck 22| 56 15] 4 18 13) 14 14 6 199]
+(Accident with animal g 12) 4 12 10 2 7 8 1 62]
+|Other & Unknown. 203) 71 97 27 4 68] 69) 31 25 632)
+otal 3,003|__ 2,50: 1,358| 1,375 go4q] 1,11 991 1,028] 308[_ 12,577
+2007-2008 Number of Crashes per Type of Crash
+Crash Type GA KZ wc EC FS MP NW Ll NC RSA
+Pedestrian & Hit-&-Run 1,363} 1,086} 642) 601 253) 406} 357| 359| 113] 5,182}
+Single vehicle: overturned 392| 362] 236] 325] 240 339) 221 255 93) 2,463]
+Single vehicle: fixed object 204) 79 97 45 41 47| 44 46) 5) 609}
+[Head on 173) 118) 90) 133} 60} 157| 130| 149) 23 1,032]
+[Sideswipe opposite direction 160} 7 53} 36 14 74| 33] 36 3 416
+[Sideswipe same direction 40) 42) 34 18) 18) 12) 9 22| 12) 207)
+IHead-Rear end 169) 123) 38 38) 69} 89| 52) 63) 7| 647|
+(Approach at angle 45) 7 26 7 12) 30| 17| 16} 3 162,
+{Turn : wrong lane / ifo traffic 49| 20 12 4 17| 4 ual 23} 3 144
+Person fell off LDV / Truck 19 38} 20) 30| 13 5 10} 15] 4 153}
+(Accident with animal 1 8 7 14 4 6 3) 8 1 63)
+(Other & Unknown. 131 56] 80 30) 27 54) 66) 37| 18) 499)
+otal 2,746 1,941 1,335] 1,281 774 1,22. 956} 1,029) 287|_11,577|
+Change Number of Crashes per Type of Crash
+Crash Type GA KZ wc EC FS MP NW Ll NC RSA
+Pedestrian & Hit-&-Run -139] -337| 20] -62) -73) | -35] -16 19| -662)
+[Single vehicle: overturned -31 -68) 1 16) -18) 71 -44 -16) -34| -123)
+Single vehicle: fixed object 54 -29) 14) -15) 8 26) 12 4 2 73)
+[Head on 1 6 i) -18) -19) -7| AL 19) 4 20)
+[Sideswipe opposite direction 109} -18) 19) i) -6 32) 7 P| 2 151
+[Sideswipe same direction -115} -23) 1 4 -10 -17| -22) -18] 1 -199)
+IHead-Rear end -25 ES -29| E:) 22] 4| 13 E| -2| -28)
+(Approach at angle -11 -17| 1 -2| -6 18] 1 i) 3 10)
+{Turn : wrong lane / ifo traffic -20) -16 -4| “14 3 -6| -10} 3 -1 -63|
+Person fell off LDV / Truck -4 -18) fe) “1 -5} -8| -3) 1 -3) -46|
+Accident with animal -5) -5| 4| 1 1 4 -1 1 0} 1
+(Other & Unknown -74, -14) -18) 4 -15} -15} -3| 5 -7| -134)
+otal -257| -55t -23) 94 -120] 104} 34 q 21] -1,000)
+
+70
+
+--- Page 71 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure I-2
+
+Estimated Number of Fatal Crashes per Type of Crash
+
+2006-2007 GA KZ wc EC FS MP | NW ul NC | RSA
+[Pedestrian & Hit and Run 7,502) 1,423) 663 664 326 405392 375 945,844)
+|Overtaking Related 739 571 366 445 324] 429345 410 126, 3,748]
+Failure to Stop or Yield 202] 144) 95 84] 82] 75 71 75] 29 858
+lUnsafe Turning Manoeuvres 141 97 51 55 46 42] 54] 55 18 559|
+Poor Visibility & Following Dist. 494] 128] 67| 47 47| 85] 39 60 9 675
+|Other & Unknown 239] 138] 114 80 69 84] 89] 53 32 893]
+otal No. of Crashes 3,003, 2,502 1,3! 1,375, -894,—1,419{ 990] 1,028 308) 12,577]
+
+2007-2008 GA KZ wc EC FS MP | NW ul NC | RSA
+Pedestrian & Hit and Run 1,363] 1,086] 642] 601 253 406,357] ——359] 113] 5,182)
+|Overtaking Related 778 463 400 439 283 510, 355 an 104) 3,744)
+Failure to Stop or Yield 172] 103] 99] 84 72 110] 7 81 26 818|
+lUnsafe Turning Manoeuvres 112) 69] 48 44] 47| 43) 38 55 14472)
+Poor Visibility & Following Dist. 169] 123) 33 38 69] 89) 52] 63] 7| 647
+lOther & Unknown 151 i | 74 51 65 Ee 60 23 714
+otal No. of Crashes 2,746, 1,946 1,335, 1,287 774,1,223)~——«956| 1,029] ~—.287| 11,577]
+
+Change GA KZ we EC FS MP | NW ul NC | RSA
+Pedestrian & Hit and Run -139)__-337/ -20] -62| -73| EI -35] -16| ig] -662)
+(Overtaking Related 46| -108] 34] 4 -41 81 10 E| -2| -3}
+Failure to Stop or Yield -29) “44 4| A “11 34] 1 4 =A -40|
+lUnsafe Turning Manoeuvres -29| -28] E| “11 1 2 -15 0 4 -88
+Poor Visibility & Following Dist. -25) 5 -29) -9) 22| 4 13) 3 -2| -28)
+(Other & Unknown’ -80 -36 E) “4 -19) -18 -7 7| -9| 179)
+otal No. of Crashes -257|_-556| -2 -94-120, «104 -34| 7 -21| _ -1,000|
+
+Change GA KZ wc EC FS MP | NW ul NC | RSA
+Pedestrian & Hit and Run -9.26) -23.6! -3.09} -9.38}) -22.31 0.39) -8.98} -4.25) 20.54 -11.33)
+|Overtaking Related 6.31 -18.90) 9.23} -1.26) -12.55) 18.83) 2.90 0.47] -17.50) 0.09)
+Failure to Stop or Yield -14.59) -28.33) 4.16) -0.64) 12.91 45.46) 0.99) 7.32 -11.69) ~4.70|
+[Unsafe Turning Manoeuvres: -20.69} -29.30) -5.35] -19.52) 1.86) 4.62) -28.36} 0.53} -23.01 =15.65)
+Poor Visibility & Following Dist. -12.96 -4.13) -43.08} -18.40} 46.19) 4.68) 33.73] 4.50) 17.71 4.16)
+|Other & Unknown: -34.67] -26.36 -7.64| -7.82) -26.83) -22.12) -8.15] 12.31 -28.32} ~20.02)
+‘otal No. of Crashes 8.56 22.22) 1.6 -6.84[—-13.42] 9.29) 3.4 0.10) 6.82 -7.95|
+
+71
+
+--- Page 72 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure I-3
+
+2006-2007 Estimated Number of Fatalities per Type of Crash
+Crash Type GA KZ wc EC FS MP NW Ll NC RSA
+Pedestrian & Hit-&-Run 1,553} 1,461 688} 694! 337 418) 407| 382 98| 6,037}
+Single vehicle: overturned 532) 574 299| 434 352) 377 345] 332 171 3,416
+Single vehicle: fixed object 185) 147| 102 65) 44 25) 40| 41 E) 657|
+[Head on 281 215) 147) 214 149) 341 185] 242) 52) 1,827)
+[Sideswipe opposite direction 70| 32| 61 36 30| 63} 34 82 8 417)
+[Sideswipe same direction 207| 99} 44 23] 41 47| 59| 62 16| 599)
+IHead-Rear end 279) 194) 119| 77 81 144 64 83) 15{ 1,053)
+(Approach at angle 69} 43} 31 23) 34) 18 6 8 0 232)
+{Turn : wrong lane / ifo traffic 95} 55) 20 31 Al 10 25 27| 4 288
+Person fell off LDV / Truck 24| 57| 15) 45) 18) 13) 14) 14) 6 205)
+Accident with animal 7 15) 5] 17| 12) 2 8} 8} 1 74
+(Other & Unknown. 2u1 79 137| 27| 45] 76 70} 34| 28) 708}
+otal 3,515] 2,970] __1,6 1,68' 1,163} 1,532) 1,25: 1,316] 407|_ 15,515)
+2007-2008 Estimated Number of Fatalities per Type of Crash
+Crash Type GA KZ wc EC FS MP NW ul NC RSA
+Pedestrian & Hit-&-Run 1,389} 1,113} 657 612) 267| 424) 363} 360] 117|__ 5,302)
+[Single vehicle: overturned 478) 500| 324 437| 386] 483) 265] 346] 156 3,373]
+Single vehicle: fixed object 222) 104] 125) 66 54 70) 48) 62 5) 756
+[Head on 233) 263) 152) 286] 123} 317 247| 268) 53) 1,941)
+[Sideswipe opposite direction 215) 14 75} 50} 28) 124 47 65 i) 628)
+[Sideswipe same direction 52) 86) 48) 27| 29| 26) 10) 33) 25) 336]
+|Head-Rear end 229) 181 61 56 92 167| 77 102) 11 974
+(Approach at angle 59| 15] 38] 1 21 35 27| 32 5 243)
+{Turn : wrong lane / ifo traffic 55 58} 15) [s) 25) 10 17 42| 10 238
+Person fell off LDV / Truck 20) 40 21 30| 13] is) 10) 15] 4 157|
+(Accident with animal 1 g 12) 26 18 6 9g 1 1 95)
+(Other & Unknown. 148} 59 95} 33) 32) 58) 88) 53) 18 583)
+otal 3,100| 2,442) 1,62: 1,638} 1,088} 1,724) 1,21 1,388} 414 14,627]
+Change Estimated Number of Fatalities per Type of Crash
+Crash Type GA KZ wc EC FS MP NW ul NC RSA
+Pedestrian & Hit-&-Run -164) -348} -30| -82| -69| 6 -44 -22| 19] -735)
+Single vehicle: overturned -54| -75| 25] E| 34] 105] -80| 14 -15) ~
+Single vehicle: fixed object 37| -43} 23) 1 10} 45) 8} 21 -4| 99]
+[Head on -48) 48) 4| 71 -25] -24) 62| 25) 1 114
+[Sideswipe opposite direction 145) -18) 14 14 -2| 61 13) -17| P| 211
+[Sideswipe same direction -155) -13) 4 4 -12) -21 -49) -29 ) -263}
+|Head-Rear end -50| -13} -58) -22| 10) 26) 13) 19 -4| -79
+(Approach at angle -11 -28 7 -13) -12 17 22) 24] 5] 11
+{Turn : wrong lane / ifo traffic -41 E| -5| -26 4 -0| 8 16 6 50)
+Person fell off LDV / Truck 4 -18} 6 -15) -5| 8 -3| 1 -3| -48|
+Accident with animal. -6| -5| 7| 9} 6] 4 2| 3} ie) 21
+(Other & Unknown. -63) -19} -43) g -13 -19 18 19 -10| -124
+otal 415) -528| 44) 49) -75) 192) 4 73 6 -887)
+
+72
+
+--- Page 73 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure I-4
+
+Estimated Number of Fatalities per Type of Crash
+
+2006-2007 GA KZ wc EC FS MP NW ul NC RSA
+Pedestrian & Hit and Run 1,553, 1,461 689 604 337| 419 407| 382] 98} 6,037)
+lOvertaking Related 999] 821 520 614 484) 719,530) 629] 196 5,515]
+Failure to Stop or Yield 254) 207| 120] 128) 121 107| 94] 95] 39] 1,167)
+lUnsafe Turning Manoeuvres 188| 137| 64] 84 64] 55 79 70| 23] 755)
+Poor Visibility & Following Dist. 279 194) 119 77 81 141 64] 83| 15] 1,053)
+Other & Unknown 242 151 157| 88 75 92 92) 56 35 987}
+‘otal No. of Fatalities 3,515} 2,970) 1,6 1,68) 1,163] 1,532) 1,257 1,316 407, 15,515)
+
+2007-2008 GA KZ wc EC FS MP NW ul NC RSA
+Pedestrian & Hit and Run 1,389 (1,113) 657| 612 267 424 363 360] 117| 5,302)
+lOvertaking Related 975] 760,575] 706 479 84g 520 642] 192] 5,695)
+Failure to Stop or Yield 209) 153] | 117| 119 150| 92] 120 42] 1,136
+lUnsafe Turning Manoeuvres 130) 127| 64] 59 72 6g 50 86| 29| 684)
+Poor Visibility & Following Dist. 229] 181 61 54 92] 167| 77| 102 i 974|
+lOther & Unknown 169| 108] 128 89 63 69 108| 79| 23] 835
+otal No. of Fatalities 3,100, 2,442] —«1,623|—«*1,638| 1,088 + 1,724[ 1,210] —‘1,388] 414, 14,627)
+
+Change GA KZ wc EC FS MP NW ul NC RSA
+Pedestrian & Hit and Run -164, 348) -30] -82| -69 EI ~44| -22] 19-735
+lOvertaking Related -24l “61 55 90 EG 127| -10] 13 4 180)
+Failure to Stop or Yield ~45] bl 17 “11 6 43) Ee) 25] -30
+lUnsafe Turning Manoeuvres 58 -10| 0) -25| 7 13 -20] 16 “71
+Poor Visibility & Following Dist. -50| -13) -58) -22| 10} 26) 13) 19} -4 -79)
+lOther & Unknown “73 -4Q| -29| 70 -1 -23 14 23] =12) -152)
+‘otal No. of Fatalities 415) -528| -44) -49) -75) 192) 4 73) 4g -887|
+
+Change GA KZ wc EC FS MP NW ul NC RSA
+Pedestrian & Hit and Run -10.58} -23.82} -4.42| -11.77| -20.53) 1.35} -10.83} -5.81 19.31 12.18)
+|Overtaking Related 2.42) -7.43) 10.63} 14.63) “114 17.73) -1.92] 1.99} 2.25) 3.27)
+Failure to Stop or Yield -17.85 -25.94} 14.45) -8.70 -4.99) 39.9) -2.67| 25.91 8.06] 2.61
+[Unsafe Turning Manoeuvres -30.79) -7.3) 0.44) -29.90} 11.50) 23.51) -28.58) 23.32) 22.48) 9.35)
+Poor Visibility & Following Dist. -18.00} -6.73) -48.57} -28.11 12.61 18.24) 20.49) 22.64) -27.81 7.51
+|Other & Unknown: -30.08 -28.06 -18.60} 0.21 -16.08 -24.71 17.70) 40.28) -34.83) 15.41
+‘otal No. of Fatalities -14.80[-17-78| -2.6! -2.92] 6.44] 12.59) 33. 5.53) 1.56 5.72)
+
+73
+
+--- Page 74 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure J-1
+
+2006-2007 Number of Crashes per Day of Week
+Day of Week GA KZ wc EC FS MP NW Li NC RSA
+Sun 583} 430| 264) 233) 150} 234] 230 199] 52} 2,375)
+Mon 353} 275) 154| 141 134 132 77| 122) 25] 1,412!
+Tue 258} 269} 110 136 79| 95] 78) 57| 22} 1,105)
+Wed 254] 209} 116 134) 83} 110} 81 112) 21) 1,121
+Thu 299} 277| 124) 128) 95] 119) 98) 106 33] 1,278)
+Fri 477 392! 245] 272| 143} 186] 167| 178 64} 2,123)
+Sat 779| 649) 344) 331 211 243) 259| 255] 92} 3,163)
+Total 3,003] 2,502] 1,358] 1,375, —894| 1,119) 990} 1,028 308) 12,577)
+2007-2008 Number of Crashes per Day of Week
+Day of Week GA KZ wc EC FS MP NW Li NC RSA
+Sun 533} 313) 257 249) 164 243} 173 211 59} 2,202)
+Mon 305} 232) 151 150| 72| 131 95| 100} 18] 1,254)
+Tue 258} 202 106 131 94} 99} 104| 84) 19] 1,096}
+Wed 281 173) 116 122| 69} 107| 85) 92| 30|__ 1,075)
+Thu 255] 218) 134| 143) 76| 134 86 97| 19] 1,162)
+Fri 394] 357| 213) 176 129} 223} 155] 168) 51] 1,866)
+Sat 720 451 359} 310 169} 286) 258) 277| 92} 2,922)
+Total 2,746 1,946 1,335, 1,281 774|__ 1,223) 956 1,029) 287|_ 11,577)
+Change Number of Crashes per Day of Week
+Day of Week GA KZ wc EC FS MP NW Li NC RSA
+Sun -50| _-118) -7| 16 14 8} -57| 13 8 173)
+Mon -48| -43} -4| 9g -61 A 18 -22| -7| 158}
+Tue -0 -67| -5| -5| 14) 4 26) 27 | -9|
+Wed 27| -36 0} -12) -13} -3 3 -21 g -46)
+Thu -44 -59| 9 15 -18} 15] “11 -8) -14] 116
+Fri -83| -35] -32| -96| -13} 37| -12| -10| -13} -257|
+Sat -59] —_-198 15 -21 -42| 44| -0 22| -0| +240
+Total -257|__-556| +23} 94) -120} 104) -34) 1 -21] -1,000
+% Change Number of Crashes per Day of Week
+Day of Week GA KZ wc EC FS MP NW Li NC RSA
+Sun -8.53| -27.33| _ -2.69) 6.71 9.57 3.56] -24.89) 6.30} 15.07] _ -7.28)
+Mon -13.50| -15.53)  -2.35] 6.15] -45.98} -0.58} 23.09, -18.05) -27.16| -11.20)
+Tue -0.06] -24.89| -4.13  -3.59| 18.17 3.89| 32.87] 47.88] -16.22]  -0.84|
+Wed 10.58) -17.24) 0.28) -9.18, -16.19  -3.14] 4.13} -18.29| 42.61)  -4.13)
+Thu -14.79| _-21.33} 7.39 11.91] -19.43) 12.79} -11.38 -7.96 -42.51] _ -9.07|
+Fri -17.41| — -8.96 -13.10} -35.17| -9.39} 20.07} -7.33, -5.46|_ -20.34| -12.10|
+Sat -7.61| _-30.56) 4.32} -6.23] -19.98} 18.00} -0.12| 8.64 -0.29| __-7.60)
+Total 8.56] -22.22)  -1.69|  -6.84) -13.42; 9.29) -3.43, 0.10} -6.82)_—-7.95,
+
+74
+
+--- Page 75 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure J-2
+
+2006-2007 Estimated Number of Fatalities per Day of Week
+Day of Week| GA KZ wc EC FS MP NW LI NC RSA
+Sun 715) 512) 312) 308) 200} 315) 291 244) 73| 2,971
+Mon 404) 314] 226) 168) 176 162] 89} 158) 27|__ 1,725)
+Tue 286) 310} 131 180 97 116) 119) 73) 29} 1,341
+Wed 285 222| 145] 150} 99| 153} 94] 157 28] 1,332)
+Thu 355 344] 145) 151 125) 184 110} 122) 42| 1,577
+Fri 550} 466 288} 329| 190} 288} 231 242| 97|_ 2,681
+Sat 920 803} 420) 401 276) 313} 323} 320] 112) 3,888}
+Total 3,515} 2,970) 1,668} 1,687, 1,163| 1,532} 1,257) 1,316 407} 15,515)
+2007-2008 Estimated Number of Fatalities per Day of Week
+Day of Week| GA KZ wc EC FS MP NW Ll NC RSA
+Sun 585) 372 327| 318) 233} 384] 218) 283) 70| 2,789)
+Mon 346) 353} 174 185] 112) 177| 114) 132 18] 1,611
+Tue 289} 250} 124) 181 130 122| 123) 114 48} 1,381
+Wed 302| 208} 139] 137 91 152| 118) 116 44) 1,303)
+Thu 293} 233} 163} 187| 96 170 100] 125) 26] 1,393}
+Fri 446| 452| 263} 226| 186 276| 192) 221 74| 2,335)
+Sat 838} 576 439) 405) 241 443} 344) 397| 134) 3,816
+Total 3,100, 2,442) 1,623 1,638, 1,088, 1,724| 1,210| 1,388| 414] 14,627|
+Change Estimated Number of Fatalities per Day of Week
+Day of Week| GA KZ wc EC FS MP NW Ll NC RSA
+Sun -130| -140| 14 10 32| 69} -73} 39} -3) 182)
+Mon -58| 38] -53} 17 -64| 15 25) -26| -9 -114)
+Tue 3 -60| -7| 2| 33) 6 4| 4 19 40
+Wed 17 -14] -10 -13) -8) -1 24) -41 16 +29)
+Thu -62| 7112) 18 35] -29| -14| -9| 3 -15| 7184)
+Fri -104) -14] -25] -104) -4| -12| -39| -20| -23| +346)
+Sat -82| -227| 19 4 -35| 130} 20 77| 22| -72|
+Total 415) +528) 44) -49| -75) 192) -47| 73} 6 -887|
+% Change Estimated Number of Fatalities per Day of Week
+Day of Week| GA KZ wc EC FS MP NW Ll NC RSA
+Sun -18.17| _-27.38) 4.60] 3.17} 16.05} 21.75 -25.00] 16.14) -4.36) -6.12)
+Mon 14.28) 12.12) -23.29} 9.95} -36.17| 9.14] 28.10 -16.37| -33.87|  -6.62|
+Tue 1.19) -19.42}  -5.62) 0.89} 33.60 4.98) 3.54, 55.85) 64.58) 2.96
+Wed 6.11] 6.20] -7.10,-8.70| -8.04 -0.71| 25.33] -26.01] 58.79 -2.21
+Thu -17.49| -32.41] 12.46 23.49) -23.15) -7.41| —_ -8.33) 2.34, -36.75| -11.68)
+Fri 18.93, -2.91] -8.80} -31.49 -2.17| -4.23} -16.87| -8.37} -24.10| -12.90
+Sat -8.87| -28.28) 4.55] 1.02] -12.77| 41.38} 6.26, 23.96] 20.11] -1.84|
+Total 711.80) -17.78 -2.65, -2.92}  -6.44, 12.53} -3.77/ 5.53} 1.56 -5.72)
+
+75
+
+--- Page 76 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure K-1
+
+2006-2007 Number of Crashes per Time of Day
+
+Time of Day | GA KZ wc EC FS MP | NW Li NC | RSA
+1 11a 116) 38 58 35] 61 4d 29 12] 5A
+2 120) 33 5d 22 22] 32 26 38 gl 35)
+3 76) 49] 28 32 17 25 24 44] 6 00
+4 71 5: 40] 10) 28| 17| 3 23] EI 28
+5 73 49] 34 30 26) 10] 26 38 iQ 2
+6 109] 79 38 37| 25) 47| 29 24] 7 394)
+7 147| 82 41 51 40) 41 35 32 7 47.
+8 110, 109) 62 39 32] 31 32 22 7| 44!
+9 59) 69 47 32 26) 14 29 17 i3| og
+10 61 45] 37 45 29) 18 24 27| 629:
+14 5al 67 26 51 30) 33 26 27| i 32:
+12 73 61 33 39 33) 36 20 30 7 332
+13 62] 80 37 56 25) 35 27 45 Tol _37.
+14 104] 703] 64 65 35) 40] 36 41 13] 500)
+15 109| 153] 45] 63 32) 45) 39] 42] 15] Sal
+16 103] 138] 71 66 43] 43] 40 59 gf 571
+17 128,138) 48 87| 58) 51 45 58 25, 6:
+18 1581 2021 69 98 53 60 65 63 15784)
+19 231 244! 90 139] 61 702] 69 67| 241,02"
+20 305212] 127| 98 7a 115] 107| 91 28] 1,154!
+21 266133] 107| 93 44] 91 73 60 17 B88
+22 175| 106) 94 74] 501 60 60 61 20,69!
+23 155|___ 108) 67 37| 41 58 er) 49 13] 57!
+24 137| 76 60 49 36 49) 27 40 14 488)
+
+Total 3,003| 2,502] 1,358|_ 14,3751 894] 1,11 990) 4,026[ 308] 12.577
+
+2007-2008 Number of Crashes per Time of Day
+
+Time of Day | GA KZ wc EC FS MP | NW ul NC | RSA
+1 126] 80 69 61 48) 60 4 47| 53:
+2 106) 36] 40| 31 28 33] 23] 3] 19] 352]
+3 81 39 37 39 22] 33 28 32 gl 34
+4 76 28 33 21 17 32 25 25 gl 26!
+BI 72 39] 27| 20) 18] 35] 29] 27| 9 276|
+6 100) 68 29 32 29) 42] 26 33 rl 3711
+7 111 53 46 36 25) 46 36 38 5] 39%
+8 119] 72 55 54] 33) 30 33 40 11 446
+9 51 50 41 36 16, 29 13 2al 2] 26:
+10 47| 63 36 33 14] 28 19 29 4 272
+1 60) 55 30 35 19] 27 34 19 15, 234
+12 56 56] 42] 50] 21 39] 14 18] gf 30:
+13 62 50) 34] 54l 1 37 30 31 6 31
+14 72 77 50) 47| 32 36] 29] 40] gf 395]
+15 89] 83 62 55 22] 63 41 44] 646!
+16 114] 110 49 73 36] 67 37 30 23) 5
+17 110{ 109) 57 6 45) 54 55 59 7 559)
+18 132{ 135) 62 94] 31 60 59 77 T5|__ 664)
+19 223 208 103] 105] 69) 94 84 82 23) 9911
+20 2601185) 107| 107| 52a 102] 90 86 211 7,011
+21 2501134 91 89 54 92 91 738 37| 914
+22 169] ral 87| 61 46 75 57| 48 io| 624)
+23 122| 80] 81 47| 30) 59] 31 41 P| 503|
+24 138] 65] 71 39] 56 43 33] 47| gf 500
+
+Total 2,746 1,946] 1,335| 1,281 774|__ 1,22: 956 1,029[ 287 11.577)
+
+76
+
+--- Page 77 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure K-2
+
+2006-2007 Estimated Number of Fatalities per Time of Day
+Time of Day |_ GA KZ wc EC FS MP NW ul NC RSA
+1 143) 145} 60 72 48) 82 50} 38) 1 649)
+2 150) 43} 66 30) 41 56 28) 55} 1 481)
+3 87 61) 37| 36 18 35] 33) 51 15 372)
+4 85) 58} 47| 1 32) 17 At 25) 13 329)
+5 92) 69 37| 38) 33) 10} 43) 45) 13) 380)
+6 141 98) A9| 42| 29) 61) 39} 58) 7 524
+7 159) 101) 54 62) 51 60, 43} 52) g 591}
+8 122) 115} 103} 51 38) 36 36] 27 10 5:
+9 63 70| 53 36] 37 19] 35 17| 15 3
+10 64 57 46) 56) 35) 19] 27| 33) g 347)
+4 57 78 37| 62) 37| 39 30 32) 14 386
+12 83) 75) 35) 55] 38) 42 241 30) 7 389)
+13 67 100] 42| 69} 25) 51) 33 52) 1 451)
+14 118) 122] 71 72 48) 65] 44] 55} 15] a
+15 128) 187 64] 75) 46) 94 65) 61 15 73
+16 144 185} 84] 74 47| 65 47| 71 17 735)
+17 150) 153} 51 107) 77 64 55) 73) 30) 761
+18 182) 268) 81 110) 58) 771 81 83) 19) 958)
+19 267| 259) 109 184) 82 126 81 82) 37|__1,227|
+20 390} 252] 141 118) 96) 158} 129| 114) 36) 1 434
+21 298} 157 123) 109} 59} 130} 123) 77 21 1,09:
+22 187| 118) 113) 109 66) 87| 79, 76 31 867
+23 182) 119} 80) 48} 72 67| 62 61 19 709)
+24 158) 79 85 62) 48) 74 29) 46 21 601
+Total. 3,515] 2.9701 1.61 1,68) 1,163} 1,532) 1,25' 1,316 407| 15,515)
+2007-2008 Estimated Number of Fatalities per Time of Day
+Time of Day |_ GA KZ wc EC FS MP NW Ll NC RSA
+1 151 119} 81 68) 57} 411) 52) 56) g 701
+2 119) 39] 50} 37| 36) 68) 27| 44 31 453)
+3 92) 47 A9| 58) 27 47 31 46 1 410|
+4 93} 45 At 25) 2 42 4 3 g 351)
+5 98) 50) 30 27 30) 50) A0| 29) 14 369)
+6 122) 99] 33 44 70 52] 34 42 44 535)
+7 124) 60) 60 50) 40) 76, 43) 56) 4 521
+8 138) 137| 73) 75) 43) 39] AO| 51 12 608)
+§) 60) 74 43} 50} 25) 35] 16 39) 349
+10 49) 85] AO| 34) 15 38) 2 57] 4 3
+4 61 60] 36] 46 22) 35} 48) 36 15) 359)
+12 60) 61) 47| 62) 42 57| 22| 21 9 382)
+13 68) 55) 39) 80) 17 47 37| 35) ic 385]
+14 73) 90) 58} 54) 56) 52 33 56) 14 487|
+15 100) 92 67 72 25) 74 46) A9| 16 542!
+16 120) 144 60 88) 53} 72 4 33} 23) 635]
+17 120) 149} 62 94 56) 79 74 79) 7} 719)
+18 138) 175 78) 112) 39) 79 75) 97 29) 821
+19 254) 221 134] 116, 411 135] 107 117 29) 1,224)
+20 294) 226} 127| 149) 63) 120] 113) 112) 23) 1,227
+21 278) 155} 110 105) 66) 126] 100} 99 45) 1,03
+22 195) 87 108} 84) 66) 108} 74 64) 19 80:
+23 129) 97 106 61 40) 116] 53} 58) 26 686
+24 163) 74 90] 44 67| 64 At 80) 4 633
+Total 3,100} 2,442) 1,62: 1,638) 1,088} 1,724) 1,21 1,388} 414| 14,627)
+
+77
+
+--- Page 78 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure L
+Estimated Cost of Fatal Crashes per Type of Crash - Rand million
+
+2006-2007 GA KZ wc EC FS MP NW LI NC RSA
+Pedestrian & Hit and Run 1,640, 1,553] 724, 724,356,442] ~=— 428] = 410, ~—sd102]—Si«é 3 79
+|Overtaking Related 799, ~624) 400,486 ~—«353] 468; +377] ~—«447)~—i137]~—=«,09
+Failure to Stop or Yield 220; —*157| 104] 92 90] EZ 79 82] 32) 937]
+|Unsafe Turning Manoeuvres 154. +106 56 60 50| 45] 58 60) 20) 610,
+Poor Visibility & Following Dist. 212] 140 73] 51 51 92] 42 65 10 737
+Other & Unknown 253] 151 126| 87 76 91 97| 58 35 975)
+{Total Cost of Crashes 3,278] 2,731| 1,482] 1,501] 976 1,222) 1,081 1,122) 336 13,730
+
+2007-2008 GA KZ wc EC FS MP NW LI NC RSA
+Pedestrian & Hit and Run 1,562} 1,245] 736 689] 290] ~—«466, «= 409] 412]~—«130] 5,939)
+(Overtaking Related 892] 531 459 504, 324, 584/407] 472,119] += 4,29
+Failure to Stop or Yield 197, «+118 114] 96 82 —«(126) Ee 93] 29 937]
+|Unsafe Turning Manoeuvres 129] 79) 55 51 54 50| 44] 63] 16 540)
+Poor Visibility & Following Dist. 194] 141 44| 44| 79) 102] 59| 72 g 742|
+lOther & Unknown 173, ‘117 123] 84 58 75 94] 69] 26] 819)
+|Total Cost of Crashes 3,1 2,231 1,530} 1,468} 887; 1,402) 1,096 1,179) 329} 13,270}
+
+Change GA KZ wc EC FS MP NW LI NC RSA
+IPedestrian & Hit and Run 77, -309) 13,35] «6 24-19) EI 27 -440|
+lOvertaking Related 93 93] 59 a 30] 25-18 201
+Failure to Stop or Yield -23) -39 10 4 E| 43 E| 10] 2 1
+|Unsafe Turning Manoeuvres -26| -27 - E-) 3 4-14] 3 -4) -70|
+Poor Visibility & Following Dist. -18 1 -29 -7 27 | 17| 4 -1 5|
+|Other & Unknown 79) =34 4 3-18-17 3 10| cE) -156|
+|Total Cost of Crashes -131] -501| 48 -33) -89) 180] 1 57 -7| -460)
+
+% Change GA KZ wc EC FS MP NW LI NC RSA
+[Pedestrian & Hit and Run -4.72| -19.87} 1.76| -4.84  -18.42) 5.40) -4.43) 0.5: 26.57| ~6.89)
+(Overtaking Related 11.63} -14.85} 14.69) 3.68) -8.18) 24.78) 8.04) 5.49} -13.37] 4.90}
+[Failure to Stop or Yield -10.32) -24.74) 9.36] 4.33) -8.56) 52.73) 6.04) 12.6% 7.2! 0.07|
+\Unsafe Turning Manoeuvres -16.72) -25.76} -0.62)  -15.49} 6.96) 9.85) -24.78) 5.55} -19.16) -11.44)
+[Poor Visibility & Following Dist. -8.61 0.66} -40.24)  -14.32 53.50} 9.91 40.42) 9.73] -13.59) 0.63}
+(Other & Unknown -31.41 -22.68) -3.02) -3.21] -23.17)  -18.23) -3.56] 17.92] -24.74) -16.02|
+|Total Cost of Crashes 3.91 18.33) 3.22} 72.18} -9.09) 14.76 1.3: 5.10) 72.16 ~3.35)
+
+78
+
+--- Page 79 ---
+Road Traffic Management Corporation
+
+Rolling 12-month total number of fatal cras
+over the past 36 months.
+
+Road Traffic Report — March 2008
+
+Annexure M
+
+hes and fatalities per Province per month
+
+Number of Crashes & Fatalities
+Rolling 12-month : RSA
+
+16000
+15000
+14000
+13000
+12000
+11000
+10000
+
+ear
+
+AJAODFAJAODFAJAODF
+MJSNJIMMJSNJMMJSNUJM
+Month of Year
+
+-=- crashes -=- fatalities
+
+Number of Crashes & Fatalities
+Rolling 12-month : Gauteng
+
+wt
+———
+
+AJAODFAJAODFAJAODF
+MJSNJMMJISNJMMJSNUM
+Month of Year
+
+3600
+
+-= crashes -= fatalities
+
+Number of Crashes & Fatalities
+Rolling 12-month : KwaZulu-Natal
+
+Number of Crashes & Fatalities
+Rolling 12-month : Western Cape
+
+3000 1700
+2800 |
+2400 1500
+2200
+2000 00
+1800 1300
+AJAODFAJAODFAJAODF AJAODFAJAODFAJAODFE
+MJSNJIMMJSNJMMJSNJM MJSNJIMMJSNJMMJSNJM
+Month of Year Month of Year
+-= crashes -= fatalities -= crashes -=- fatalities
+Number of Crashes & Fatalities Number of Crashes & Fatalities
+Rolling 12-month : Eastern Cape Rolling 12-month : Free State
+1800 1300
+1600 {5 1200
+1400 L109)
+Nee 1000
+1200 900
+1000 800
+BRT AODFAJAODFAJAODE 0 SAODFAJAODFAIJAODE
+MJSNJMMJSNJMMUJSNJM MJSNJIMMJSNJMMJSNUJM
+Month of Year Month of Year
+= crashes -= fatalities ~= crashes -=- fatalities
+Number of Crashes & Fatalities Number of Crashes & Fatalities
+Rolling 12-month : Mpumalanga Rolling 12-month : North West
+1800 1300
+—— panne |
+1600 1200
+|e aera vo |
+1400
+1000
+— oe aa
+1000 800
+
+AJAODFAJAODFAJAODE
+MJSNJMMJSNJMMJSNUM
+Month of Year
+
+~= crashes -=- fatalities
+
+AJAODFAJAODFAJAODF
+MJSNJMMJISNJMMJSNUM
+Month of Year
+
+~=- crashes -=- fatalities
+
+79
+
+--- Page 80 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Number of Crashes & Fatalities
+Rolling 12-month : Limpopo
+1500
+
+1400
+1300 |
+1200
+1100
+
+1000 | pen
+900
+
+800
+
+AJAODFAJAODFAJAODE
+MJSNJMMJSNJMMJSNUM
+Month of Year
+
+= crashes -=- fatalities
+
+Number of Crashes & Fatalities
+Rolling 12-month : Northern Cape
+
+Poe
+
+AJTAODFAJAODFAJAODE
+MJSNJMMJSNJMMJSNJM
+Month of Year
+
+-=- crashes -=- fatalities
+
+80
+
+--- Page 81 ---
+Road Traffic Management Corporation Road Traffic Report — March 2008
+
+Annexure N
+
+Percent annual change in rolling 12-month total number of fatal crashes and fatalities
+per Province per month over the past 36 months.
+
+% Change in Crashes & Fatalities
+
+% Change in Crashes & Fatalities
+
+RSA Gauteng
+15 20
+4 — PA z 15
+10 40 |
+5] 5
+0 0
+5
+5 -10
+-10 15
+AJAODFAJAODFAJAODF AJAODFAJAODFAJAODF
+MJSNUJMMJISNJMMJSNUM MJSNJMMJSNJMMJSNUM
+Month of Year Month of Year
+-=-crashes -=- fatalities -=- crashes -=- fatalities
+% Change in Crashes & Fatalities % Change in Crashes & Fatalities
+KwaZulu-Natal Western Cape
+10 15
+oy 10
+-10 5 RAE
+20 ° [Nel AY
+-30 5
+ASAODFAJAODFAJAODE AJAODFAJAODFAJAODFE
+MJSNJIMMJSNJIMMJSNUM MJSNJMMJSNJMMJSNUJM
+Month of Year Month of Year
+“= crashes -=- fatalities -=- crashes -=- fatalities
+% Change in Crashes & Fatalities % Change in Crashes & Fatalities
+Eastern Cape Free State
+40 20
+30 10
+20
+oO
+10 +
+of} 10
+10 -20
+AJAODFAJAODFAJAODFE AJAODFAJAODFAJAODFE
+MJSNJMMJSNJMMJSNUM MJSNJMMJSNJMMIJSNUM
+Month of Year Month of Year
+= crashes -= fatalities = crashes -=- fatalities
+% Change in Crashes & Fatalities % Change in Crashes & Fatalities
+Mpumalanga North West
+20 25
+154 20
+15
+° 10
+5
+0 0
+5 5
+-10 -10
+
+AJAODFAJAODFAJAODFE
+MJSNJMMJSNJMMJSNUM
+Month of Year
+
+-= crashes -=- fatalities
+
+AJAODFAJAODFAJAODF
+MJSNJMMJSNJIMMJSNJM
+Month of Year
+
+= crashes -= fatalities
+
+81
+
+--- Page 82 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+% Change in Crashes & Fatalities
+
+% Change in Crashes & Fatalities
+Northern Cape
+
+Limpopo
+30 30
+20 20
+10 10
+| 0
+10 -10
+20 PORTAODFAIAODFAJAODE
+
+SNJMMJSNJIMMJ
+Month of Year
+
+-=- crashes -=- fatalities
+
+AJAODFAJAODFAJAODFE
+SNUM
+
+SNJMMJSNJIMMJSNJM
+Month of Year
+
+-= crashes -=- fatalities
+
+82
+
+
+--- Page 83 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Annexure O
+
+Rolling 12-month total number of fatal crashes and fatalities per 10,000 motorised
+
+vehicles per month per Province per month over the past 24 months.
+Crashes & Fatalities / 10,000 Vehicles Crashes & Fatalities / 10,000 Vehicles
+RSA Gauteng
+22 12.5
+21 12
+ea ——————— 11.5
+19 an
+18 10.5
+17 10
+16 95
+15 9
+“AWS TASOND JF MAM JASONDJEM 85 “XM JASONDIFMAMIJJASONDIFM
+Month Month
+-=- crashes -= fatalities —Septics fares
+Crashes & Fatalities / 10,000 Vehicles Crashes & Fatalities / 10,000 Vehicles
+KwaZulu-Natal Western Cape
+30 13.5
+28 13
+26 12.5
+24 12
+11.5
+ae a)
+20 ie es
+18 10
+us AMJJASONDJFMAMJJASONDJFM 9s AMJJASONDJFMAMJJASONDJFM
+Month Month
+-= crashes -=- fatalities = crashes -=- fatalities
+Crashes & Fatalities / 10,000 Vehicles Crashes & Fatalities / 10,000 Vehicles
+Eastern Cape Free State
+36 30
+34 = 28
+ba ee 26
+30 | 24
+28 22
+26 20
+24 18
+22 AMJJASONDJFMAMJJASONDJFM us AMJJASONDJFMAMJJASONDJFM
+Month Month
+-= crashes -=- fatalities -=-crashes -= fatalities
+Crashes & Fatalities / 10,000 Vehicles Crashes & Fatalities / 10,000 Vehicles
+Mpumalanga North West
+40 32
+38 = 30
+36
+34 —————— 28
+32 26
+30 24 |e
+aa 22
+2m AMJJASONDJFMAMJJASONDJFM eb AMJJASONDJFMAMJJASONDJFM
+Month Month
+-=-crashes -=- fatalities = crashes -= fatalities
+
+83
+
+--- Page 84 ---
+Road Traffic Management Corporation
+
+Road Traffic Report — March 2008
+
+Crashes & Fatalities / 10,000 Vehicles
+Limpopo
+
+Crashes & Fatalities / 10,000 Vehicles
+Northern Cape
+
+Bs eb &
+
+i
+
+AMJJASONDJFMAMJJASONDJEM
+Month
+
+-= crashes -=- fatalities
+
+Ty 28
+28 | OO
+24 \
+22
+20
+
+AMJJASONDJFMAMJJASONDJFM
+Month
+
+-=- crashes -=- fatalities
+
+84
+
+

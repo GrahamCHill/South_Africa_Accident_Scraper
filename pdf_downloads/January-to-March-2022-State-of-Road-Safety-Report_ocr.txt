@@ -1,0 +1,2022 @@
+--- Page 1 ---
+Road Traffic
+
+Management Corporation
+
+State of Road Safety Report: Quarter 4
+
+January - March 2022
+
+Lg transport
+
+rr Department:
+Ki Transport
+REPUBLIC OF SOUTH AFRICA
+
+--- Page 2 ---
+Table of contents
+
+Table of contents
+List of Figures
+
+List of acronyms and abbreviations
+
+1. OBJECTIVE OF THE REPORT
+2. EXECUTIVE SUMMARY
+SECTION A
+
+1. INTRODUCTION
+
+2. METHODOLOGY
+
+3. FATAL ROAD CRASH ANALYSIS
+4. ROAD FATALITIES ANALYSIS
+5. MAJOR CRASHES
+
+SECTION B
+
+1. INTRODUCTION
+
+2. VEHICLE POPULATION
+APPENDIX A
+
+APPENDIX B-1
+APPENDIX B-2
+
+APPENDIX B-3
+
+2
+
+Road
+
+affic
+
+10
+19
+27
+33
+33
+33
+48
+49
+50
+51
+
+--- Page 3 ---
+List of Tables
+
+Table 1: Number of fatal crashes per ProvViNCe .........seeeeeeeeeeeee sees nese eeneeeneeeeeeeeenees 10
+
+Table 2: Percentage distribution of Fatal Crashes per day of Week...........ce:eeeeeeee ees 11
+
+Table 3: Comparison of fatalities per province for the two quarters .
+
+Table 4: Number of major crashes, fatalities, and injuries per province..............0 28
+Table 5: Number of registered vehicles per tyP@.........cseeeeeseeeeeeeeeeeeeneeeeeeaeeeeeeaees 33
+Table 6: Number of registered vehicles per Province ..........cseeeeeeeeeeeeeeeeeeeeeeeneeeaees 35
+Table 7: Number of learner licences iSSUCd..........:ccccsceeeeeeeeeeaeeesae sense eeeeeeeesaeeenees 37
+
+Table 8: Number of learners licences issued per province ..
+
+Table 9: Number of driving licences iSSUCC ..........ceceeeee eee eee eee eeeeeeeeeeaeeeeeeaeeneeeaees 39
+Table 10: Number and percentage of driving licences issued per category .............. 41
+Table 11: Number of driving licences issued per Province ..........cceeeeeeneeeeeeeeeeeeenees 41
+Table 12: Number of driving licences cards issued and expired per province........... 42
+Table 13: Number of PrDP's iSSUCd ..........cccceceeceeeeeesee cess eeeeeeeeesueeeseeeeeeeeeesaeeenegs 43
+Table 14: Number of professional driving permits (PrDP's) issued per province ....... 44
+
+Table 15: Number of professional driving permits (PrDP's) issued and expired per
+45
+
+province .
+
+--- Page 4 ---
+List of Figures
+
+Figure 1:
+Figure 2:
+Figure 3:
+Figure 4:
+Figure 5:
+Figure 6:
+Figure 7:
+Figure 8:
+
+Figure 9:
+
+Figure 10:
+Figure 11:
+Figure 12:
+Figure 13:
+Figure 14:
+Figure 15:
+Figure 16:
+Figure 17:
+Figure 18:
+Figure 19:
+Figure 20:
+Figure 21:
+Figure 22:
+Figure 23:
+
+Figure 24:
+
+Percentage distribution of fatal crashes for the two quarters ............:.:0 1
+Percentage distribution of fatal crashes per day of WeeK...........:eeeeeeeeee eee 2
+Percentage distribution of fatal crashes per time of day.. 2
+Percentage distribution of fatal crashes per crash type@..........sceeeeeneee nena ee 3
+Percentage distribution of fatal crashes per vehicle type...........:eseeeeeeeee ee 4
+Comparison of contributory faCtOrs .........eeeeeeee eee eee nese neta tenets eeaeene eens 5
+Percentage distribution of humaN faCtOrs ..........ceeeeeeeeee sees teen tena een eeeeeeeee 6
+Percentage distribution of road and environmental factors... 7
+Percentage distribution for vehicle factor ...........sceceeeeeeneeeeeeeeeee tenses eeeee 8
+Percentage distribution of fatalities per Province ..........:ceceseeeeeeeeeeeeen ees 20
+Percentage distribution of fatalities per road USEF ..........eeeeeeeeeeeeeeeeeen ees 21
+Percentage distribution of fatalities per Gender...........ceeeeeeseeeeeeeeee seen ees 22
+Percentage distribution of fatalities per raCe ....... ce ceeeeeeeeeeeneee neta eeeeeen ees 23
+Percentage distribution of fatalities per age for drivers .........ceeeeeeeeee ees 24
+Percentage distribution of fatalities per age for passenger..
+Percentage distribution of fatalities per age for pedestrians................ 26
+Percentage distribution of fatalities per age for cyclistS.............:seeeeeeeees 26
+Number of major crashes, fatalities, and injurieS.............ccceeeeeeeeee eee eee 27
+Number of major crashes, fatalities, and injuries per province.............. 29
+
+Percentage distribution of fatal crashes per day of week.
+
+Crash types for Major CrASHES........cceeeeee eee ee eee e eee eee este teases eeaeeneeea ees 30
+Vehicles involved in Major CraSheS..........cceeeeeeneee eee eeeeeeeeeeeeeaeeneeeneeaee 31
+Contributory faCtOrs 1.0... ceeeee cece eee eee eee e eee eeea teases eeaeeea een eeeaeeaeeneeenees 32
+Percentage Annual Growth in Vehicles ............cseeeeeeeeeeeeeeeeeeeeeeeneeeaeeeee 34
+
+--- Page 5 ---
+Figure 25:
+Figure 26:
+Figure 27:
+Figure 28:
+Figure 29:
+Figure 30:
+Figure 31:
+Figure 32:
+Figure 33:
+
+Figure 34:
+
+Percentage Annual Growth in Vehicle Population ...........:.:cseeeeeeeeeeeeen ees 35
+Percentage Vehicles Registered per Province .........:seceeeeeeeeeeeeeeeeeeeenees 36
+Number of learner licenses iSSUCS ..........cccceseeeeeeeeeseeeeeeeeeeeeeeesaneenenees 37
+Percentage change in learner licenses issued per province ...........:0eeeeeee 39
+Number of driving licenses iSSUEC ...........:seeeeeeeee eee eeee seen eeeeeeeeeneeeneeaee 40
+
+Percentage change in driving licenses iSSUEC ............:eeeeeeeneee neta eeneeen eee 41
+
+Percentage expired driving license cards...
+Number of PrDP's iSSUCd ........ccccsccceeeeeeeeeeeeeeeeeeeeeeseeeeeseeeeeaeeesaeeenenees 43
+
+Percentage in PrDP's iSSUCC ..........eeceeeeee eee eeeeeeea een eeeeeeaeeneeeaeeanene eens 44
+
+Percentage expired professional driving permits ............:cccsseeeeeeeeeeeee ees 45
+
+--- Page 6 ---
+List of acronyms and abbreviations
+
+CHOCOR
+
+EC
+
+GA
+
+FS
+
+LI
+
+MP
+
+NC
+
+NW
+
+wc
+
+KZN
+
+SAPS
+
+NATIS
+
+CULPABLE HOMICIDE CRIME: OBSERVATION REPORT
+EASTERN CAPE
+
+GAUTENG
+
+FREE STATE
+
+LIMPOPO
+
+MPUMALANGA
+
+NORTHERN CAPE
+
+NORTH WEST
+
+WESTERN CAPE
+
+KWAZULU NATAL
+
+SOUTH AFRICAN POLICE SERVICE
+
+ELECTRONIC NATIONAL TRAFFIC INFORMATION SYSTEM
+
+
+--- Page 7 ---
+Road Traffic
+
+1. OBJECTIVE OF THE REPORT
+
+This report aims at achieving the following objectives:
+
+e To provide road traffic fatal crashes and fatalities statistics based on the
+Culpable Homicide Crash: Observation Report (CHoCOR) Forms and provincial
+inputs; and
+
+e To present statistics on registered vehicles, un-roadworthy vehicles, un-licenced
+
+vehicles, driving licence and professional driving permits issued.
+
+--- Page 8 ---
+2. EXECUTIVE SUMMARY
+
+The purpose of the report is to provide final road crash statistics for the period
+
+January to March 2022. The performance is as provided below.
+
+Road Crashes Data
+
+A total number of 2 855 fatalities were recorded for the period January - March
+2022 from 2 373 fatal crashes. An increase of 10% has been recorded for fatal
+
+crashes and 12% increase for fatalities.
+
+A total number of twenty-eight (28) major crashes were reported and
+investigated for the period under review. One-hundred and eighty-seven (187)
+people were killed, and one hundred and thirty-six (136) victims sustained
+injuries from the major crashes. In total, all the above amount to three
+
+hundred and twenty-three casualties.
+
+Vehicle and driver population
+
+The number of registered vehicles increased by 286 210 (2,25%) from 12 747
+784 on 31 March 2021 to 13 033 994 vehicles as on the 31 March 2022.
+
+The number of learner driving licences issued increased by 177 115 (19,14%)
+from 925 170 on 31 March 2021 to 1 102 285 on 31 March 2022.
+
+--- Page 9 ---
+The number of driving licences issued increased by 503 261 (3,59%) from
+14 035 426 on 31 March 2021 to 14 538 687 as of 31 March 2022.
+
+The number of Professional Driving Permits (PrDP’s) issued decreased by 262
+296 (21,93%) from 1196 190 on 31 March 2021 to 933 894 on 31 March
+2022.
+
+--- Page 10 ---
+SECTION A
+
+1. INTRODUCTION
+
+This report is based on information about fatal crashes that were reported to
+police stations between January and March of 2021 and 2022 using the
+CHoCOR Forms and input from provinces. In addition, the report includes
+information about registered vehicles, learner driving licence, driving licence
+and professional driving permits issued from the National Traffic Information
+System (NaTIS).
+
+2. METHODOLOGY
+
+2.1 Road crash data collection methodology
+
+The Culpable Homicide Crash Observation Report (CHoCOR) form is used to
+collect fatal road crash data on daily basis. South African Police Service (SAPS)
+is the primary source of the fatal crash data. SAPS provide the Corporation
+with a list of all recorded fatal crashes (CAS list) and further to this, the
+Corporation receive the CHoCOR forms from various police stations and takes
+input from provinces. Road Traffic Management Corporation captures,
+
+processes, and verifies the data to compile a report.
+
+--- Page 11 ---
+2.2 Crash Data Flow
+
+The data is collected through the CHoCOR forms which are submitted to the
+Corporation either by fax, email or through the phone. Input is also given by
+
+provinces on fatal crashes and fatalities.
+2.3 Data processing
+
+The data is captured, verified and the consolidated statistics are compiled.
+
+There is a continuous engagement with provinces for validation purpose.
+
+2.4 Limitations
+
+The road traffic information contained in the report is based on the fatal
+crashes only. There is still a need for in-depth research to be conducted to
+
+collect scientific base facts to complement the administrative data.
+
+--- Page 12 ---
+Road Traffic
+
+3. FATAL ROAD CRASH ANALYSIS
+
+The section covers the data in relation to fatal road crashes, which
+encompasses the number of fatal crashes and fatalities, contributory factors,
+
+fatality information per road user group and major crashes.
+
+3.1 Number of fatal crashes
+
+The table below provides a comparison between the fourth quarter of financial
+year 2020/21 and fourth quarter of financial year 2021/22. An increase of 218
+(10%) has been recorded for the periods under review. With exception of
+Eastern Cape, Free State and Mpumalanga the other provinces recorded an
+increase in fatal crashes. The highest percentage increases are Northern Cape
+at 38%, North West at 22% and Gauteng at 21%.
+
+Number of Fatal Crashes per Province
+
+Quarter 4 EC FS GP KZN u MP NC NW WC RSA
+
+Jan - Mar 2021 283 | 143 | 428 | 390 | 227 | 199 58 143 | 284 2155
+Jan - Mar 2022 274 | 136 | 520 | 416 | 262 | 193 80 175 | 317 2373
+Change 9 7 92 26 35 6 22 32 33 218
+% Change 3 5 21 7 15 3 38 22 12 10
+
+Table 1: Number of fatal crashes per province
+
+10
+
+--- Page 13 ---
+Road Traffic
+
+25%
+
+gq
+Ey
+nS Ss
+.
+
+15% = 4 FJ
+
+&
+
+ES] a «g
+10% < % ex 3
+
+s
+
+5% B
+on all
+
+miJan-Mar2021 Jan - Mar 2022
+
+Figure 1: Percentage distribution of fatal crashes for the two quarters
+
+The Figure above indicates the percentage distribution per province of fatal
+crashes for the two quarters. The highest contributors to fatal crashes during
+quarter four of financial year 2021/22 in percentage are Gauteng at 22%,
+Kwa-Zulu Natal at 18%, Western Cape at 13% and Eastern Cape at 12%.
+
+3.1.1 Fatal Crashes per Day of Week
+
+The details of the fatal crashes per day of the week is given in the table below.
+Friday, Saturday, and Sunday are the days of the week with most fatal crashes
+recorded compared to other days. About 59% of fatal crashes were recorded
+for the three days for 2021 whilst about 58% were recorded for the same days
+in 2022.
+
+Quarter 4 Sun Mon Tue Wed Thurs_ Fri Sat ‘Total
+Jan - Mar 2021 20% 13% 10% 10% 8% 16% 23% | 100%
+Jan - Mar 2022 22% 13% 9% 9% 10% 13% 23% | 100%
+
+Table 2: Percentage distribution of Fatal Crashes per day of week
+
+The percentage of fatal crashes per day of the week for the period under review is
+
+reflected in the figure below.
+
+11
+
+--- Page 14 ---
+Road Traffic
+
+Pa
+
+25%
+
+20%
+
+15%
+
+10%
+
+S%
+O%
+RY RY s ey RY
+oa oe se & rom
+
+mQ4 2021 =™Q42022
+
+Figure 2: Percentage distribution of fatal crashes per day of week
+
+3.1.2 Fatal Crashes per time of day
+
+The percentage of fatal crashes per time of day for the period under review is
+reflected in the figure below.
+
+——a42021 ——Q42022
+
+Figure 3: Percentage distribution of fatal crashes per time of day
+
+The figure above depicts a comparison between fatal crashes per time of day
+comparing quarter 4 of 2021 and 2022. From the above figure crashes started
+peaking from 13h00 until 22:00. The highest pick being between 19:00 to
+
+12
+
+--- Page 15 ---
+20:00 time slot with 9% contribution in 2021 and 2022; this is followed by the
+time period between 20:00 to 21:00 time slot with 8% and 7% for 2021 and
+
+2022.
+
+3.1.3 Fatal crashes per crash type
+
+The percentage contribution of fatal crashes per crash type is reflected
+
+figure below.
+
+35%
+30%
+25%
+20%
+15%
+10%
+
+5%
+
+0%
+
+Figure 4: Percentage distribution of fatal crashes per crash type
+
+in the
+
+The figure above show that the top three crash types are with pedestrians at 30%, Hit
+
+and Run at 19% and single vehicle overturned at 17% in quarter four 2021/22
+
+13
+
+--- Page 16 ---
+financial year. Hit and runs and accident with pedestrians accounted for 49% of crash
+
+types in that period.
+
+3.1.4 Fatal crashes per vehicle type
+
+The percentage contribution of various vehicles involved in the fatal crashes
+
+are reflected in the figure below.
+
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+
+5%
+
+0%
+
+mQ4 2021
+m™ Q4 2022
+
+Figure 5: Percentage distribution of fatal crashes per vehicle type
+
+The vehicle types that are mostly involved in fatal crashes are the motorcars
+
+and light delivery vehicles. However, a slight reduction has been recorded for
+
+both compared to the previous year. A reduction of 3% has been observed for
+
+motorcars and 2% for light delivery vehicles.
+
+14
+
+--- Page 17 ---
+Road Traffic
+
+3.2 Contributory factors
+
+The contributory factors for fatal road crashes are determined as follows:
+human factors (defined as a stable, general human abilities and limitations that
+are valid for all users regardless); vehicle factors (are more focussed on the
+vehicle itself and they cover issues around mechanical failures; and
+environment (include limited visibility, poorly marked roads, missing road
+signs, sudden changes in road infrastructure, gravel road, the state of the road
+
+and weather conditions).
+
+84% 85%
+
+90%
+80%
+70%
+60%
+50%
+40%
+30% 10% 11% 5% 4%
+20%
+10%
+
+Human Factors Road and Vehicle Factors
+Environmental Factors
+
+™Q42021 =Q42022
+
+Figure 6: Comparison of contributory factors
+
+The figure above shows that most fatal crashes do occur due to human factors.
+In 2020/21 human factors contributed 84% to fatal crashes and 85% in
+
+2021/22. The roads and environmental factors contribute 10% to fatal crashes
+
+15
+
+--- Page 18 ---
+Road Traffic
+
+in 2020/21 and 11% in 2021/22. Vehicle factors contribute 5% to fatal crashes
+in 2020/21 and 4% in 2021/22.
+
+Jay-walking pedestrian 32%
+
+Hitand-run
+
+Other
+
+Speed too high for circumstances
+Overtook in face of oncoming traffic
+Intoxicated driver with liquor/drug usage
+Overtook across barrierline
+
+Turned in front of oncoming traffic
+Disregard for red traffic lights
+
+BH
+w%
+Disregard for stop sign [iP 7%
+3°
+we
+%
+
+Fatigue: driver falling asleep
+
+Trapped/fallen out
+
+Intoxicated pedestrian with liquor/drug usage
+U-turn
+
+Followed vehicle too closely
+
+8%
+
+4%
+Cell phone handling/Usage |’ 53%
+5%
+8%
+
+we
+
+Disregard for yield sign
+Intoxicated cyclist with liquor/drug usage
+
+0% 5% 10% 15% 20% 25% 30% 35%
+
+™Q42022 mQ42021
+
+Figure 7: Percentage distribution of human factors
+
+A reduction of 4% was recorded for Jay-walking from 32% in 2020/21 to 28%
+in 2021/22. Hit-and-run increased by 4% from 19% in 2020/21 to 23% in
+
+2021/2. Speed went up by 3% from 8% to 11%.
+
+16
+
+--- Page 19 ---
+Road Traffic
+
+Visibility: poor 16%
+Lighting: poor
+
+Sharp bend
+
+Road surface: wet/slippery
+
+Other
+
+Road surface: poor
+
+Road markings: poor/inadequate/none
+Road works
+
+Visibility: smoke/for/rain/ete
+
+Road traffic: lane narrow
+
+Animals: stray/wild
+
+Blind corner
+
+Road signs: poor/inadequate/none
+Traffic lights: defective
+
+Blind rise
+
+0% 5% 10% 15% 20%
+mQ42022) «= Q42021
+
+Figure 8: Percentage distribution of road and environmental factors
+
+The figure above depicts the top five (5) factors in this category to be poor
+visibility, poor lighting, sharp bend, road surface being wet and road surface
+being poor. An increase of 5% has been recorded for poor visibility from 11%
+in 2020/21 to 16% recorded in 2021/22, and an increase of 6% from 9% in
+2020/21 to 15% in 2021/22 for poor lighting.
+
+17
+
+--- Page 20 ---
+Road Traffic
+
+60% xk m4 2021
+50% Pl = Q4 2022
+40%
+30%
+20% § § 8
+= - @ &
+10% gis & 35 88 8 Sx Ex fe ee &
+| 0 oo oe to EE Es te te
+a %, % %y *, ion Soe Fe Gon %e, %, %
+By %, , % %. ™, am, by,
+yy a nc nc Pr
+*e, % % a, ‘” %, ae ny
+%, “ey, % ig
+oy oe
+
+Figure 9: Percentage distribution for vehicle factor
+
+The figure above shows that within the vehicle factors most crashes occurred
+due to tyre burst prior to the crash which contributes of 52% during 2020/21
+and 53% in 2021/22 within this category. In 2021/22 there has been an
+increase of 7% for brakes being faulty and steering being faulty.
+
+18
+
+--- Page 21 ---
+Road Traffic
+
+4. ROAD FATALITIES ANALYSIS
+
+The section covers the data in relation to road fatalities. Fatalities are defined
+as when a person or persons are killed during or immediately after a crash, or
+death within 30 days after a crash happened as a direct result on such crash.
+This section will encompass the number of fatalities and percentage
+
+distribution per road user group, gender, race and per age.
+
+4.1 Number of fatalities per province
+
+Number of Fatalities per Province
+
+Quarter 4 EC FS GP KZN ul MP NC NW wc RSA
+
+Jan - Mar 2021 324 198 | 463 423 285 251 76 205 325 2550
+Jan - Mar 2022 358 169 578 | 459 337 263 100 235 356 2855
+Change 34 E29) 115 36 52 12 24 30 31 305
+% Change 10 715 25 9 18 5 32 15 10 12
+
+Table 3: Comparison of fatalities per province for the two quarters
+
+The table above shows a comparison of fatalities per province for the two
+quarters. An increase of 12% has been recorded for fatalities from 2 550 in
+2021 to 2 855 in 2022. Apart from Free State, all provinces recorded an
+increase during the period under review. The highest percentage change is in
+
+Northern Cape with 32% followed by Gauteng with a contribution of 25%.
+
+19
+
+--- Page 22 ---
+25%
+20%
+
+15%
+
+FS
+g
+3
+zx
+5 &
+§
+a 3 2 § B §
+bs FS a
+WB.
+a x
+10% wD
+é & &
+Fs
+5 | x =
+5
+om oll
+EC FS GP KZN u MP Nc NW we
+
+@Jan-Mar 2021 Jan - Mar 2022
+
+&
+
+Figure 10: Percentage distribution of fatalities per province
+
+The Figure above indicates the percentage distribution per province of fatal
+crashes for the two quarters. The highest contributors to fatal crashes during
+quarter four of financial year 2021/22 in percentage are Gauteng at 20%,
+Kwa-Zulu Natal at 16%, Eastern Cape at 13% and Western Cape at 12%.
+
+20
+
+--- Page 23 ---
+Road Traffic
+
+4.2 Number of Fatalities per Road User Group
+
+45% 40% 12%
+
+35% 29% 97% 29% 29%
+30%
+25%
+20%
+15% |
+
+10%
+5% | 27 126
+
+0% T
+Cyclist Driver Passenger Pedestrian
+
+™Q42021 == Q42022
+
+Figure 11: Percentage distribution of fatalities per road user
+
+The percentage distributions of fatalities for various road user groups are
+reflected in the figure above. Pedestrians make up to 40% of road fatalities
+
+year on year. Drivers and passengers make up 29% of fatalities each.
+
+21
+
+--- Page 24 ---
+Reed Tetis
+
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+0%
+
+76% 77%
+21%
+20%
+3% . 4%
+Female Male Unknown
+™Q42021 ™Q42022
+
+Figure 12: Percentage distribution of fatalities per gender
+
+The figure above depicts trends for fatalities per gender for the two quarters.
+
+Males make up a three quarters of road fatalities.
+
+22
+
+--- Page 25 ---
+80%
+
+90%
+
+79%
+
+80% +
+70%
+60% |
+50%
+40%
+
+20%
+Sx
+N
+
+0% T
+
+3 S x
+x x On Ra = rey
+10% | a Ga
+
+Asian Black Coloured Foreigner Other White
+
+mQ42021 ™Q42022
+
+Figure 13: Percentage distribution of fatalities per race
+
+Reed Tetis
+
+The figure above depicts trends for fatalities per race for the two quarters.
+
+Black are the most race that gets killed on road crashes.
+
+23
+
+--- Page 26 ---
+4.3. Road user group fatalities per age group
+
+The figures below provide information regarding the fatalities per age and per
+road user group for the period January to March 2021 and 2022.
+
+14%
+
+5
+a 8
+12% <
+ia PS
+10% - & Sx
+Ey
+FE
+8% |
+FS Se
+6% | Fs he
+BS
+4%
+% | x
+0% : z : mill ull
+ra
+
+Rad *o* a *o Pg Pe PO PD oe o® “" ‘o
+
+10%
+
+10%
+
+1%
+1%
+
+0%
+0%
+
+™Q42021 mQ4 2022
+
+Figure 14: Percentage distribution of fatalities per age for drivers
+
+The figure above shows 44% of driver fatalities were between the ages of 25
+and 44 in 2020/21 and 38% in 2021/22, with 35 to 39 year old at 13% in
+2020/21.
+
+24
+
+--- Page 27 ---
+Road Traffic
+
+14%
+
+12%
+
+&
+Bi
+¥
+|
+10% | a
+3
+3
+8% - 2 2 *
+Ps 38
+6% |
+ES
+&
+4% - Be 2 Be Fy ES
+os” xe 9S &
+ge § AR FN ay
+2% a =
+1 a BB EB BF ow ee
+
+oo MP PO OF PM Pm OP POP SF O MO SF
+SP PS PPS PP FPS SY SS KR ”
+
+™Q4 2021 =™Q4 2022
+
+Figure 15: Percentage distribution of fatalities per age for passenger
+The figure above shows 43% of passenger fatalities were between the ages of
+
+20 and 44 in 2020/21 and 37% in 2021/22, with 25 to 29 year old at 11% and
+30 to 34 at 12% in 2020/21.
+
+25
+
+--- Page 28 ---
+Figure 16: Percentage distribution of fatal
+
+ies per age for pedestrians
+
+12%
+Ey
+10% x
+se Es
+ae
+8%
+6% 55
+Se x =
+= =
+4% ~ 3s Be os 2 8 #
+8 wh 8 8
+ba ax
+2% x Rx
+fa k=
+0% =
+UMN a aa
+IN SGN a Sa ae " ae 49°
+™Q4 2021 =aQ4 2022
+
+The figure above indicates that most fatalities for pedestrians were recorded
+
+between the age group 30 to 34 years for 2020/21 and 2021/22.
+
+12%
+10%
+
+8%
+
+6%
+4% se
+ES
+. s af
+o%
+os —
+
+oF
+
+4%,
+5%
+
+fam 2
+
+2
+
+a
+SP SY
+
+™Q42021 ™Q4 2022
+
+-
+
+Figure 17: Percentage distribution of fatal
+
+'S per age for cyclists
+
+The figure above indicates that in 2020/21 most cyclist fatalities were recorded
+
+between age group 40 to 44. In 2021/22 the highest contribution was between
+
+the age group 25 to 29 and 35 to 39 years at 8% each.
+
+26
+
+--- Page 29 ---
+5. MAJOR CRASHES
+
+This section provides for all the major crashes for the period under review.
+Major crashes are defined as Crashes where five (5) or more people died,
+crashes involving vehicles carrying dangerous goods / hazardous chemicals
+where there is a fatality and a spillage of the dangerous goods / hazardous
+chemicals, high profile person and any crash that the Corporation deems
+
+necessary to investigate.
+
+5.1. Number of major crashes
+
+A total number of twenty-eight (28) major crashes were reported and
+investigated for the period under review. One-hundred and eighty-seven (187)
+people were killed, and one hundred and thirty-six (136) victims sustained
+injuries from the major crashes. In total, all the above amount to three
+
+hundred and twenty-three casualties.
+
+The figure below indicates the number of fatalities and injuries sustained
+during the period under review compared to the previous period. Similarly, the
+
+fatalities and injuries increased drastically.
+
+200 187
+S
+iz
+iz
+100 a6
+80
+“
+- Ls
+ae |
+
+Major Crashes Fatalities Injuries
+
+mt Q4-2021 = Q4-2022
+
+Figure 18: Number of major crashes, fatalities, and injuries
+
+27
+
+--- Page 30 ---
+The number of crashes and casualties for the 4" Quarter 2021/2022 compared
+to the 4 Quarter of 2020/2021 indicated an increase of 8 crashes or 40% in
+
+the number of crashes, and an increase of 47.24% in the number of fatalities.
+
+4'n Quarter of 2021/2022
+
+4th Quarter of 2021/2022
+
+Province
+Crashes Fatalities Crashes Fatalities
+Eastern Cape 4 25 7 46
+Free State 5 36 3 17
+Gauteng - - 4 18
+KwaZulu-Natal 1 4 1 7
+Limpopo 3 17 3 28
+Mpumalanga 1 5 6 33
+Northern Cape 2 ah 2 12
+North West 3 21 1 19
+Western Cape 1 8 1 7
+Total 20 127 28 187
+
+Table 4: Number of major crashes and fatalities per province
+
+With regards to the provincial share, most major crashes for 2021/22 were recorded
+
+in Eastern Cape and Mpumalanga with 7 and 6 respectively. Similarly, most fatalities
+
+have been recorded for the same provinces with 46 and 33.
+
+28
+
+--- Page 31 ---
+Reed Tetis
+
+GAUTENG
+NORTH WEST 4 CRASHES
+
+CRASH 18 FATALITIES
+
+19 FATALITIES 4.5 FATALITIES PER CRASH
+19.0 FATALITIES PER CRASH. SEVERITY RATE
+
+FREE STATE
+‘SCRASHES.
+
+17 FATALITIES
+
+‘5.6 FATALITIES PER
+
+UMPOPO
+‘CRASH SEVERITY RATE
+
+3 CRASHES
+
+9.3 FATALITIES PER
+CRASH SEVERITY RATE
+
+NORTHERN CAPE
+2 CRASHES
+12 FATALITIES
+6.0 FATALITIES
+PER CRASH
+SEVERITY RATE ere
+a CRASH
+7 FATALITIES
+7.0 FATALITIES PER CRASH
+SEVERITY RATE
+
+WESTERN CAPE
+1 CRASH
+
+7 FATALITIES
+7.0 FATALITIES
+PER CRASH
+
+7 CRASHES
+45 FATALITIES CRASHES
+
+6.5 FATALITIES PER CRASH 33 FATALITIES
+
+SEVERITY RATE 5.5 FATALITIES PER CRASH
+
+Figure 19: Number of major crashes, fatalities, and injuries per province
+
+The table below indicates the major crashes as they were recorded per day
+during the 4% Quarter of 2020/2021 and the 4* Quarter of 2021/2022. Most of
+the major crashes occurred over weekends. About 53% has been recorded for
+weekend from Friday to Sunday, whilst about 47% has been recorded from
+Monday - Thursday.
+
+40%
+
+35%
+
+35%
+30%
+25%
+
+20%
+
+4
+ES ES
+
+eee x x 3
+
+a = a
+15% 2s = xo
+
+a aa 5 =
+10% iJ
+5
+
+0%
+
+Monday Tuesday Wednesday Thursday Friday = Saturday Sunday
+
+1%
+
+&
+
+™ Major Crashes Q4 2020/2021 Major Crashes Q4 2021/2022
+
+Figure 20: Percentage distribution of fatal crashes per day of week
+
+29
+
+--- Page 32 ---
+Road Traffic
+
+5.2 Crash Types
+
+50% 46% @ Q4-2021
+
+25%
+S
+G > a & * & Ss & a é
+Sy ee oe > Ra ¢ & se @
+£ a & & 2 s & Ro
+x x
+x S
+
+Figure 21: Crash types for major crashes
+
+45%
+on GR @ Q4-2022
+35%
+30%
+25%
+20% 15% 15%
+15% 11% (11% 11% =
+= MD Mo Bo colo ~2 22 «2 ~2
+0% auld | oa le = )
+
+S BS
+
+e
+
+io SF
+
+The figure above depicts the major crash types that occurred during the 4'*quarters of
+2020/21 and 2021/22.
+
+Most of crash types investigated for 2020/21 and 2021/22 were as follows:
+e Head-On crash with 35% in 2020/21 and 46% in 2021/22;
+e Single Vehicle overturned 15% in 2020/21 and 11% in 2021/22 and
+
+¢ T-bone with 25% in 2020/21 and 11% in 2021/22.
+
+Head-on collisions had the highest percentage of major crashes.
+
+30
+
+--- Page 33 ---
+5.3 Vehicles Involved in Major Crashes
+
+gage Gee eee s
+
+24%
+16% -:
+14%
+2% 2%
+0% Oe
+LMV
+
+LDV Minibus Truck suv — Bus Minibus Ambulance
+Taxi
+
+1 Q4-2021 ™Q4-2022
+
+Figure 22: Vehicles involved in major crashes
+
+Most major crashes involved LMVs and LDVs.
+
+The following is the breakdown vehicle types:
+
+e Light Motor Vehicles (LMV’s) - 40% in 2021 and 24% in 2022
+
+e Light Delivery Vehicles (LDV’s) - 14% in 2021 and 16% in 2022
+e Minibus Taxi - 16% in 2021 and 20% in 2022
+
+e Trucks - 12% in 2021 and 14% in 2022
+
+e SUV - 16% in 2021 and 12% in 2022
+
+31
+
+--- Page 34 ---
+5.4 Contributory Factors
+
+90% 85%
+
+80% 75%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30% 25%
+
+2% 11%
+
+10% 4%
+
+_
+0% |
+Human Vehicle Road and
+
+Environment
+
+4 Q4-2021 ™Q4-2022
+
+Figure 23: Contributory factors
+
+The analysis from major fatal crashes report indicates that about 85% crashes
+occurred due to Driver/ Human Error during 2021/22 from 75% in 2020/21. A
+reduction from 25% in 2020/21 to 11% in 2021/22 on vehicle as a factor.
+
+32
+
+--- Page 35 ---
+SECTION B
+
+1.
+
+INTRODUCTION
+
+The section covers the vehicle population and human mobility data, as
+well as driver population. The vehicle population data will encompass the
+number of registered vehicles inclusive of the status of their
+roadworthiness and licencing, as well as human mobility in terms of the
+number of persons per vehicle. The driver population data covers the
+number of registered drivers including the status and categories of
+
+licences
+
+VEHICLE POPULATION
+Number of Registered Vehicles
+The number of registered vehicles increased by 286 210 (2,25%) from
+
+12 747 784 on 31 March 2021 to 13 033 994 vehicles as on the 31
+March 2022. Detail per type of vehicle is given in table below.
+
+Number of Number Number % % of % of
+Registered registered | registered Change Change Group Total
+Vehicles
+|Motorised Vehicles| Mar 2021 Mar 2022 Mar 2022 | Mar 2022
+[Motorcars 7531 996] 7 707 210 175 214! 2,33) 65,31 59,13)
+Minibuses 342 413) 351 426) 9 013) 2,63) 2,98) 2,70|
+IBuses 64 665) 64 106) -559| -0,86 0,54) 0,49}
+Motorcycles 339 428) 350 038} 10 610} 3,13} 2,97| 2,69)
+ILDV's - Bakkies 2630034] 2 684 247 54 213} 2,06| 22,75) 20,59}
+[Trucks 378 862| 390 403} 11541 3,05} 3,31 3,00}
+|Other & Unknown 248 772| 253 144) 4 372) 1,76 2,15) 1,94
+Total Motorised 11 536 170| 11 800 574] 264 404] 2,29) 100,00] 90,5:
+Towed Vehicles
+
+|Caravans 97 782) 97 6365} -147| -0,15| 7,92| 0,75)
+[Heavy Trailers 211 056| 223 157| 12101 5,73) 18,09} 1,71
+Light Trailers 888 178) 898 247/ 10 069} 1,13) 72,83) 6,89}
+|Other & Unknown 14 598) 14 382 -217| -1,48) 1,17 0,11
+{Total Towed 1211614 1233 421 21 807| 1,80] 100,00) 9,46}
+|All Vehicles 12 747 784] 13 033 994} 286 210) 2,25] 100,00)
+
+Table 5: Number of registered vehicles per type
+
+33
+
+--- Page 36 ---
+Road Traffic
+
+The table above shows that the highest percentage change within the
+motorized vehicles category is for motorcycles with an increase of 3,13%.
+Trucks recorded percentage change of 3,05%. On towed vehicles, the highest
+
+increase is 5,73% for heavy trailers.
+
+The monthly percentage change over the past year for motorised vehicles are
+
+shown in the figure below.
+
+% Annual Change in Motorised Vehicles
+Mar 2021 to Mar 2022
+
+4 Motorcycles
+3 =
+14
+5 eva Trucks
+
+7 aaa -
+1 1, a nal LDV's - Bakkies
+2 YY —
+
+Mch May Jul Sep Nov Jan Mch  —a—
+
+Apr Jun Aug Oct Dec Feb Minibuses
+Month
+
+Figure 24: Percentage Annual Growth in Vehicles
+
+34
+
+--- Page 37 ---
+The total motor vehicle population per Province for March 2021 and March
+
+2022 respectively, is given in tab
+
+le and reflected in the figure below.
+
+Number of Number Number % % of
+Registered Vehicles| registered | registered Change Change Total
+per Province Mar 2021 Mar 2022 Mar 2022
+
+|Gauteng 4 883 870} 4999 007| 115 137] 2,36} 38,35]
+[KwaZulu-Natal 1706524 1 748 096 41 572) 2,44 13,41
+|Western Cape 2.054.945} 2 098 846 43 901 2,14) 16,10}
+Eastern Cape 852 762) 869 062) 16 300) 1,91 6,67|
+Free State 642 001 651 374) 9 373) 1,46 5,00
+Mpumalanga 920 357| 933 099} 12 742) 1,38] 7,16|
+North West 644 656) 663 174) 18 518| 2,87| 5,09
+Limpopo 753 448) 776 606} 23 158) 3,07] 5,96)
+Northern Cape 289 221 294 730| 5 509| 1,90] 2,26|
+IRSA 12 747 784| 13 033 994} 286 210| 2,25) 100)
+
+Table 6: Number of registered vehicles per province
+
+The table above depicts the number of registered vehicles per province. The
+
+highest increase of 3,07% has been recorded for Limpopo from 753 448 in
+2021 to 776 606 in 2022. This province then followed by North West, KwaZulu-
+Natal and Gauteng 2,87%, 2,44% and 2,36% respectively.
+
+% Annual Growth in Vehicle Population
+Mar 2021 to Mar 2022
+
+3,5
+
+25
+
+ny
+
+1
+
+=
+a
+
+GA KZ
+
+we EC
+
+0 il
+
+FS MP NW LI NC RSA
+
+Figure 25: Percentage Annual Growth in Vehicle Population
+
+35
+
+--- Page 38 ---
+The percentage vehicles registered per province as on 31 March 2022 is
+
+reflected in the figure below.
+
+Northern Cape (2,26%)
+Limpopo (5,96%)
+
+North West (5,09%)
+Mpumalanga (7,16%) jauteng (38,35%)
+Free State (5,00%)
+
+Eastern Cape (6,67%)
+
+Western Cape (16,10%) waZulu-Natal (13,41%)
+
+Figure 26: Percentage Vehicles Registered per Province
+
+The information contained in the figure above depicts 38.31% of vehicles to
+
+have been registered in Gauteng province. Whilst Western Cape have a
+distribution of 16,10% and 13,41% for Kwa-Zulu Natal. These three provinces
+
+share a contribution of 67,86%. The remaining six (6) provinces share
+
+32,14%.
+
+More detailed information on the number of vehicles per type registered per
+
+Province for March 2021 and March 2022 is given in the table under Appendix
+
+A.
+
+36
+
+--- Page 39 ---
+3. Driver Population
+
+3.1 Learner Driving Licences
+
+The number of learner driving licences issued increased by 177 115 (19,14%)
+from 925 170 on 31 March 2021 to 1 102 285 on 31 March 2022. Detail on the
+
+number of learner driving licences issued per category is given in table below
+
+and graphically reflected in the figure below.
+
+Number of Learner Licences Issued
+Category Mar 2021 | Mar 2022 Change % Change
+1 29 072 34 905) 5 833} 20,06)
+2 172 578) 202 545] 29 967) 17,36
+3 723 520} 864 835] 141 315) 19,53)
+Total 925170) 1102 285) 177 115) 19,14)
+
+Table 7: Number of learner licences issued
+Learner driving licences are categorised as follows:
+
+« Category 1 : Motorcycle
+« Category 2 : Light Motor Vehicle
+« Category 3 : Heavy Motor Vehicle
+
+No. of Learner Driving Licences Issued
+
+1000000
+
+800000
+
+Cat1 Cat2 Cat3
+[2 Mar 2021 (ij Mar 2022
+
+Figure 27: Number of learner licenses issues
+
+37
+
+--- Page 40 ---
+The table and the figure above depict that most learners enrolled for category
+1 (motorcycle) and 3 (heavy motor vehicle) with 20,06% and 19,53%
+
+respectively. However, all the categories have recorded an increase compared
+
+to the previous year.
+
+Provincial information in this regard is given in the table below and the
+
+percentage change per Province over the 12-month period is
+
+figure below.
+
+reflected in the
+
+Number of Learners Licences Issued per Province
+Year GA KZN wc EC FS MP NW ul NC RSA
+[Mar 2021 292 427| 135536) 139157} 76909) 47690} 85086 50211] 77797) 20357 925 170}
+[Mar 2022 332 568} 186 849] 164108} 79275, 55902} 104768 60730} 93733 24352) 1102 285)
+(Change 40141] 51313) 24951 2 366 8212 19682 10519 15936 3 995} 177 115}
+\% Change 13,73) 37,86 17,93) 3,08) 17,22) 23,13) 20,95} 20,48) 19,62) 19,14
+
+Table 8: Number of learners licences issued per province
+
+With no exception, all
+
+he provinces have recorded an increase with regards to
+
+the number of Learner Licences issued. The highest increase has been
+recorded for Kwa-Zulu Natal and Mpumalanga with 37,86% and 23,13%
+
+respectively.
+
+38
+
+--- Page 41 ---
+40
+
+% Change in Learner Licences Issued
+
+GA KZN WC EC FS MP NW LI
+
+NC RSA
+
+Figure 28: Percentage change in learner licenses issued per province
+
+3.2 Driving Licences Issued and Expired
+
+3.2.1 Number of Driving Licences Issued
+
+The number of driving licences issued increased by 503 261 (3,59%) from
+14 035 426 on 31 March 2021 to 14 538 687 as of 31 March 2022. Details on
+
+the number of driving licences issued per category is given in table and
+
+graphically reflected in the figure below.
+
+Number of Driving Licences Issued
+
+Category Mar 2021 Mar 2022 Change % Change
+A 499 394} 506 770} 7 376 1,48)
+Al 122 567| 122 502) -65) -0,05]
+3 170 958) 3 286 384) 115 426} 3,64)
+24 599) 24 956) 357 1,45]
+C1 4 814 925) 5 139 098} 324 173} 6,73}
+EB 3 644 717) 3 648 504) 3 787 0,10)
+EC 1174574) 1 227 806 53 232] 4,53)
+EC1 583 692) 582 667] -1 025} -0,18)
+Total 14 035 426) 14 538 687) 503 261 3,59)
+
+Table 9: Number of driving licences issued
+
+39
+
+--- Page 42 ---
+Driving licences:
+
+Motorcycle < 125
+A | Motorcycle > 125 cub.cm | AL B Motor vehicle < 3,5000 kg
+cub.cm
+Motor vehicle 3,500 - Articulated motor vehicle
+€ | Motorvehicle > 16,000 kg | C4 EB
+16,000 kg <16,000 kg
+Articulated vehicle > Articulated vehicle 3,500 -
+EC Ec1
+16,000 kg 16,000 kg
+
+No. of Driving Licences Issued
+6000000
+
+5000000
+
+A At B C C1 EB EC EC1
+Mar 2021 ij Mar 2022
+
+Figure 29: Number of driving licenses issued
+
+The information contained in the table and figure above depict that the highest
+percentage change has been recorded for category C1, EC and B with 6,73%,
+4,53% and 3,64% respectively.
+
+The number and percentage (%) of driving licences issued per category at the
+end of March 2022 is reflected in the table below.
+
+40
+
+--- Page 43 ---
+Category Description Number %
+A Motorcycle > 125 cub.cm 506 770} 3,49}
+Al Motorcycle < 125 cub.cm 122 502) 0,84}
+B Motor vehicle < 3,5000 kg 3 286 384) 22,60)
+c Motor vehicle >16,000 kg 24 956] 0,17|
+C1 Motor vehicle 3,500 - 16,000 kg 5 139 098) 35,35
+EB Articulated motor vehicle < 16,000 kg 3 648 504 25,10)
+EC Articulated vehicle > 16,000 kg 1 227 806 8,45)
+EC1 Articulated vehicle 3,500 - 16,000 kg 582 667| 4,01
+Total 14 538 687) 100
+
+Table 10: Number and percentage of driving licences issued per category
+Provincial information in this regard is given in the table below and the
+percentage change regarding all licences issued per province is reflected in the
+
+figure below.
+
+Number of Driving Licences Issued per Province
+Year GA KZN wc EC FS MP NW ut NC RSA
+(Mar 2021 4 902 760) 2 251 621} 2 104 848 1025961) 685 407, 1055127) 657 294 1093 438 258 971 14 035 42%
+(Mar 2022 5 081 144) 2 332 828) 2 172 732) 1059217} 704 466 1100111) 680 829 1138229 269031 14 538 687|
+|\Change 178 384 81 207} 67 884} 33 256 19 059 44 984) 23 | 44791 10 061) 503 261)
+% Change 3,64 3,61 3,23) 3,24] 27a 4,26 3,60 4, 3,89, 3,5!
+
+Table 11: Number of driving licences issued per province
+
+% Change in Driving Licences Issued
+
+4,5
+
+2.5
+
+2
+
+GA KZN WC EC FS MP NW LI NC RSA
+
+Figure 30: Percentage change in driving licenses issued
+
+41
+
+--- Page 44 ---
+All the provinces have recorded an increase as stipulated in the table and
+figure above with regards to the number of Driving Licences issued. The
+highest increase has been recorded for Mpumalanga, Limpopo and Northern
+Cape with 4,26%, 4,10% and 3,89% respectively.
+
+3.2.2 Number of Driving Licence Cards Expired
+
+All the provinces have recorded an increase as stipulated in the table and
+figure above with regards to the number of Driving Licences issued. The
+highest increase has been recorded for Mpumalanga, Limpopo and Northern
+Cape with 4,26%, 4,10% and 3,89% respectively.
+
+(Mar 2022 Number of Driving Licence Cards Issued and Expired per Province
+|Category GA KZN wc EC FS MP NW u NC RSA
+jOn system 5 081 144) 2 332 828) 2 172 732) 1059217} 704 466 1100111] 680929) 1138229 269031 14 538 687)
+
+INot expired 4 238 850| 1 886 522) 1793 186 813064) 555187) 929702 569907| 968477) 223 478 11 978 373,
+
+[Expired 842 294) 446 306 379546 246153} 149279 170409} 111022 169752 45 55. 2 560 314)
+
+.% Expired 16,58) 19,1 17,47) 23,24) 21,19} 15,49) 16,36 14,91 16,9. 17,61)
+
+Table 12: Number of driving licences cards issued and expired per province
+
+% Expired Driving Licence Cards
+25
+
+GA KZN WC EC FS MP NW LI NC RSA
+
+Figure 31: Percentage expired driving license cards
+
+42
+
+--- Page 45 ---
+3.3 Professional Driving Permits Issued and Expired
+
+3.3.1 Number of Professional Driving Permits Issued
+
+The number of Professional Driving Permits (PrDP’s) issued decreased by 262
+296 (21,93%) from 1196 190 on 31 March 2021 to 933 894 on 31 March
+2022. Detail on the number of PrDPs issued per category is given in table
+
+below and graphically reflected in the figure below.
+
+Number of PrDP's Issued
+Category Mar 2021 Mar 2022 Change % Change
+G 8 274) 5 613) -2 661 -32,16}
+PG 1 139 560) 880 394| -259 166 -22,74
+DG 129) 136) 7| 5,43)
+DPG 48 227 47751 -476 -0,99}
+Total 1196 190) 933 894! -262 296) -21,93)
+
+Table 13: Number of PrDP's issued
+
+Professional Driving Permits (PrDPs)
+G: Goods
+
+P: Passengers
+
+D: Dangerous goods
+
+No. of PrDPs Issued
+
+1200000
+1000000
+
+P PG DG DPG
+[i Mar 2021 ij Mar 2022
+
+Figure 32: Number of PrDP's issued
+
+43
+
+--- Page 46 ---
+The table and figure above depict that most drivers do obtain PrDP’s for
+category P and G (Passegers and Goods).
+
+Provincial information in this regard is given in the table below and the
+percentage change regarding all categories of PrDP’s issued per Province is
+
+reflected in the figure below.
+
+Number of Professional Driving Permits (PrDP’s) Issued per Province
+Year GA KZN wc EC FS MP NW ul NC RSA
+[Mar 2021 325 004} 212548) 170406) 99 331 69 235, 117686 57505 116322) 28 154) 1196 190)
+[Mar 2022 257 628} 170932) 133013) 71 942) 53 369 92307) 44 212 88112} 22379) 933 894]
+(Change -67 376 -41616| -37393| -27388) -15 866] -25379 -13293{ -28210[ -5775| -262 296
+\% Change -20,73}  -19,58} = -21,94  -27,57) += -22,92) -21,57)  -23,12} 9 -24,25) = -20,51 -21,93)
+
+Table 14: Number of professional driving permits (PrDP's) issued per province
+
+%Change in PrDPs Issued
+
+GA KZN WC EC FS MP NW LI NC RSA
+
+Figure 33: Percentage in PrDP's issued
+
+On a provincial level, all provinces have recorded an increase as indicated in
+the table and figure above. The highest increase has been recorded for Eastern
+Cape, Limpopo and North West with 27,57%, 24,25% and 23,12%
+
+respectively.
+
+44
+
+--- Page 47 ---
+3.3.2 Number of Expired PrDPs
+
+The information in the table below shows that as on the 31 March 2022 the
+were 149 720 expired Professional Driving Permits (PrDPs) recorded on the
+National Traffic Information System (NaTIS). This figure represents 16,03% of
+
+all PrDPs issued. This information is also reflected in the figure below.
+
+Mar 2022 Number of Professional Driving Permits (PrDPs) Issued and Expired per Province
+
+Category GA KZN wc Ec FS MP NW u NC RSA
+jOn system 257 628} 170 982) 133 013) 71 942) 53 369) 92 307) 44 212, 88 114 22 379, 933 894)
+Not expired 217 225) 142 368] (112 783] 58 238) 45 639) 78 865) 36 189 74 013) 18 854 784 174)
+[Expired 40 403 28 564) 20 231 13 704] 773 13 442 8 023) 14 099} 3 525) 149 720,
+.% Expired 15,68 16,71 15,21 19,05) 14,48) 14,56 18,15) 16,01 1,79 16,03)
+
+Table 15: Number of professional driving permits (PrDP's) issued and expired per province
+
+% Expired Professional Driving Permits
+
+10
+
+8
+
+GA KZN wc EC FS MP NW LI NC RSA
+
+Figure 34: Percentage expired professional driving permits
+Provinces recorded the highest increase with regards to expired PrDPs are
+
+Eastern Cape with 19,05% followed by North West and Kwa-Zulu Natal with
+18,15% and 16,17% respectively.
+
+Detailed information on the number of learner licences, driving licences and
+
+PrDPs per Province is provided in the tables under Appendix B.
+
+45
+
+--- Page 48 ---
+Compiled by
+
+Ms Magadi Gainewe
+Manager: Data Analysis and Reporting
+Date:
+
+Reviewed and supported by
+
+Mr Emmanuel Phasha
+General Manager: Road Traffic Information
+Date:
+
+Road Traffic
+
+46
+
+--- Page 49 ---
+Road Traffic
+
+Recommended by
+
+Mr Kevin Kara-Vala
+Executive Manager: Road Traffic Information & Technology
+Date:
+
+Approved by
+
+Advocate Makhosini Msibi
+Chief Executive Officer
+Date:
+
+47
+
+--- Page 50 ---
+APPENDIX A
+
+Mar 2019 Number of Registered Vehicles per Province Total
+GA KZ wc EC FS MP NW ul NC RSA
+|Motorised Veh’s|
+Motorcars 3 080 368] 1 011 754[1 290 107] 462 628] 317908 436627 324229 341330, 129795] 7 394746)
+IMinibuses 128 190| 5546337110, 24584| 12871] 24747] 19775, 24424 5 567| 332 731
+Buses 20973, 7972) +7259 ~+=«442i| +3220 + += 271] «4 22at 6 68|__—«T*726| 64 757|
+IMotorcycles 140 68431 188 85621 _21681| 18559] 18437] 13050 9042] 7 990| 346 252]
+ILDV's - Bakkies| 842 801| 366934] 335 499| 207398 131 845| 222756 155059| 234549 80229 2577 070)
+Trucks 138841] 49124 44797| 22371| 21 738| 47967] 17420 26115 (9 117] 377 490|
+(Other & Unkwn| 38431] 33517] 41682| 18119 37250] 29478] 23734 18419 1002 250 651
+‘owed Veh's
+(Caravans 38205, 7 1331__‘18 171 5144 7428 10 06: 6245 5479)
+Heavy Trailers | 61671| 23636 22534 7 227| 18353] 40848] 10967] 9571
+lLight Trailers | 336826 82279| 148722] 57775 63416 65832 54064! 43 184/
+Unknown 2394 1497] 2.20 1525 1924 186 +2174 ~1 192)
+|Sub-Total 439 096 114545| 191629| 71673, 91121] 118609 73452, 59 383241 197 870)
+[All Vehicles _[ 4 829 383] 1 670 496|2 033 704] 832875, 634521] 906892] 630944] 719985 282766 12541 566|
+Mar 2021 Province Total
+GA KZ wc EC FS MP NW u NC RSA
+IMotorised Veh's|
+IMotorcars 3 119 497] 1 035 9101 297 906|_477 339] 322 968] 451 036 334981] 359511] 132848] 7 531 996
+IMinibuses 128765, 57872 37334 26023, 13058| 26050, 20853, 264021 _—6 057] 342 413]
+Buses. 20537|_ 81321 «6 987]_~—«4 651]|_—«3. 30 826i] 40971 6.90 1784 64 665)
+IMotorcycles 139927| 30272] 84719] 21135| 17629 17240, 12407] 8617] _7 489) 339 428|
+ILDV's - Bakkies| 857 042| 375 320|_341 547] 209 861|__133 485|_227 936|_158768| 243907] 82168|___2 630 034
+[Trucks 139606 50624 46159 —22530|__ 22621] 43665, _17391| 27091] 9 175) 378 862]
+Other & Unkwn| 37996 __33297| 42377| 18396 36347] 29051] 22609 18508] _10 194) 248 72]
+‘owed Veh's
+(Caravans 365566687 (18477 5080 7075 9664 6110 5451] 267 977
+Heavy Trailers | 65 255|_ 24856] 24622] 7561] 20397] 39166 11 250| __11 901 6 Be 211 i
+light Trailers | 336513|__ 82 155|_152680|__58697| 63288| 66529| 54182 44019] 30 115] 888 178|
+Unknown 2177 1400, 2145, 1489 ~—=sT 826,__—s1 760i_—«2.004__—**1354 66 14 59%
+|Sub-Total 440501 115 098|_197924[ 72827|_ 92586 117119 73550, 6251 39 1211 61
+lAll Vehicles | 4 883 870| 1 706 524/2054945| 852762] 642001] 920357| 644656 753 289 221| 12.747 784]
+% Change Number of Registered Vehicles per Province Total
+Mar 2019-2021 [GA KZ wc EC FS MP NW u NC RSA
+Motorised Vehicles
+IMotorcars 1.27] 2,39 0.6 3.18) 1.59) 3.3 3,34) 5.3 2.35) 1
+IMinibuses 0.45 4,34) 0.6 5,85, 1,45] 5,27] 5,45, 8,1 8,80, 2,91
+Buses. 2,08) 2,01] ___-3.75| 5.20 2,45] -0,12] __-3.071 3.3 3,36 -0,14)
+Motorcycles -0,54 -2,94| -1,06| -2,52| -5,01 -6,49] -4,93) “4,7 ~6,28) -1,97|
+ILDV's - Bakkies 1,69] 2,29 1.8 1,19 1,24] 2.3. 2,39 3,99] 2,42) 2,06|
+Trucks 0.55 3,05 3,04) 0,71 4,06 -8.97|__-0.17] 3,74) 0,64 0,36|
+lOther & “1,13. -0,66] 1,67| 1.53) -2,4 1,45) -4,75) 0,4 1,74] -0,75)
+Unknown
+7,21 2,28] 0,81 24 711] 7,902.4 Ex 2,16] 17
+Towed Vehicles
+(Caravans 432 -6,25] Tey 1.281 4,75] 3.97] 2.07] 1]_—2,.20] -2,81
+Heavy Trailers 5,81 5.16 9.27| 464 1114 4.1 —«2.58|__24.36) 4,85) 5,23)
+lLight Trailers -0,09|__-0.15) 2,66) 1.60, -0.2 1,06 0,22) 1.9: 3,31 0,79)
+Unknown “9,07, 6.48] —-2.66| 2.365.171] 7,98], 0,15, -5,46)
+ub-Total 0,3: 0, 3, 1,61 1,64 1,2 Oe 5,1 3,0! 41
+II Vehicles 14 24 1 2,3 11 1, 24 4 2, 16
+
+48
+
+--- Page 51 ---
+APPENDIX B-1
+
+Mar 2019 Number of Learners Licences Issued per Province
+Category GA KZ wc EC FS MP NW LI NC RSA
+1 12 97( 3336 12481 2 423) 2 135) 2 096 1 470) 1 287] 932) 39:13
+2 63 204 31692) 78 646) 23 931 13 907| 8 015, 8 121 4734 4564 236 813)
+3 259 41 156 742} 86 720) 71 784 51661] 96768 50589} 100009 22 444) 896 130)
+Total 335 587/191 770| 177 847] 98 137} 67 703| 106 879 60 180) 106030) 27 940] 1172073
+Mar 2021 Number of Learners Licences Issued per Province
+Category GA KZ wc EC FS MP NW LI NC RSA
+1 11 092} 2 336) 8 439) 1 576 1 453) 1 580) 1 085) 962) 549) 2907
+2 47 187 19346 61 706 16 575) 9819) 5 497| 6 048) 3 057} 3 343) 172 578
+3 234 148) 113 854 69 012) 58 75% 36418 78009} 43078 73778 16 465 723 520)
+Total 292427] 135536 139 157/76 909) 47690, 85086 5021i| 77797 20357 925 170
+% Change Number of Learners Licences Issued per Province
+Category GA KZ wc EC FS MP NW LI NC RSA
+1 -14,48) -29,98}  -32,39) -34,96} -31,94} -24,62)  -26,19} -25,25) -41,09} -25,7(
+2 -25,34) -38,96}  -21,54} -30,74 -29,40} -31,42)  -25,53}  -35,42) -26,75} 27,12,
+3 -9,74) -27,36 -20,42) -18,15} -29,51]  -19,39)  -14,85) -26,23)  -26,64} -19,26,
+Total -12,86) 29,32) -21,75} -21,63) — -29,51 20,3! -16,57}  -26,63}  -27,14 21,07)
+
+Learner Licences :
+
+Category 1 : Motorcycle
+
+Category 2 : Light Motor Vehicle
+
+Category 3 : Heavy Motor Vehicle
+
+49
+
+--- Page 52 ---
+APPENDIX B-2
+
+Mar 2019 Number of Driving Licences Issued per Province
+Category GA KZ wc EC FS MP NW ul NC RSA
+A 17780961 611] 118133] 35134 «26465 «23.21 19928 «15349 ~=—«9.547 487 1
+Al 43581] 13005) 28974, 9155) 8868] 6551 6274 3810) 2.40% 122 621
+B 1094630 479360| 625668) 246047] 149921] 125295 119305 78136 53949 2972311
+c 4845) 4933) «5 190) 1 184] 536-3. 001 1715) «1: 839) 474 23 716|
+[or 1435 322) 722529[ 231798) 237409] 176108] 485136 242633, 639763) 75 75: 4246 651
+EB 1285 594] 575683] 814.208] 313.345] 175488 158857] 140578 109098 65084 —- 3.637 933]
+EC 318019 187582] 126746 75638 «83.484, «119699 57674 102597] 26176 —«1:097 617
+ECi 218444 69632] 50240] 46.398 © 35074 «52 135] 36.855 ©~—«65905| «11: 384) 586 065)
+Total 4578 242] 2114 335, 2000957] 964310, 655942 973886 625164 1016497] 244770, 13 174 103
+Mar 2021 Number of Driving Licences Issued per Province
+Category GA KZ wc EC FS MP NW LI NC RSA
+A 181926 62713) 123361] 35792 26597, 23519 20034 15765, 9685) 499 394)
+Al 43295 13015) 29557) 9204 8737 6442 6168 3790; 2359) 122 567|
+B 1179393) 503 464! 674926) 262405] 158532) 129958 124031] 81182 57067} 317095
+c 4976 49701 ~—«5 580) 1242] 541 3 254 1676 «1 867 498] 24 59!
+C1 1649 049] 819918] 262655) 276001] 194605] 550850, 270389 705560, 85898 4814925)
+EB 1284 154, 575550! 825123] 314695] 174437 157440, 139189 109206 64 92: 3644 717
+EC 342.872) 202458] 133596] 80011] 87106 131699 59831] 109853) 271481 1174574)
+ECi 217095 695335] 50048] 46611] 34.859 «51967 ~—- 35.974 GG 220] 11 399) 583 692)
+Total 4 902 760| 2 251 621] 2 104 848] 1025961] 685 407] 1055127 657 204) 1093438] 258970, 14 035 426
+% Change Number of Driving Licences Issued per Province
+Category GA KZ wc EC FS MP NW ul NC RSA
+A 2,32) 1,79 4,43] 1,87 0,50) 1,39 0,54) 271 1,45} 2,51
+Al -0,66| 0,08 2,01 0,54) “1,48 “1,66 -1,69) -0,52) “1,8: -0,04)
+B 7,74) 5,03 7,87| 6,65) 5,74) 3,74 3,96 3,90) 5,78] 6,6
+c 27 0,75 7,55) 4,90) 0,93) 8,41 -2,27] 1,25 5,06| 3,72)
+[rl 14,89] 13,48 13,31 16,26] 10,50] 13,55] 17,35] 10,28] 13,39] 13,31
+EB “0,11 “0,02 1,34) 0,43) -0,60) -0,89) -0,99) 0,10) -0,24] 0,1
+EC 728i 7,93] 5,40] 5,78| 434 10,03) 3,74 7,07/ 371 7,07
+ECi “0,62 -0,14) -0,38| 0,46) -0,63) -0,32) -2,39) 0,48] 0,08} -0,
+Total 7,09] 6,49) 5,19] 6,3 4 8,34] 5,1 75 Ex 6,54)
+ig Licences:
+x Motorcycle > 125 cubem | Al | Motorcyde < 125 cub.cm 5 Motor vehicle < 3,500 kg
+€ Motorvehicle > 16,000 kg | Gi | Motor vehicle 3,500 - 16,000 kg | EB | Articulated motor vehicle <16,000 kg
+
+EC
+
+Articulated vehicle > 16,000 kg ECL
+
+‘Articulated vehicle 3,500 - 16,000 kg
+
+50
+
+--- Page 53 ---
+APPENDIX B-3
+
+Mar 2019 Number of Professional Di g Permits (PrDP’s) Issued per Province
+Category GA KZ wc EC FS MP NW Li NC RSA
+G 1474161] ~—«1 486 702 775, 83. 368) 717] 34 8 306
+PG 272381] 182211! 150026 86132) 62791] 100860, 51584 104481 24 126 1034 590|
+DG 30 E 22| 19 2 EI 15} 44) EI 165]
+DPG 14060 10946-4375] 2418] | 3164 355126 1997 759| 42 527
+Total 287 935 194777] 155909 89267] 66750, 105256 53228] 107239 25227 1 085 588)
+Mar 2021
+Category GA KZ wc EC FS MP NW Li NC RSA
+G 1526 = 1565) «1-497 659 758| 806] 408] 695] 36 8 274
+PG 306 949, 198 589 164172] 95966] 65240, 112528 55740, 113401] 26975] 1 139 560|
+DG 29) 14 1 E| 14 14 11 17 EI 129
+DPG 16500 12378 «4725, «2 697] 3.22. 4336 «1346 ~—2. 209 ent 48 227
+Total 325004 212548 170406 99330) 69235 117686 57505 116322 28154) 1196 190)
+% Change
+Category GA KZ wc EC FS MP NW Li NC RSA
+G 3,53 -2,86 O74 613) 2193.24 —10,87) 3,07 5,88] -0,39}
+PG 12,69) 8,99] 9,43, 11,42 3,9 11,57] 8,06] 8.54 (11,81 10,15]
+DG “3,33. 77,78) ~—«-45,45{ —-46,67/ __-30,0 75,00! -26,67}-61,36 300,01 “21,82
+DPG 17,44, 13,08 8,00, 11,54) 1,8 22,0: 657, 10,62) 6,85] 13,4
+Total 12,81 9,12| 9,30, 11,27] 37q 118] sq 8.47] 11,60) 10,19]
+
+Professional Driving Permits (PrDPs)
+
+G : Goods
+P : Passengers
+D : Dangerous goods
+
+51
+
+--- Page 54 ---
+Road Traffic
+
+Management Corporation
+
+Road Traffic Management Corporation
+Eco Origin Office Park, Block F
+349 Witch-Hazel Street
+Highveld Ext 79
+Tell: 012 999 5200
+
+Want to know more about the RTMC - visit www.rtmc.co.za
+
+52
+

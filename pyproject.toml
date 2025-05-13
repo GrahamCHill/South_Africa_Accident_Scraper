@@ -15,6 +15,9 @@ dependencies = [
     "pytesseract>=0.3.13",
     "pymupdf>=1.25.5",
     "pypdf2>=3.0.1",
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.2",
+    "jupyter>=1.0.0",
 ]
 
 [project.optional-dependencies]

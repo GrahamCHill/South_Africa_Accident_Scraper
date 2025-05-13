@@ -1,0 +1,1032 @@
+--- Page 1 ---
+Road Traffic
+
+Management Corporation
+
+State of Road Safety Report: Quarter 4
+
+January - March 2023
+
+Department:
+REPUBLIC OF SOUTH AFRICA
+
+,=.
+
+--- Page 2 ---
+Road Traffic
+
+Table of contents
+
+Table of contents ii
+
+List of Graphs 2
+List of acronyms and abbreviations 3
+1. OBJECTIVE OF THE REPORT 4
+2. EXECUTIVE SUMMARY 5
+SECTION A 6
+1. INTRODUCTION 6
+2. METHODOLOGY 6
+3. FATAL ROAD CRASH ANALYSIS 8
+4. ROAD FATALITIES ANALYSIS 18
+SECTION B 26
+5. INTRODUCTION 26
+6. VEHICLE POPULATION 26
+
+7. DRIVER POPULATION 30
+
+--- Page 3 ---
+List of Tables
+
+o
+
+able 3: Comparison of fatalities per province for the two quarters .
+
+ble 1: Number of fatal crashes per Province .........:eceeeee eee eeeeeeeneeeeteeeeeeeaeeeeeeaeens 8
+
+Table 2: Percentage distribution of fatal crashes per day of week ............... 10
+
+Table 4: Number of registered vehicles per tyP@..........cseeeeeeeeeeeeeeeeeeeneeeeeeaeeneeeaees 27
+Table 5: Number of registered vehicles per Province ..........cseeeeeeeeeeeeeeeeeeeeeeeeeeenees 28
+Table 6: Number of learner licences iSSUCd..........:ccccseeeceeeeeeeeeeesae essen eeeeaeeesneeenees 30
+Table 7: Number of learner licences issued per ProVinCe.........cceeeeeeeeeneeeeeeeeeeeeen ees 31
+
+able 10: Number of
+
+able 11: Number of
+
+able 12: Number of
+
+able 8: Number of driving licences issued..
+
+able 9: Number and percentage of driving licences issued per category..............55 35
+driving licences issued Per PrOoViNCe ........:eeeeeee eee eeeeeeen eee eeeeee 35
+PrDP's iSSUCC 0... ..ccceeccceeeeeeeeeeaeeesae cess eesee nessa eeeeeeeseneenenees 37
+professional driving permits (PrDP's) issued per province ....... 38
+
+--- Page 4 ---
+List
+
+Graph 1: Percentage distribution of fatal crashes for the two quarters
+Graph 2: Percentage distribution of fatal crashes per day of week
+Graph 3: Percentage distribution of fatal crashes per time of day..
+Graph 4: Percentage distribution of fatal crashes per crash type
+
+Graph 5: Percentage distribution of fatal crashes per vehicle type
+
+Grap
+Grap
+Grap
+
+Grap
+
+Grap
+Grap
+Grap
+Grap
+Grap
+Grap
+Grap
+Grap
+Grap
+
+Grap
+
+h 6: Comparison of contributory factors ........
+h 7: Percentage distribution of human factors
+h 8: Percentage distribution of road and environmental factors...
+h 9: Percentage distribution for vehicle factor
+Graph 10: Percentage distribution of fatalities per province
+h 11: Percentage distribution of fatalities per road user
+h 12: Percentage distribution of fatalities per gender
+h 13: Percentage distribution of fatalities per race
+h 14: Percentage distribution of fata’
+h 15: Percentage distribution of fata’
+h 16: Percentage distribution of fata’
+h 17: Percentage distribution of fata’
+h 18: Number of driving licenses issued ........
+h 19: Percentage change in driving licenses issued
+h 20: Number of PrDP's issued .
+h 21: Percentage in PrDP's issued .............0
+
+Grap
+
+of Graphs
+
+ities per age for drivers
+ities per age for passenger..
+ities per age for pedestrians
+
+ities per age for cyclists
+
+
+--- Page 5 ---
+List of acronyms and abbreviations
+
+CHOCOR
+
+EC
+
+GA
+
+FS
+
+LI
+
+MP
+
+NC
+
+NW
+
+wc
+
+KZN
+
+SAPS
+
+NATIS
+
+CULPABLE HOMICIDE CRIME: OBSERVATION REPORT
+EASTERN CAPE
+
+GAUTENG
+
+FREE STATE
+
+LIMPOPO
+
+MPUMALANGA
+
+NORTHERN CAPE
+
+NORTH WEST
+
+WESTERN CAPE
+
+KWAZULU NATAL
+
+SOUTH AFRICAN POLICE SERVICE
+
+ELECTRONIC NATIONAL TRAFFIC INFORMATION SYSTEM
+
+
+--- Page 6 ---
+Road Traffic
+
+1. OBJECTIVE OF THE REPORT
+
+This report aims at achieving the following objectives:
+
+e To provide road traffic fatal crashes and fatalities statistics based on the
+Culpable Homicide Crash: Observation Report (CHoCOR) Forms and provincial
+inputs; and
+
+e To present statistics on registered vehicles, un-roadworthy vehicles, un-licenced
+
+vehicles, driving licence and professional driving permits issued.
+
+--- Page 7 ---
+2. EXECUTIVE SUMMARY
+
+The purpose of the report is to provide final road crash statistics for the period
+
+January to March 2023. The performance is as provided below.
+
+Road Crashes Data
+
+A total number of 2 498 fatalities were recorded for the period January - March
+2023 from 2 132 fatal crashes. A decrease of 10.16% has been recorded for
+
+fatal crashes and 12.5% decrease in fatalities.
+
+Vehicle and driver population
+
+The number of registered vehicles decreased by 10 161 (0.08%) from 13 033
+995 on 31 March 2022 to 13 023 834 vehicles as on the 31 March 2023.
+
+The number of learner driving licenses issued decreased by 11 075 (1.0%)
+from 1 102 285 end March 2022 to 1 091 210 end March 2023.
+
+The number of driving licenses issued increased by 476 135 (3,27%) from
+14 538 687 on 31 March 2022 to 15 014 802 as of 31 March 2023.
+
+The number of Professional Driving Permits (PrDP’s) issued increased by 194
+098 (20.78%) from 933 894 on 31 March 2022 to 1127992 on 31 March
+2023.
+
+--- Page 8 ---
+SECTION A
+
+1. INTRODUCTION
+
+This report is based on information about fatal crashes that were reported to
+police stations between January and March of 2022 and 2023 using the
+CHoCOR Forms and input from provinces. In addition, the report includes
+information about registered vehicles, learner driving licence, driving licence
+and professional driving permits issued from the National Traffic Information
+System (NaTIS).
+
+2. METHODOLOGY
+
+2.1 Road crash data collection methodology
+
+The Culpable Homicide Crash Observation Report (CHoCOR) form is used to
+collect fatal road crash data on daily basis. South African Police Service (SAPS)
+is the primary source of the fatal crash data. SAPS provide the Corporation
+with a list of all recorded fatal crashes (CAS list) and further to this, the
+Corporation receive the CHoCOR forms from various police stations and takes
+input from provinces. Road Traffic Management Corporation captures,
+
+processes, and verifies the data to compile a report.
+
+--- Page 9 ---
+2.2 Crash Data Flow
+
+The data is collected through the CHoCOR forms which are submitted to the
+Corporation either by fax, email or through the phone. Input is also given by
+
+provinces on fatal crashes and fatalities.
+2.3 Data processing
+
+The data is captured, verified and the consolidated statistics are compiled.
+
+There is a continuous engagement with provinces for validation purpose.
+
+2.4 Limitations
+
+The road traffic information contained in the report is based on the fatal
+crashes only. There is still a need for in-depth research to be conducted to
+
+collect scientific base facts to complement the administrative data.
+
+--- Page 10 ---
+Road Traffic
+
+3. FATAL ROAD CRASH ANALYSIS
+
+The section covers the data in relation to fatal road crashes, which
+encompasses the number of fatal crashes and fatalities, contributory factors,
+
+fatality information per road user group and major crashes.
+
+3.1 Number of fatal crashes
+
+The table below is a comparison between the fourth quarter of financial year
+2021/22 and fourth quarter of financial year 2022/23. A decrease of 241
+(10.2%) has been recorded for the periods under review. With exception of
+Kwa-Zulu Natal (at 3.37% increase) other provinces recorded a decrease in
+fatal crashes. The highest percentage decreases are North-West 25.14%, Free
+State 25.00% and Eastern Cape at 17.15%.
+
+FATAL CRASHES PER PROVINCE
+ow tes poe | os | ge | | |e
+wD 183 ti) 1% 3
+
+042002 m4 16 500 46 HK
+
+rity74) a ‘02 4a 430 w 118 ui} 131 a 2182
+Dif 4 4 4 i av Bi) 4 4 ) or
+OM ATA Oh BT 33% Miah qT N25 BM 4h 40.16%
+
+Table 1: Number of fatal crashes per province
+
+--- Page 11 ---
+%DISTRIBUTION OF FATAL CRASHES PER PROVINCE
+
+| [za KZN P M
+{wQs2022, 12% 6% 22% 18% 11% 8% 3% 1% |
+/=Q42023) 11% 5% 22% 20% 1% 8% 3% 6% 1%
+
+#Q42022 =Q42023
+
+Graph 1: Percentage distribution of fatal crashes for the two quarters
+
+The graph above indicates the percentage distribution per province of fatal
+crashes for the two quarters. The highest contributors to fatal crashes during
+the fourth of financial year 2022/23 in percentage are Gauteng at 22%, Kwa-
+Zulu Natal at 20%, Western Cape at 14%.
+
+3.1.1 Fatal Crashes per Day of Week
+
+The details of the fatal crashes per day week is given in the table below.
+Friday, Saturday, and Sunday are days with most fatal crashes recorded
+compared to other days. For both years these days contribute 58% of weekly
+
+fatal crashes.
+
+--- Page 12 ---
+Road Traffic
+
+Day Of Week Jaa2022___|aa2023____
+
+Sunday 22,4% 21,6%
+Monday 13,0% 12,5%
+Tuesday 9.4% 9,7%
+Wednesday 9,2% 9,9%
+Thursday 10,0% 10,0%
+Friday 12,7% 15,2%
+Saturday 23,3% 21,1%
+
+Table 2: Percentage distribution of fatal crashes per day of week
+
+The percentage of fatal crashes per day of the week are reflected in the graph below.
+
+%DISTRIBUTION OF FATAL CRASHES PER DAY OF WEEK
+
+13,0%)9 5%
+
+Graph 2: Percentage distribution of fatal crashes per day of week
+
+3.1.2 Fatal Crashes per time of day
+
+The percentage of fatal crashes per time of day for the period under review is
+
+reflected in the graph below.
+
+10
+
+--- Page 13 ---
+Road Traffic
+
+%DISTRIBUTION OF FATAL CRASHES PER TIME OF DAY
+
+ree al
+
+Graph 3: Percentage distribution of fatal crashes per time of day
+
+The above graph shows a comparison between fatal crashes per time of day for
+quarter four of 2022 and 2023. From the above graph crashes started going up
+from 13h00 until 22:00. The highest pick being between 19:00 to 20:00 time
+slot with 9% contribution in 2022 and 2023; this is followed by the time period
+between 18:00 and 19:00 at 7.5% in 2023 then 20:00 to 21:00 time slot with
+7% in 2023.
+
+3.1.3 Fatal crashes per crash type
+
+The percentage contribution of fatal crashes per crash type is reflected in the
+
+graph below.
+
+11
+
+--- Page 14 ---
+~~
+Road Traffic
+
+%DISTRIBUTION OF FATAL CRASHES PER CRASH TYPE
+
+Graph 4: Percentage distribution of fatal crashes per crash type
+
+The above graph shows that the top four crash types are with pedestrians at 30%, Hit
+and Run at 22%, single vehicle overturned at 17% and head on collisions at 9% in
+fourth quarter of 2022/23 financial year. Hit and runs and accident with pedestrians
+
+accounted for 52% of crash types in that period.
+
+3.1.4 Fatal crashes per vehicle type
+
+The percentage contribution of various vehicles involved in the fatal crashes
+
+are reflected in the graph below.
+
+12
+
+--- Page 15 ---
+Graph 5: Percentage distribution of fatal crashes per vehicle type
+
+The vehicle types that are mostly involved in fatal crashes are the motorcars at
+37% and light delivery vehicles at 17%.
+
+3.2 Contributory factors
+
+The contributory factors for fatal road crashes are determined as follows:
+human factors (defined as a stable, general human abilities and limitations that
+are valid for all users regardless); vehicle factors (are more focussed on the
+vehicle itself and they cover issues around mechanical failures; and
+environment (include limited visibility, poorly marked roads, missing road
+signs, sudden changes in road infrastructure, gravel road, the state of the road
+and weather conditions).
+
+13
+
+--- Page 16 ---
+%FATAL CRASHES PER CONTRIBUTORY FACTOR
+
+Graph 6: Comparison of contributory factors
+
+The above graph shows that most fatal crashes occur due to human factors. In
+2021/22 human factors contributed 85% to fatal crashes and 90% in 2022/23.
+The roads and environmental factors contribute 11% to fatal crashes in
+2021/22 and 7% in 2022/23. Vehicle factors contribute 4% to fatal crashes in
+2021/22 and 3% in 2022/23.
+
+14
+
+--- Page 17 ---
+~~
+Road Traffic
+
+%FATAL CRASHES PER HUMAN FACTORS
+
+Graph 7: Percentage distribution of human factors
+
+The top two human factors contributing 51% in 2021/22 and 48% in 2022/23
+were Jay-walking at 28% in 2021/22 and 26% in 2022/23 and Hit-and-run at
+23% in 2021/22 and 22% in 2022/23.
+
+Speed went up by 5% from 11% to
+16%.
+
+15
+
+--- Page 18 ---
+~~
+Road Traffic
+
+%FATAL CRASHES PER R&E FACTORS
+
+Graph 8: Percentage distribution of road and environmental factors
+The above graph shows the top five factors in this category to be poor lighting
+
+at 17%, sharp bend at 16%, slippery road surface at 15%, poor visibility at
+13% and poor road surface at 10% in 2022/23.
+
+16
+
+--- Page 19 ---
+~~
+
+Road Traffic
+
+%FATAL CRASHES PER HUMAN FACTORS
+
+Graph 9: Percentage distribution for vehicle factor
+
+The above graph shows that within the vehicle factors most crashes occurred
+due to tyre burst (at 53% in 2021/22 and 48% in 2022/23). The second factor
+was faulty brakes at 11% in 2021/22 and 19% in 2022/23.
+
+17
+
+--- Page 20 ---
+4. ROAD FATALITIES ANALYSIS
+
+The section covers road fatalities for the fourth quarter of 2021/22 and
+2022/23. Fatalities are defined as when a person or persons are killed during
+or immediately after a crash, or death within 30 days after a crash happened
+as a direct result on such crash. This section will encompass the number of
+fatalities and percentage distribution per road user group, gender, race and per
+
+age.
+
+4.1 Number of fatalities per province
+
+FATALITIES PER PROVINCE
+ou abel pec | ss |e |v |p| |]
+4 2022 358 168 578 459 337 263 100 25 356 2855,
+Q4 2023 264 ng 526 415, 314 24 %6 147 333 2498
+Dif 4 bl) by il) B BS) 4 ) B By
+‘ND Bh Bh 40h 34% 482% 83 4.00% S145 4.46% 42504
+
+Table 3: Comparison of fatalities per province for the two quarters
+
+The table below is a comparison between the fourth quarter of financial year
+2021/22 and fourth quarter of financial year 2022/23. A decrease of 357
+(10.2%) has been recorded for the periods under review. With exception of
+Kwa-Zulu Natal (at 3.49% increase) other provinces recorded a decrease in
+fatalities. The highest percentage decreases are North-West 37.45%, Free
+State 29.59% and Eastern Cape at 26.26%.
+
+18
+
+--- Page 21 ---
+%DISTRIBUTION OF FATALITIES PER PROVINCE
+
+Graph 10: Percentage distribution of fata S per province
+The graph above indicates the percentage distribution per province of fatalities
+crashes for the two quarters. The highest contributors to fatalities during
+quarter four of financial year 2022/23 in percentage are Gauteng at 21%,
+Kwa-Zulu Natal at 19%, Limpopo and Western Cape at 13%.
+
+19
+
+--- Page 22 ---
+4.2 Number of Fatalities per Road User Group
+
+%DISTRIBUTION OF FATALITIES PER ROAD USER GROUP
+
+Graph 11: Percentage distribution of fatalities per road user
+
+The percentage distributions of fatalities for various road user groups are
+reflected in the graph above. Pedestrians make more than 40% of road
+
+fatalities year on year. Drivers and passengers average 29% of fatalities each.
+
+20
+
+--- Page 23 ---
+%DISTRIBUTION
+
+Female Male
+
+Q4 2022 * Q42023
+
+Graph 12: Percentage distribution of fatalities per gender
+
+The graph above depicts trends for fatalities per gender for the two quarters.
+
+Males make up more than three quarters of road fatalities.
+
+21
+
+--- Page 24 ---
+%DISTRIBUTION OF FATALITIES PER RACE
+
+Graph 13: Percentage distribution of fatalities per race
+
+The graph above shows trends for fatalities per race for the two quarters. More
+
+than three quarters of road fatalities were blacks.
+
+22
+
+--- Page 25 ---
+4.3 Road user group fatalities per age group
+
+The graphs below provide information regarding the fatalities per age and per
+road user group for the period January to March 2022 and 2023.
+
+%DISTRIBUTION OF FATALITIES PER DRIVER AGE
+
+Graph 14: Percentage distribution of fatalities per age for drivers
+
+The graph above shows 38% of driver fatalities were between the ages of 25
+and 44 in both 2021/22 and 2022/23. Ages between 30 and 39 constitutes
+20% of driver fatalities.
+
+23
+
+--- Page 26 ---
+~~
+
+Road Traffic
+
+%DISTRIBUTION OF FATALITIES PER PASSENGER AGE
+
+Graph 15: Percentage distribution of fatalities per age for passenger
+
+The above graph shows 38% of passenger fatalities were between the ages of
+20 and 44 in 2021/22 and 41% in 2022/23, with 25 to 39 years old making up
+25% of passenger fatalities in 2021/22 and at 29% in 2022/23.
+
+%DISTRIBUTION OF FATALITIES PER PEDESTRIAN AGE
+
+Graph 16: Percentage distribution of fatalities per age for pedestrians
+
+The above graph shows that most fatalities for pedestrians were recorded
+
+between the age group 25 to 44 years. In 2021/22 the percentage of death in
+
+24
+
+--- Page 27 ---
+the pedestrians category for this age group was 28% and in 2022/23 it was
+25%.
+
+DISTRIBUTION OF FATALITIES PER CYCLIST AGE
+
+Graph 17: Percentage distribution of fatalities per age for cyclists
+
+The above graph shows that in 2021/22 most cyclist fatalities were recorded
+between age group 25 to 29 and 35 to 39 years at 8% each and in 2022/23
+the age groups with the highest fatalities are 30 to 34 and 40 to 44 at 10%
+
+each.
+
+25
+
+--- Page 28 ---
+SECTION B
+
+5. INTRODUCTION
+
+The section covers the vehicle population and human mobility data, as
+well as driver population. The vehicle population data will encompass the
+number of registered vehicles inclusive of the status of their
+roadworthiness and licencing, as well as human mobility in terms of the
+number of persons per vehicle. The driver population data covers the
+number of registered drivers including the status and categories of
+
+licences.
+
+6. VEHICLE POPULATION
+
+6.1 Number of Registered Vehicles
+
+The number of registered vehicles decreased by 10 161 (0.08%) from
+13 033 995 on 31 March 2022 to 13 023 834 vehicles as on the 31
+March 2023. Detail per type of vehicle is given in table below.
+
+26
+
+--- Page 29 ---
+Roa
+
+Number of
+Registered
+Vehicles
+Motorised
+
+Number
+
+Number
+
+registered | registered Change
+
+% of
+
+Group
+
+% of
+
+Total
+
+253 144 237 504 -6,18%|
+
+Unknown
+
+Vehicles Mar-22 Mar-23 Mar-22 Mar-23
+Motorcars 7707210) 7727 988) 65,57% 59,34%|
+Minibuses 351 426) 350 680) -0,21%| 2,98%| 2.69%
+Buses 64 106 0,30%| 0,55%| 0,49%|
+Motorcycles 350 038) 347 621 2,95%
+
+LDV S- 2684 247) 2670338) 22,66%| 20,50%|
+Bakkies
+
+Trucks 390 403) 386 641 3,28%| 2.97%)
+Other &
+
+2,02%|
+
+7,72%|
+
+1,82%|
+
+Caravans 95 669) (1 966) -2,01%|
+Heavy oy
+Trailers 223 157 226 291 3134 1,40%
+Light Trailers: 898 247 889 240
+13 182 91,66%|
+
+Total Towed 1233 421 5 343)
+
+18,27%|
+
+2,23%|
+
+All Vehicles 13 033 995
+
+100,00%
+
+Table 4: Number of registered vehicles per type
+
+The table above shows that the highest percentage change within the
+
+motorized vehicles category is the reduction of other and unknown vehicles.
+
+Buses increased by .3% followed by motorcars at .27% increase. All other
+
+motorized vehicles decreased.
+
+The total motor vehicle population per Province for March 2022 and March
+
+2023 is given in table and reflected in the graph below.
+
+27
+
+--- Page 30 ---
+Number of Number Number
+aes registered | registered | Change
+per Province Mar-22 Mar-23
+GP 4999 007| 4.997033
+we
+857 643
+
+663174] 662.205
+776 606| 779.682
+
+Table 5: Number of registered vehicles per province
+
+NW
+
+The table above shows the number of registered vehicles per province.
+Increases were in Western Cape 0.83% and Limpopo 0.4%, the rest of the
+
+provinces decreased in the number of registered vehicles.
+
+%Annual Growth - Vehicle Population
+
+Graph 16: Percentage Annual Growth in Vehicle Population
+
+28
+
+--- Page 31 ---
+The percentage vehicles registered per province as on 31 March 2023 is
+
+reflected in the graph below.
+
+DISTRIBUTION OF VEHICLE POPULATION
+
+Graph 17: Percentage Vehicles Registered per Province
+
+The information contained in the above graph shows that 38.37% of vehicles
+were registered in Gauteng, 16.25% in Western Cape and 13.42% in Kwa-Zulu
+Natal. 68.03% of registered vehicles are in these three provinces share a
+
+contribution of 68.03%, the remainder are in the other six provinces.
+
+29
+
+--- Page 32 ---
+7. DRIVER POPULATION
+
+7.1 Learner Driving Licences
+
+The number of learner driving licenses issued decreased by 11 075 (1.0%)
+from 1102 285 end March 2022 to 1 091 210 end March 2023. Detail of the
+
+number of learner driving licenses issued per category is given in table below
+
+and graphically reflected in the graph be
+
+Ow.
+
+Number of Learner Licences Issued
+
+Category mace | marae |
+34 905) 41 193)
+202 545) 203 099
+
+864 835} 846918
+
+Table 6: Number of learner licences issued
+
+Learner driving licences are categorised as follows:
+
+* Category 1: Motorcycle
+* Category 2 : Light Motor Vehicle
+Category 3 : Heavy Motor Vehicle
+
+% Change
+
+-2,07%|
+
+30
+
+--- Page 33 ---
+Graph 18: Number of learner licenses issues
+
+LEARNER LICENCES ISSUED
+
+The table and the graph above show that the highest increase of learners
+
+enrolled was for category 1 (motorcycle, 6 288 at 18.01%). The enrolment of
+
+category 3 (heavy motor vehicle) decreased as compared to the same period
+in the previous year.
+
+Provincial breakdown of the learner license enrolment and the percentage
+
+change are given in the table below reflected in the graph.
+
+Number of Learners Licences Issued per Province
+Year GP KZN wc EC FS MP NW ui NC RSA
+Mar-22 332 568) 186 849} 164108} 79275) 55902] 104 768 60 730) 93 733] 24352] 1 102 285)
+Mar-23 349 018) 207816} 176342} 51207) 49720] 92337 50 022} 94 402} 20346] 1091 210)
+Change 16450] 20967) 12234) -28068) -6182} -12 431 -10 708 669] -4006) (11075)
+% Change 4,95%] 11,22%] 7,45% -35,41%] -11,06%] -11,87%| -17,63%] 0,71%] -16,45%|
+
+Table 7: Number of learner licences issued per province
+
+31
+
+--- Page 34 ---
+as
+AZ)
+Road Traffic
+
+Four provinces recorded increases with the highest percentage increase being
+Kwa-Zulu Natal at 11.22% followed by Western Cape at 7.45%. The highest
+
+percentage decrease was Eastern Cape at 35.41%.
+
+% CHANGE IN LEARNER LICENCES ISSUED
+
+Graph 19: Percentage change in learner licenses issued per province
+
+7.2 Driving Licences Issued
+
+The number of driving licenses issued increased by 476 135 (3,27%) from
+14 538 687 on 31 March 2022 to 15 014 802 as of 31 March 2023. Details on
+the number of driving licenses issued per category is given in table and
+
+graphically reflected in the graph below.
+
+32
+
+--- Page 35 ---
+Number of Driving Licences Issued
+Category Mar-22 Mar-23 Change % Change
+A 506 770 514 055) 7 285 1,44%
+At 122 502 122 447 (55) -0,04%!
+c 24 956] 25 431 475 1,90%
+c1 5 139 098} 5 445 768] 306 670 5,97%|
+EB 3 648 504 3 651 480 2976 0,08%|
+Ec 1 227 806 1 285 421 57 615) 4,69%|
+EC1 582 667 581 678 (989) -0,17%|
+Total 14 538 687 15 014 802 476 115) 3,27%
+
+Table 8: Number of driving licences issued
+
+Driving licenses:
+
+Motorcycle < 125
+A | Motorcycle > 125 cub.cm | At B Motor vehicle < 3,5000 kg
+cub.cm
+Motor vehicle 3,500 - Articulated motor vehicle
+€ | Motor vehicle > 16,000 kg | C1 EB
+16,000 kg <16,000 kg
+Articulated vehicle > Articulated vehicle 3,500 -
+EC Ec1
+16,000 kg 16,000 kg
+
+33
+
+--- Page 36 ---
+NUMBER OF DRIVING LICENCES
+
+Graph 18: Number of driving licenses issued
+
+The highest percentage change was in the C1 category 5.97% increase
+followed by EC at 4.69% then B at 3.11%.
+
+The number and percent of driving licenses issued per category at the end of
+March 2023 is reflected in the table below.
+
+34
+
+--- Page 37 ---
+Number of Driving Licences Issued
+
+ategory Description Number %
+A Motorcycle > 125 cub.cm 514 055 3,42%
+Al Motorcycle < 125 cub.cm 122 447 0,82%
+B Motor vehicle < 3,5000 kg 3 388 522 22,57%|
+c Motor vehicle >16,000 kg 25 431 0,17%|
+C1 Motor vehicle 3,500 - 16,000 kg 5 445 768) 36,27%|
+EB Articulated motor vehicle < 16,000 kg 3651 480 24,32%|
+EC Articulated vehicle > 16,000 kg 1 285 421 8,56%|
+EC1 Articulated vehicle 3,500 - 16,000 kg 581 678 3,87%|
+Total 15 014 802 100,00%
+
+Table 9: Number and percentage of driving licences issued per category
+
+Provincial information including percentage changes are given in the table and
+graph below.
+‘Number of Driving Licences Issued per Province
+Year GP KZN we EC FS MP NW u NC RSA
+
+Mar-22 5.081 144] 2.332 828| 2172732] 1059217 704 466} 4100111 680 929} 1 138.229] czocst] 14536 687|
+Mar-23 5260211] 2412612| 2240097] 1 084 152] 720 097| 1139627] 700 269] 1180 939} 276798] 15014 802]
+Change 179.067 79784] 67:365| 24.935| 15634 39516| 19340} 42710] 7767| 476.115]
+1% Change 3.52%) 3.42%] 3,10%| 2.35%6| 2.20%) 3.59%] 2.84%) 3,75%| 2,89%4| 3.27%)
+
+Table 10: Number of driving licences issued per province
+
+35
+
+--- Page 38 ---
+as
+AZ)
+Road Traffic
+
+% CHANGE IN DRIVERS LICENCES ISSUED
+
+Graph 19: Percentage change in driving licenses issued
+
+All the provinces had increases in the number of driving licenses as shown in
+the table and graph above. Limpopo had 3.75% increase, Mpumalanga 3.59%
+Gauteng 3.52%.
+
+36
+
+--- Page 39 ---
+7.3 Professional Driving Permits Issued
+
+The number of Professional Driving Permits (PrDP’s) issued increased by 194
+098 (20.78%) from 933 894 on 31 March 2022 to 1 127992 on 31 March
+
+2023. Detail on the number of PrDPs issued per category is given in table and
+
+graph below.
+
+Category
+
+G 5613 6 646 1033 |18,40%
+
+880 394 | 1067 085
+
+186 691 }21,21%
+
+DG 136 158 22 |16,18%
+
+6 352 |13,30%
+
+Total 933 894 | 1127992| 194098 | 20,78%
+
+Table 11: Number of PrDP's issued
+
+Professional Driving Permits (PrDPs)
+G: Goods
+
+P: Passengers
+
+D: Dangerous goods
+
+37
+
+--- Page 40 ---
+% CHANGE OF PrDPS
+
+Graph 20: Number of PrDP's issued
+
+All categories increased with the highest increase being of Passengers and
+Goods at 21.21% followed by Goods at 18.40%.
+
+Provincial information in contained in the table and graph below.
+
+Number of Professional Driving Permits (PrDP's) Issued per Province
+Year GP KZN we EC FS mp Nw u NC RSA
+4
+Mar-22 257628} 170932] 133013] 71942] $2369) 92807] 44212| asii2| 22379] 932 894]
+Mar-23 319 048| 208 505| 159212] 83.421] 61376] 107 898 61212] 99087] 27239] 1127 992|
+|Change 61 429] 38573| 26199] 11.479 9.007] 15591 17 000} 10975] 4854] 195 098]
+l% Change 23,8404] 22,57%| 19,70%| —15,96%) 17.20% 16,89%| 38,45%| 12,46%| —21,69%| 20,91%6|
+
+Table 12: Number of professional driving permits (PrDP's) issued per province
+
+38
+
+--- Page 41 ---
+Road Traffic
+
+%CHANGE IN PrDPS ISSUED
+
+Graph 21: Percentage in PrDP's issued
+
+At a provincial level, all provinces have increased the issuing of PrDP’s.
+Gauteng has the highest numerical increase of PrDP’s followed by Kwa-Zulu
+Natal then Western Cape. North West has the highest percentage increase
+then Gauteng, Kwa-Zulu Natal.
+
+39
+
+--- Page 42 ---
+Road Traffic
+
+Compiled by
+
+Mr Emmanuel Phasha
+General Manager: Road Traffic Information
+Date:
+
+Recommended by
+
+Mr Kevin Kara-Vala
+Executive Manager: Road Traffic Information & Technology
+Date:
+
+Approved by
+
+Advocate Makhosini Msibi
+Chief Executive Officer
+Date:
+
+40
+
+--- Page 43 ---
+Road Traffic
+
+Management Corporation
+
+Road Traffic Management Corporation
+Eco Origin Office Park, Block F
+349 Witch-Hazel Street
+Highveld Ext 79
+Tell: 012 999 5200
+
+Want to know more about the RTMC - visit www.rtmc.co.za
+
+41
+

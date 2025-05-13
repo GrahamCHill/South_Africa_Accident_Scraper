@@ -1,0 +1,2451 @@
+--- Page 1 ---
+Road Traffic
+
+Management Corporation
+
+State of Road Safety Report
+
+Quarterly Report
+April - June 2019
+
+transport
+
+REPUBLIC OF SOUTH AFRICA
+
+--- Page 2 ---
+Table of contents
+
+Table of contents
+List of Figures
+
+List of acronyms and abbreviations
+
+1. OBJECTIVE OF THE REPORT
+2. EXECUTIVE SUMMARY
+SECTION A
+
+1 INTRODUCTION
+
+2 METHODOLOGY
+
+3. ROAD FATAL CRASHES
+
+4 ROAD FATALITIES
+
+5 MAJOR CRASHES INVESTIGATED
+SECTION B
+
+1. INTRODUCTION
+
+2. VEHICLE POPULATION
+
+3. DRIVER POPULATION
+
+4. CONCLUSIONS
+
+APPENDIX A
+
+9
+11
+11
+11
+13
+22
+28
+32
+32
+32
+50
+
+ERROR! BOOKMARK NOT DEFINED.
+58
+
+--- Page 3 ---
+List of Tables
+Table 1: Number of fatal crashes per Province .....s..scccccsscecsseceeseeseccsccaseccasuveseceseee 13
+
+Sette eeeeeannaeeeeeneneeecccnneeeeeeeeeeesauaeeseeesseeeeeeeeseceassssaeseeeeseeeseseceartusuedeeeueutaaeeecens 22
+Table 3: Number of registered vehicles per type ......cscsessecscseseeseesssestecetsecsusceesensce 32
+Table 4: Number of registered vehicles per province ....scc.ceccsseessesscereesseserseceneserece 34
+Table 5: Estimated mid-month human population per province-million .....ccccceccceseee 37
+
+Table 6: Average num ber of persons per vehicle (excluding trucks, other, unknown
+
+ANd towed VehICIES) .......ccsceesscsessessseecseecsesssessasesescusssessesseesausesesetesseusecseceenenee 37
+
+Table 7: Percentage improvement in mobility per province
+
+Table 8: Average number of persons per "Heavy"passenger transport vehicle (buses
+
+and minibuses)...
+
+Table 9: Percentage improvement in average number of persons per “heavy"
+Passenger transport vehicles (buses and minibUSES) ..........sssesccccscssestsseccecscessseccs 40
+
+Table 10: Average number of public transport vehicles ( buses and minibuses) per
+
+10,000 human population 41
+Table 11: Number of un-roadworthy, un-licenced vehicles or DOth ....c.ccccccesssesseeseee 42
+Table 12: Number of vehicles that are un-roadworthy or un-licenced or both .......... 43
+
+Table 13: Number of un-roadworthy vehicles 44
+
+Table 14: Number of un-roadworthy vehicles 45
+
+Table 15: Number of un-licenced vehicles .... 47
+
+Table 16: Number of un-licenced vehicles per province .....cccccssessssscesecetscusceccesses 48
+
+Table 17: Number of learner licences issued. 50
+
+Table 18: Number of learner licences issued per Province .....ccceeccsesseccescecesseseceuses 51
+
+Table 19: Number of driving licences issued 52
+
+Table 20: Number and percentage of driving licences issued Per category... 53
+
+--- Page 4 ---
+Table 21: Number of driving licences issued per province
+
+Table 22: Number of PrDP's issued
+
+
+--- Page 5 ---
+List of Figures
+
+Figure 1:
+Figure 2:
+Figure 3:
+Figure 4:
+Figure 5:
+Figure 6:
+Figure 7:
+Figure 8:
+Figure 9:
+
+Figure 10
+
+Figure 11:
+Figure 12:
+Figure 13:
+Figure 14:
+Figure 15:
+Figure 16:
+Figure 17:
+Figure 18:
+Figure 19:
+Figure 20:
+Figure 21:
+Figure 22:
+Figure 23:
+
+Figure 24:
+
+Percentage distribution of fatal crashes per province .....cccesesessessesseseesees 14
+
+Percentage distribution of fatal crashes per day of week ..
+
+Percentage distribution of fatal crashes per time of CaY veeceecessscssssssersteene 15
+
+Percentage distribution of crash types.
+
+Percentage distribution of fatal crashes per vehicle type....ccccccccccseseseceees 17
+
+Comparison of contributory factors for 2018 and 2019
+
+Percentage distribution of human factors......ccssecccsssesssescseseceesecsussesesse 19
+
+Percentage distribution for vehicle factor...
+
+: Percentage distribution of fatalities per road user
+Percentage distribution of fatalities per gender..
+Percentage distribution of fatalities per raCe......c:cscccscsssscesserseeseseeseesees 24
+Percentage distribution of fatalities per age for drivers...
+Percentage distribution of fatalities per age for passengers
+Percentage distribution of fatalities per age for pedestrians
+Percentage distribution of fatalities per age for cyClists.......c:.ccscceseeeecee 27
+Major crash casualties during 1st quarters of 2018 and 2019......ceccsesese 28
+Vehicle types involved in major crashes investigated .......c.ccccssccccsceseeee 30
+Crash types that occurred for major crashes investigated .......c.ccscceseese 31
+
+Contributing factors to major crashes investigated...
+
+Percentage Annual Growth in vehicles .......:ccsccsscssssesssesssscessasescesseseesese 33
+
+Percentage annual change in motorised vehicles ...
+
+Percentage Annual Growth in Vehicle Population......c0..cccessesessessesseceesees 35
+
+Percentage Annual Growth in Vehicle Population
+
+--- Page 6 ---
+Figure 25:
+Figure 26:
+
+Figure 27:
+Figure 28:
+Figure 29:
+
+Figure 30:
+
+Figure 31:
+Figure 32:
+
+province
+Figure 33:
+Figure 34:
+Figure 35:
+Figure 36:
+
+Figure 37:
+
+Figure 38:
+
+Figure 39:
+
+Figure 40:
+Figure 41:
+
+Figure 42:
+
+Percentage improvement in mobility of persons...
+Average number of persons per "heavy vehicles"(buses and minibuses) ..39
+
+Number of buses and minibuses/10 000 human population... 41
+
+Percentage change in number of vehicles un-roadworthy or un-licenced or
+
+Percentage of un-roadworthy VehiCleS ...........ccceeseeseeteversrsseeceessreteceeues 46
+
+Percentage of un-licenced vehicles...
+
+Percentage change in number of vehicle that are unlicensed per province 48
+
+Percentage of un-licensed vehicles
+
+Number of learner license iSSUCd ......c:cccsteceeeeeesedscesecseresssssecsesennseecsaes 50
+Percentage change in learner licences issued per ProvinCe......scseceeseeereee 51
+Number of driving licences iSSUCC........cjsssecsseeeeeseesesseeecceeesseesenueeeesens 53
+Percentage change in driving licences iSSUC.........:s:scssessessesesereeeseeenees 54
+
+Number of PrDP's issued ....
+
+Percentage in PrDP's issued per province .........csseseseseeeeesseeeessenaeeessnnane 56
+
+--- Page 7 ---
+Road Traffic
+
+List of acronyms and abbreviations
+
+CHOCOR
+EC
+
+GA
+
+FS
+
+Lt
+
+MP
+NC
+NW
+wc
+KZN
+SAPS
+NATIS
+NREP
+
+CULPABLE HOMICIDE CRIME: OBSERVATION REPORT
+EASTERN CAPE
+
+GAUTENG
+
+FREE STATE
+
+LIMPOPO
+
+MPUMALANGA
+
+NORTHERN CAPE
+
+NORTH WEST
+
+WESTERN CAPE
+
+KWAZULU NATAL
+
+SOUTH AFRICAN POLICE SERVICE
+
+ELECTRONIC NATIONAL TRAFFIC INFORMATION SYSTEM
+
+NATIONAL ROLLOUT ENFORCEMENT PLAN
+
+--- Page 8 ---
+1. OBJECTIVE OF THE REPORT
+
+This report is aimed at achieving the following objectives:
+
+¢ To provide final road traffic fatal crashes and fatalities statistics based on the
+Culpable Homicide Crash: Observation Report (CHoCOR) Forms; and
+
+e To present statistics on registered vehicles, un-roadworthy vehicles, un-licenced
+vehicles, driving licence and professional driving permits issued.
+
+--- Page 9 ---
+2. EXECUTIVE SUMMARY
+
+The report seeks to provide the final road crash statistics. The performance is
+for the period between April - June 2019. The performance per each focus
+areas have been provided below.
+
+Road Crashes Data
+
+A total number of 2 876 fatalities were recorded for the period between April to
+June 2019 from 2 338 fatal crashes. That resulted in a decrease of 15% fatal
+crashes and 13% fatalities in comparison to same period in 2018. The most
+affected road users were pedestrians and Passengers.
+
+A total number of twenty-eight (28) major crashes were reported and
+investigated during this period. Two-hundred and three (203) persons were
+killed and one-hundred and ninety-six (196) persons sustained injuries in the
+
+major crashes.
+
+Vehicle and driver population
+
+The number of registered vehicles increased by 242 038 (1.96%) from 12 348
+522 on 30 June 2018 to 12 590 560 vehicles on 30 June 2019.
+
+The number of learner driving licences issued decreased by 14 304 (1.20%)
+from 1 192 926 on 30 June 2018 to 1 178 622 on 30 June 2019.
+
+--- Page 10 ---
+ZA
+
+Road Traffic
+
+The number of driving licences issued increased by 486 253 (3.80%) from
+12 807 403 on 30 June 2018 to 13 293 656 on 30 June 2019.
+
+10
+
+--- Page 11 ---
+Z
+
+SECTION A
+. INTRODUCTION
+
+This report is based on information about fatal crashes that were reported to
+police stations between April and June 2019 using the CHoCOR Forms. In
+addition, the report includes information about registered vehicles, un-
+roadworthy and un-licenced vehicles, driving licences and professional driving
+permits issued from the National Traffic Information System (NaTIS).
+Furthermore, it includes information about population growth using the 2018
+mid-year population estimates from Statistics South Africa (Stats SA).
+
+2. METHODOLOGY
+
+2.1 Road crash data collection methodology
+
+The Culpable Homicide Crash Observation Report (CHoCOR) form is used to
+collect fatal crashes data on daily basis. South African Police Service (SAPS) is
+the primary source of the fatal crashes data. SAPS Provide the Corporation
+with a list of all recorded fatal crashes (CAS list) and further to this the
+Corporation receive the CHoCOR forms from various police stations. Road
+Traffic Management Corporation captures, Processes and verifies the data to
+
+compile a report.
+
+2.2 Crash Data Flow
+
+Data is collected through the CHoCOR forms. The forms are then submitted to
+the Corporation either by fax, email or through the phone.
+
+i1
+
+--- Page 12 ---
+Z
+
+Road Traffic
+2.3. Data processing
+
+The data is captured, processed and verified for the compilation of the
+consolidated statistical report. There is a continuous engagement with
+
+Provinces for validation purpose.
+
+2.4 Limitations
+
+The road traffic information contained in the report is mainly based on the fatal
+crashes only. There is still a need for in-depth research to be conducted to
+
+\ collect scientific base facts to complement the administrative data.
+
+2:5 Instruments
+
+The Culpable Homicide Crash Observation Report (CHoCOR) forms are being
+used by Road Traffic Information unit to record fatality data on daily basis.
+
+12
+
+--- Page 13 ---
+Z
+
+3. ROAD FATAL CRASHES
+
+The section covers the data in relation to fatal road crashes. The section will
+encompass the number of fatal crashes and fatalities, contributory factors,
+
+fatality data per road user group and major crashes.
+
+3.1 Number of fatal crashes
+
+The table below provides a comparison during the first quarters in 2018 and
+2019. A decrease of 420 (15%) has been recorded in comparison to the two
+quarters of 2018 and 2019 nationally. On a provincial level, all the nine (9)
+Provinces recorded a decrease in this regard. The highest decrease in the
+absolute figures was recorded for KwaZulu Natal with 178 fatal crashes
+followed by Gauteng with 117 fatal crashes.
+
+Year EC FS GP KZN u MP ONC) 6ONW-) oWC RSA
+Apr-Jun 2018 339 | 186 | 601 | 558 | 294 | 272 | 72 | 197 | 239 | 2758
+pee 324_| 133 | 484 | 380 | 282 | 266 | 68 | 171 | 230 | 2338
+change -15 53 | -117 | -178 | -12 6 | -4 | -26 | -9 | -420
+% change -4 -28 -19 | -32 4 2 | 6 | 13 | -4 15
+
+Table 1: Number of fatal crashes per Province
+
+13
+
+
+--- Page 14 ---
+Road Traffic
+
+25%
+a
+
+20%
+15%
+&
+a
+10%
+0%
+
+@Apr-Jun 2018 Apr-Jun 2019
+
+14%
+
+Figure 1: Percentage distribution of fatal crashes per province
+-ashes per province.
+
+The provinces with the highest contribution of more than 15% were Gauteng
+and KwaZulu-Natal 21% and 16% respectively for 2019.
+
+3.1.1 Fatal Crashes per Day of Week
+The details of the crashes per day of the week is given in the figure below.
+
+Friday, Saturday and Sunday remain the most affected day of the week by
+fatal crashes for both quarters in 2018 and 2019.
+
+14
+
+--- Page 15 ---
+<a
+
+Road Traffic
+
+30% =
+5 8
+25% =
+x 2
+20% ~ =
+2.8
+4
+15% & £
+x s
+10%
+0%
+Sun Fri Sat
+
+@Apr-Jun 2018 ® Apr-Jun 2019
+
+Figure 2: Percentage distribution of fatal crashes per day of week
+
+3.1.2 Fatal Crashes per time of day
+
+The percentage of fatal crashes per time of day for the period under review is
+reflected in the figure below.
+
+14% Z,
+12% 7
+i ad | Es
+$¢ é
+6% ff. = a* Wf
+“a Py: raat 23 og Sg lil | it |
+TH PPL UTAH TT
+S or) SL S
+
+4% Ed
+0%
+oS
+Ss
+
+S
+oe SEES SS SESE EGGS GGG
+SM LP LFF SNM EF FS LF OS SN DP aS a eg
+
+=Apr-lun 2018 Apr-Jun 2019
+
+Figure 3: Percentage distribution of fatal crashes per time of day
+
+The figure above depicts a comparison between fatal crashes per time of day
+of quarter for 2018 and 2019 period. In comparison, slot 18:00 to 19:00
+
+15
+
+--- Page 16 ---
+Road Traffic
+
+recorded the highest fatal crashes of 11% in 2019 showing a decrease of 1%
+from 12% in 2018. The time slot between 19:00 to 20:00 has recorded a slight
+increase of 1% compared to the previous year.
+
+3.1.3 Fatal crashes per crash type
+
+The percentage contribution of fatal crashes per crash type are reflected in the
+
+figure below.
+som $8
+35%
+30%
+25% F 3
+22
+20% had z
+15% | en é 2
+10%
+#2 2€ 8 7 z z z
+5% ~ ~ RE SR MK RR KR oe Be
+sae I i BB 68 88 wn ee Be oe oe
+= $ $ ss s se ¢ a >
+OE PE Fg PP oF PP gE
+eS SP OF SF “ S€
+<< < > SS
+re a ee es
+eS PO ew P
+
+= Apr-Jun 2018 Apr-Jun 2019
+
+Figure 4; Percentage distribution of crash types
+
+The figure above depicts that most crashes occurred due to crashes with pedestrians
+and single vehicle overturned. A contribution of 36% for 2018 and 37% for 2019 was
+recorded for crashes involving pedestrians, which shows a slight increase of 1%.
+Followed by single vehicle overturned with a contribution of 19% for 2018 and 17%
+for 2019 of which decreased by 2%.
+
+16
+
+--- Page 17 ---
+3.1.4 Fatal crashes per vehicle type
+
+The percentage contribution of various vehicles involved in the fatal crashes
+
+are reflected in the figure below.
+
+wApr-jJun 2018 # Apr-Jun 2019
+
+Figure 5: Percentage distribution of fatal crashes per vehicle type
+
+The vehicle types that contributed the highest to fatal crashes were motorcars
+and LDV’s with contributions of 43% and 21% respectively by June 2019. Both
+the Motor cars and LDV’s recorded a decrease of 2% each in comparison of the
+two periods. The two vehicle types may contribute to high number of fatalities
+
+for passengers.
+
+17
+
+--- Page 18 ---
+Zz
+
+Road Traffic
+
+3.2. Contributory factors
+
+The contributory factors for fatal crashes are classified as follows: human
+factors (defined as a stable, general human abilities and limitations that are
+valid for all users regardless); vehicle factors (are more focussed on the
+vehicle itself and they cover issues around mechanical failures; and
+environment (include limited visibility, poorly marked roads, missing road
+signs, sudden changes in road infrastructure, gravel road, the state of the road
+and weather conditions).
+
+The fatal crashes for April to June 2019 showed that human factors contributed
+88% as compared to 89% recorded during April to June 2018. The roads and
+environmental factors recorded 5% in 2018 and 8% in 2019 that showed a
+significant increase of 3%.
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+
+89% 88%
+
+7% 4% 5% 8%
+a eee naa Sel
+
+Human factors Vehicle factors Roads & Environmental
+factors
+
+0%
+
+Apr-Jun 2018 = Apr-Jun 2019
+
+Figure 6: Comparison of contributory factors for 2018 and 2019
+
+The human factors remained a challenge compared to other factors, however
+with a decrease of 1% in comparison of the two quarters in 2018 and 2019.
+
+18
+
+--- Page 19 ---
+Road Traffic
+
+There was also decrease of 3% for vehicle factors from 7% during quarter 1 in
+2018 to 4% during quarter 1 in 2019.
+
+40.0% &&
+35.0% B&
+30.0% g
+25.0% =
+20.0% &
+15.0% = sé.
+a z
+10.0% 52 £8 28 £8 FB 28 228 BB RE oB 22 8
+5.0% i mS S§2 8, 22 S588 S888 2 £48 8
+0.0% BBme won cee ce ci ee et 288 =
+s 2 é s soe
+a ae oe a ae Oe SF Fo? A gh
+LFF PP ne ra er Br gw
+< 8 FS FF SP OS FS Fg PF SS oS
+re SF FF SF oF SF ® 5 gt 1S ea
+os CK an ro PS EF os 7 Oe
+¥ se FF PF FPF & so Oe
+2 SF PF FW SF OS of =F Pn ¢ io
+Fe ot a ee
+
+mApr-Jun 2018 = Apr-jun 2019
+
+Figure 7: Percentage distribution of human factors
+
+The figure above shows that jay-walking contribution to fatal crashes has
+increased by 0.6% from 33.6% in 2018 to 34.2% in 2019. This was followed
+by hit and run with a contribution of 12.9% in 2018 and 19.6% in 2019 which
+increased by 6.7%. Speeding is also a challenge. The jay-walking and hit and
+run as depicted above correlate to a high number of fatalities for pedestrians.
+
+19
+
+--- Page 20 ---
+Road Traffic
+Noeat nent eae
+
+3 a a a a ee oF oe rg > FF cad
+e Ca 32 eS
+os KS Po SF gS Po
+wt os < ore “
+a sé gp
+La
+
+&
+
+™Apr-Jun 2018 = Apr-Jun 2019
+
+: ) Figure 8: Percentage distribution of road and environmental factors
+
+The figure above depicts that most fatal crashes occurred as a result of sharp
+bend which contributed 12% in 2018 and 21% in 2019, followed poor visibility
+with a contribution of 19% in 2018 and 14% in 2019.
+
+s so p © get
+sr PE es OF Ps oe
+= < e Se <
+of ro of ae
+we of
+
+™ Apr-Jun 2018 = Apr-Jun 2019
+
+Figure 9: Percentage distribution for vehicle factor
+
+20
+
+--- Page 21 ---
+The figure above shows that most crashes occurred as a result of tyre burst
+prior to accident with a contribution of 43% in 2019 as compared to 59% in
+2018 which shows an decrease of 16%. Furthermore, the contribution of
+brakes being at fault increased by 1% from 15% in 2018 to 16% in 2019.
+
+21
+
+--- Page 22 ---
+}
+
+ott
+
+4. ROAD FATALITIES
+
+The section covers the data in relation to road fatalities. Fatalities are defined
+as when a person or persons that are killed during or immediately after a
+crash, or death within 30 days after a crash happed as a direct result on such
+crash. The section will encompass the number of fatalities and percentage
+
+distribution per road user, gender, race and per age.
+
+4.1 Number of fatalities per province
+
+Apr-Jun 2018 100
+
+Apr-Jun 2019 330 | 88 | 213 : 281 | 2876 |
+change -2 -12 -34 7 -427_—|
+% change to | -1 [ -12 | -14 | -2 -13
+
+Table 2: Comparison of fatalities per province for the two quarters of 2018 and 2019
+
+The table above shows a comparison of fatalities per province for the two
+quarters in 2018 and 2019. A decrease in the number of fatalities is depicted
+from 3 303 in 2018 to 2 876 in 2019 which resulted with a decrease of 13%
+nationally. With exception of Limpopo, all other provinces recorded decreases
+with the highest decrease recorded for KwaZulu Natal with 27% followed by
+
+Gauteng with 22%.
+
+22
+
+--- Page 23 ---
+4.2 Number of Fatalities per Road User Group
+
+45%
+40%
+35%
+
+42%
+40%
+32% 31%
+
+0%
+3 25% 26%
+25%
+20%
+15%
+10%
+
+4%
+5% 1%
+o% a
+
+Drivers Passengers Pedestrians Cyclists
+"Apr-Jun 2018 = Apr-Jun 2019
+
+Figure 10: Percentage distribution of fatalities per road user
+
+The percentage distribution of fatalities per road user groups are reflected in
+the figure above. The pedestrians contributed about 40% in 2018 and 42% in
+2019, of which depicts an increase of 2% in comparison of the two periods.
+The passengers followed with a contribution of 32% in 2018 and 31% in 2019,
+of which depicts a slight decrease of 1%. The drivers recorded an increase of
+1% from 25% in 2018 to 26% in 2019.
+
+23
+
+--- Page 24 ---
+90.0%
+80.0% 75.4% 76.S%
+70.0%
+60.0%
+50.0%
+40.0%
+30.0% 22.2% 21.7%
+20.0%
+0.0% = <<
+
+Male Female Unknown
+
+mApr-jJun 2018 mApr-Jun 2019
+
+Figure 11: Percentage distribution of fatalities per gender
+
+The figure above depicts trends for fatalities per gender for the two quarters in
+2018 and 2019. The trends shows that the males contribution increased by
+1.1% from 75.4% in 2018 to 76.5% in 2019 whilst females decreased by 0.5%
+from 22.2% in 2018 to 21.7% in 2019.
+
+ose 86% 82%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+age pe
+Black White Asian Coloured Other Foreigner
+
+wApr-jJun 2018 s Apr-Jun 2019
+
+Figure 12: Percentage distribution of fatalities per race
+
+The figure above shows that fatalities relating to blacks are very high in comparison to
+
+the other races.
+
+24
+
+--- Page 25 ---
+Road Traffic
+
+15%
+
+ad
+|
+
+x
+
+ery —__
+
+i"
+Nan
+ZRERLRES
+4 4%
+0-4 ate
+5-9 ME 4%
+a 4,
+15-19 Mm
+20-2} 11%
+35-39 eee 175,
+EE 9%
+a”,
+a
+nn 4%
+0. 54 MME 4%
+ME 3%
+Mm 4%
+i 3%
+ma 3%
+im %
+EE 2%
+mM %
+B %
+wm i%
+I 1%
+79) 0%
+1 0%
+1%
+
+&
+=Apr-Jun 2018 = Apr-jun 2019
+
+Figure 14: Percentage distribution of fatalities per age for Passengers
+
+The figure above indicates that most fatalities for passengers were recorded
+between age group 30-34 years. This age group’s contribution remained at
+17% in comparison of the two periods. Furthermore, the fatalities for the age
+groups 25-29 and 35-39 years recorded increases during the period under
+review. The age group between 0-4 years recorded a significant increase of 4%
+from 4% in 2018 to 8% in 2019.
+
+16.0% ee
+SE aR
+14.0% Sag ES
+12.0% 2 go
+a rs
+10.0% 3s OR i in
+R&
+6.0% Be uh oo oe ie £2
+vOut 5 Be ees
+4.0% = Oe aR 2
+HS x2 28
+2.0% Wage: 5a
+0.0% A | =a
+, ? 2 28 8 & 8 $F$ kBE BY EB é
+mw 3 8 @€@ 8 8 FF 8R#SsBE|e
+
+"Apr-Jun 2018 Apr-Jun 2019
+
+Figure 15: Percentage distribution of fatalities per age for pedestrians
+
+26
+
+--- Page 26 ---
+Z
+
+Road Traffic
+
+Blacks contributed 80% to the total fatalities in 2018 and 82% in 2019 that showed a
+slight increase of 2%. Followed by whites with a contribution of 7% in 2018 and 6% in
+2019 that showed a slight decrease of 1% in comparison of the two periods.
+
+4.3 Road user group fatalities per age group
+
+The figures below provide information with regard to the fatalities per age and
+per road user group for the period April to June 2019. The information is
+categorised per road user group (Driver, Passenger, Pedestrian and Cyclists)
+
+20% E3 2
+18% Zope &
++S =
+16% x, Re
+14% -
+12% sxe
+10% an x Z
+FOS
+8% Zee ay RP
+oo xz
+6% TE.
+£2
+4% 2 AA Sk os 22
+2% ~~ ia i
+co, mm Bes <= om
+a2 S & & &* $$ FSF F BS SF FS XB 3
+2 $22 &£ ¢ &¢ $k bg be 6 8
+Saal nN N nm ad Tr w wo wo wo ~ ~
+
+= Apr-Jun 2018 Apr-Jun 2019
+Figure 13: Percentage distribution of fatalities per age for drivers
+
+The figure above shows that the highest fatalities for drivers were recorded
+from age group 30 to 34 and 35 to 39 years. The two age categories recorded
+16% and 18% respectively in 2019 as compared to 18% and 16%
+contributions in 2018 resulting with 2% decrease for 2018 and 2% increase for
+
+2019.
+
+25
+
+--- Page 27 ---
+A
+
+The figure above indicates that most fatalities for pedestrians were recorded
+between the ages 30 to 34 years with 12.5% in 2018 and 14.8% in 2019. The
+age group 35 to 39 years recorded an increase of 2.1% from 9.6% in 2018 to
+11.7% in 2019.
+
+25%
+z
+si PA
+20% — os
+= = S
+15% ea 7s
+ka ~iis2 #
+10% 5B Be &
+es )
+5% 5 =S # Bs Se > 28 5
+: TT Ee
+ove POE | | i i. afi.
+72 228 285 8S SRA ESES
+a 3 8 S&S & 8 F< F FB 8B Be FB
+
+=Apr-Jun 2018 m Apr-Jun 2019
+
+Figure 16: Percentage distribution of fatalities per age for cyclists
+
+The figure above indicates that most fatalities for cyclists were recorded
+between age group 45 to 49 years with a contribution of 1% in 2018 and 18%
+in 2019 resulting with an increase of 17%. The age group, 50-54 years
+followed with a contribution of 5% in 2018 and 15% in 2019 which increased
+by 10% in comparison of the two periods.
+
+27
+
+--- Page 28 ---
+5. MAJOR CRASHES INVESTIGATED
+
+A total number of twenty-eight (28) major crashes were reported and
+investigated during this period. Two-hundred and three (203) persons were
+killed and one-hundred and ninety-six (196) persons sustained injuries in the
+major crashes.
+
+The figure below provides comparison of the number of major crashes reported
+and investigated and casualties during the first quarters in 2018 and 2019.
+
+250
+
+203
+200 i196
+150 142
+103
+100
+° i =i 8
+>» «Say Ee
+
+Number of Crashes Fatalities Injuries
+= Apr -jun 2018 s Apr-Jun 2019
+
+Figure 17: Major crash casualties during ist quarters of 2018 and 2019
+
+An increase has been recorded for the number of major crashes investigated
+from twenty-five (25) in 2018 to twenty-eight (28) in 2019. An upward trend
+has been observed for the number of fatalities from one-hundred and forty-two
+(142) in 2018 to two-hundred and three (203) in 2019.
+
+28
+
+--- Page 29 ---
+Rogd Traffic
+
+The highest number of major crashes and fatalities were reported and
+
+investigated in the following Provinces:
+
+5.1
+
+Limpopo Province (8 crashes with 78 fatalities with a severity rate of 9.8
+
+persons killed per crash);
+
+KwaZulu-Natal Province (7 crashes with 44 fatalities with a severity rate of
+6.3 persons killed per crash);
+
+Western Cape Province (3 crashes and 18 fatalities with a severity rate of
+
+6.0 persons killed per crash).
+Free State Province (3 crashes and 17 fatalities with a severity rate of 5.7
+
+persons killed per crash).
+Mpumalanga Province (2 crashes and 13 fatalities with a severity rate of
+
+6.5 persons killed per crash).
+Eastern Cape Province (2 crashes and 10 fatalities with a severity rate of
+
+5.0 persons killed per crash);
+Gauteng Province (1 crash and 10 fatalities with a severity rate of 10.0
+
+persons killed per crash).
+North West Province (1 crash and 7 fatalities with a severity rate of 7.0
+
+persons killed per crash); and
+Northern Cape Province (1 crash and 6 fatalities with a severity rate of 6.0
+
+persons killed per crash).
+
+Vehicle types comparison on major crashes
+
+The figure below depicts the vehicle types involved in the major crashes
+reported and investigated during the first quarters of 2018 and 2019. The
+vehicle type mostly involved in major crashes were light motor vehicles at
+32.3% followed by light delivery vehicles at 27.7%.
+
+29
+
+--- Page 30 ---
+60.0%
+Hy
+50.0%
+40.0% 5
+5
+30.0% N =
+é S a
+20.0% 2 am
+ia = x #
+2 © &
+10.0% F eo 2% = = & <
+0.0% am |
+LMV LDV SUV Minibus Truck Bus
+
+@Apr-Jun 2018 @Apr-jun 2019
+
+Figure 18: Vehicle types involved in major crashes investigated
+5.2 Major crash type comparison on major crashes
+
+The figure below depicts the major crash type comparison on crashes that
+occurred during the first quarters of 2018 and 2019. The majority of the major
+crashes that occurred during the first quarter in 2019 were head on crashes
+with 57.1%, followed by Single Vehicle Overturned type crashes with 17.9%
+and Multiple Vehicle crashes 14.3%.
+
+30
+
+--- Page 31 ---
+60.0% g &
+50.0%
+paren ge &
+. a nN e &
+20.0% F q a Fg 3 3 £ é z
+10.0% a a ao ¢ +
+0.0% = = Bae oe =
+FE a
+Cs & Cd Ss ss &
+aw se & CS 2 ss
+Pe Pea Cs = é
+a Rs & ¢S
+Cy
+Se
+
+@Apr-Jun 2019 B@ Apr-Jun 2019
+
+Figure 19: Crash types that occurred for major crashes investigated
+
+5.3 Contributing factors to the major crashes
+
+Human factor contributed 85.7% to the major crashes, followed by vehicle
+factors with 10.7% and road and environment with 3.6%.
+
+100.0% go om
+90.0% 85.7%
+80.0%
+70.0%
+60.0%
+50.0%
+40.0%
+30.0%
+all 10.7%
+
+10.0% 4.0% 4.0% 3.6%
+0.0% i ass OSs
+Human Vehicle Road and Environment
+
+@Apr-Jun 2018 = ® Apr-Jun 2019
+
+Figure 20: Contributing factors to major crashes investigated
+
+31
+
+--- Page 32 ---
+\
+
+SECTION B
+
+1. INTRODUCTION
+
+The section covers the vehicle population and human mobility data, as well as
+driver population. The vehicle Population data will encompass the number of
+registered vehicles inclusive of the status of their roadworthiness and licencing,
+as well as human mobility in terms of the number of persons per vehicle. The
+driver population data covers the number of registered drivers including the
+status and categories of licences
+
+2. VEHICLE POPULATION
+2.1 Number of Registered Vehicles
+The number of registered vehicles increased by 242 038 (1.96%) from 12 348
+
+522 on 30 June 2018 to 12 590 560 vehicles on 30 June 2019. Detail per type
+of vehicle is given in table below.
+
+| Number Number % of % of
+
+registered | registered Group Total
+June 2018 | June 2019 June 2019 | June 2019
+7 270 05 94 555} i 5 58,97}
+323 378]
+
+196 364)
+870 776
+15 651
+
+32
+
+--- Page 33 ---
+Z
+A.
+The table above shows that on a percentage basis the biggest change has been
+recorded for minibuses, heavy trailers and motorcars with an increase of
+3.72%, 3.02% and 2.13% respectively. The number of registered minibuses
+increased from 323 378 to 335 392 and followed by heavy trailers which
+increased from 196 364 to 202 303 and Motorcars which increased from 7 270
+050 to 7 424 605 respectively.
+
+The monthly percentage change over the past year for specific types of
+vehicles; as well as motorised and towed vehicles, are shown in the figures
+
+below.
+
+% Annual Growth in Vehicles
+June 2018 to June 2019
+
+—*
+Motorised Vehicles
+
+pexas
+All Vehicles
+es
+
+1,6 Towed Vehicles
+
+p
+1,4 abr
+Jul Sep Nov Jan Mch May
+Month
+
+Figure 21: Percentage Annual Growth in vehicles
+
+33
+
+--- Page 34 ---
+Road Traffic
+
+The monthly percentage change over the past year for motorised vehicles are
+shown in the figure below.
+
+% Annual Change in Motorised Vehicles
+June 2018 to June 2019
+
+—— Se
+
+LDV's - Bakkies
+ete
+
+2 Motorcars
+Feb Apr Jun —a—
+Minibuses
+
+Figure 22: Percentage annual change in motorised vehicles
+
+The total motor vehicle Population per Province for June 2018 and June 2019
+respectively, is given in table and reflected in the figure below.
+Number of Number Number %
+
+Registered Vehicles registered registered Change Change
+per Province June 2018 June 2019
+
+|KwaZulu-Natal
+
+|Western Cape 7999 735) 2041 960)
+
+Eastern Cape 820 291| 836 849,
+
+Free State 630 213) 635 921
+
+Mpumalanga 888 559) 911 710)
+
+North West 622 255] 632 223]
+
+Limpopo 702 761 725 640}
+
+Northern Cape 278 74) 283 820)
+
+RSA [12348 ma 12 590 560] 242 035] 1 iad
+
+Table 4: Number of registered vehicles per province
+
+34
+
+--- Page 35 ---
+u NC
+| [J dune 2016-2017 [HE vune 2017-2018 HEEB June 2018-2019
+kL —_ -
+
+Figure 23: Percentage Annual Growth in Vehicle Population _
+
+The table and figure above, depicts that over the past year from June 2018 to
+June 2019 the highest percentage growth in total vehicles was recorded in
+Limpopo with an increase of 3.26%. Followed by Mpumalanga and Western
+Cape, with an increase of 2.61% and 2.11% respectively.
+
+% Annual Growth in Vehicle Population
+June 2018 to June 2019
+
+Figure 24: Percentage Annual Growth In Vehicle Population
+
+The percentage vehicles registered per province as on 31 June 2019 is
+reflected in the figure below.
+
+35
+
+--- Page 36 ---
+Z
+
+Read Traffic
+
+Northern Cape (2,25%)
+Limpopo (5,76%)
+
+North West (5,02%) a
+Mpumalanga (7,24%) G:
+Free State (5,05%) ——/ eee
+
+Eastern Cape (6,65%)
+
+Western Cape (16,22%)
+
+Figure 25: Percentage Vehicle Registered per province
+
+The information in the figure above shows that about 38.48% of all vehicles
+were registered in Gauteng; 16.22% in Western Cape and 13.32% in Kwa-Zulu
+Natal.
+
+More detailed information on the number of vehicles per type registered per
+Province for June 2018 and June 2019 is given in the table under Appendix A.
+
+2.2 Human Population and Mobility
+The estimated human population for each year from 2016 to 2019 is given in
+
+table below. (These figures are estimates from the mid-year estimates
+released annually by Stats SA).
+
+36
+
+--- Page 37 ---
+Road Traffic
+
+Rosemont Comoe
+
+Province
+
+EC FS MP
+
+June 2016 | 13,44 | 11,16 629 | 7,07 | 2,85 | 4,36 | 3,76 | 583 | 1,20
+
+June 2017 | 13,71 | 11,40 6,38 | 7,21 | 2,88 | 4,43 | 3,81 | 594 | 1,21 56,40
+June 2018 | 13,98 | 11,64 648 | 7,37 | 2,92 | 451 | 3,86 | 605] 1,23 | 57,13
+June 2019 + 14,26 | 11,89 6,57 | 7,52 | 2,95 | 4,58 r 3,91 | 6,16 1,24 58,66
+
+Table 5: Estimated mid-month human population per province-million
+
+Based on the information on human and vehicle Populations, the average
+number of persons per vehicle per Province (excluding trucks, towed vehicles
+and “other” and “unknown” vehicles) at the end of June 2016, 2017, 2018 and
+2019 is shown in the table and reflected in the figure below.
+
+Month GA KZ wc Ec FS MP NW LI NC RSA
+June 2016 3,37 8,06 3,84 | 10,40 | 6,09 | 6,61 | 7,73 | 10,37] 5,55 5,66
+June 2017 3,40 8,16 3,81 | 10,45 | 6,14 | 6,58 | 7,69 | 10,23] 5,60 5,51
+June 2018 3,37 8,03 3,75 | 10,39 | 6,08 | 6,48 | 7,61 | 10,06 | 5,53 5,42
+June 2019 3,37 8,04 3,73 | 10,39 | 6,07 | 6,41 | 7,54 | 9,92 | 5,49 5,45
+
+Table 6: Average num ber of persons per vehicle (excluding trucks, other, unknown
+
+and towed vehicles)
+
+Av. No. of REED co Vehicle
+(exluding trucks, other and trailers)
+
+Figure 26: Average number of persons per vehicle (excluding trucks, other and
+
+trailer)
+
+37
+
+--- Page 38 ---
+Road Traffic
+
+agement Carport
+
+The percentage annual change or improvement in human mobility per province
+is reflected in table below.
+
+Province
+
+wc EC FS MP
+
+June 2016-2017 -0,93 -1,22 | 0,64 | -0,49 | -0,79 | 0,38 | 0,48 1,32 | -0,88 | 2,66
+
+June 2017-2018 0,95 1,56 | 1,60 | 0,56 | 0,96 | 1,57 | 1,08 1,68 | 1,28 | 1,70
+
+June 2018-2019 -0,06 -0,05 | 0,55 | 0,03 | 0,12 | 1,15 | 0,89 1,39 | 0,73 | -0,57
+
+Table 7: Percentage improvement in mobility per province
+
+KZ Ec FS
+
+[EE] June 2016-2017 [EER] Sune 2017-2018
+
+The information in the tables and figures above shows that on a national basis
+the general overall mobility in terms of the number of persons per road vehicle
+(vehicles that can reasonably transport passengers — motorcars, minibuses,
+buses, motorcycles and LDV’s “bakkies”), improved by -1.57% from a national
+average of 5.42 persons per vehicle at the end of June 2018 to 5.45 persons
+per vehicle at the end of June 2019.
+
+38
+
+--- Page 39 ---
+y,
+
+Road Traffic
+
+Although they do show some improvement, the “least mobile” Provinces
+remain Eastern Cape with 10.39 persons per vehicle; followed by the Limpopo
+with 9.92 persons per vehicle at the end of June 2019. The “most mobile”
+Provinces are Kwa-Zulu Natal and the North West with an average of 8.04 and
+
+7.54 persons per vehicle respectively at the end of June 2019.
+
+The average number of persons per “heavy” road passenger transport vehicle
+(buses and minibuses) is shown in table below and reflected in the figure
+
+below.
+
+June 2016
+
+185
+
+June 2017
+
+206
+
+181
+
+June 2018 96 189 | 150 | 259 | 184 | 140 | 166 | 201 175
+—t
+June 2019 95 186 | 147 | 257 | 181 137 | 162 | 195 | 168
+
+Table 8: Average number of persons per "Heavy"passenger transport vehicle (buses
+
+and minibuses)
+
+Av. No. of Persons per “Heavy” Vehicle
+(buses and minibuses)
+
+[3] dune 2016
+
+Figure 28: Average number of persons per "heavy vehicles"(buses and minibuses)
+
+[DY June 2017
+
+June 2018
+
+HE June 2019
+
+39
+
+--- Page 40 ---
+The percentage annual change or improvement in the number of persons per
+
+“heavy” passenger road transport vehicle per province is reflected in the table
+
+below.
+
+Period Province
+
+Ec FS
+
+June 2016-2017 0,62 | 0,59 0,10 | 0,83 ]0,92] 1,85] 2,17] 3,97
+
+June 2017-2018 1,24 | 1,20 1,19 | 2,62 |1,39/2,83/298] 2,21
+ee |
+
+June 2018-2019 0,52 1,81 | 1,68 | 0,91 | 1,32 | 2,51 |2,44]2,90/ 4,21] 0,64
+
+Table 9: Percentage improvement in average number of persons per "heavy"
+passenger transport vehicles (buses and minibuses)
+
+The information in tables and figure above show that, since the previous year-
+on-year improvement, the national overall mobility and quality of public road
+transport in terms of the number of persons per “heavy” passenger road
+transport vehicle from June 2018 to June 2019 improved by 0.64% from 148
+
+to 147 persons per vehicle.
+
+On a Provincial percentage basis the highest improvement was in the Northern
+Cape where the average number of persons per vehicle changed by 4.21%
+from about 175 persons per vehicle in June 2018 to 168 persons per vehicle at
+the end of June 2019. In Limpopo the improvement was 2.90 from 201 to 195
+followed by Mpumalanga with percentage improvement of 2.51.
+
+The average number of “heavy” road passenger transport vehicle (buses and
+minibuses) per 10,000 human population per Province is shown in the table
+below and reflected in the figure below.
+
+40
+
+--- Page 41 ---
+Month GA KZ wc EC FS MP NW LI NC RSA
+June 2016 102 52 63 38 54 69 59 48 54 64
+
+June 2017 103 52 65 38 54 69 60 48 55 66
+
+June 2018 104 53 67 39 54 71 60 50 57 68
+
+June 2019 105 54 68 39 55 73 62 51 60 68
+
+Table 10: Average number of public transport vehicles ( buses and minibuses) per
+10,000 human population
+
+No. of Buses & Minibuses / 10,000 Pop
+
+|
+
+June 2016 = J June 2017 [~] June 2018
+
+Figure 29: Number of buses and minibuses/10 000 human population
+
+2.3 Un-Roadworthy and Un-Licenced Vehicles
+
+2.3.1 General
+
+Un-roadworthy vehicles is defined as those of which the owners failed to
+submit the vehicles for compulsory annual roadworthy tests (including buses,
+minibus taxis and freight transport vehicles) or on change of ownership. Un-
+licenced vehicles are those of which the owners failed to renew the vehicle
+licences within the time frame allowed.
+
+41
+
+--- Page 42 ---
+Z
+
+On a national basis the total number of vehicles that are either un-roadworthy,
+un-licenced or both increased by 55 135 (4.81%) from 1 146 215 vehicles as
+on June 2017 to 1 201 350 vehicles as on June 2019. Detail in this regard per
+type of vehicle is provided in the table below and the percentage (%) change
+from 2018 to 2019 reflected in the figure below.
+
+Vehicle Type June 2018 June 2019 Change % Change
+[Motorcars 625 202 653 056 27 854 4,46
+Minibuses 57 915 62 509 4594 7,93
+[Buses 9509 10 265 756 7,95
+[Motorcycles 66 393 66 307 -86 -0,13
+ILDV's - Bakkies 191 808 203 370 11 562 6,03
+[Trucks 63 564 66 163 2599 4,09
+[Caravans | 7 952 7 950 2 -0,03
+[Heavy Trailers 25 566 26 340 774 3,03
+Light Trailers 68 816 73 972 5 156 7,49
+Unknown T 29 490 31 418 1928 6,54
+
+[All Vehicles | 1146215 | 1201350 55 135 487
+
+|
+Table 11: Number of un-roadworthy, un-licenced vehicles or both
+
+With an exception of motorcycles and caravans, increases were recorded for
+most types of vehicles in this regard. The highest increase was recorded for
+buses with 7.95% followed minibuses with 7.93%.
+
+Detail on the number of vehicles that are either un-roadworthy, un-licenced or
+both per Province is provided in the table below and the percentage (%)
+change from 2018 to 2019 reflected in the figure below.
+
+42
+
+--- Page 43 ---
+Road Traffic
+Nonoaemeed seta,
+
+June 2018
+
+June 2019
+
+Change 27 23: 6954 -277 458:
+
+4424 6 26. 734
+
+% Change 5.6 499 -1.86 7.67} 3.0 5.19 7.36 9.9: ag 481]
+
+Table 12: Number of vehicles that are un-roadworthy or un-licenced or both
+
+The information in tables and figures above shows that most provinces
+recorded an increase in this regard with the exception of Western Cape. On a
+Provincial level the highest percentage (%) change was recorded for Limpopo
+with 9.99% followed by Eastern Cape with 7.67%,
+
+‘% Change in Number of Vehicles
+Un-Roadworthy OR Un-Licenced OR Both
+
+Figure 30: Percentage change in number of vehicles un-roadworthy or un-licenced or
+both
+
+2.3.2. Number of Un-Roadworthy Vehicles
+
+The number of vehicles that are un-roadworthy (but licenced) increased by 14
+439 (2.49%) from 580 144 vehicles as on 30 June 2018 to 594 583
+
+43
+
+--- Page 44 ---
+Road Traffic
+
+Menosempat! Corporation
+
+vehicles as on 30 June 2019. Detail in this regard is given in the table below
+and the percentage of un-roadworthy vehicles per type of vehicle, as a
+percentage of the number registered, is reflected in the figure below.
+
+Vehicle Type June 2018 June 2019 Change % Change
+otorcars 285 997 289 649 3652 1.28
+Minibuses 37 470 40 432 2962 7.90
+uses 7 488 7947 459 6.13
+lotorcycles 37 393 37.780 387 1.03
+DV's - Bakkies 89 705 92 113 2 408 2.68
+Tucks 50 180 51 661 1 481 2.95
+(Caravans 3 887 3930 43 1.14
+|Heavy Trailers 21 841 22 321 480 2.20
+26 011 27 874 1 863 7.16
+20 172 20 876 704 3.49
+Set | 504583, | 14430 249
+
+All Vehicles
+Unknown
+
+Light Trailers
+Heavy Trailers
+Caravans
+
+Other Motorised
+
+lune 2019
+
+Trucks
+
+LDV's - Bakkies = june 2018
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+Figure 31: Percentage of un-roadworthy vehicles
+
+The information in the table and figure above shows that all vehicle types
+recorded an increase in this regard. The highest increase for un-roadworthy
+
+44
+
+--- Page 45 ---
+raffic
+i
+
+poration
+
+vehicles was recorded for buses with an increase of 2 962 (7.90%) from 37
+470 at the end of June 2018 to 40 432 at the end of June 2019.
+
+Details with regard to the number of vehicles that are un-roadworthy per
+Province are provided in the table below and the percentage (%) change from
+2018 to 2019 reflected in the figure below.
+
+GA
+
+% Change in Number of Vehicles
+
+that are Un-Roadworthy per Province
+
+we EC FS MP
+Figure 32: Percentage change in number of vehicles that are un-roadworthy per
+
+province
+
+The information in the table and figure above shows that with exception of
+
+45
+
+--- Page 46 ---
+>)
+
+KwaZulu Natal all other provinces recorded an increase in the number of un-
+roadworthy vehicles. On a percentage basis the highest increase was recorded
+in Gauteng where the number of un-roadworthy vehicles increased by 10 470
+(4.02%) from 260 380 in June 2018 to 270 850 at the end of June 2019. Other
+increase in this regard was recorded in Limpopo with an increase of 3.30%.
+
+The percentage of un-roadworthy vehicles per Province, expressed as a
+percentage of the total number of vehicles registered per province, is shown in
+
+the figure below.
+
+% of Un-Roadworthy Vehicles
+
+Ec FS MP NW
+
+[June 2018 [EB June 2019
+
+Figure 33: Percentage of un-roadworthy vehicles
+
+2.3.3 Number of Un-Licenced Vehicles
+
+On a national basis the number of un-licenced vehicles decreased by 36 019
+(7.10%) from 506 989 vehicles as on 30 June 2018 to 543 008 vehicles as on
+
+30 June 2019.
+
+46
+
+--- Page 47 ---
+Detail per type of vehicle in this regard is given in the table below and the
+percentage of un-licenced vehicles per type of vehicle, as a percentage of the
+number registered, is reflected in the figure below.
+
+Vehicle Type June 2018 June 2019 Change % Change
+(Motorcars 306 855 328 812 21957 7.16
+Minibuses 15 988 17 057 1 069 6.69
+Buses 1545 1 762 217 14.05
+Motorcycles 24 626 23 906 -720 -2.92
+ILDV's - Bakkies 92 128 100 697 8 569 9.30
+Trucks 10 495 11 344 849 8.09
+(Caravans 3 762 3678 -84 -2.23
+[Heavy Trailers 3 038 3.244 206 6.78
+Light Trailers 40 347 43 235 2 888 7.16
+Unknown 8 205 9 273 1 068 13.02
+All| Vehicles | 506089 | 643008 | 36019 | 7.40
+
+Table 15: Number of un-licenced vehicles
+
+‘% of Un-Licenced Vehicles
+
+All Vehicles
+Unknown
+
+Light Trailers
+Heavy Trailers
+Caravans
+Other Motorised
+Trucks
+
+LDV's - Bakkies
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+Figure 34: Percentage of un-licenced vehicles
+
+47
+
+--- Page 48 ---
+Road Traffic
+
+Management Gorporakor
+
+The information in the table and figure above shows that with exception of
+motorcycles and caravans, all other vehicle types recorded an increase with
+regard to the number of un-licenced vehicles. On a percentage basis the
+highest increase was recorded for buses with 14.05% from 1 545 to 1 762. The
+highest decrease were recorded for caravans and motorcycles with 2.33% and
+2.92% respectively.
+
+Detail on the number of vehicles that are un-licenced per Province is provided
+in the table below and the percentage (%) change from 2018 to 2019 reflected
+
+in the figure below.
+
+June 2018 | 200 064 65181] 67 775
+June 2019 [214844 72399 63878 42929 543 008)
+
+sal 424 4115 3125 49071 36 019)
+% Change 375 10,549 17,21] 15,18) 4,4 7,10
+
+Table 16: Number of un-licenced vehicles per province
+
+‘% Change in Number of Vehicles
+that are Un-Licenced per Province
+
+20
+15
+: | a
+; |_|
+5 ||
+0 Ga KN Wo
+
+Ec FS MP NW u NC RSA
+
+a
+
+Figure 35: Percentage change in number of vehicle that are unlicensed per province
+
+48
+
+--- Page 49 ---
+Z
+
+Road Traffic
+
+The information in the table and figure above shows that the highest increase
+in the number of un-licenced vehicles were recorded in Limpopo with 15.18%.
+Then followed by North West and KwaZulu Natal with 11.21% and 11.07%
+
+respectively.
+
+The percentage of un-licenced vehicles per type of vehicle, as a percentage of
+the number registered per Province, is reflected in the figure below.
+
+iP NW ut
+
+[ERR sune 2019
+
+Figure 36: Percentage of un-licensed vehicles
+
+Detailed information on the number of un-roadworthy and un-licenced vehicles
+) per type of vehicle per Province is provided in the tables under Appendix B.
+
+1
+
+49
+
+--- Page 50 ---
+3. DRIVER POPULATION
+
+3.1 Learner Driving Licences
+
+The number of learner driving licences issued decreased by 14 304 (1.20%)
+from 1 192 926 on 30 June 2018 to 1 178 622 on 30 June 2019. Detail on the
+number of learner driving licences issued per category is given in table below
+and graphically reflected in the figure below.
+
+Category June 2018 June 2019 Change % Change
+
+Figure 37: Number of learner license issued
+
+50
+
+--- Page 51 ---
+Road Traffic
+
+Provincial information in this regard is given in the table below and the
+percentage change per Province over the 12-month period is reflected in the
+
+figure below.
+
+13 805, -3 575 “1 ial
+a 2.11
+
+) Table 18: Number of learner licences issued per province
+
+4.21
+
+289 -2.92|-3.44)
+
+With exception of Gauteng and Mpumalanga, all other Provinces recorded a
+decrease with regards to the number of Learner Licences issued. The highest
+decrease was recorded for Limpopo with 9.45% followed by Northern Cape
+with 7.96%.
+
+Figure 38: Percentage change in learner licences issued per province
+
+51
+
+--- Page 52 ---
+B
+
+Road Traffic
+
+Menagement Corperption
+
+3.2 Driving Licences Issued and Expired
+3.2.1 Number of Driving Licences Issued
+
+The number of driving licences issued increased by 486 253 (3.80%) from
+12 807 403 on 30 June 2018 to 13 293 656 on 30 June 2019. Details on the
+number of driving licences issued per category is given in table and graphically
+reflected in the figure below.
+
+J Category June 20 June 2019 ange % Change
+A 481 974 488 828 6 854 1.42
+Al 122 678 122 631 -47 0.04
+B 2 885 218 2.998 425 113 207 3.92
+23177 23 902 725 3.13
+C1 4003 855 4 327 031 323 176 | 8.07
+EB 3 634 959 3 638 998 4039 0.11
+Ec 1 068 524 1 108 085 39 561 3.70
+EC1 587 018 585 756 -1 262 0.21
+Total 12 807 403 13 293 656 486 253 3.80
+
+Table 19: Number of driving licences issued
+
+Driving licences:
+
+Motorcycle > 125 Motorcycle < 125
+A rey Al rey B Motor vehicle < 3,5000 kg
+cub.cm cub.cm
+c Motor vehicle > a1 Motor vehicle 3,500 EB Articulated motor vehicle
+16,000 kg - 16,000 kg <16,000 kg
+Articulated vehicle Articulated vehicle 3,500
+EC Eci
+> 16,000 kg - 16,000 kg
+
+52
+
+--- Page 53 ---
+Road Traffic
+
+Manogemen! Corporation
+
+No. of Driving Licences Issued
+
+[EE Lune 2018 ( June 2019
+
+Figure 39: Number of driving licences issued
+
+The information contained in the table above depicts the highest percentage
+change was recorded for Categories C1 with percentages of 8.07%. Followed
+by category B and EC with 3.92% and 3.70% respectively.
+
+The number and percentage (%) of driving licences issued per category at the
+end of June 2019 is reflected in the table below.
+
+Category Description
+
+Motorcycle > 125 cub.cm
+
+Motorcycle < 125 cub.cm 122 631
+
+B Motor vehicle < 3,5000 kg | 2998 ail 22,
+Motor vehicle >16,000 kg [2390
+C1 Motor vehicle 3,500 - 16,000 kg 4327 031] _ 32,5!
+[EB Articulated motor vehicle < 16,000 kg 3638 998) 27,3
+EC Articulated vehicle > 16,000 kg 1 108 085) 8,34
+EC1 Articulated vehicle 3,500 - 16,000 kg 586 7! 44)
+Total 13 293 65 i
+
+—
+Table 20: Number and percentage of driving licences issued per category
+
+53
+
+--- Page 54 ---
+Provincial information in this regard is given in the table below and the
+percentage change with regard to all licences issued per province is reflected in
+the figure below.
+
+Figure 40: Percentage change in driving licences issued
+
+54
+
+--- Page 55 ---
+Z
+
+Road Traffic
+
+3.2.2 Professional Driving Permits Issued and Expired
+3.2.2.1 Number of Professional Driving Permits Issued
+
+The number of Professional Driving Permits (PrDP’s) issued decreased by 1 800
+(0.16%) from 1095 900 on 30 June 2017 to 1094 100 on 30 June 2019.
+Detail on the number of PrDPs issued per category is given in table below and
+graphically reflected in the figure below.
+
+Category June 2018 June 2019 Change % Change
+
+Professional Driving Permits (PrDPs)
+G: Goods
+
+P: Passengers
+
+D: Dangerous goods
+
+No. of PrDPs Issued
+
+[Jeune 2018 [June 2019
+
+Figure 41; Number of PrDP's issued
+
+55
+
+--- Page 56 ---
+Road Traffic
+
+agement Caperston
+
+Provincial information in this regard is given in the table below and the
+percentage change with regard to all categories of PrDP’s issued per Province
+is reflected in the figure below.
+
+290 O58 195 388) 158 074! 90 07
+-2 103}
+
+-0.72|
+
+Figure 42: Percentage in PrDP's issued per province
+
+56
+
+--- Page 57 ---
+Reviewed and Supported by
+
+DH: RTIS
+
+Recommended by
+
+Approved by
+
+Road Traffic
+
+-AA.L07fR004....
+
+Date
+
+57
+
+--- Page 58 ---
+Road Traffic
+
+Management Corperction
+
+APPENDIX A
+
+Jun 2018 Number of Registered Vehicles per Province
+KZ we EC FS MP NW
+
+Motorised Veh's
+
+Motorcars 3032609 995 363. 1 267 196) 454 5:
+[Minibuses 125077 53588 36187 am 12724 _ 23 87:
+ses 20684 _—7 86 7059 4 31482
+[Motorcycles 141555) 316 85260 21923 18864 18 75:
+|LDV's - Bakkies 828 474-361 181|___330 321] 204440 130 624 218 03:
+[Frucks 13774949198 _—«44615| 22 11421 46 927| 17 836 25 104
+Other & Unkwn 38429 33623—«41:254 17 891] 3750, 29 24 138182
+{Sub-Total [4324 ce 1532 425) 1814 787|_749 331] 539 103 772514 540 117] 644 5
+[Towed Veh's.
+|Garavans 38662] 7210 1807) _—«S 67564107 6 4 5537] 276i] 104
+|Heavy Trailers 80 7e4 23 3721 887-225 18.354 3916 11159] 91071 S630 ——to06
+ight Trailers 333.255| 81720 146 100|_57059 63243 64810) 63.4371 a0 28804 870771
+Unknown 244 152 2219 15ii] 19491922) 2027] 4244 67: 15 651
+[Sub-Total 435 139|__113 839] 167 94970 961] 91111] 116041] 73139] 88 105) 37 86d 7 7ea-o
+[all Vehicles 4759 704 1 646 263 1999735 620297] 630219 B88 554) 622255 702761 278 74812 348 52
+0
+Motorised Veh's cee aye Ss ae oe _ == a
+[Motorcars 3.090 7221 1 016 600] 1 203 442] 465 345 318 881] 430718] 325 634] 344 034 130 209 7 424 60:
+[Minibuses 128 55 9053739024770 13 25058 19960 247 5649 335 39:
+Buses 20544802 72: 4404 3250 8 4224 6 175: 64 80
+[Motorcycles 140481! 30953] 85 2165718445, 18 425, 12 941) 345 50
+ILDV's - Bakkles 847 398 368 671| 337 202) 208 165 132 169 224 0621 155 364 2-589 654
+[Frucks 138.499 49 oa 45 aa 2230521804 47932 _ 17 32: 378 254
+er & Unkwn 38612-3330 41 18 184 _37 29 23 46: :
+Bussraa Tae 1562 697] 1848 559] 764924 544 660792971] 558 911
+‘owed Veh's
+ravans 37910] 7100] 18.247] 5 140) 740 1008 621 5 27: 100 29:
+jeavy Trailers 61 zi 23 rn 236127254 18 40 10 883] 9887] 5749 20230:
+[Light Trailers 337733 82490, 149344) 67 63500 65897) 54063) 43 2936 883 784
+Unknown 231 148i| 2205) 15 1919 1 245914 15 351
+[Sub-Total 439 Ta 114 841] 193 40271918 91 261| 116739] 73.31, 59070 38520 1201 Be
+[AllVehicles [4844 9091 1677 537] 2041 960] 836 840 635 921|_011 710 632 224 Tae 283 820) 12 590 56
+
+% Change Number of Registered Vehicles per Province
+Jun 2018-2019 GA KZ we EC FS MP NW ul Ne RSA
+
+jotorcars i 2.43) 207 237] 14 29; 234 33 78g 24
+fuunibuses 3.0. 4,3: 3.34 3,05) 2.20 4.9 45 5A 6.57, 3,72
+uses -0.6 2, 2, 2,99 3,74 2.2 0,4! 2.91 2, 1,
+jotorcycles “0,71 =2,07| 04d 1,21 -2,23 1,75] _-3.21) -2, “0.5 “0,8
+V's - Bakkies 2.2 2,0; 2,081.8 4,2 2,7 2,07) 3,4 2,04 2,2:
+[Trucks 0.5: “0,1 2, 0.87 -0. 2,442.87 5.14 _-0,4g 4,04
+
+her & Unknown 0.4: “0,6: 1.5: 1 =1,0§_-1,01| _-2,7% 1, 1.14] -0,03)
+
+ib-Total cP 19 2,0: 2,01 1,09 2,6: 171 3,2; 1,83 2,01
+Caravans 199 _—-1,5: 0, 0 249-09] -1.77_ 08] __ 0.65] ERI
+[Heavy Trailers 1.58 1.6 EE 0.4: 0.4 4: 2.44 854 2.11 3,0:
+[Light Trailers 1,34 0,94) 2, 1, 041,16 41 2.51 1,94 1.4
+[Unknown 2,2 33,14 “05 159 1,74 3,95) 3,04) _-1.57] 4 0 18
+(Sub-Total 1,07] 0, 2 1, 0,17] 0, 3,05 4,7. 1
+[All Vehicles t 47. 1 211 2.0 0,91] 130 3,26 (1,8 1:
+
+58
+
+--- Page 59 ---
+APPENDIX B-1
+
+Number of Un-Roadworthy Vehicles
+
+June 2018
+Motorcars [143 46g 32 11
+jinibuses [18 23: 5 a7
+Buses | 2 99% 89) 7 489)
+Motorcycles 16 93 3.58: 3.085] 174: 37 393)
+LLDV's - Bakkies | 38 785| 11 547| 9 884] 5 880, 68584 67% 89 705]
+Trucks 19 098[ 6 221) 4.535) 2 85) 5575] 2 86 50 18
+ther & Unkwn | 3 001) 2255 1 869] 1 271 2805, 196: 19 26
+Total 242 51862091) 67 392] 29 255) 30 19: 37) 25 6: 23 93; 9 42 527 49:
+‘aravans 138: 341 60. 14 36 461 22 23 1 3 88:
+Heavy Trailers [7 152) 2579 17: 804) 2416 4114 1334 980,72: 21 841|
+Light Trailers [9199 3 102) 4187) 14 233i 21321712) 125 656 26 011
+known 12 14, 8 EI ill 12 12. 62] 4 EST
+ib-Total 17862 61 6609 2467] 5232) 6833) 33 2535 15 52 64
+Motorcars [148 454 31 164 40 540] 15 009] 1415 15135] 12211] 937i] 36 289 649)
+Minibuses 19 488 5 662] 3 205] 2603|__1 751) 2 566) 2 3 2.29. 5. 40 432)
+Buses 3251 86. 73. 511 37. 83 47. 6 29! 7947)
+Motorcycles 1733634 6 404 1 684 2072, 2973! 1773) 125 787 37 78
+V's - Bakkies | 40 501] 11 467) 9 981|__5 9841 4 750) 7 07; 49585645] 1 74 92 11
+Trucks 19 987|_6 375] __4 502] 3.075, 388i] 5 781| 2 Baa] 3 427, 1791 51 661)
+ther &Unkwn | 30522308 20481 1 351] 35377 393 19992 00% 761 199
+b-Total 252 066| 61 337] 67 41530 216] 30 529] 37293] 265 24 5 9 534| 539 5
+ravans 1 43; 32: 615] 1 35 42 26: 231) 12 3.931
+Heavy Trailers 211492784 22127) 787|__2 453 3:957|__1 202) 104 75422321)
+Light Trailers 10 101] 3 205,43 1491/2 BI 2288] 17: 1391 73. 27 87:
+inknown [13 1 8 91 1 12 11 5 3. 8
+ub-Total 18 7: 4567 303 251 5 39; 6 80; EIEYZ 271 1 64¢ 55 O1.
+jotorcars I 061] 0,63] -3,51] 3,21] 2,19 2.2 1,2
+Minibuses 16,83 8,35, 14.5 11,4) 7,5 9,91 7,91
+Buses 11,11] 20,3 47 21 0,3 4,91 6,13)
+Motorcycles 2,43 -0,48)-3.6: 1,72 -1,49]-1,7' 1,03}
+LDV's - Bakkies 0,98 4,77] -1,47|_3, a 5,9 2,73, 0,0 2,6
+Trucks 4.6: 2,481 -0,7 2,71 133] 3,70) Sa 1,87, -2,2 2,9.
+{Other & Unkwn 1,71 2,3: 9,5 6,2! 2,2 4,4 1,63) 5,71 2,42| 3,71
+ib-Total 3 =1,2: 0,0 3,2 iil 0 3 2,7 1,1] 2,2
+ravans 3,47, -3,5 24 2,10 -2,98| -6,94| 15.35 -1.71 2,44] 1,14
+leavy Trailers -0,51 7,8: 27,2 -2,11 153] -3,8) -9,90| 8,5 3,87|_ 2,20,
+Light Trailers 9,81] 3,3: 49. 3,97, 61 7,3: 4,91] 10,57] 11,7. 7,16
+Unknown. 7,94 -1,4: 0,0 5,81] _-8,62] 1,591 -4.84|__-9. 68) -28.2 =2,21
+ib-Total 5,1 4,74 10,5 1,9 3,06 -0,45, _-0,5% 8,1 61 4,4
+
+59
+
+--- Page 60 ---
+Road Traffic
+
+APPENDIX B-2
+
+Number of Un-Licenced Vehicles
+
+June 2018 KZ we Ec
+Motorised Vehicles
+
+Motorcars 127 981] 39 51 2 - 22 470|_14 243] 21 028] 15 219]
+Minibuses [7695 2 181] 127 52 915
+Buses 49. 15. 1 14!
+
+Motorcycles 10572] 219. 5 18.
+LDV's - Bakkies | 2972 8 89:
+[Trucks
+
+Other & unkwn
+
+146 265,36! 238
+
+997 8 183,61 27
+
+16 33. E 25593028 2 Sig]
+137] 100)
+
+June 2019
+
+Motorcars 42 267] 24 959 14 562] 23 061]
+Minibuses 1416131 551] 10061 084]
+[Buses 150) 78 215] 21g
+
+lotorcycles
+ILDV's - Bakkies
+[Trucks
+
+Other & Unkwn
+
+|Caravans 138 274 47922. 308{_ 401] 262]
+
+Heavy Trailers 92% 486, 173) 12 251 69! 221!
+
+Light Trailers 18 042] 4894 4 881! 2945] 2 664 3377, 2 839 > So 10 43 23.
+Unknown 203,14! 1i4) ii 14i] 147] 22 9. 4 123
+
+ub-Total 20 5: 5 5647, 3411] 3 31 4623) 3 3113) 1 32: 51 38:
+
+Motorcars [819 11,3 11,081 2,24 9,671
+inibuses 2,95] 11,555,671 __ 3, al 5,56 14,3
+Buses 10,91] 7,79 8,26 11,11) _-1,2 2,
+Motorcycles “0,91 8,05] -12,83|-1,06|__-5,91| __-1,62
+ILDV's - Bakkies 7, ig 10,32] -5,47| 12,66 5,84] 16,23
+Tucks 6,25, 5, 6, 8,04 14,42 10,8
+ther & Unkwn 14,27] 11,42] 10,7i| 35,44) 25,44] -6,8
+ravans [5:39 3,79) -17,84 7,77] 1629 8 67|__ 10,0
+Heavy Trailers -6,99 19,41) -6,99 45.98 37.16) 13 13] -19,9
+Light Trailers 10,46 14,67|_-15,60| _ 9,81 12,75]
+lUnknown. 33,5: -8,81) -3,39 7,34) 23,37]
+ub-Total 8,50|_ 13,75) -15 10,6 10,3:
+
+Py ified Dinas ae fat ay [ {is
+
+60
+
+--- Page 61 ---
+June 2018
+
+GA
+
+Kz
+
+APPENDIX B-3
+
+Number of Both Un-Roadworthy & Un-Licenced Vehicles
+we EC FS MP NW
+
+Motorised Vehicles
+
+Road Traffic
+
+lotorcars
+
+11 936
+
+4 076
+
+inibuses
+
+2 112)
+
+351) 313) 256)
+
+Buses
+
+154}
+
+4 = 2 a 204 2646 1 584]
+
+5 6
+
+190.
+
+670}
+48}
+427
+
+732{ 391
+
+3.03
+
+1 496
+
+1 067} 108
+
+lotorcycles
+V's - Bakkies
+icks:
+
+Heavy Trailers
+
+[Light Trailers
+
+Unknown
+
+|Sub-Total
+
+li Vehicles
+June 2019
+
+Motorcars
+
+414
+
+$111] 2 95:
+
+70:
+
+3.
+
+42
+
+jinibuses
+uses
+
+lotorcycles
+
+45:
+
+oa 4
+742 210
+
+1149] 1 059)
+
+povs ~ Bakkies
+ICks
+
+Other & Unkwn
+
+Karavans
+
+leavy Trailers
+
+ight Trailers
+
+9.67 7,21
+
+10,68]
+
+13 69:
+
+24,00 12,6:
+
+zai
+
+2,33] 41,6
+
+24,3
+42,5
+1,23
+
+36,01 16,8
+
+Motorcycles im
+
+3,45]
+
+-10i 5,
+5
+
+LDV's - Bakkies
+
+8
+
+61
+
+--- Page 62 ---
+June 2018
+
+GA
+
+KZ
+
+APPENDIX C-1
+
+Number of Learners Licences Issued Per Province
+EC FS MP
+
+Za
+
+Road Traffic
+
+GA
+
+328 293] 198 843
+
+KZ
+
+13.445) 3566) 12 55! 2060) 2 126) 40
+64 182] 32376 79 568] 26 44( 8113) 242 963)
+3 250 666 162 901] 90 080 95 906] 51 769) 108 087] 909 m4
+
+106 145] 61775) 114 492]
+
+3311
+
+2 046 2119
+
+12 87:
+62 872)
+
+2 30 540) 77 0: 13 261] 7 636
+3 266 351] 159217! 87 899; 73 785 51459) 97 73;
+Total 342 098] 193 068] 176 886) 100 236 66 766] 8
+
+“7,15 “011 4,88)
+2 2,045.67} -3,1el 8,8 9,0 4,
+3 626 2,26) 2,42) -1.01 -8,04) ~0,1
+Total 4,21 2,90) -2,92 ra -0,35) : 7,9 -1,20
+
+Learner Licences :
+
+Category 1: Motorcycle
+
+Category 2 : Light Motor Vehicle
+Category 3: Heavy Motor Vehicle
+
+62
+
+--- Page 63 ---
+June 2018
+
+APPENDIX C-2
+
+Number of Driving Licences
+
+Issued per Provin
+
+ce
+
+2
+
+oad Traffic
+
+GA
+A 176 is 15 18. 9483) 481 974
+At BT. 12 99; ses 2417] 122 67
+B 1058014 468 804! 605 37a) 145612 122724 116 66 76726-5253 2885 211
+c 475, 492 49 52 2 901 T7181 451 2317,
+Ci 1347 51 679295 219 70: 167 209° 456044220 63q 61031477 89: 4 003 85:
+EB 1286 447575912] 80976 312 719 175730 160 167,140 939109 064.6521 3634 9!
+EC 309 = 181599 12431 7401481 81g 1068
+69726 50 29. 35 191]
+June 2019
+9 488 828)
+43 584 73001] 2902 917 653 6274 380425 122 634
+B _| 1106 184482323. 631 833) 248 309 161 008 125918 119 895 78.573) 64 a5; 2998
+c 4 a7 402: 5269 120: 303 1 843) 47] 23902)
+Ct 1464561] 736430) 236 TOs 242 75: 649 484.77 254, ——«4 327 031
+L EB | 1285 529 575718 815495] 313 57 65 04; 3638 99
+EC 321314 —«*189 12769276195 8406 42131 262 1108 085)
+ECt 218 264) 69630, 50 464177 35034] 62119 367: 65 & 173 585 751
+Total | Fezzezg, ee 97291 660 117/985 630 1 027 79; 246 749" 13 293 656,
+‘% Change Number of Driving Licences Issued per Province
+Category GA KZ wovy EC | Fs MP] NW ou NC RSA
+A 1,27] 0,94 24 a 0.59} 075 0,45) 14 0,88) 14:
+Al 037} 0,09) zl OT 0, 0,0: =1,07 -071 ~0,91 -0,
+B 45 2.88 437] 4,04) 374 am 27) 2,39 3a 39:
+c ra 0,10) oa 374 228, 444 12: - 6,00} 3,13
+ci 8,69 8,44 74 9,2: 6,94] 8,44 7.54 64: ia 8,07/
+EB t 0,07 0,0. 074 02 02a 0.29 0,34] 0-02 0,11
+i EC 3, 4, 2,72 2,99 2,62) ExT 2. Ex 7,93) a7
+ECt -0,3: “0,1 -0,1 ory 0, am “0,7; 01 -0,0% -0,24
+Total | C ae = 3,60) wa 5,08] 3; ah a 3,80,
+Driving Licences:
+A Motorcycle > 125 cub.cm | Al | Motorcycle < 125 cub.cm B Motor vehicle < 3,5000 kg ~]
+c Motorvehicle > 16,000 kg | C1 Motor vehicle 3,500 - 16,000 kg EB Articulated motor vehicle <16,000 kg
+ec Articulated vehicle > 16,000 kg ECL Articulated vehicle 3,500 - 16,000 kg
+
+63
+
+--- Page 64 ---
+2
+
+Road Traffic
+
+APPENDIX C-3
+0 of Pro onal D P DP Pro
+ro) A P RSA
+G 1617 1817) «151 721 84. 96: 39 77 32. 897]
+PG 277 363) 180 150 681] 87512) 631 100 824 52751] 107 195] 24 Goa) 104477
+DG | 40) 1 7 14) 1 7 17] 37] aI 74
+DPG 13741] 10747, 4415) 23 3075 3556) «12 20 759 4198
+Total 292 761] 193 229) 156 630| 90 67 037) 105357] 54 110015) 25 7% 1095
+e er of Profe D Pe PrDP °
+G 1443 1562144) 69 801] 80! 37: 68. 35: 8 16
+om) PG | 274 @77 182 734 152 175] 86 24 499) 1042745)
+} DG 28 20 1 155)
+DPG
+Total
+
+% Change
+Category
+
+G
+
+PG 1,1 0,99)
+DG am 27,2) 11,11]
+DPG 4,14 3,1 0,3:
+Total BC mt 0,9:
+
+Professional Driving Permits (PrDPs)
+G : Goods
+P : Passengers
+
+!  D: Dangerous goods
+
+--- Page 65 ---
+affic
+
+Management Corporation
+
+Road Traffic Management Corporation
+Eco Origin Office Park, Block F
+349 Witch-Hazel Street
+Highveld Ext 79
+Tell: 012 999 5200
+
+Want to know more about the RTMC - visit www.rtme.co.za
+
+65
+
+--- Page 66 ---
+Road Traffic
+
+Manogemen! Compass
+
+66
+
+

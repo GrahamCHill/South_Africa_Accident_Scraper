@@ -1,0 +1,6 @@
+Notes
+
+- it may be worth swapping Tesseract for easyocr (a python-only package, ) if it works well or at least works for
+the OCR needed with RTMC
+
+-

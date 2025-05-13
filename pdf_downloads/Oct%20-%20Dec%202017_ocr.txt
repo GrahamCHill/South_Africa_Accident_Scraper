@@ -1,0 +1,2777 @@
+--- Page 1 ---
+Ro affic
+
+Management Corporation
+
+State of Road Safety Report
+
+October - December 2017
+
+transport
+
+; Department:
+) Transport
+REPUBLIC OF SOUTH AFRICA
+
+--- Page 2 ---
+Table of contents
+
+Table of contents ii
+
+List of Figures 3
+List of acronyms and abbreviations 5
+il, OBJECTIVE OF THE REPORT 6
+P EXECUTIVE SUMMARY 7
+SECTION A 10
+ip INTRODUCTION 10
+2, METHODOLOGY 10
+&h ROAD FATAL CRASHES ANALYSIS 13
+4. ROAD FATALITIES ANALYSIS 21
+5. MAJOR CRASHES 27
+SECTION B 32
+1. INTRODUCTION 32
+2. VEHICLE POPULATION 32
+SECTION C 62
+1 INTRODUCTION 62
+2 ROAD SAFETY 63
+3 LAW ENFORCEMENT 66
+
+APPENDIX A 73
+
+--- Page 3 ---
+tonaattc
+
+List of Tables
+
+Table 1: Number of fatal crashes per province 13
+Table 2: Comparison of Number of Fatal Crashes per day of week for Quarter 3 of
+
+2016 ANd 2017... seessesseceesssssstecesssseecsseeseseeeeeessseeeeseeesesssseeesssseneeesenenaeeseesees 14
+
+Table 4: Vehicles involved in major CraSheS .......cccccceccceecececeecceeeccececeeeucersecerseeeece 30
+Table 5: Number of registered vehicles per type for 2016 and 2017 ......ccccceceeseeseeee 33
+Table 6: Number of registered vehicles per Province .........cccccccsessssecesseeseusssscceenees 34
+
+Table 7: Estimated mid-month human population per province - million ..
+
+Table 8: Average number of persons per vehicle (excluding trucks, other, unknown
+
+ANd towed VEHICIES) ........scccsecccssseessesssssseeeseesssseecesesesaeeeeesecessnessesesaeseeeseseeeanees 37
+Table 9: Percentage improvement in mobility per province...........sscccccesseesceceeeeesens 38
+Table 10: Average number of persons per "heavy" passenger transport.........:.00000 40
+Table 11: Percentage improvement in average number of persons Pef ........cssceeeeees 41
+
+Table 12: Average number of public transport vehicles (buses and minibuses) per
+10,000 human population ..
+
+Table 13: Number of un-roadworthy, un-licenced vehicles or both .........ccssesesseeeveee 43
+Table 14: Number of vehicles that are un-roadworthy or un-licenced or both .......... 44
+Table 15: Number of un-roadworthy VehICIES ..........ccccessssseeecessssrceeeecsrsreeeserenees 45
+
+Table 16: Number of un-roadworthy vehicles ..
+Table 17: Number of un-licenced Vehicles .........:csssssssseecssssscesseeesssseeseersssseeseeee 49
+
+Table 18: Number of un-licenced vehicles ..
+
+Table 19: Number of learner licences iSSUCC.........csccsssscsseseecesseeeessesessseeesseesensseees 52
+
+Table 20: Number of learners licences issued per province...
+
+Table 21: Number of driving licences iSSUCC ........ssceeesessssseeeecesesseeeecesrssseeeeessneees 54
+
+--- Page 4 ---
+Table 22:
+
+Number and percentage of driving licences issued per category.
+
+Table 23: Number of driving licences issued per PrOViNCe..........sseccessssssseeceesersee sees 56
+Table 24: Number of driving licences cards issued and expired per province 2017....57
+Table 25: Number of PrDP's iSSUC.......::cccscssssececcessesseeeeesssssseteeeseseeeeeeseanaeeesenee 58
+Table 26: Number of professional driving permits (PrDP's) issued per province........ 59
+Table 27: Number of professional driving permits (PrDP's) issued and expired per
+BUOVINCeR2 0 1)/Pierencmsrssscnsacunnnnnuscsscsmnscacccnnnctratenecnsntnensorterstteet ttt Tee TTT TTT 60
+Table 28: Law Enforcement arrests .........ccccccccceesessceesececceesceneceeeeeseeeeeeeeesseeeserenee 68
+
+--- Page 5 ---
+List of Figures
+Figure 1: Percentage distribution of fatal crashes for the two quarters...........::seeceee 13
+Figure 2: % distribution of fatal crashes per day Of WEEK .......ccceseccssssssesseeseeereeeenes 14
+
+Figure 3: % distribution of fatal crashes per time of day for two quarters 2016 and
+1201 Zieees
+
+Figure 4: Percentage distribution of crash tyP@S.........cccceesecesscctesceeeeeeeeeeeesseseseenans 16
+
+Figure 5: Percentage distribution of vehicle type...
+
+Figure 6: Comparison of contributory factors for 2016 and 2017........c:ccccccseessenereee 18
+
+Figure 7: Percentage distribution of human factors..
+
+Figure 8: Percentage distribution of road and environmental factors...........cccsceeeeeee 20
+Figure 9: Percentage distribution for vehicle faCtOr.........cccsssssscsssssssssccceccceeseeseseeee 20
+Figure 10: Percentage distribution of fatalities per road USEF ..........ccccccceeceeeeeseeeues 22
+Figure 11: Percentage distribution of fatalities per GeNer........ccssccccccceeseeseeeeeerees 22
+Figure 12: Percentage distribution of fatalities per raC@........cccccececseseseseseesseenseseeees 23
+Figure 13: Percentage distribution of fatalities per age for Crivers .......::ccccsseceeeeeeees 24
+Figure 14: Percentage distribution of fatalities per age for passengers...........sceceee 25
+Figure 15: Percentage distribution of fatalities per age for pedestrians............:s00c008 25
+Figure 16: Percentage distribution of fatalities per age for CyClistS............ccceeceeeeeees 26
+Figure 17: Number of major crashes, fatalities And injUrieS ...........essseeeessseeeeeeeeeees 27
+
+Figure 18: Crashes and fatalities per province ...
+
+Figure 19: Major crashes per crash tyP@sS......cccccccceceseesecceseceseesecceeceeeesseesseteeeenens 29
+
+Figure 20: Percentage distribution of the contributory ...
+Figure 21: Percentage Annual Growth in VehicleS.........ccccssccsssssssssscsesceeeceeeseesesenes 34
+
+Figure 22: Percentage Annual Growth in Vehicle Population.
+
+Figure 23: Percentage Annual Growth in Vehicle Population.........cccsccesseecereseeseeee 35
+
+--- Page 6 ---
+kona
+
+Conpention
+
+Figure 24: Percentage Vehicles Registered per Province... 36
+
+Figure 25: Average number of persons per vehicle (excluding trucks, other and trailer)
+
+Figure 26: Percentage improvement in mobility Of PErSOMS...........ccccseeeeeeeeeeeeereeeees 39
+Figure 27: Average number of persons per " heavy vehicles" (buses and minibuses) 40
+Figure 28: Number of buses and minibuses / 10,000 human population..............66 42
+
+Figure 29: Percentage change in number of vehicles un-roadworthy or un-licensed or
+both..
+
+Figure 30: Percentage of un-roadworthy VEHICIES .......ccesssssccccssesseeeceeseessreeeeeeseees 46
+
+Figure 31: Percentage change in number of vehicles that are un-roadworthy per
+province
+
+Figure 32: Percentage of un-roadworthy VehicleS............cccsseseeeeeesseeeseeeseeeeeeeseeteee 48
+
+Figure 33: Percentage of un-licenced vehicles....
+
+Figure 34: Percentage change in number of vehicle that are un-licensed per province
+
+Desentoesocscuccecenctesussntessssnrnnnttttsrsrsetsesttnecsssescanassestrerersetessstentttetttececenssieeseeerr ieee 50
+Figure 35: Percentage of un-licensed Vehicles.........:scssscsssssssccceeesssseseseessssreeeceesees 51
+Figure 36: Number of learner licenses iSSUCS.........ccccceeeceeecceceececceeeeeeeeeeeseeeeseeeeees 52
+Figure 37: Percentage change in learner licenses issued per province........s..ccccseeees 53
+Figure 38: Number of driving licenses iSSUCC.............sssseeeccceseseecececeeseeeseuuseuuavents 55
+Figure 39: Percentage change in driving licenses isSUEC............cccccsssssseessesecseueeeees 56
+Figure 40: Percentage expired driving license Cards ........cssscccccsessssceceeeessseeeeeeseens 57
+Figure 41: Number of PrDP's isSued ...........ccccccseeseeseeeteeeseeesseceesevesesecseeeeesereeseetee 58
+
+Figure 42: Percentage in PrDP's issued ..
+
+Figure 43: Percentage expired professional driving permits ..............ssssessseseeeseeeneee 60
+
+Figure 44: Vehicles stopped and checked..
+
+Figure 45: Highest offences reported........ccsscecccccssssececcceeeeuereeeteeseuecsccueeseseseauees 67
+
+--- Page 7 ---
+List of acronyms and abbreviations
+
+CHOCOR
+EC
+
+GA
+
+FS
+
+LI
+
+MP
+NC
+NW
+wc
+KZN
+SAPS
+NATIS
+
+NREP
+
+CULPABLE HOMICIDE CRIME: OBSERVATION REPORT
+EASTERN CAPE
+
+GAUTENG
+
+FREE STATE
+
+LIMPOPO
+
+MPUMALANGA
+
+NORTHERN CAPE
+
+NORTH WEST
+
+WESTERN CAPE
+
+KWAZULU NATAL
+
+SOUTH AFRICAN POLICE SERVICE
+
+ELECTRONIC NATIONAL TRAFFIC INFORMATION SYSTEM
+
+NATIONAL ROLLOUT ENFORCEMENT PLAN
+
+
+--- Page 8 ---
+a.
+Maxigrmet Carpeeaton
+
+i; OBJECTIVE OF THE REPORT
+This report is aimed at achieving the following objectives:
+
+e To provide road traffic fatal crashes and fatalities statistics based on the
+Culpable Homicide Crash: Observation Report (CHoCOR) Forms; and
+
+e To present statistics on registered vehicles, un-roadworthy vehicles, un-licenced
+vehicles, driving licence and professional driving permits issued.
+
+¢ To present Road Safety programmes and Law Enforcement operations executed
+during the period under review.
+
+--- Page 9 ---
+t
+ss
+Legere Cen
+
+2. EXECUTIVE SUMMARY
+
+The report seeks to provide the road crashes statistics, law enforcement and
+road safety programme information. The performance is for the period
+between October - December 2017. The performance per each focus areas had
+been provided below
+
+Road Crashes Data
+
+A total number of 3 781 fatalities were recorded for the period between Oct-
+Dec. That resulted a decrease of 3.15% from 2016. The most affected road
+users were pedestrians and passengers.
+
+A total number of thirty-nine (39) major crashes were reported and
+investigated during this period. Approximately two hundred and thirty-one
+(231) people were killed and one hundred and ninety-eight (198) people
+sustained injuries as a result of the major crashes.
+
+Vehicle and driver population
+
+The number of registered vehicles increased by 240 878 (2.01%) from 11 964
+234 on 31 December 2016 to 12 205 112 vehicles on 31 December 2017. On a
+national basis the total number of vehicles that are either un-roadworthy, un-
+licenced or both increased by 29 174 (2.82%) from 1 035 449 vehicles as on
+31 December 2016 to 1 064 623 vehicles as on 31 December 2017.
+
+--- Page 10 ---
+~
+I
+
+adiifraffic
+ego Carprslon
+
+The number of learner driving licences issued decreased by 48 557 (3.85%)
+from 1 262 261 on 31 December 2016 to 1 213 704 on 31 December 2017.
+The number of driving licences issued increased by 495 322 (4.07%) from
+12 162 813 on 31 December 2016 to 12 658 135 as of 31 December 2017.
+
+Law Enforcement and Road Safety performance
+
+Road Safety unit conducted the following activities during the period under
+review (quarter 3). In relation to Youth program the conducted driver
+education workshop with young drivers from 9 provinces.
+
+Furthermore, the unit monitored the implementation of Community based
+structure which are aimed at addressing contributory factors to hazardous
+locations within identified communities.
+
+Over and above the unit coordinated the implementation of the driver
+awareness with interest group more especially the Freight industry which was
+identified as a priority during quarter 3.
+
+A total number of vehicles stopped for 2016 were 2 159 833 compared to
+2 914 906 in 2017 with an an icrease of 26%.
+
+Out of a total of vehicles stopped, a total of 506 405 and 912 985 traffic
+notices were issued in the same period during 2016 and 2017.
+
+Over and above notices issued, arrests were made following the severity of
+offences, total of 10 255 and 13 982 arrests were reported during the period
+under review in 2016 and 2017 calendar year. These arrests and offences
+
+--- Page 11 ---
+a.
+
+aren
+
+issued were as a result of joint operations conducted between provincial
+authorities, SAPS and all other stakeholders involved in the operations of law
+enforcement.
+
+--- Page 12 ---
+2
+Roadiaaffic
+
+oat
+gered
+
+SECTION A
+1. INTRODUCTION
+
+This report is based on information about fatal crashes that were reported to
+police stations between October and December 2017 using the CHoCOR Forms.
+In addition, the report includes information about registered vehicles, un-
+roadworthy and un-licenced vehicles, driving licence and professional driving
+permits issued from the National Traffic Information System (NaTIS), Law
+Enforcement and Road Safety information. Furthermore, its includes
+information about population growth using the 2017 mid-year population
+estimates from Statistics South Africa (Stats SA).
+
+2. METHODOLOGY
+
+2.1 Road crash data collection methodology
+
+The Culpable Homicide Crash Observation Report (CHoCOR) form is used to
+collect fatal crashes data on daily basis. South African Police Service (SAPS) is
+the primary source of the fatal crashes data. SAPS provide the Corporation
+with a list of all recorded fatal crashes (CAS list) and further to this the
+Corporation receive the CHoCOR forms from various police stations. Road
+Traffic Management Corporation captures, processes and verifies the data to
+compile a report.
+
+2.2 Crash Data Flow
+
+Data is collected through the CHoCOR forms. The forms are then submitted to
+the Corporation either by fax, email or through the phone.
+
+10
+
+--- Page 13 ---
+oa
+2.3 Data processing
+
+The data is captured, processed and verified for the compilation of the
+consolidated statistical report. There is a continuous engagement with
+provinces for validation purpose.
+
+2.4 Limitations
+
+The road traffic information contained in the report is mainly based on the fatal
+crashes only. There is still a need for in-depth research to be conducted to
+collect scientific base facts to complement the administrative data.
+
+2.5 Road Safety
+
+The Corporation develops programmes to coordinate and monitor the
+implementation of the programmes across the 9 provinces. The reports
+compiled by the different implementing agents namely youth structure,
+community-based structure and interest group (Freight company, etc) are
+used as the source of data.
+
+2.6 Law Enforcement
+
+The Law Enforcement Unit is primarily responsible for the harmonization and
+alignment of road traffic enforcement operations within the three spheres of
+government. The data is collected through reporting templates.
+
+2.7. Sample
+
+Sampling is not applicable for fatal crashes routine or administrative data as
+the data is collected as they occurred within the country from all nine (9)
+provinces. There is no sampling for Road Safety and Law Enforcement.
+
+11
+
+--- Page 14 ---
+a
+nagar Corpcation
+
+2.8 Instruments
+
+The Culpable Homicide Crash Observation Report (CHoCOR) forms are being
+used by Road Traffic Information unit to record fatality data on daily basis.
+
+Road Safety and Enforcement use the following tools among others for
+administrative data collection questionnaires, templates, reports, registers and
+presentations. Provinces record information on National Rollout Enforcement
+Plan (NREP) and EMISA forms while Road Traffic Inspectorate records
+information on Inspectorate forms, these reports are submitted to RTMC on
+monthly basis for consolidation of a National report.
+
+12
+
+--- Page 15 ---
+Pa.
+Magee Coca
+
+3. ROAD FATAL CRASHES ANALYSIS
+
+The section covers the data in relation to fatal road crashes. The section will
+encompass the number of fatal crashes and fatalities, contributory factors, fatality
+data per road user group and major crashes.
+
+3.1. Number of fatal crashes
+
+The table above provides a comparison between two quarters. There was a reduction
+of 100 (3.1%) in comparison to Quarter 3 of 2016 and 2017. However, on a provincial
+level all provinces recorded a reduction in this regard with except of Limpopo and
+Western Cape. The highest decrease was recorded for Northern Cape with 12.6%
+followed by North West with 10.2%.
+
+Number of Fatal Crashes per Province
+
+Year EC FS GP KZN NW
+
+Ec
+216 | $23 278 | 3090
+aaa
+Coen |-2|-oa [=a -Ra || 9 [a [20:8 [-3:3 |
+
+Table 1: Number of fatal crashes per province
+
+25%
+
+230% iy
+
+[12%
+
+20%
+15%
+12% 12% noon
+10% =
+10%
+779m 8% B%
+5% fs
+A ll Hl ia rT i ll
+0% HI
+
+2016 #2017
+
+Figure 1: Percentage distribution of fatal crashes for the two quarters
+
+13
+
+--- Page 16 ---
+7 Pa
+Mimagemers Cope
+
+3.1.1 Fatal Crashes per Day of Week
+
+The details of the crashes per day of the week is given in the Table below.
+Friday, Saturday and Sunday remain the most affected day of the week by
+fatal crashes for both 2016 and 2017.
+
+Quarter 3 Sun Thurs Fri
+2016 21.8% | 9.9% 7.6%
+2017 22.9% | 11.4% | 9.7%
+Table 2: Comparison of Number of Fatal Crashes per day of week for Quarter 3 of
+2016 and 2017
+
+3.2 Fatal Crashes per day of the week
+
+The percentage of fatal crashes per time of day for the period under review is
+reflected in the figure below.
+
+30,0%
+
+7%
+
+23,5%
+
+25,0%
+20,0%
+
+15,0%
+g
+
+un Thurs Sat
+22016 =2017
+
+10,0%
+
+5,0%
+
+9,9%
+11,4%
+8,4%
+9,3%
+15,6%
+14,4%
+
+0,0%
+
+wn
+
+Figure 2: % distribution of fatal crashes per day of week
+
+14
+
+--- Page 17 ---
+7.
+Magee Capt
+
+3.2.1 Fatal Crashes per time of day
+
+The percentage of fatal crashes per time of day for the period under review is
+reflected in the figure below.
+
+9,0%
+8,0%
+7,0%
+=
+6,0% Ste i Ey
+£22 Fy 2 i H wg
+50%] © mh ok ze % reer. ce | i eA
+Fd FEW ome. ehR ge 2 Zhe ie H H cs
+4.0% 1a OLS oe oe Ole 5 ok oe BN ok got Ot ri é
+og Ort Be BOR sei es RE EM ae H tl i
+3,0% nD SA Oy oi ] i
+] i = 2016
+20% fl f 82017
+1,0% i i
+om seeseseggegee3eseee2e3e222828
+SBSBSSSRBSESSRRARSEASHRAARARASA
+Saga Sse eSnraen RSS sas ag s
+sssesseSss SRaRRSERSRSEARAARAN
+
+Fr
+2
+
+Figure 3: % distribution of fatal crashes per time of day for two quarters 2016 and
+2017
+
+The figure above depicts a comparison between fatal crashes per time of day
+comparing Quarter 3 of 2016 and 2017. In comparison, slot 19:00 to 20:00
+remained the highest however with a slight decrease compared to the previous
+year. The same picture was observed whereby a downward trend was
+observed for slots 20:00 to 24:00, and a slight increase from 00:00 to 02:00.
+
+15
+
+--- Page 18 ---
+Pe.
+
+Slateetnent Cope
+
+3.2.2 Fatal crashes per crash type
+
+The percentage contribution of fatal crashes per type are reflected in the figure
+below.
+
+2016 =2017
+
+Uknown
+
+Single vehicle overturned
+Single vehicle teft the road
+Sideswipe same dir
+Sideswipe opp dir
+
+Person fell off
+
+Jack knife
+
+Hit and Run
+
+Head-rear
+
+Head-on
+
+Approach at Angle
+Accident with tain Qh ey
+Accident with pedestrian [ia a
+Accident with fixed object EE i i i a Le
+Accident with cyclist II i i i iii ae
+Accident with animal Gi a
+
+oO 20% 40% 60% 80% 1
+
+&
+8
+
+%o
+
+Figure 4: Percentage distribution of crash types
+
+The figure above depicts that most crashes occurred due to crashes with pedestrians
+and single vehicle overturned. A contribution of 34.7% for 2016 was recorded for
+crashes involving pedestrians and 34.6% for 2017 of which shows a slight decrease of
+0.1%, Followed by single vehicle overturned with a contribution of 21.5% for 2016
+and 20.4% for 2017.
+
+16
+
+--- Page 19 ---
+Management Coreraton
+
+3.2.3 Fatal crashes per vehicle type
+
+The percentage contribution of various vehicles involved in the fatal crashes
+are reflected in the figure below.
+
+eee
+
+CO
+
+lato ———
+
+Moblle Equipment (chriverr}), (gs
+
+GMV> 3500 kg ee BR
+Pare) Ver gg ry
+DV er
+Beas ta ar,
+8 ee
+i aR a
+CombI/ Minh Ls RR I
+Motor Car or Station Wagqor aaa SSS
+
+0% 20% 40% 60% 80% 100%
+
+=2016 =2017
+
+Figure 5: Percentage distribution of vehicle type
+
+The vehicle types that contributed the highest to fatal crashes were motorcars
+and LDV’s with contributions of 47.2% and 20.4% respectively. The two
+vehicle types may contribute to high number of fatalities for passengers.
+
+17
+
+--- Page 20 ---
+ae
+Magrmers Oeeaion
+
+3.3 Contributory factors
+
+To determine the contributory factors for fatal crashes, the contributory factors
+are classified human factors (defined as a stable, general human abilities and
+limitations that are valid for all users regardless); vehicle factors (are more
+focussed on the vehicle itself and they cover issues around mechanical failures;
+and environment (include limited visibility, poorly marked roads, missing road
+signs, sudden changes in road infrastructure, gravel road, the state of the road
+and weather conditions).
+
+The fatal crashes for Oct-Dec 2017 showed that human factors contributed
+86.5% to the occurrence of fatal crashes followed by roads and environmental
+factors at 7.7%; and vehicle factors with a contribution of 5.7%
+
+100.0%
+90.0% =2016 82017
+80.0% 76.5%
+70.0%
+60.0%
+50.0%
+40.0%
+30,0%
+17.1%
+
+6.5% 5.7% | | 7.7%
+a |
+
+Human factors Vehicle factors Roads & Environmental factors
+
+20.0%
+
+10.0%
+
+0.0%
+
+Figure 6: Comparison of contributory factors for 2016 and 2017
+
+The figure above depicts trends for contributory factors for the two quarters.
+The human factors remain a challenge compared to other factors. There is an
+
+18
+
+--- Page 21 ---
+1B.
+Manages Cones
+
+increase of 10% for human factors and a decrease of 9.4% for roads and
+environmental factors, while vehicles factors recorded a decrease of 0.8%.
+
+s
+
+Turned in front of oncoming traffic
+0
+
+Speed to high for circumstances i
+
+Overtook across barrier line
+Jay-walking pedestrian
+Intoxicated driver with liquor/drug usage
+Hit and ay j
+Fatigue: driver falling asleep
+
+Disregard for stop sign
+
+Cell phone holding/ussage
+
+0% 20% 40% 60% 80% 100%
+™2016 =2017
+
+Figure 7: Percentage distribution of human factors
+
+The figure above shows that jay-walking contributed 31% to the occurrence of
+crashes, followed by speeding with 15%; and hit and run with 12.9% during
+2017. The jay-walking and hit and run as depicted above correlate to a high
+number of fatalities for pedestrians.
+
+19
+
+--- Page 22 ---
+Ronalatic
+Visibility smoke/gog/rain/etc
+Traffic lights defective
+Road works
+Road surface wet/slippery
+Road signs...
+Other
+
+Blind rise
+
+Animals: stray/wild
+
+g
+
+20% 40%
+™2016 = 2017
+
+3
+a
+8
+R
+
+Figure 8: Percentage distribution of road and environmental factors
+
+The figure depicts that about 18% of crashes occurred as a result of a sharp
+bend followed by wet/slippery road surface with 11.6% which is a reduction of
+32.1% from the previous year. Poor road surface contributed more than 10.5%
+to the total road crashes.
+
+Tyres: smooth iENNr ay anes oo
+
+‘Tyres: burst prior to accident
+Steering: faulty
+
+Overload: passengers
+Overload Cargo
+
+Other
+
+Headlights not switched on
+Headlights faulty
+
+Headlights blinding
+Chevronsno reflective stripes
+Brakes faulty
+
+Bicycle no rear reflectors
+Bicycle no head lamp
+
+3
+3
+
+40%
+2016 2017
+
+g
+F)
+a
+
+Figure 9: Percentage distribution for vehicle factor
+
+The figure above shows that most crashes occurred as a result of a tyre burst
+Prior to the crash with a contribution of 50.7% during 2017, followed by
+
+20
+
+--- Page 23 ---
+Ie
+Martens pcan
+
+smooth tyres with a contribution of 10.4% and steering faulty at 5.2%
+contribution.
+
+4. ROAD FATALITIES ANALYSIS
+
+The section covers the data in relation to road fatalities. Fatalities are defined
+as when a person or persons that are killed during or immediately after a
+crash, or death within 30 days after a crash happed as a direct result on such
+crash. The section will encompass the number of fatalities and percentage
+distribution per road user, gender, race and per age.
+
+4.1 Number of fatalities per province
+
+Number of Fatalities per Province
+Year EC
+
+Table 3: comparisanio of fatalities per province for the two quarters of 2016 and 2017
+
+The table above shows a comparison of fatalities per province for the two
+quarters. A reduction in the number of fatalities is depicted from 3 904 in 2016
+to 3 781 in 2017. All the provinces except for Eastern Cape, Limpopo and
+Western Cape recorded a reduction with the highest reduction recorded for
+Free State by 23.81% followed by Northern Cape 9.45%.
+
+21
+
+--- Page 24 ---
+Pa.
+rol
+
+40.0%
+
+4.2 Number of Fatalities per Road User Group
+35.0% =
+
+=
+
+a
+
+Ps
+
+Drivers Passengers Pedestrians Cyclists
+2016 @2017
+
+30.0%
+25.0%
+
+=
+fy
+a
+
+20.0%
+15.0%
+10.0%
+
+5.0%
+
+0.0%
+Figure 10: Percentage distribution of fatalities per road user
+
+The percentage distribution of fatalities per road users group are reflected in
+the figure above. During the period under review pedestrians contributed 38%,
+followed by passengers with 34% and drivers with 27% to the total number of
+fatalities. All road user groups with exception of drivers and pedestrians,
+recorded a reduction compared to the previous year.
+
+90.0%
+
+80.0% A 75.0% 2016 = 2017
+70.0%
+
+60.0%
+
+50.0%
+
+0.0%
+
+30.0%
+21.5% 21.6%
+
+20.0%
+10.0% aad 3.5%
+0.0% a
+
+Male Female Unknown
+
+Figure 11: Percentage distribution of fatalities per gender
+
+22
+
+--- Page 25 ---
+Road@@fraffic
+Nitaerers ConpeEaS
+
+The figure above depicts trends for fatalities per gender for the two quarters.
+The trends shows that there was a decrease of 2.8% for males and 0.1%
+increase for females in comparison of the two quarters.
+
+20-070 80.7%
+
+omer 80.6% 2016 & 2017
+70.0%
+
+60.0%
+
+50.0%
+
+40.0%
+
+30.0%
+
+20.0%
+
+10.0% "erm 16% 6.4% 6.0% Sasa
+19%
+- ae ee
+
+White Asian Coloured Other Foreigner
+
+Figure 12: Percentage distribution of fatalities per race
+
+23
+
+--- Page 26 ---
+ee.
+Roaaifatte
+
+4.3 Road user group fatalities per age group
+
+The figures below provide information with regard to the fatalities per age and
+per road user type for the period October to December 2017. The information
+is categorised per road user group (Driver, Passenger, Pedestrian and Cyclists)
+
+20.0% =2016 ©2017
+
+15.0%
+
+10.0%
+
+- TT
+
+0.0% B id) a) 0
+
+Se Uia Cae eee tye es Su any el Ay Oe ap
+S
+
+a
+oP PSK PS SCE SS SK LM
+
+Figure 13: Percentage distribution of fatalities per age for drivers
+
+The figure above shows that the highest fatalities for drivers were recorded
+from age group 25 to 44 years. Age group between 25 to 34 years being the
+peak age groups with a contribution above 15%, followed by the age group
+between 35 to 39 years slightly below 15% and 40 to 44 slightly above 10%
+contribution.
+
+24
+
+--- Page 27 ---
+“6.0% =2017 =2016
+14.0%
+
+12.0%
+
+10.0%
+
+8.0%
+
+6.0%
+
+0.0% Shas.
+
+sas ” wy *, in PP PORK SS
+‘o "e a Ce & o ' &
+
+Figure 14: Percentage distribution of fatalities per age for passengers
+
+The figure above indicates that most fatalities for passengers were recorded
+between age 20 and 34 years, having the age group between 25 to 29 years
+being the age group contributing the highest with 15.9%. Followed by the age
+group between 30 to 34 years with a contribution of 15.8%.
+
+oF oot Fg ge
+os Bo 9 9 #2
+
+18.0%
+16.0%
+14.0%
+12.0%
+10.0%
+8.0%
+6.0%
+4.0%
+2.0%
+0.0%
+
+=2016 =2017
+
+Figure 15: Percentage distribution of fatalities per age for pedestrians
+
+25
+
+--- Page 28 ---
+a aii
+
+The figure above indicates that most fatalities for pedestrians were recorded
+between the ages 25 to 39 years. The age group between 30 and 34 being the
+highest with a contribution of 12.9%, followed by age group between 25 - 29
+and 35 to 39 with a contribution of 12.0% and 11.8%, respectively.
+
+20.0%
+
+oe =2016 =2017
+
+16.0%
+
+14.0%
+
+12.0%
+
+10.0%
+
+8.0%
+
+6.0%
+
+2.0%
+
+= | LULL
+SMode bela iepiaie en e ew
+© eee SF os os eS *e “
+
+Figure 16: Percentage distribution of fatalities per age for cyclists
+
+The figure above indicates that most fatalities for cyclists were recorded
+between ages 35 to 39 with 16% during 2017. The age groups 15 to 19 and 50
+to 55 years recorded the next highest percentage at 13% respectively.
+
+26
+
+--- Page 29 ---
+Roaatattic
+
+an
+
+5. MAJOR CRASHES
+
+This section provides for all the major crashes for the period under review.
+Major crashes are defined as Crashes where five (5) or more people died,
+Crashes where there are four (4) or more vehicles involved with a fatality,
+Dangerous Goods crashes with a fatality and any crash that the Corporation
+deems necessary to investigated.
+
+5.1 Number of major crashes
+
+120
+102
+100
+85 87
+80
+59 61
+
+60
+40 35
+
+16
+, aa
+
+Number of crashes Fatalities Injuries
+
+mOct =Nov =Dec
+
+Figure 17: Number of major crashes, fatalities and injuries
+
+A total number of thirty-nine (39) major crashes were reported and
+investigated for the period under review. Two-hundred and thirty-one (231)
+people were killed and one-hundred and ninety-eight (198) people sustained
+injuries because of these major crashes. The above figures indicate the
+monthly number of major crashes reported and fatalities sustained during the
+third quarter of the 2017 calendar year. During this quarter, December month
+had 16 major crashes investigated with eighty-four (84) fatalities followed by
+
+27
+
+--- Page 30 ---
+Management Coren
+
+October with thirteen (13) major crashes investigated with 85 fatalities.
+November month only had ten (10) major crashes investigated with 59
+fatalities.
+
+5.2. Major crashes per province
+
+N10 rota
+
+Figure 18: Crashes and fatalities per province
+
+28
+
+--- Page 31 ---
+5.3. Crash Types
+
+20 49%, 19
+18
+16
+14
+12
+10 21%,
+8
+A 13%, 5
+4 8%, 3
+2 3%,1 3%,1 3%,1 3%, 1 ||
+= = =
+se > s St ey S Ss
+& RS # ee es 5 & : - &
+s RS ¥ Rg eo Fo se° Ps
+& Ss e oo Sx
+Cr Syl SO aes?
+vs 1?) s
+
+Figure 19: Major crashes per crash types
+
+The above figure depicts the major crash types that occurred during the third
+quarter of the 2017 calendar year. Nineteen (19) of the thirty-nine (39) major
+crashes reported and investigated were head-on type crashes. Eight (8) of the
+major crashes reported and investigated during the third quarter of the 2017
+calendar year were single vehicle overturned.
+
+29
+
+--- Page 32 ---
+Masigement Conese
+
+5.4 Vehicle Involved in Major Crashes
+
+ec 2 o 1 ° ° 1 ° 1
+
+rs. [ a 1 oO ° 1 a 0 oO
+
+cp 4 o ° 2 ° o 0 °
+
+KZN Et 2 Fi 2 o 5 0 o
+
+ur 4 4 Fi 2 o 2 1 °
+| re 3 ° Fy ° 4 0 o [14 | 28.456
+
+NC 1 2 o oO o 1 o oO 4 5.3%
+
+NW 1 2 oO 2 Cy oO Cy oO lus 6.6%
+[we Ja 0 o 9 o 2 o o 3 3.9%
+{total [a2 [aa [Ts 9 a [as 8 t00.0%
+% of Tat | 40.8% | 18.4% [3.9% | 11.8% 13% [223% [13%] 13% [100.0%
+
+Table 4: Vehicles involved in major crashes
+
+The table above depicts the vehicle types involved in the major crashes
+reported and investigated during the third quarter of the 2017 calendar year. A
+total of seventy-six (76) vehicles were involved in the thirty- nine (39) major
+crashes investigated. The vehicle type mostly involved were Light Motor
+Vehicles (LMV’s- 33), followed by Trucks (16), Light Delivery Vehicles (LDV‘s-
+14) and Minibus Taxi’s (9).
+
+30
+
+--- Page 33 ---
+Corpo
+
+5.5 Contributory Factors
+
+Road and
+Environment, 3%
+
+= Human © Vehicle * Road and Environment
+
+Figure 20: Percentage distribution of the contributory
+
+The figure below provides information for all the contributory factors. About
+89.7% of the contributing factors to the major crashes that occurred during
+the third quarter of the 2017 calendar year were as a result of Driver/ Human
+Error. These crashes occurred as a direct result of drivers:
+
+e Turned in the face of oncoming traffic;
+
+¢ Intoxicated driver with liquor/drug usage;
+
+e Drove in oncoming traffic lane/ Drove in wrong lane;
+e Driver failed to keep a proper lookout;
+
+e Driver failed to keep vehicle under control;
+
+e Speed too high for circumstances;
+
+e Overtook in face of oncoming traffic; and
+
+© Overtook across barrier line.
+
+31
+
+--- Page 34 ---
+Roas ffic
+Management Gpersion
+
+About 7.7% of the contributing factors to the major crashes that occurred
+during the third quarter of the 2017/ 2018 financial year were attributed to
+Vehicle Error. These crashes occurred as a result of the following:
+
+e Tyres bursting prior to crash occurring;
+
+e Tyre thread separation prior to crash occurring
+
+32
+
+--- Page 35 ---
+SECTION B
+
+1. INTRODUCTION
+
+The section covers the vehicle population and human mobility data, as
+well as driver population. The vehicle population data will encompass the
+number of registered vehicles inclusive of the status of their
+roadworthiness and licencing, as well as human mobility in terms of the
+number of persons per vehicle. The driver population data covers the
+number of registered drivers including the status and categories of
+licences
+
+2. VEHICLE POPULATION
+
+2.1. Number of Registered Vehicles
+
+The number of registered vehicles increased by 240 878 (2.01%) from 11 964
+234 on 31 December 2016 to 12 205 112 vehicles on 31 December 2017.
+Detail per type of vehicle is given in table below.
+
+32
+
+--- Page 36 ---
+Number of Number Number % % of % of
+
+Registered Vehicles registered registered Change Change Group Total
+
+Dec 2016 Dec 2017 Dec 2017 Dec 2017
+
+6996 599 = 7 172 28: 175 684 251] 65.04
+308 15 318 284 10 13] . 7 2.89
+
+(Motorcycles
+|LDV's - Bakkies
+
+ca
+
+Table 5: Number of registered vehicles per type for 2016 and 2017
+
+The table above shows that on a percentage basis the biggest change was for
+minibuses and buses with an increase by 3.29% and 3.20% respectively. The
+number of registered minibuses increased from 308151 to 318 282 and
+followed by buses with increased from 61 435 to 63 400, respectively. The
+monthly percentage change over the past year for motorised vehicles are
+shown in the figure below.
+
+33
+
+--- Page 37 ---
+es
+Managemen Corpcation
+
+% Annual Growth in Vehicles
+Dec 2016 to Dec 2017
+
+24
+2.2
+aoe
+2 Motorised Vehicles
+18
+~—
+1.6 All Vehicles
+14 —
+1.2 Towed Vehicles
+1
+0.8
+
+Dec Feb Apr Jun Aug Oct Dec
+Jan Mch May Jut Sep Nov
+Month
+
+Figure 21: Percentage Annual Growth in Vehicles
+
+The total motor vehicle population per Province for December 2016 and
+December 2017 respectively, is given in table and reflected in the figure below.
+
+Number of Number Number % % of
+
+Registered Vehicles registered registered Change Change Total
+
+per Province Dec 2016 Dec 2017 Dec 2017
+
+617 90!
+
+Table 6: Number of registered vehicles per province
+
+34
+
+--- Page 38 ---
+Roi 9.
+
+The number of registered vehicles per province show the highest increase
+recorded for Limpopo with an increase of 3.07% from 672 438 in 2016 to 693
+
+109 followed closely by Western Cape, with an increase of 2.79% from
+1 923 765 to 1 977 518.
+
+% Annual Growth in Vehicle Population
+Dec 2016 to Dec 2017
+
+GA KZ WC EC FS MP NW LI NC RSA
+
+Figure 22: Percentage Annual Growth in Vehicle Population
+
+% Annual Growth in Vehicle Population
+
+wo EC FS MP NW LI NC RSA
+[2 Dec 2014-2015 I) Dec 2015-2016 © Dec 2016-2017
+
+Figure 23: Percentage Annual Growth in Vehicle Population
+
+35
+
+--- Page 39 ---
+1B
+Magee
+
+lt
+Over the past year from December 2016 to December 2017 the highest
+
+percentage growth in total vehicles was recorded in Limpopo with a growth of
+3.07% followed by Western Cape with a growth of 2.79%.
+
+The percentage vehicles registered per province as on 31 December 2017 is
+reflected in the figure below.
+
+Northern Cape (2.27%)}-
+Limpopo (5.68%)
+North West (5.06%)
+
+Mpumalanga (7.18%)
+
+Gauteng (38.50%)
+Free State (5.14%)
+
+Eastern Cape (6.65%!
+
+Western) Capel(16.20°4 waZulu-Natal (13.33%)
+
+Figure 24: Percentage Vehicles Registered per Province
+
+The information in the figure above shows that 38.50% of all vehicles were
+registered in Gauteng; 16.20% in Western Cape and 13.33% in Kwa-Zulu
+Natal.
+
+More detailed information on the number of vehicles per type registered per
+Province for December 2016 and December 2017 is given in the table under
+Appendix A.
+
+36
+
+--- Page 40 ---
+Manageme
+
+5.1.2 Human Population and Mobility
+The estimated human population for each year from 2014 to 2017 is given in
+
+table below. (These figures are estimates from the mid-year estimates
+released annually by Stats SA).
+
+Province
+
+Table 7: Estimated mid-month human population per province - million
+
+Based on the information on human and vehicle populations, the average
+
+number of persons per vehicle per Province (excluding trucks, towed vehicles
+and “other” and “unknown” vehicles) at the end of December 2014, 2015,
+2016 and 2017 is shown in the table and reflected in the figure below.
+
+Dec 2014
+
+Dec 2015
+
+Dec 2016
+
+Dec 2017
+
+Table 8: Average number of persons per vehicle (excluding trucks, other, unknown
+and towed vehicles)
+
+37
+
+--- Page 41 ---
+Management Capen,
+
+Av. No. of Persons per Vehicle
+(exluding trucks, other and trailers)
+
+wo EC FS MP NW LI NC RSA
+
+Dec 2014 [Dec 2015 []Dec 2016 Dec 2017
+
+Figure 25: Average number of persons per vehicle (excluding trucks, other and
+
+trailer)
+
+The percentage annual change or improvement in human mobility per province
+
+is reflected in table below.
+
+Province
+
+Table 9: Percentage improvement in mobility per province
+
+38
+
+--- Page 42 ---
+Pa.
+Management
+
+Corpora,
+
+‘% Improvement in Mobility of Persons
+
+ral
+—aF
+rl
+——s
+
+[Dec 2014-2015 Dec 2015-2016 [I Dec 2016-2017
+
+Figure 26: Percentage improvement in mobility of persons
+
+The information in tables and figures above shows that on a national basis the
+general overall mobility in terms of the number of persons per road vehicle
+(vehicles that can reasonably transport passengers - motorcars, minibuses,
+buses, motorcycles and LDV’s “bakkies”), improved by 0.07% from a national
+average of 5.65 persons per vehicle at the end of December 2014 to 5.58
+persons per vehicle at the end of December 2015. From the end of December
+2016 to December 2017 the improvement shows a decrease of 0.13%, from
+5.56 to 5.43 persons per vehicle.
+
+Although they do show some improvement, the “least mobile” Provinces
+remain Eastern Cape with 10.19 persons per vehicle; followed by the Limpopo
+with 9.92 persons per vehicle at the end of December 2017. The “most mobile”
+Provinces are Kwa-Zulu Natal and the North West with an average of 7.85 and
+7.56 persons per vehicle respectively at the end of December 2017.
+
+39
+
+--- Page 43 ---
+Pa.
+anaes Caeesen
+
+ES
+
+The average number of persons per “heavy” road passenger transport vehicle
+(buses and minibuses) is shown in table below and reflected in the figure
+below.
+
+Month GA
+
+Dec 2016
+
+Dec 2017
+
+Table 10: Average number of persons per "heavy" passenger transport
+
+vehicle (buses and minibuses)
+
+Av. No. of Persons per "Heavy" Vehicle
+(buses and minibuses)
+
+300
+250
+
+[dec 2014 i Dec 2015 [J Dec 2016 fy Dec 2017
+
+Figure 27: Average number of persons per " heavy vehicles" (buses and minibuses)
+
+The percentage annual change or improvement in the number of persons per
+“heavy” passenger road transport vehicle per province is reflected in the table
+below.
+
+40
+
+--- Page 44 ---
+Conpeeaien
+
+Province
+
+Dec 2014-2015
+
+Dec 2015-2016 | 1.36 | 2.99 | 4.01 | 3.16] 1.87 | 2.06
+
+['bee.2018:2037 2.46 | 3.89 | 4.37 REY 3.96
+
+Table 11: Percentage improvement in average number of persons per
+
+“ heavy” passenger transport vehicles (buses and minibuses)
+
+The information in tables and figure above show that, since the previous year-
+on-year improvement, the national overall mobility and quality of public road
+transport in terms of the number of persons per “heavy” passenger road
+transport vehicle from December 2016 to December 2017 increased by 3.22%
+from 153 persons per vehicle to 148 persons per vehicle.
+
+On a Provincial percentage basis the highest improvement was in the Northern
+Cape where the average number of persons per vehicle changed by 4.74%
+from about 183 persons per vehicle in December 2016 to 175 persons per
+vehicle at the end of December 2017. In Western Cape the improvement was
+4.37% from 155 to 149.
+
+The average number of “heavy” road passenger transport vehicle (buses and
+minibuses) per 10,000 human population per Province is shown in the table
+below and reflected in the figure below.
+
+41
+
+--- Page 45 ---
+Dec 2014
+
+Dec 2015
+
+Dec 2016
+
+Table 12: Average number of public transport vehicles (buses and minibuses) per
+
+10,000 human population
+
+No. of Buses & Minibuses / 10,000 Pop
+
+[i dec 2014 J Dec 2015
+
+]Dec 2016 [i Dec 2017
+
+Figure 28: Number of buses and minibuses / 10,000 human population
+
+5.2. Un-Roadworthy and Un-Licenced Vehicles
+
+5.2.1 General
+
+Un-roadworthy vehicles is defined as those of which the owners failed to
+submit the vehicles for compulsory annual roadworthy tests (including buses,
+minibus taxis and freight transport vehicles) or on change of ownership. Un-
+
+42
+
+--- Page 46 ---
+es
+
+licenced vehicles are those of which the owners failed to renew the vehicle
+licences within the time frame allowed.
+
+On a national basis the total number of vehicles that are either un-roadworthy,
+un-licenced or both increased by 29 174 (2.82%) from 1 035 449 vehicles as
+on 31 December 2016 to 1 064 623 vehicles as on 31 December 2017. Detail
+in this regard per type of vehicle is provided in the table below and the
+percentage (%) change from 2016 to 2017 reflected in the figure below.
+
+Dec 2016 Dec 2017 Change % Change
+
+-17 862) 722.36]
+
+963 15.86
+-9 636 -28.66|
+22 613) 57.62|
+
+2 339
+
+Table 13: Number of un-roadworthy, un-licenced vehicles or both
+
+With an exception of buses, trucks and heavy trailers, increases were recorded
+for most types of vehicles in this regard. The biggest increase was recorded for
+light trailers with 57.62% followed minibuses with 17.64%.
+
+43
+
+--- Page 47 ---
+not
+
+i
+
+Detail on the number of vehicles that are either un-roadworthy, un-licenced or
+both per Province is provided in the table below and the percentage (%)
+change from 2016 to 2017 reflected in the figure below.
+
+Dec 2016
+
+Dec 2017
+
+Change
+
+Table 14: Number of vehicles that are un-roadworthy or un-licenced or both
+
+The information in tables and figures above shows that most provinces
+recorded an increase in this regard with the exception of Gauteng. The highest
+percentage change increase has been recorded for Northern Cape with 54.99%
+followed by Limpopo with 52.34%.
+
+% Change in Number of Vehicles
+Un-Roadworthy OR Un-Licenced OR Both
+
+s8sses
+
+10
+
+-10
+=20
+
+GA KZN WC Ec FS MP NW uu NC RSA
+
+Figure 29: Percentage change in number of vehicles un-roadworthy or un-licensed or
+both
+
+On a provincial level the highest percentage (%) change was recorded for
+Gauteng province followed by North West with 3.67% and 3.12% respectively.
+
+44
+
+--- Page 48 ---
+A a
+Nisamers coer
+
+5.2.2 Number of Un-Roadworthy Vehicles
+
+The number of vehicles that are un-roadworthy (but licenced) increased by
+
+8 966 (1.66%) from 539 854 vehicles as on 31 December 2016 to 548 820
+vehicles as on 31 December 2017. Detail in this regard is given in the table
+
+below and the percentage of un-roadworthy vehicles per type of vehicle, as a
+
+percentage of the number registered, is reflected in the figure below.
+
+Dec 2016 Dec 2017 Change % Change
+
+266 143 8 835)
+
+ILDV's - Bakkies 87 571)
+
+ae) =?
+
+aravans
+
+Table 15; Number oF un-roadworthy vehicles
+
+45
+
+--- Page 49 ---
+% of Un-Roadworthy Vehicles
+
+All Vehicles
+Unknown
+
+Light Trailers
+Heavy Trailers
+Caravans
+Other Motorised
+Trucks
+
+LDV's - Bakkies
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+Figure 30: Percentage of un-roadworthy vehicles
+
+The information in the table and figure above shows that with exception of
+motorcycles, LDV’s and heavy trailers, ail other vehicle types recorded an
+increase in this regard. The highest increase for un-roadworthy vehicles was
+recorded for buses with an increase of 506 (7.68%) from 6 591 at the end of
+December 2016 to 7 097 at the end of December 2017.
+
+Details with regards to the number of vehicles that are un-roadworthy per
+Province are provided in the table below and the percentage (%) change from
+2016 to 2017 reflected in the figure below.
+
+Year GA NC
+
+Dec 2017 | 240 086 70 213) 30 636
+—t
+
+4.909 38
+
+Table 16: Number of un-roadworthy vehicles
+
+46
+
+--- Page 50 ---
+A 2
+Seen Coe
+
+% Change in Number of Vehicles:
+that are Un-Roadworthy per Province
+
+2
+GA KZN WC EC FS MP NW LI NC RSA
+
+Figure 31: Percentage change in number of vehicles that are un-roadworthy per
+province
+
+The information in the table and figure above shows that with exception of
+
+Kwa-Zulu Natal, Mpumalanga and Limpopo, all other provinces recorded
+increase in the number of un-roadworthy vehicles. On a percentage basis the
+highest increase was recorded in Western Cape where the number of un-
+roadworthy vehicles increased by 4 909 (7.52%) from 65 304 in 2016 to 70
+213 at the end of December 2017. Other increase in this regard were recorded
+in: Northern Cape with an increase of 7.29%.
+
+The percentage of un-roadworthy vehicles per Province, expressed as a
+percentage of the total number of vehicles registered per province, is shown in
+the figure below.
+
+47
+
+--- Page 51 ---
+Ba.
+tegen Conese
+
+‘% of Un-Roadworthy Vehicles
+
+MP NW
+
+[ec 2016 dec 2017
+
+Figure 32: Percentage of un-roadworthy vehicles
+
+5.2.3 Number of Un-Licenced Vehicles
+
+On a national basis the number of un-licenced vehicles increased by 147 149
+(47.20%) from 311 789 vehicles as on 31 December 2016 to 458 938 vehicles
+as on 31 December 2017.
+
+Detail per type of vehicle in this regard is given in the table below and the
+percentage of un-licenced vehicles per type of vehicle, as a percentage of the
+number registered, is reflected in the figure below.
+
+48
+
+--- Page 52 ---
+Dec 2016 Dec 2017 Change % Change
+(Motorcars 188 275 273 732 85 45. 45.39
+|Minibuses _ 6 494) 14 839) 8345 128.50
+Buses 163: 1 467] -174 -10.4
+Motorcycles 13 087] 23 647 10 560 80.69]
+LDV's - Bakkies 54914) 84 397 29 483
+
+frucks | 18 095 10 852) -7 243 -40.03}
+Karavans| 1a 301d 1 368] 83.2
+[Heavy Trailers 7 861 3 368] -4 493) 57st
+Light Trailers | 13309  34911| 21 602
+
+jUnknown COT 6 471 8713] 2 242)
+
+Table 17: Number of un-licenced vehicles
+
+% of Un-Licenced Vehicles
+
+All Vehicles
+Unknown
+
+Light Trailers
+Heavy Trailers
+Caravans
+Other Motorised
+Trucks
+
+LDV's - Bakkies
+Motorcycles
+Buses
+Minibuses
+Motorcars
+
+fe 2017
+Rone
+
+Figure 33: Percentage of un-licenced vehicles
+
+e..
+Manageme
+
+Corea
+
+49
+
+--- Page 53 ---
+a ms
+Management Capeeait
+
+The information in the table and figure above shows that with exception of
+motorcars, buses, motorcycles and unknown, all other vehicle types recorded
+an increase with regard to the number of un-licenced vehicles. On a
+percentage basis the highest increase was recorded for heavy trailer with
+162.31% from 13 309 to 34 911, followed by minibuses with 129%.
+
+Detail on the number of vehicles that are un-licenced per Province is provided
+in the table below and the percentage (%) change from 2016 to 2017 reflected
+
+in the figure below.
+
+Year RSA
+
+Dec 2016
+
+Dec 2017
+
+165 754 35 056
+
+184 767, 57141) 5790)
+
+| Change 19013) 22085} 15869] 17 ana 31
+
+11.47} 63.00) 37.75 101 120.9:
+
+| % Change
+
+Table 18: Number of un-licenced vehicles
+
+% Change In Number of Vehicles
+that are Un-Licenced per Province
+
+Figure 34: Percentage change in number of vehicle that are un-licensed per province
+
+50
+
+--- Page 54 ---
+a
+Management Conpocaien
+
+The information in the table and figure above shows that the highest increase
+in the number of un-licenced vehicles were recorded in Northern Cape with
+240.43%, followed by Limpopo with 221.22%).
+
+The percentage of un-licenced vehicles per type of vehicle, as a percentage of
+the number registered per Province, is reflected in the figure below.
+
+‘% of Un-Licenced Vehicles
+
+GA KZN WC EC FS MP NW LI NC RSA
+
+[E}bec 2016 ff Dec 2017
+
+Figure 35: Percentage of un-licensed vehicles
+
+Detailed information on the number of un-roadworthy and un-licenced vehicles
+per type of vehicle per Province is provided in the tables under Appendix B.
+
+Si
+
+--- Page 55 ---
+aff
+
+a
+
+6 Driver Population
+6.1 Learner Driving Licences
+
+The number of learner driving licences issued decreased by 48 557 (3.85%)
+from 1262 261 on 31 December 2016 to 1 213 704 on 31 December 2017.
+Detail on the number of learner driving licences issued per category is given in
+table below and graphically reflected in the figure below.
+
+Category Dec 2016 Dec 2017 Change % Change
+
+273 449 252 568 -20 “ot
+
+Table 19: eile of learner licences wg —
+
+No. of Learner Driving Licences Issued
+4000000
+
+Catt Cat2
+
+[dec 2016 J Dec 2017
+
+Figure 36: Number of learner licenses issues
+
+52
+
+--- Page 56 ---
+mJ
+
+a ffic
+Roomieatas
+Provincial information in this regard is given in the table below and the
+
+percentage change per Province over the 12-month period is reflected in the
+figure below.
+
+Table 20: Number of learners licences issued per province
+
+With exception of Limpopo and Northern Cape, other provinces recorded a
+decrease with regards to the number of Learner Licences issued. The highest
+decrease was recorded for North West with 10.70% followed by Mpumalanga
+with 5.50%.
+
+'% Change in Learner Licences Issued
+
+Figure 37: Percentage change in learner licenses issued per province
+
+53
+
+--- Page 57 ---
+Pa.
+
+Management Competes
+
+6.2 Driving Licences Issued and Expired
+6.2.1 Number of Driving Licences Issued
+
+The number of driving licences issued increased by 495 322 (4.07%) from
+12 162 813 on 31 December 2016 to 12 658 135 as of 31 December 2017.
+Details on the number of driving licences issued per category is given in table
+and graphically reflected in the figure below.
+
+Category Dec 2016 Dec 2017 Change % Change
+
+481 271
+
+123 334)
+
+2 846 573
+
+Table 21: Number of driving licences issued
+
+Driving licences:
+
+Motorcycle > 125 re Motorcycle < 125 5 Motor vehicle < 3,5000
+cub.cm cub.cm kg
+Motorvehicle a Motor vehicle 3,500 eB Articulated motor
+16,000 kg - 16,000 kg vehicle <16,000 kg
+Articulated vehicle Articulated vehicle
+Ec Ec1
+> 16,000 kg 3,500 - 16,000 kg
+
+54
+
+--- Page 58 ---
+Re fic
+
+Management Careeaue
+
+No. of Driving Licences Issued
+
+GiDec 2016 Dec 2017
+
+Figure 38: Number of driving licenses issued
+
+The information contained in the table above depict that the highest
+percentage change was recorded for Categories Ci, B, C and EC with
+percentages of 9.28%, 4.42%, 3.51% and 3.41% respectively.
+
+The number and percentage (%) of driving licences issued per category at the
+end of December 2017 is reflected in the table below.
+
+Category Description
+
+Motorcycle < 125 cub.cm 481 271)
+
+Motorcycle > 125 cub.cm 123 333
+
+Motor vehicle < 3,5000 kg 2 846 573)
+
+Articulated motor vehicle <16,000 kg
+
+Motor vehicle 3,500 - 16,000 kg 3 880 157)
+
+Articulated vehicle 3,500 - 16,000 kg 3 653 260)
+
+Motorvehicle > 16,000 kg 1 058 30
+
+Articulated vehicle > 16,000 kg 592 354)
+
+a26se 135)
+
+Table 22: Number and percentage of driving licences issued per category
+
+55
+
+--- Page 59 ---
+Ro: ffic
+iMinagemera Crete
+
+Provincial information in this regard is given in the table below and the
+
+percentage change with regard to all licences issued per province is reflected in
+the figure below.
+
+Year
+
+GA KZ wc EC FS MP
+=a 279 141]1 933 851|1 872 170 |887 233 |614 850 |865 713 [576 234 [904969 |228 652 p2se28e2 |
+
+Dec 2017 4 448 774/2 016 231/1 929 967 [922 543 [632311 [914952 599180 [958395 |235 782 [12 658 135
+Change 169 633 {8 4
+
+Table 23: Number of di g licences issued per province
+
+% Change in Driving Licences Issued
+
+Figure 39: Percentage change in driving licenses issued
+
+6.3. Number of Driving Licence Cards Expired
+
+The information in Table 8 below shows that as on 31 December 2017 there
+were 2 314 157 expired driving licence cards recorded on the National Traffic
+Information System (NaTIS). This figure represents 18.28% of all driving
+licences issued. This information is also reflected in the figure below.
+
+56
+
+--- Page 60 ---
+Roa
+Never Carpets
+
+Category GA K:
+
+MP NC
+
+Z WC Ec FS
+Se 016 231] 1 929 96 Dees 632 311 914 952] 599 180 235 78: qt oe 2
+] 771 584
+
+INot expired |3 646 7431 623 459 1 597 021) 699 961] 498 34:
+
+Expired
+
+% Expired
+
+Table 24: Number of driving licences cards issued and expired per province 2017
+
+% Expired Driving Licence Cards
+
+PET
+BEER EEE
+
+Figure 40; Percentage expired driving license cards
+
+6.3.1 Professional Driving Permits Issued and Expired
+
+6.3.1.1 Number of Professional Driving Permits Issued
+
+The number of Professional Driving Permits (PrDP’s) issued increased by 25
+210 (2.38%) from 1060 874 on 31 December 2016 to 1086084 on 31
+December 2017. Detail on the number of PrDPs issued per category is given in
+table below and graphically reflected in the figure below.
+
+57
+
+--- Page 61 ---
+Category Dec 2016 Dec2017 Change % Change
+
+Table 25: Number of PrDP's issued
+
+Professional Driving Permits (PrDPs)
+G: Goods
+
+P; Passengers
+
+D: Dangerous goods
+
+No. of PrDPs Issued
+1200000
+
+PG DG
+[Eidec 2016 Dec 2017
+
+Figure 41: Number of PrDP's issued
+
+Provincial information in this regard is given in the table below and the
+percentage change with regard to all categories of PrDP’s issued per Province
+is reflected in the figure below.
+
+58
+
+--- Page 62 ---
+1.
+Neaenen
+
+comprar
+
+Number of Professional Driving Permits (PrDP's) Issued per Province
+
+MP
+
+RSA
+
+LI NC
+102 051 [54 105
+66 847/103 878 [53 877
+1
+
+Table 26: Number of professional driving permits (PrDP's) issued per province
+
+% Change In PrDPs Issued
+
+Figure 42: Percentage in PrDP's issued
+
+59
+
+--- Page 63 ---
+a.
+Mentgement Capac
+
+6.3.2 Number of Expired PrDPs
+
+The information in Table 11 below shows that on 31 December 2017 there 478
+919 expired Professional Driving Permits (PrDPs) recorded on the National
+Traffic Information System (NaTIS). This figure represents 44.10% of all PrDPs
+issued. This information is also reflected in the figure below.
+
+Category GA
+
+24 906
+
+37.26
+
+Table 27: Number of professional driving permits (PrDP's) issued and expired per
+province 2017
+
+% Expired Professional Driving Permits
+
+Figure 43: Percentage expired professional driving permits
+
+Provinces recorded the highest increase of expired PrDPs were recorded in
+Gauteng and North West with 47.57% respectively.
+
+60
+
+
+--- Page 64 ---
+Bae
+Steel Con
+
+by
+
+Detailed information on the number of learner licences, driving licences and
+PrDPs per Province is provided in the tables under Appendix C.
+
+61
+
+--- Page 65 ---
+SECTION C
+
+2
+taupe Crees
+
+1 INTRODUCTION
+
+The report covered Road Safety activities under taken during the
+
+implementation of the quarter 3 performance plan. Activities were
+
+implemented by the Provincial Departments, Local Municipalities as well
+
+as Transport entities namely: RTIA, RAF and Cross Boarder. Road Safety
+
+activities conducted include amongst others the following:
+
+Pedestrians awareness
+
+Driver safety Programme
+
+Stray animal Programme
+
+Safe vehicles program
+
+School education safety Programme
+Community base Road Safety Programme
+
+Youth programme
+
+This section also covers the Law Enforcement operation undertaken
+
+during the period under review. The information is collated from all the
+
+provinces.
+
+62
+
+--- Page 66 ---
+1
+Nigemen comer
+
+ROAD SAFETY
+
+2.1 Youth programme developed, implemented, monitored
+
+The youth programme for this quarter focused on young drivers. The
+Youth for Road Safety members together with the Provincial Road Safety
+Officials conducted driver education sessions with their peers in the
+following provinces:
+
+% Eastern Cape
+Western Cape
+Northern Cape
+Free State
+North West
+Limpopo
+
+eee EE
+
+Mpumalanga
+
+The presentations focused on the following topics as highlighted in the
+concept document:
+
+Generic road safety information including statistical background
+Alcohol impairment for both drivers and pedestrians
+
+Vehicle fitness particularly tyres.
+
++
+
+a
+
++ Vehicle occupant safety with regard to wearing of seatbelts
+
++
+
++ Distracted driving, in particular using a hand held device such as
+a
+
+cell phone either on voice or texting whilst driving.
+RTMC’s role was to monitor and to make sure that the logistics for the
+
+workshops such as a data projector and laptop computer and venue are
+in place and the Youth members travel and accommodation are in place.
+
+63
+
+--- Page 67 ---
+Pa
+tengo orpeneoon
+
+2.2 Road safety educational programmes implemented with
+interest groups
+
+The focus for the reporting period was on Road Safety in the Freight
+Industry. Three road safety awareness activities were conducted in Mdloti
+Weigh Bridge, KwaZulu-Natal; Kimberley Weigh Bridge, Northern Cape
+and Bapong weigh Bridge in North West.
+
+FleetWatch conducted an awareness session for the officers in Bapong on
+the truck Tractor and semi-trailer cables of the articulated truck braking
+system as well as tyres.
+
+2.3. Community based programmes developed, coordinated and
+monitored
+
+1 x Monitoring report on the implementation of the community based
+programme in the following provinces:
+
++ Limpopo
+Ea Eastern Cape
+
+2.4 Below it’s a summary of Road Safety activities conducted
+during festive:
+
+& Road Safety awareness campaigned were conducted in various
+communities within the identified hazardous location.
+
+= Heighten Road Safety Campaigned special focuses on Pedestrian,
+Passengers as well driver Safety
+
+64
+
+--- Page 68 ---
+™& The key Road Safety messaging were on Drunken driving, use of
+cell or texting while driving, Fatigue Speeding, Overloading Safety
+Belts as well
+
+= The Educational campaigns were conducted at the below places of
+areas in different Provinces (R101 and N12 Informal settlement in
+Gauteng, Bele-bela in Limpopo, Taung Circle in North West ,
+Mpumalanga, Half Price Tavern at R41and N2
+
+65
+
+--- Page 69 ---
+b
+
+LAW ENFORCEMENT
+
+The 365 Road Safety Plan prescribes targets for stop and check as well
+as drunken driving arrests per province. It is through this report the
+unit can measure performance of provinces against the set targets as
+well as be able to evaluate impact and possible intervention seeking
+areas. It also assists in identifying areas of best practices which can be
+followed up for possible roll-out to other provinces and authorities. The
+target set for the for traffic law enforcement authorities to stop and
+check vehicles for roadworthy status is 1 100 000 per month and has
+been divided amongst provinces following the vehicle population as well
+as number of authorities per province.
+
+1000000 + 3 8.
+
+900000 + Sy
+
+Ec FS GP LIM KZN MP NC NTP ONW- RTT WC
+
+=2016 "2017
+
+Figure 44: Vehicles stopped and checked
+
+As result of all vehicles which were stopped and checked
+roadworthiness, it is evident that road users do not comply with the
+National Road Traffic Act, Act 93 of 1996 as the total of 506 405 and 912
+
+66
+
+--- Page 70 ---
+2
+Management Careraion
+
+985 traffic notices were issued in the same period during 2016 and
+2017. A figure below provides a breakdown of the highest offences
+reported.
+
+140000 —
+Nn
+120000 } —
+100000
+80000 + —4
+60000 + Ri 9
+8 a8
+40000 +- a ~ 1
+x, nn
+20000 +
+° +
+Speed Driving without Driving without Unllsenced ‘Wor tyres
+fasting seat belt licences vehicles
+
+2016/17 ™ 2017/18
+
+Figure 45: Highest offences reported
+
+3.1 Law Enforcement Arrests
+
+Drunk and driving is one of the biggest threads to Road Safety in the
+country since it slows reaction time and distorts the driver’s vision. This
+offence has implications where one could lose life, be prosecuted, vehicle
+damage, or imprisonment depending on alcohol levels found in the blood
+when tested by law enforcement officers. In order to reduce high rate of
+drunk and driving, law enforcement agencies took responsibility to
+conduct operations, targeting areas and events where most alcohol is
+consumed, as well as routes used by motorist when travelling to various
+destinations. In terms of statistics, Gauteng was the leading Province in
+terms of drunken driving arrests while Free State has reported to have
+made more arrests on speed. Due to increased number of public
+
+67
+
+--- Page 71 ---
+3
+
+Challenges
+
+More crashes occurred
+as from Friday to
+| Sunday
+
+RECOMMENDATIONS
+
+Recommendations
+
+Road Safety unit to increase
+
+awareness campaigns
+targeting driver and
+| pedestrians.
+
+..
+Management Corposion
+
+Responsible
+
+unit
+
+Road Safety
+
+More crashes do
+occurred as from 14:00
+| to 23:00
+
+Road Safety unit heighten
+
+awareness campaigns
+
+' and pedestrians.
+
+targeting driver, passengers
+
+Road Safety
+
+Crashes involving
+| Motorcars and LDV’s
+
+|Road Safety to conduct
+
+workshops on vehicles
+| safety education as well as
+
+safe road usage.
+
+w—
+Road Safety
+
+Most contributory
+
+factors are as follows:
+|
+
+% Jay-walking
+
+for
+circumstances
++ Hit and run
+% Tyre burst
+
+« Speed too high |
+
+Road Safety unit to conduct
+| awareness campaign
+
+focusing on _ pedestrian
+safety, driver fitness as well
+
+as vehicle safety
+
+|Research to be conducted
+
+to understand the root
+
+cause.
+|
+
+Road Safety
+
+69
+
+--- Page 72 ---
+Challenges
+
+Pedestrians and
+passenger fatalities
+
+makes a contribution of |
+
+more than 30%
+| respectively.
+
+Recommendations
+
+Interventions
+pedestrians:
+
+- Road Safety unit to
+implementation
+intervention targeting areas
+
+with pedestrians’ fatalities.
+
+develop and monitor the!
+of |
+
+Responsible
+
+unit
+
+Road Safety
+
+Drunken driving and
+
+Courts to apply uniformity
+
+Law Enforcement |
+
+enforcers
+
+courts
+
+excessive speed are the | approach when _ dealing
+main challenges in the | with reckless and |
+country negligence offences
+Road users Department of Justice to | Law Enforcement
+disrespecting laws and |be engaged to provide
+ultimately cause harm | convictions for all road |
+to the lives of | traffic cases enrolled in
+
+70
+
+--- Page 73 ---
+Roa:
+Seger
+
+Reviewed and Supported by
+
+Mr Gilberto Martins
+coo
+pate} 23 ]o1 20/9
+
+Recommended by
+
+Z)oileecu...
+Date
+Approved by
+ee Won SHOU 2o1€
+vu CD (SA) Date
+
+Chairman of the Board
+
+fic
+Cope,
+
+71
+
+--- Page 74 ---
+APPENDIX A
+
+c FS P NW i
+1217 622 438 88: (306 671] g 820 660
+; SCE OU a | Gear
+[DV's-Bakkles [789777 345 149 q 4 12760i[ 208584 147 52. 217 959 76 685
+junta aed 45 380 18 78) 39078 303: ed 18419 10 144 270 9.
+
+\ i
+Hit $5.03 7 mat 24 cod
+[ERG a,
+jet 209
+a,
+
+iVen's pee
+
+sioq Sood 7004
+i
+
+i Ect
+
+aoa 22254 21.854
+40769 (17 798 37 824
+|_740 794)
+
+536 09:
+fowed Veh's
+
+otorcycies
+DV's - Bakkies
+
+72
+
+--- Page 75 ---
+APPENDIX B-1
+
+ieavy Tralers
+
+ght Trailers
+
+Motorised Vehicles.
+
+OVS - Bakkies
+
+hang
+
+Motorised Vehicles
+
+73
+
+--- Page 76 ---
+APPENDIX B-2
+
+CS EG
+
+[ae
+wi] su B15] Fon ry
+a { ___—wasa
+
+143.8
+
+EAE MCE: BES:
+EL SE EF
+i CE
+
+74
+
+--- Page 77 ---
+Roi
+Mmugered Conpeenins
+
+APPENDIX B-3
+
+Number of Both Un-Roadworthy & Un-Licenced Vehicles
+ae FS MP. NW
+Motorised Vehicles
+
+[108 5415 0z|__“t7 sr Sed rf 7 eg
+
+Motorised Vehicles
+finbuses |r tg — 5k —T88 —e 1017 oa en ae
+Buses rer] 524 saad 2074 00__-aa7il 2064 aa] 633.3] Sa.
+a | 13.2) 129-3534
+fase | et — nel Seat ra sid —
+| 166. 7.
+
+08
+ohare = [ng 23 mee sia 5 : [9414 48.00
+
+75
+
+--- Page 78 ---
+Magen Corpeaton
+
+APPENDIX C-1
+
+Dec 2016 Number of Learners Licences Issued per Province
+Category GA KZ Wc EC FS
+
+38581) 85077
+
+273 16.
+
+Dec 2017
+
+Category
+
+54171) 106 225)
+
+a Change Number of Learners Licences Issued per Province
+
+Category LI
+
+Learner Licences :
+
+Category 1 : Motorcycle
+Category 2 : Light Motor Vehicle
+Category 3 : Heavy Motor Vehicle
+
+76
+
+--- Page 79 ---
+APPENDIX C-2
+
+f Driving Licences Is
+
+Ps ES RL
+LL
+I MM
+aL
+{meni
+a
+
+1211 390
+
+As
+
+RL
+As As A
+WL Es NE
+
+FS ai 5
+al gi ala
+
+iF 3
+
+8] 8) =| a]
+E &] 3] 9} x] o| o
+| §| 3] 8] 8] 3} 2) 3
+
+3
+3
+rs
+Ey
+
+Tit
+: Bed 7
+
+Category
+
+5 LL
+=
+
+or
+iam 22
+[ieneis2es
+
+Driving Licences:
+
+a Motorcycle > 125 cub.cm | AX | Motorcycle < 125 cuban Ly Motor vehicle < 3,5000 kg
+
+c Motorvehicie > 16,000 kg | €4 | Motor vehicle 3,500 - 16,000k9 | EB Articulated motor vehide <16,000 kg
+
+EC | Articulated vehicie > 16,000kg | ECi | Articulated vehicle 3,500 ~ 16,000 kg
+
+77
+
+--- Page 80 ---
+Management Corporates
+
+Dec 2016
+
+GA VC
+ary ao a9
+
+Number of P:
+
+DPG
+Total
+
+hange
+
+Category
+
+Professional Driving Permits (PrDPs)
+G : Goods
+
+P : Passengers
+
+D : Dangerous goods
+
+78
+
+--- Page 81 ---
+2.
+Rosati
+
+Roa affic
+
+Management Corporation
+
+Road Traffic Management Corporation
+Eco Origin Office Park, Block F
+349 Witch-Hazel Street
+Highveld Ext 79
+Tell: 012 999 5200
+
+Want to know more about the RTMC - visit www.rtmc.co.za
+
+79
+
+--- Page 82 ---
+22..
+
+Manageened Corpse
+
+into the province arresting more road users for driving without permits. A
+
+figure below provides breakdown of arrests per province per arrests.
+
+Drunken Drivin 206 | 172 | 20 | }aoz jf 200 | aor | 6 | asi | is |
+| SSCs 2017 Seep | 8 107 21] eo]
+
+False Documentation:
+
+2017
+Other Arrests:
+
+2017
+Total arrests:
+
+2017
+
+BlBJe lel lolo
+
+isd
+BB
+
+Table 28: Law Enforcement arrests
+
+68
+
